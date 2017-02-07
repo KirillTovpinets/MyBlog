@@ -1,0 +1,855 @@
+/* Dental */
+body.css-dental,
+.css-dental p,
+.css-dental h1,
+.css-dental h2,
+.css-dental h3,
+.css-dental h4,
+.css-dental h5,
+.css-dental h6,
+.css-dental .featured-content h1.small,
+.css-dental .form-group > label,
+.css-dental .checkbox > label,
+.css-dental .alert > p,
+.css-dental .block-content-wrapper h2,
+.css-dental .intro-text h1, .intro-text h2,
+.css-dental .intro-text h3, .intro-text h4,
+.css-dental .intro-text h5, .intro-text h6,
+.css-dental .restaurant-info-img-content h4,
+.css-dental .contact-title h3 {
+  font-family: "Droid Sans", sans-serif;
+}
+
+.css-dental h1, .css-dental h2, .css-dental h3, .css-dental h4, .css-dental h5, .css-dental h6 {
+  font-family: "Roboto", sans-serif;
+}
+
+.css-dental .color-1 {
+  color: #18AFD3 !important;
+}
+
+.css-dental .background-1,
+.css-dental .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-dental .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-dental .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #18AFD3 !important;
+}
+
+.css-dental .color-2 {
+  color: #f57e57 !important;
+}
+
+.css-dental .background-2,
+.css-dental .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-dental .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-dental .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #f57e57 !important;
+}
+
+.css-dental .color-3 {
+  color: #4c6575 !important;
+}
+
+.css-dental .background-3,
+.css-dental .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-dental .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-dental .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3,
+.css-dental .blog-desc-details:after {
+  background-color: #4c6575 !important;
+}
+
+.css-dental .call-to-action {
+  background-color: transparent !important;
+}
+
+.css-dental .tp-caption .btn-default,
+.css-dental .btn-default,
+.css-dental .flex-control-paging li a.flex-active,
+.css-dental .navbar-toggle,
+.css-dental #mobile-navbar,
+.css-dental .offscreen-container,
+.css-dental .maincolor-background,
+.css-dental ul.widget-ul li a > span,
+.css-dental ul.widget-social li a:hover,
+.css-dental #people .item .info,
+.css-dental .main-color,
+.css-dental .flexslider.clients .flex-control-paging li a.flex-active,
+.css-dental #portfolio-filter li a:after,
+.css-dental .navbar.banner--clone .nav li.active > a,
+.css-dental .pagination-box .pager li a,
+.css-dental .pricing-table-column.special-price-table .pricing-table-head,
+.css-dental .pricing-table-column.special-price-table .pricing-table-content,
+.css-dental .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-dental .tags-cloud-list li a:hover,
+.css-dental .progress-bar-box .progress-bar,
+.css-dental .background-1,
+.css-dental .selecter .selecter-item:hover,
+.css-dental .selecter .selecter-item.selected:hover,
+.css-dental #footer.colored,
+.css-dental section.about-counter,
+.css-dental .error-page-title:after,
+.css-dental .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-dental .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-dental .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-dental .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-dental .tabpanel-style-4 .tab-content h3:after,
+.css-dental .about-classic-column-themecolor,
+.css-dental .selecter .selecter-item:hover,
+.css-dental .selecter .selecter-item.selected:hover,
+.css-dental .item-text-wrapper_overlay,
+.css-dental .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-dental .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-dental .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-dental .shop-type-2 a.add-to-cart-item,
+.css-dental .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-dental .navbar-2 .btn-cart .header-cart-count,
+.css-dental .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-dental .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-dental .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-dental .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-dental .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-dental .dropcap.dropcap-style-2,
+.css-dental .alert-default,
+.css-dental .tp-caption .btn-default,
+.css-dental .btn-default,
+.css-dental .content-title h5:before,
+.css-dental .content-title h5:after,
+.css-dental .icon-box.icon-fill .icon-block,
+.css-dental .icon-box.icon-square:hover .icon-block,
+.css-dental .icon-box.icon-circle:hover .icon-block,
+.css-dental .icon-box.icon-square:hover .icon-block span,
+.css-dental .icon-box.icon-circle:hover .icon-block span,
+.css-dental .icon-type.it-main-color:hover,
+.css-dental .icon-type.it-main-color:focus,
+.css-dental .icon-type.it-main-color-reverse,
+.css-dental .icon-type.it-main-color:hover span,
+.css-dental .icon-type.it-main-color-reverse:hover span,
+.css-dental .add-to-cart-form .count-input .count-plus:hover,
+.css-dental .add-to-cart-form .count-input .count-minus:hover,
+.css-dental .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-dental .pricing-table-container.special-price-table,
+.css-dental .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-dental .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-dental ul.forum-list li.forum-header,
+.css-dental .textbox-withmaincolor,
+.css-dental .background-1,
+.css-dental .team-member-job,
+.css-dental .team-section .team-desc-box:before,
+.css-dental .team-section .team-desc-box:after,
+.css-dental .shop-categories:hover .shop-title-categories,
+.css-dental .content-divider-colored-bg [class^="icon-"],
+.css-dental .overlay-animation-6 .content-box,
+.css-dental .block-content-wrapper h1,
+.css-dental .benefits-box h1,
+.css-dental .selecter .selecter-item:hover,
+.css-dental .selecter .selecter-item.selected:hover,
+.css-dental .ui-slider .ui-slider-range,
+.css-dental #header.header-main-color,
+.css-dental .navbar-2.banner--clone.main-color-navbar,
+.css-dental .tabpanel-style-center .nav-tabs > li.active > a,
+.css-dental .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-dental .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-dental .label.label-primary,
+.css-dental .label.label-primary,
+.css-dental .star-rating .caption .label,
+.css-dental .tparrows.preview5:hover,
+.css-dental .table-style-4.table-withmaincolor thead tr th,
+.css-dental .table-style-5.table-withmaincolor thead tr th,
+.css-dental .table-style-6.table-withmaincolor thead tr th,
+.css-dental .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-dental .table-style-7.table-withmaincolor thead tr th,
+.css-dental .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-dental .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-dental .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-dental .table-style-2.table-withmaincolor thead tr th,
+.css-dental .table-style-3.table-withmaincolor thead tr th,
+.css-dental .table-style-3.table-withmaincolor tbody tr th,
+.css-dental .parallax-withmaincolor,
+.css-dental .contact-overlay-map .minimize-form:hover,
+.css-dental .team-3:hover .team-social,
+.css-dental .team-5:hover .team-social,
+.css-dental .special-table-2,
+.css-dental .special-table-3,
+.css-dental span.pricing-3-discount,
+.css-dental #vertical-timeline-container:before,
+.css-dental .subscribe-fancy-themebg,
+.css-dental .empty-cart,
+.css-dental .team-4:hover .team-social,
+.css-dental .content-divider-colored,
+.css-dental .content-divider-colored-bg,
+.css-dental .withmainbackground,
+.css-dental .services-2-heading,
+.css-dental .icon-box-2-effect-4 .icon-block-2,
+.css-dental .services-2-heading,
+.css-dental .promotion-box-theme-colored,
+.css-dental .promotion-box-theme-colored .promotion-box-title h4,
+.css-dental .icon-block-2,
+.css-dental .icon-box-2-effect-2:hover .icon-block-2,
+.css-dental .icon-box-2-effect-3 .icon-block-2:after,
+.css-dental .icon-box-2-effect-4 .icon-block-2:after,
+.css-dental .icon-box-2-effect-6 .icon-block-2,
+.css-dental .icon-box-2-effect-6:hover .icon-block-2,
+.css-dental .simple-icon-icon,
+.css-dental a.call-to-action-link:hover,
+.css-dental .add-to-cart-form .count-input .count-plus,
+.css-dental .add-to-cart-form .count-input .count-minus,
+.css-dental .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-dental .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-dental .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-dental .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-dental .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-dental .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-dental .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-dental .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-dental .special-price-box,
+.css-dental .dropdown-menu > .active > a,
+.css-dental .dropdown-menu > .active > a:focus,
+.css-dental .dropdown-menu > .active > a:hover,
+.css-dental #header.main-color-nav .navbar-2,
+.css-dental .latest-post-data,
+.css-dental .blog-single-post .bsp-heading h1,
+.css-dental .testimonial-single .slick-dots li button:before,
+.css-dental .slick-dots li button:before,
+.css-dental .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-dental .timeline-complete .timeline-status.timeline-active:before,
+.css-dental .megamenu.maincolor,
+.css-dental .dropdown.maincolor ul,
+.css-dental .dropdown.maincolor ul.dropdown-menu,
+.css-dental #footer.maincolor,
+.css-dental #copyrights.maincolor,
+.css-dental .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-dental .cd-horizontal-timeline .events a.selected::after,
+.css-dental .cd-horizontal-timeline .filling-line,
+.css-dental .pinpulsebox span,
+.css-dental .main-color-dropdown .megamenu,
+.css-dental .main-color-dropdown .dropdown-menu,
+.css-dental #cd-timeline::before,
+.css-dental ul.icon-list.il-main-bg li [class^="icon-"],
+.css-dental .process-steps ul li.current a .number,
+.css-dental ol.ordered-list.ol-main-bg li:before,
+.css-dental .irs-bar,
+.css-dental .irs-from,
+.css-dental .irs-to,
+.css-dental .irs-single,
+.css-dental .open > .dropdown-toggle.btn-default,
+.css-dental .fc-unthemed .fc-today,
+.css-dental .fc-content,
+.css-dental #particles-js,
+.css-dental .s-icon:hover,
+.css-dental #progressbar li.active:before,
+.css-dental #progressbar li.active:after,
+.css-dental .pagination > .active > a,
+.css-dental .pagination > .active > a:focus,
+.css-dental .pagination > .active > a:hover,
+.css-dental .pagination > .active > span,
+.css-dental .pagination > .active > span:focus,
+.css-dental .pagination > .active > span:hover,
+.css-dental .portfolio-filter .selecter-item.activeFilter,
+.css-dental .page-loader-spinner span,
+.css-dental .loader-6:before,
+.css-dental .loader-2,
+.css-dental .loader-2:before,
+.css-dental .loader-2:after ,
+.css-dental .loader-10 > div, 
+.css-dental .loader-11 > div,
+.css-dental .loader-13 > div:first-child, 
+.css-dental .loader-14 > div, 
+.css-dental .loader-16 > div, 
+.css-dental .loader-17 > div, 
+.css-dental .loader-17 > div:before, 
+.css-dental .loader-17 > div:after, 
+.css-dental .loader-18 > div, 
+.css-dental .loader-19 > div, 
+.css-dental .loader-20 > div, 
+.css-dental .loader-22 > div, 
+.css-dental .loader-23 > div, 
+.css-dental .loader-24 > div, 
+.css-dental .loader-25 > div, 
+.css-dental .loader-26 > div, 
+.css-dental .loader-27 > div, 
+.css-dental .loader-28 > div, 
+.css-dental .loader-29 > div, 
+.css-dental .loader-32 > div, 
+.css-dental .loader-33 > div, 
+.css-dental .loader-35 > div:nth-child(3), 
+.css-dental .loader-35 > div:nth-child(4), 
+.css-dental .loader-35 > div:nth-child(5),
+.css-dental .loader-35 > div:nth-child(6), 
+.css-dental .loader-37 > div, 
+.css-dental .loader-38 > div,
+.css-dental .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-dental .radio input[type=radio]:checked ~ .check, 
+.css-dental .vlt-btn-group .dropdown-menu li a:hover, 
+.css-dental .gsi-step-indicator.triangle li.current>*, 
+.css-dental .gsi-style-4 li.current>*, 
+.css-dental .gsi-style-5 li.current>*, 
+.css-dental .gsi-style-6 li.current>* .number, 
+.css-dental .gsi-style-7 li.current:hover>*, 
+.css-dental .gsi-style-8 li.visited>*, 
+.css-dental .gsi-style-8 li.current>*, 
+.css-dental .gsi-style-9 li.visited>*:after, 
+.css-dental .gsi-style-9 li.current>*:after, 
+.css-dental .gsi-style-10 li.visited>*:after, 
+.css-dental .gsi-style-10 li.current>*:after, 
+.css-dental .gsi-style-11 li.current:before, 
+.css-dental .gsi-style-11 li.current:after, 
+.css-dental .gsi-style-11 li.visited:before, 
+.css-dental .gsi-style-11 li.visited:after, 
+.css-dental .gsi-style-11 li.visited>*:after, 
+.css-dental .gsi-style-11 li.current>*:after, 
+.css-dental .flatpickr-day.today:focus, 
+.css-dental .flatpickr-day.today:hover{
+  background-color: #18AFD3 !important;
+}
+
+.css-dental .header-content .phone-number span,
+.css-dental .intro-block h6,
+.css-dental .icon-block [class^="icon-"],
+.css-dental ul.header-links li a:hover,
+.css-dental .navbar.banner--clone .nav > li > a:hover,
+.css-dental .navbar.banner--clone .btn-search:hover,
+.css-dental .success-lg:hover [class^="icon-"],
+.css-dental #copyrights ul li a:hover,
+.css-dental #copyrights a:hover,
+.css-dental .breadcrumb > .active,
+.css-dental #portfolio-filter li a.activeFilter,
+.css-dental #portfolio-filter li a:hover,
+.css-dental .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-dental a.image_zoom:hover [class^="icon-"],
+.css-dental a.image_link:hover [class^="icon-"],
+.css-dental a.load-more-btn:hover,
+.css-dental a.load-more-btn:hover [class^="icon-"],
+.css-dental .intro-block h1 [class^="icon-"],
+.css-dental .shop-list .shop-product h4 a:hover,
+.css-dental ul#portfolio-layout-filter li a.active,
+.css-dental .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-dental ul.sidebar-shop-cat > li span,
+.css-dental .shop-price,
+.css-dental ul.sidebar-shop-cat > li > a:hover,
+.css-dental a.load-more-btn:hover,
+.css-dental a.load-more-btn:hover [class^="icon-"],
+.css-dental .intro-block h1 [class^="icon-"],
+.css-dental .shop-list .shop-product h4 a:hover,
+.css-dental ul#portfolio-layout-filter li a.active,
+.css-dental .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-dental ul.sidebar-cat > li span,
+.css-dental .shop-price,
+.css-dental ul.sidebar-cat > li > a:hover,
+.css-dental ul.jobs-list li [class^="icon-"],
+.css-dental .team-social a:hover,
+.css-dental .icon-default,
+.css-dental .error-page-icon span [class^="icon-"],
+.css-dental .footer-3-container-text a:hover,
+.css-dental .testimonials-box .testimonial-author,
+.css-dental #page-title.image-page-title-fullwidth h1,
+.css-dental #page-title.image-page-title-left.image-page-noimage h2,
+.css-dental ul.services-2-icons,
+.css-dental ul.shop-layout-filter li a.active,
+.css-dental ul.portfolio-layout-filter li a.active,
+.css-dental ul.porfolio-project-details-list > li .ppd-right,
+.css-dental ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-dental .related-projects-title .slick-custom-next:hover,
+.css-dental .related-projects-title .slick-custom-prev:hover,
+.css-dental .recent-post-content a:hover,
+.css-dental .form-group.login-form-submit a,
+.css-dental .shop-type-1 a.add-to-cart-item:before,
+.css-dental .shop-type-2 a.add-to-cart-item:before,
+.css-dental a.form-forgotpass,
+.css-dental .sidebar-shop-products-list li .ssp-title:hover,
+.css-dental .restaurant-info ul li [class^="icon-"],
+.css-dental .navbar-default.default .btn-cart .header-cart-count,
+.css-dental .cart-shop-products-list li .csp-title:hover,
+.css-dental .blog-list > article .blog-desc h4 a:hover,
+.css-dental .blog-list > article .blog-desc h4 a:focus,
+.css-dental .blog-list-full > article .blog-desc h4 a:hover,
+.css-dental .blog-list-full > article .blog-desc h4 a:focus,
+.css-dental .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-dental .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-dental .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-dental .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-dental .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-dental .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-dental .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-dental .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-dental .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-dental .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-dental .blog-masonry > article .blog-desc h4 a:hover,
+.css-dental .blog-masonry > article .blog-desc h4 a:focus,
+.css-dental .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-dental .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-dental .comment_response .media h6 a,
+.css-dental .comment_response .media_cloud a.reply_link,
+.css-dental .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-dental .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-dental .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-dental .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-dental .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-dental .dropcap.dropcap-style-1,
+.css-dental .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-dental .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-dental .counter-box .count-icon,
+.css-dental .counter-style-1 .counter-box h4,
+.css-dental .icon-type,
+.css-dental .icon-type.it-main-color,
+.css-dental .icon-type.it-main-color-reverse:hover,
+.css-dental .icon-type.it-main-color-reverse:focus,
+.css-dental .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-dental .comment_response .media h6 a,
+.css-dental .comment_response .media_cloud a.reply_link,
+.css-dental .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-dental .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-dental .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-dental .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-dental .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-dental .dropcap.dropcap-style-1,
+.css-dental .btn-default-reverse,
+.css-dental .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-dental .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-dental .counter-box .count-icon,
+.css-dental .counter-style-1 .counter-box h4,
+.css-dental .icon-type,
+.css-dental .icon-type.it-main-color,
+.css-dental .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-dental .icon-type.it-main-color-reverse:focus,
+.css-dental .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-dental .review_response .media h6 a,
+.css-dental .review_response .media_cloud .shop-star-rating li.full-star,
+.css-dental .rating-container .rating-stars,
+.css-dental .form-contact small,
+.css-dental ul.icon-list li a:hover,
+.css-dental ul.icon-list li a:active,
+.css-dental ul.icon-list li a:focus,
+.css-dental .checkout-sum,
+.css-dental .checkout-table td a:hover,
+.css-dental .checkout-box a,
+.css-dental .user-profile-list ul li a:hover,
+.css-dental a.profile-active,
+.css-dental .user-profile-content h2,
+.css-dental .forum-content-header span a,
+.css-dental .recent-work-content a:hover,
+.css-dental .recent-work-image-content a:hover,
+.css-dental .contact-overlay-map .maximize-form:hover,
+.css-dental .hero-slier-nav-content:hover [class^="icon-"],
+.css-dental .selected .hero-slier-nav-content [class^="icon-"],
+.css-dental .team-social a:hover,
+.css-dental .team-name h5 a:hover,
+.css-dental .clients-slick-nav .slick-custom-next:hover,
+.css-dental .clients-slick-nav .slick-custom-prev:hover,
+.css-dental .services-pricing-icon [class^="icon-"],
+.css-dental .brand [class^="icon-"],
+.css-dental .content-divider-colored [class^="icon-"],
+.css-dental .divider-content h1 span,
+.css-dental .divider-content h2 span,
+.css-dental .divider-content h3 span,
+.css-dental .intro-page-content a:hover,
+.css-dental .image-box-content a:hover,
+.css-dental .icon-type.it-main-color [class^="icon-"],
+.css-dental .icon-type-2:hover p,
+.css-dental .icon-type-2:hover span.icon-type-2-icon,
+.css-dental .heading-container .head-colored,
+.css-dental ul.home-6-list li h4 [class^="icon-"],
+.css-dental .icon-box-2-effect-1:hover .icon-block-2,
+.css-dental .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-dental .icon-box-2-effect-4:hover .icon-block-2,
+.css-dental .icon-box-2-effect-4-reverse .icon-block-2,
+.css-dental .icon-box-2-effect-5:hover .icon-block-2,
+.css-dental .simple-icon-lightbg [class^="icon-"],
+.css-dental .newsletter-signup button,
+.css-dental a.add-to-wishlist.select,
+.css-dental a.add-to-wishlist.select [class^="icon-"],
+.css-dental .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-dental .panel-body ul li a:hover,
+.css-dental .colored,
+.css-dental .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-dental .tabpanel-style-6 .nav-tabs > li > a,
+.css-dental .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-dental .tp_caption_big span,
+.css-dental ul.icon-box-simple li:hover a,
+.css-dental .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-dental .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-dental .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-dental .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-dental .blockquote-author p,
+.css-dental .testimonial-author,
+.css-dental .latest-post-content h1 a:hover,
+.css-dental .post-by a:hover,
+.css-dental .latest-post-content .read-more-link,
+.css-dental .blog-horizontal .bh-content h3 a:hover,
+.css-dental .blog-horizontal .bh-content .bh-details a:hover,
+.css-dental .blog-horizontal .bh-content .bh-details a:hover span,
+.css-dental a.bsp-title:hover,
+.css-dental .sidebar-blog-post-list li .sbp-title:hover,
+.css-dental .navbar-nav > li.active,
+.css-dental .navbar-nav > li.active:hover,
+.css-dental a.idb-social:hover,
+.css-dental a.idb-social:hover span,
+.css-dental a.idb-price,
+.css-dental span.pts-raised,
+.css-dental .bsp-social a:hover,
+.css-dental .bsp-social a [class^="icon-"]:hover,
+.css-dental a.bsp-more:hover,
+.css-dental .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-dental .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-dental .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-dental .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-dental .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-dental .gallery-block .gallery-box .gallery-meta a:hover,
+.css-dental .gallery-block .gallery-box .gallery-meta a:focus,
+.css-dental .cd-timeline-inner-content a:hover,
+.css-dental .testimonial-box .testimonial-author span,
+.css-dental .fic-date a:hover,
+.css-dental .forum-inner-content h1 a:hover,
+.css-dental .user-profile-desc a:hover,
+.css-dental .cd-timeline-navigation a:hover::after,
+.css-dental .login-form .login-input-box [class^="icon-"],
+.css-dental .icon-input-box [class^="icon-"],
+.css-dental ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-dental ul.bar-chart-graph li,
+.css-dental ul.line-graph li,
+.css-dental ul.donut-graph li,
+.css-dental .tp-caption.Creative-SubTitle,
+.css-dental .Creative-SubTitle,
+.css-dental .tp-caption.vlt-hero-rotating,
+.css-dental .pagination > li > a:focus,
+.css-dental .pagination > li > a:hover,
+.css-dental .pagination > li > span:focus,
+.css-dental .pagination > li > span:hover,
+.css-dental .pager li > a,
+.css-dental ul.recent-post-widget .rp-post a:hover,
+.css-dental .tp-tab.selected span.tp-tab-title span,
+.css-dental .tp-tab.selected span.tp-tab-title,
+.css-dental .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-dental .tp-main-color,
+.css-dental .loader-5,
+.css-dental .loader-7,
+.css-dental .loader-9,
+.css-dental .loader-2,
+.css-dental .loader-4,
+.css-dental .gsi-style-9 li.visited>*, 
+.css-dental .gsi-style-9 li.current>*,
+.css-dental .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-dental .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #18AFD3 !important;
+}
+
+.css-dental .tp-caption .btn-default,
+.css-dental .btn-default,
+.css-dental .flex-control-paging li a.flex-active,
+.css-dental .flexslider.clients .flex-control-paging li a.flex-active,
+.css-dental .pagination-box .pager li a,
+.css-dental .contact-info-3,
+.css-dental .tags-cloud-list li a:hover,
+.css-dental .team-social a:hover,
+.css-dental .contact-title-one h3:after,
+.css-dental .home-title-one h3:after,
+.css-dental #login-form .login-input:active,
+.css-dental #login-form .login-input:focus,
+.css-dental .load-more-wrapper a.load-more-btn:hover,
+.css-dental #register-form .register-input:active,
+.css-dental #register-form .register-input:focus,
+.css-dental .dropcap.dropcap-style-1,
+.css-dental .dropcap.dropcap-style-2,
+.css-dental .alert-default,
+.css-dental .tp-caption .btn-default,
+.css-dental .btn-default,
+.css-dental .btn-default-reverse,
+.css-dental .icon-box.icon-square .icon-block,
+.css-dental .icon-box.icon-circle .icon-block,
+.css-dental .icon-type.it-main-color,
+.css-dental .icon-type.it-main-color:hover,
+.css-dental .icon-type.it-main-color:focus,
+.css-dental .icon-type.it-main-color-reverse,
+.css-dental .icon-type.it-main-color-reverse:hover,
+.css-dental .icon-type.it-main-color-reverse:focus,
+.css-dental .add-to-cart-form .count-input .count-plus:hover,
+.css-dental .add-to-cart-form .count-input .count-minus:hover,
+.css-dental #reviewmodal .modal-header,
+.css-dental .job-left-title h3,
+.css-dental .pricing-table-container.special-price-table,
+.css-dental .clients-slick-nav .slick-custom-next:hover,
+.css-dental .clients-slick-nav .slick-custom-prev:hover,
+.css-dental a.add-to-wishlist.select,
+.css-dental a.add-to-wishlist.select [class^="icon-"],
+.css-dental .tabpanel-style-8 .nav-tabs > li.active,
+.css-dental a.btn-default.btn-animation-icon-box,
+.css-dental .btn-default.btn-animation-icon-box:hover,
+.css-dental .btn-default.btn-animation-icon-box:focus,
+.css-dental .btn-default.btn-animation-icon-box:active,
+.css-dental .tp-caption a.btn-default.btn-animation-icon-box,
+.css-dental .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-dental .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-dental .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-dental .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-dental .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-dental .clients-slick-nav .slick-clients-prev:hover,
+.css-dental .clients-slick-nav .slick-clients-next:hover,
+.css-dental .bsp-image,
+.css-dental .blog-list > article.default-post .blog-desc,
+.css-dental .testimonial-single li.slick-active button::before,
+.css-dental .slick-dots li.slick-active button:before,
+.css-dental .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-dental .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-dental .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-dental .timeline-status.timeline-active:before,
+.css-dental .cd-horizontal-timeline .events a.older-event::after,
+.css-dental .cd-horizontal-timeline .events a.selected::after,
+.css-dental .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-dental .no-touch .cd-timeline-navigation a:hover,
+.css-dental .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-dental .cd-timeline-navigation a:hover,
+.css-dental .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-dental .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-dental .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-dental .login-form input:focus,
+.css-dental .pinpulse,
+.css-dental .open > .dropdown-toggle.btn-default,
+.css-dental .pagination > .active > a,
+.css-dental .pagination > .active > a:focus,
+.css-dental .pagination > .active > a:hover,
+.css-dental .pagination > .active > span,
+.css-dental .pagination > .active > span:focus,
+.css-dental .pagination > .active > span:hover,
+.css-dental .table-style-1 thead tr th,
+.css-dental .table-style-1 tbody tr:last-child th,
+.css-dental .table-style-1 tbody tr:last-child td,
+.css-dental .table-withmaincolor thead tr th,
+.css-dental .clients-title-border h3,
+.css-dental .cd-slider-nav li:hover,
+.css-dental .selected,
+.css-dental .job-form input:focus,
+.css-dental .job-form select:focus,
+.css-dental .job-form textarea:focus,
+.css-dental .form-contact input:focus,
+.css-dental .form-contact select:focus,
+.css-dental .form-contact textarea:focus,
+.css-dental .form-contact input:focus,
+.css-dental .icon-type-2:hover p,
+.css-dental .icon-type-2:hover span.icon-type-2-icon,
+.css-dental .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-dental .activeFilter,
+.css-dental .loader-30 > div, 
+.css-dental .loader-31 > div, 
+.css-dental .loader-35 > div:first-of-type, 
+.css-dental .loader-35 > div:nth-child(2),
+.css-dental .loader-12 > div,
+.css-dental .loader-15 > div,
+.css-dental .loader-21 > div,
+.css-dental .radio input[type=radio]:checked ~ .circle, 
+.css-dental .gsi-step-indicator.triangle li.current>*, 
+.css-dental .gsi-style-7.border-right li.current>*, 
+.css-dental .gsi-style-7.border-bottom li.current>*, 
+.css-dental .gsi-style-7.border-left li.current>*, 
+.css-dental .flatpickr-day.today, 
+.css-dental .flatpickr-day.today:focus, 
+.css-dental .flatpickr-day.today:hover {
+    border-color:  #18AFD3;
+}
+
+.css-dental .tabpanel-style-4 .nav-tabs > li.active,
+.css-dental .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-dental .tabpanel-style-5 .nav-tabs > li.active,
+.css-dental .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #18AFD3 transparent;
+}
+
+.css-dental .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #18AFD3;
+}
+
+.css-dental .icon-box-2-effect-4 .icon-block-2,
+.css-dental .icon-box-2-effect-5 .icon-block-2,
+.css-dental .icon-box-2-effect-5:hover .icon-block-2,
+.css-dental .icon-box-2-effect-1 .icon-block-2:after,
+.css-dental .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #18AFD3;
+}
+
+.css-dental .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #18AFD3;
+}
+
+.css-dental .empty-cart:after, .css-dental .loader-34 > div  {
+  border-bottom-color: #18AFD3;
+}
+
+.css-dental .btn-default-reverse:hover,
+.css-dental .btn-default-reverse:focus {
+  background-color: #18AFD3 !important;
+  border-color: #18AFD3 !important;
+}
+
+.css-dental .tp-caption .btn-default.active,
+.css-dental .btn-default.active,
+.css-dental .tp-caption .btn-default.focus,
+.css-dental .btn-default.focus,
+.css-dental .tp-caption .btn-default:active,
+.css-dental .btn-default:active,
+.css-dental .tp-caption .btn-default:focus,
+.css-dental .btn-default:focus,
+.css-dental .tp-caption .btn-default:hover,
+.css-dental .btn-default:hover,
+.css-dental .tp-caption .btn-white:hover,
+.css-dental .btn-white:hover {
+  background-color: #0ca6cc !important;
+  border-color: #0ca6cc !important;
+}
+
+.css-dental .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #18AFD3;
+}
+
+.css-dental #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-dental #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-dental #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-dental #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-dental #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-dental #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-dental #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-dental #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #18AFD3;
+}
+
+.css-dental #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-dental #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-dental span.latest-post-month,
+.css-dental .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-dental .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #0ca6cc;
+}
+
+.css-dental #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-dental #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-dental #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-dental #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-dental #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-dental #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-dental #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-dental #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-dental #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-dental #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-dental #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-dental #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-dental #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-dental #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-dental #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-dental #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-dental #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-dental #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #0ca6cc;
+  border-color: #0ca6cc;
+}
+
+.css-dental #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-dental #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #0ca6cc;
+}
+
+.css-dental .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-dental .item-text-wrapper,
+.css-dental .standard_hover .portfolio_overlay,
+.css-dental .overlay-animation-1 .overlay_box,
+.css-dental .overlay-animation-2 .overlay_box,
+.css-dental .flip-hover .flip-box .content-box,
+.css-dental .team-8 .team-image .overlay-team-box,
+.css-dental .team-9 .team-image .overlay-team-box,
+.css-dental .portfolio-animation-slide .sliding-content {
+  background-color: rgba(24, 175, 211, 0.9);
+}
+.css-dental .gsi-style-4 li.current>* .number:before{
+  border-left-color: #18AFD3;
+}
+.css-dental .gsi-style-7.border-top li.current>*{
+  border-top-color: #18AFD3;
+}
+.css-dental .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-dental .team-2 .overlay-team-box,
+.css-dental .team-6 .overlay-team-box,
+.css-dental .team-7 .overlay-team-box,
+.css-dental .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-dental .contact-overlay-map .overlay-map-background,
+.css-dental .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-dental .table-style-7.table-withmaincolor tbody tr th,
+.css-dental .table-style-2.table-withmaincolor tbody tr,
+.css-dental .fc-bgevent,
+.css-dental #particles-js.background-1 {
+  background-color: rgba(24, 175, 211, 0.6) !important;
+}
+
+.css-dental .widget-dribbble-box .shots li a:hover:before, .css-dental .dribbble-box .shots li a:hover:before,
+.css-dental .instagram-widget a:hover:before {
+  background-color: rgba(24, 175, 211, 0.85);
+}
+
+.css-dental .search-popup-box,
+.css-dental .scroll-to-top-fixed {
+  background-color: rgba(24, 175, 211, 0.95);
+}
+
+.dental .title-medium {
+  font-size: 5em !important;
+  line-height: 1.5 !important;
+  color: #fff;
+  text-transform: uppercase !important;
+  font-weight: 700 !important;
+}
+
+.dental .title-medium .tp-splitted.tp-linesplit {
+  text-transform: uppercase !important;
+}
+
+.css-dental .loader-3 {
+  border-top-color: rgba(24, 175, 211, 0.2);
+  border-right-color: rgba(24, 175, 211, 0.2);
+  border-bottom-color: rgba(24, 175, 211, 0.2);
+  border-left-color: #18AFD3;
+}
+
+.css-dental .blockquote-style-2 blockquote::before,
+.css-dental .blockquote-style-2 blockquote::after {
+  background-color: transparent !important;
+}
+
+.css-dental .pull-top {
+  margin-top: -80px;
+  z-index: 20;
+}
+
+.css-dental #fullwidth-revoultion {
+  z-index: 1 !important;
+}
+
+.css-dental #header.header-main-color-sticky.header-sticky {
+  background: #18AFD3 !important;
+}
+
+.css-dental .title-medium {
+  font-weight: 300 !important;
+}
+
+.css-dental .icon-box.icon-fill:hover .icon-block,
+.css-dental .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-dental .cart-shop-products h3, .css-dental .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-dental .cart-shop-products-list li .csp-price, .css-dental .sidebar-shop-products-list li .ssp-price,
+.css-dental .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-dental .shop-list .shop-product .shop-star-rating li.full-star,
+.css-dental ul.shop-star-rating li.full-star {
+  color: #4c6575;
+}
+
+.css-dental .shop-list .shop-product .shop-ribbon, .css-dental .ui-slider-horizontal .ui-slider-range,
+.css-dental .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-dental .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #4c6575;
+}
+.css-dental .loader-13 > div:last-child, 
+.css-dental .loader-15 > div:last-child {
+  border-color: #18AFD3 transparent;
+}
+.css-dental .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #18AFD3 30%, #18AFD3 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #18AFD3 30%, #18AFD3 100%);
+}

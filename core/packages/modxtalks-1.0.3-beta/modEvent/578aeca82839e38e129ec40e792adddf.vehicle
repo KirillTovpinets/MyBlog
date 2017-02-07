@@ -1,0 +1,15 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '62ae73ec46103865f4151fc6d73335bb',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => '578aeca82839e38e129ec40e792adddf',
+  'native_key' => 'OnModxTalksCommentBeforeAdd',
+  'object' => '{"name":"OnModxTalksCommentBeforeAdd","service":6,"groupname":"MODXTalks"}',
+);

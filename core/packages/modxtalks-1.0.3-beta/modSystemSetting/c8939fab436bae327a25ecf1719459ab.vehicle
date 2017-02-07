@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'bb2b2332247c4b14ca35e295bb371861',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'c8939fab436bae327a25ecf1719459ab',
+  'native_key' => 'modxtalks.smileys',
+  'object' => '{"key":"modxtalks.smileys","value":false,"xtype":"combo-boolean","namespace":"modxtalks","area":"settingBBCode","editedon":null}',
+);

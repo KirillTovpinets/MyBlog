@@ -1,0 +1,128 @@
+<?php return array (
+  'unique_key' => 'category',
+  'preserve_keys' => false,
+  'update_object' => true,
+  'related_objects' => 
+  array (
+    'Chunks' => 
+    array (
+      '49ab16ab02cb547b23fa18275700b315' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":null,"source":0,"property_preprocess":0,"name":"comment_auth_tpl","description":"This tpl for displaying information not authorized users.","editor_type":0,"category":0,"cache_type":0,"snippet":"<div id=\\"mt_cf_conversationReply\\">\\n\\t<form action=\\"\\" method=\\"post\\" enctype=\\"multipart\\/form-data\\">\\n\\t\\t<input type=\\"hidden\\" name=\\"token\\" value=\\"3fffcee5f7d88\\">\\n\\t\\t<div class=\\"mt_post mt_hasControls mt_logInToReply\\" id=\\"reply\\">\\n\\t\\t\\t<div class=\\"mt_avatar\\"><img src=\\"[[+avatar]]\\" alt=\\"\\" class=\\"mt_avatar_img\\"><\\/div>\\n\\t\\t\\t<div class=\\"mt_postContent mt_thing\\">\\n\\t\\t\\t\\t<div class=\\"mt_postBody\\">\\n\\t\\t\\t\\t\\t[[+noLogin]]\\n\\t\\t\\t\\t<\\/div>\\n\\t\\t\\t<\\/div>\\n\\t\\t<\\/div>\\n\\t<\\/form>\\n<\\/div>","locked":0,"properties":null,"static":0,"static_file":"","content":"<div id=\\"mt_cf_conversationReply\\">\\n\\t<form action=\\"\\" method=\\"post\\" enctype=\\"multipart\\/form-data\\">\\n\\t\\t<input type=\\"hidden\\" name=\\"token\\" value=\\"3fffcee5f7d88\\">\\n\\t\\t<div class=\\"mt_post mt_hasControls mt_logInToReply\\" id=\\"reply\\">\\n\\t\\t\\t<div class=\\"mt_avatar\\"><img src=\\"[[+avatar]]\\" alt=\\"\\" class=\\"mt_avatar_img\\"><\\/div>\\n\\t\\t\\t<div class=\\"mt_postContent mt_thing\\">\\n\\t\\t\\t\\t<div class=\\"mt_postBody\\">\\n\\t\\t\\t\\t\\t[[+noLogin]]\\n\\t\\t\\t\\t<\\/div>\\n\\t\\t\\t<\\/div>\\n\\t\\t<\\/div>\\n\\t<\\/form>\\n<\\/div>"}',
+        'guid' => '8c0fbe5a2bf1dbd79ef88116026473c2',
+        'native_key' => NULL,
+        'signature' => 'c9e8d1894c194de7f4500edaaf6821aa',
+      ),
+    ),
+    'Snippets' => 
+    array (
+      '4d712b102a818163afb15ce359403857' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":null,"source":0,"property_preprocess":0,"name":"modxTalks","description":"[MODXTalks] Snippet.","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/**\\n * @package modxtalks\\n *\\/\\nif (!isset($modx->modxtalks) || !$modx->modxtalks instanceof modxTalks) {\\n    $modx->modxtalks = $modx->getService(\'modxtalks\', \'modxTalks\', $modx->getOption(\'modxtalks.core_path\', null, $modx->getOption(\'core_path\') . \'components\\/modxtalks\\/\') . \'model\\/modxtalks\\/\', $scriptProperties);\\n}\\n\\nreturn $modx->modxtalks->init();","locked":0,"properties":"a:0:{}","moduleguid":"","static":0,"static_file":"","content":"\\/**\\n * @package modxtalks\\n *\\/\\nif (!isset($modx->modxtalks) || !$modx->modxtalks instanceof modxTalks) {\\n    $modx->modxtalks = $modx->getService(\'modxtalks\', \'modxTalks\', $modx->getOption(\'modxtalks.core_path\', null, $modx->getOption(\'core_path\') . \'components\\/modxtalks\\/\') . \'model\\/modxtalks\\/\', $scriptProperties);\\n}\\n\\nreturn $modx->modxtalks->init();"}',
+        'guid' => '58390353ab54444874c93f40562e10d6',
+        'native_key' => NULL,
+        'signature' => 'fb71612f4c2471eac43fc1a4f610b6a2',
+      ),
+      'b71e0c4931213866044b59a196eb5944' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":null,"source":0,"property_preprocess":0,"name":"modxTalksAjax","description":"[modxTalksAjax] Snippet.","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/**\\n * @package modxtalks\\n *\\/\\nif (!isset($modx->modxtalks) || !($modx->modxtalks instanceof modxTalks)) {\\n    $modx->modxtalks = $modx->getService(\'modxtalks\',\'modxTalks\',$modx->getOption(\'modxtalks.core_path\',null,$modx->getOption(\'core_path\').\'components\\/modxtalks\\/\').\'model\\/modxtalks\\/\',$scriptProperties);\\n}\\n\\nif (isset($_SERVER[\'HTTP_X_REQUESTED_WITH\']) && strtolower($_SERVER[\'HTTP_X_REQUESTED_WITH\']) === \'xmlhttprequest\') {\\n    header(\'Content-Type: application\\/json; charset=UTF-8\');\\n    if (!empty($_SERVER[\'HTTP_ACTION\'])) {\\n        $action = $_SERVER[\'HTTP_ACTION\'];\\n    }\\n    else {\\n        $action = $_POST[\'action\'];\\n    }\\n\\n    switch($action) {\\n        case \'preview\':\\n            $action = \'web\\/comment\\/create\';\\n            $_POST[\'preview\'] = 1;\\n            break;\\n        case        \'add\': $action = \'web\\/comment\\/create\'; break;\\n        case       \'like\': $action = \'web\\/comment\\/like\'; break;\\n        case      \'quote\': $action = \'web\\/comment\\/quote\'; break;\\n        case     \'delete\': $action = \'web\\/comment\\/remove\'; break;\\n        case    \'restore\': $action = \'web\\/comment\\/restore\'; break;\\n        case       \'edit\': $action = \'web\\/comment\\/update\'; break;\\n        case        \'get\': $action = \'web\\/comment\\/get\'; break;\\n        case       \'vote\': $action = \'web\\/comment\\/vote\'; break;\\n        case     \'unvote\': $action = \'web\\/comment\\/unvote\'; break;\\n        case \'votes_info\': $action = \'web\\/comment\\/votes_info\'; break;\\n        case  \'ban_email\': $action = \'web\\/comment\\/block_email\'; break;\\n        case     \'ban_ip\': $action = \'web\\/comment\\/block_ip\'; break;\\n        case       \'load\': $action = \'web\\/comments\\/load\'; break;\\n        case     \'latest\':\\n            $_POST[\'action\'] = $action;\\n            $action = \'web\\/comments\\/latest\';\\n            break;\\n        default: return; break;\\n    }\\n\\n    \\/**\\n     * \\u0427\\u0438\\u0441\\u0442\\u0438\\u043c \\u043a\\u043e\\u043d\\u0442\\u0435\\u043d\\u0442 \\u043a\\u043e\\u043c\\u043c\\u0435\\u043d\\u0442\\u0430\\u0438\\u044f \\u043e\\u0442 \\u0442\\u0435\\u0433\\u043e\\u0432 MODX\\n     *\\/\\n    $tags = array(\'[[\', \']]\',\'<?\',\'?>\');\\n    $rTags = array(\'[_[\',\']_]\',\'&lt;?\',\'?&gt;\');\\n    foreach ($_POST as $key => &$value) {\\n        if (!is_array($_POST[$key]))\\n            $_POST[$key] = str_replace($tags, $rTags, $value);\\n    }\\n\\n    $path = $modx->getOption(\'modxtalks.core_path\',null,$modx->getOption(\'core_path\').\'components\\/modxtalks\\/\').\'processors\\/\';\\n\\n    $modx->modxtalks->ajaxInit();\\n    $config = array_merge($_POST,$modx->modxtalks->config);\\n    $response = $modx->runProcessor($action,$config,array(\'processors_path\' => $path));\\n\\n    if ($response->isError()) {\\n        $output = json_encode($response->response[\'message\']);\\n    }\\n    if (is_array($response->response)) {\\n        $output = json_encode($response->response,true);\\n    }\\n    else {\\n        $output = $response->response;\\n    }\\n    echo $output;die;\\n}\\n\\n$comments = $modx->modxtalks->init();\\n\\nreturn $comments;","locked":0,"properties":null,"moduleguid":"","static":0,"static_file":"","content":"\\/**\\n * @package modxtalks\\n *\\/\\nif (!isset($modx->modxtalks) || !($modx->modxtalks instanceof modxTalks)) {\\n    $modx->modxtalks = $modx->getService(\'modxtalks\',\'modxTalks\',$modx->getOption(\'modxtalks.core_path\',null,$modx->getOption(\'core_path\').\'components\\/modxtalks\\/\').\'model\\/modxtalks\\/\',$scriptProperties);\\n}\\n\\nif (isset($_SERVER[\'HTTP_X_REQUESTED_WITH\']) && strtolower($_SERVER[\'HTTP_X_REQUESTED_WITH\']) === \'xmlhttprequest\') {\\n    header(\'Content-Type: application\\/json; charset=UTF-8\');\\n    if (!empty($_SERVER[\'HTTP_ACTION\'])) {\\n        $action = $_SERVER[\'HTTP_ACTION\'];\\n    }\\n    else {\\n        $action = $_POST[\'action\'];\\n    }\\n\\n    switch($action) {\\n        case \'preview\':\\n            $action = \'web\\/comment\\/create\';\\n            $_POST[\'preview\'] = 1;\\n            break;\\n        case        \'add\': $action = \'web\\/comment\\/create\'; break;\\n        case       \'like\': $action = \'web\\/comment\\/like\'; break;\\n        case      \'quote\': $action = \'web\\/comment\\/quote\'; break;\\n        case     \'delete\': $action = \'web\\/comment\\/remove\'; break;\\n        case    \'restore\': $action = \'web\\/comment\\/restore\'; break;\\n        case       \'edit\': $action = \'web\\/comment\\/update\'; break;\\n        case        \'get\': $action = \'web\\/comment\\/get\'; break;\\n        case       \'vote\': $action = \'web\\/comment\\/vote\'; break;\\n        case     \'unvote\': $action = \'web\\/comment\\/unvote\'; break;\\n        case \'votes_info\': $action = \'web\\/comment\\/votes_info\'; break;\\n        case  \'ban_email\': $action = \'web\\/comment\\/block_email\'; break;\\n        case     \'ban_ip\': $action = \'web\\/comment\\/block_ip\'; break;\\n        case       \'load\': $action = \'web\\/comments\\/load\'; break;\\n        case     \'latest\':\\n            $_POST[\'action\'] = $action;\\n            $action = \'web\\/comments\\/latest\';\\n            break;\\n        default: return; break;\\n    }\\n\\n    \\/**\\n     * \\u0427\\u0438\\u0441\\u0442\\u0438\\u043c \\u043a\\u043e\\u043d\\u0442\\u0435\\u043d\\u0442 \\u043a\\u043e\\u043c\\u043c\\u0435\\u043d\\u0442\\u0430\\u0438\\u044f \\u043e\\u0442 \\u0442\\u0435\\u0433\\u043e\\u0432 MODX\\n     *\\/\\n    $tags = array(\'[[\', \']]\',\'<?\',\'?>\');\\n    $rTags = array(\'[_[\',\']_]\',\'&lt;?\',\'?&gt;\');\\n    foreach ($_POST as $key => &$value) {\\n        if (!is_array($_POST[$key]))\\n            $_POST[$key] = str_replace($tags, $rTags, $value);\\n    }\\n\\n    $path = $modx->getOption(\'modxtalks.core_path\',null,$modx->getOption(\'core_path\').\'components\\/modxtalks\\/\').\'processors\\/\';\\n\\n    $modx->modxtalks->ajaxInit();\\n    $config = array_merge($_POST,$modx->modxtalks->config);\\n    $response = $modx->runProcessor($action,$config,array(\'processors_path\' => $path));\\n\\n    if ($response->isError()) {\\n        $output = json_encode($response->response[\'message\']);\\n    }\\n    if (is_array($response->response)) {\\n        $output = json_encode($response->response,true);\\n    }\\n    else {\\n        $output = $response->response;\\n    }\\n    echo $output;die;\\n}\\n\\n$comments = $modx->modxtalks->init();\\n\\nreturn $comments;"}',
+        'guid' => '2c6c7aeb6cdbb35ed688bdf28e71a28b',
+        'native_key' => NULL,
+        'signature' => 'eea7b6aff234433c34bd493bc64baadf',
+      ),
+      '90ce73d32606384bf3bf2aa08b442414' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":null,"source":0,"property_preprocess":0,"name":"modxTalksLatestComments","description":"The conclusion of the latest comments on your site.","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/**\\n * @package modxtalks\\n *\\/\\nif (!isset($modx->modxtalks) || !($modx->modxtalks instanceof modxTalks)) {\\n    $modx->modxtalks = $modx->getService(\'modxtalks\',\'modxTalks\',$modx->getOption(\'modxtalks.core_path\',null,$modx->getOption(\'core_path\').\'components\\/modxtalks\\/\').\'model\\/modxtalks\\/\',$scriptProperties);\\n}\\n\\n$comments = $modx->modxtalks->getLatestComments();\\n\\nreturn $comments;","locked":0,"properties":"a:3:{s:16:\\"commentLatestTpl\\";a:7:{s:4:\\"name\\";s:16:\\"commentLatestTpl\\";s:4:\\"desc\\";s:36:\\"modxtalks.prop_commentLatestTpl_desc\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";s:0:\\"\\";s:5:\\"value\\";s:14:\\"comment_latest\\";s:7:\\"lexicon\\";s:20:\\"modxtalks:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:20:\\"commentsLatestOutTpl\\";a:7:{s:4:\\"name\\";s:20:\\"commentsLatestOutTpl\\";s:4:\\"desc\\";s:40:\\"modxtalks.prop_commentsLatestOutTpl_desc\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";s:0:\\"\\";s:5:\\"value\\";s:19:\\"comments_latest_out\\";s:7:\\"lexicon\\";s:20:\\"modxtalks:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:19:\\"commentsLatestLimit\\";a:7:{s:4:\\"name\\";s:19:\\"commentsLatestLimit\\";s:4:\\"desc\\";s:39:\\"modxtalks.prop_commentsLatestLimit_desc\\";s:4:\\"type\\";s:11:\\"numberfield\\";s:7:\\"options\\";s:0:\\"\\";s:5:\\"value\\";s:2:\\"20\\";s:7:\\"lexicon\\";s:20:\\"modxtalks:properties\\";s:4:\\"area\\";s:0:\\"\\";}}","moduleguid":"","static":0,"static_file":"","content":"\\/**\\n * @package modxtalks\\n *\\/\\nif (!isset($modx->modxtalks) || !($modx->modxtalks instanceof modxTalks)) {\\n    $modx->modxtalks = $modx->getService(\'modxtalks\',\'modxTalks\',$modx->getOption(\'modxtalks.core_path\',null,$modx->getOption(\'core_path\').\'components\\/modxtalks\\/\').\'model\\/modxtalks\\/\',$scriptProperties);\\n}\\n\\n$comments = $modx->modxtalks->getLatestComments();\\n\\nreturn $comments;"}',
+        'guid' => '7668be80aed263ba8f74ed6c0b7d28a7',
+        'native_key' => NULL,
+        'signature' => '8ff19068243a639cb3b954093de9ca59',
+      ),
+      'b39b2355abd6e60451261a0afb411c48' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":null,"source":0,"property_preprocess":0,"name":"MtCount","description":"Snippet to run the page parser and display the number of comments on the resource.","editor_type":0,"category":0,"cache_type":0,"snippet":"$modx->mt_mtCount = true;\\nreturn \'\';","locked":0,"properties":null,"moduleguid":"","static":0,"static_file":"","content":"$modx->mt_mtCount = true;\\nreturn \'\';"}',
+        'guid' => 'b227199cbb47cd173163472874f24543',
+        'native_key' => NULL,
+        'signature' => '32a157521051740f7fd248a2a06f5455',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Chunks' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+    'Snippets' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+    'Plugins' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+  ),
+  'namespace' => 'modxtalks',
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"modxtalks-1.0.3-beta\\/modCategory\\/695fdc1b578492034fdca229730b42db\\/0\\/","target":"return MODX_CORE_PATH . \'components\\/\';","name":"modxtalks"}',
+    ),
+    1 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"modxtalks-1.0.3-beta\\/modCategory\\/695fdc1b578492034fdca229730b42db\\/1\\/","target":"return MODX_ASSETS_PATH . \'components\\/\';","name":"modxtalks"}',
+    ),
+    2 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"modxtalks-1.0.3-beta\\/modCategory\\/695fdc1b578492034fdca229730b42db.extpack.resolver.resolver","type":"php","name":"extpack.resolver"}',
+    ),
+    3 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"modxtalks-1.0.3-beta\\/modCategory\\/695fdc1b578492034fdca229730b42db.setupoptions.resolver.resolver","type":"php","name":"setupoptions.resolver"}',
+    ),
+    4 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"modxtalks-1.0.3-beta\\/modCategory\\/695fdc1b578492034fdca229730b42db.dbfields.resolver.resolver","type":"php","name":"dbfields.resolver"}',
+    ),
+  ),
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3a0ee8d26142032739676915559a548d',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => '695fdc1b578492034fdca229730b42db',
+  'native_key' => 1,
+  'object' => '{"id":1,"parent":0,"category":"MODXTalks"}',
+);

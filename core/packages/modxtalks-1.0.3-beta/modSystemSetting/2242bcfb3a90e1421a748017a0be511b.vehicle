@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5d6c49bba86e6a24676b075a1866fc7d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '2242bcfb3a90e1421a748017a0be511b',
+  'native_key' => 'modxtalks.editOptionsControls',
+  'object' => '{"key":"modxtalks.editOptionsControls","value":"fixed,image,link,strike,header,italic,bold,video,quote","xtype":"textfield","namespace":"modxtalks","area":"settingBBCode","editedon":null}',
+);

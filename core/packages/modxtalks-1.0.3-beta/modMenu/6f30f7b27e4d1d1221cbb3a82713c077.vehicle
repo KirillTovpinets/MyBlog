@@ -1,0 +1,50 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'unique_key' => 'text',
+  'related_objects' => 
+  array (
+    'Action' => 
+    array (
+      'a204b303e87410ef2b525becfc52e719' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 
+        array (
+          0 => 'namespace',
+          1 => 'controller',
+        ),
+        'class' => 'modAction',
+        'object' => '{"id":1,"namespace":"modxtalks","controller":"index","haslayout":1,"lang_topics":"modxtalks:default","assets":"","help_url":"","parent":0}',
+        'guid' => '9195508571b0fe63a5b9265a51879105',
+        'native_key' => 1,
+        'signature' => '7ed4f4b9396b312162717bab34b83b77',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Action' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 
+      array (
+        0 => 'namespace',
+        1 => 'controller',
+      ),
+    ),
+  ),
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2a1f9974ad5367554b28f85b8fa0d6e0',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '6f30f7b27e4d1d1221cbb3a82713c077',
+  'native_key' => 'modxtalks.blocking_ip',
+  'object' => '{"text":"modxtalks.blocking_ip","parent":"modxtalks","action":1,"description":"","icon":"images\\/icons\\/plugin.gif","menuindex":0,"params":"#modxTalks:ip-blocking","handler":"","permissions":"","namespace":"core"}',
+);

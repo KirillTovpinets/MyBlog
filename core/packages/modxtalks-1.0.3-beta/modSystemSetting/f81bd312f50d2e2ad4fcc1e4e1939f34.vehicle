@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd8d512e43ffaf51602817d2c303b9252',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'f81bd312f50d2e2ad4fcc1e4e1939f34',
+  'native_key' => 'modxtalks.jquery',
+  'object' => '{"key":"modxtalks.jquery","value":true,"xtype":"combo-boolean","namespace":"modxtalks","area":"settings","editedon":null}',
+);

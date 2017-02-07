@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f3bdf30ff3bccc976f9ea081021eb55b',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '8b22f9f35767b8e4a47437264e541f13',
+  'native_key' => 'modxtalks.emailsFrom',
+  'object' => '{"key":"modxtalks.emailsFrom","value":"","xtype":"textfield","namespace":"modxtalks","area":"emailNotifications","editedon":null}',
+);

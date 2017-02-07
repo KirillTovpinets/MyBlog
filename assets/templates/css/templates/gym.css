@@ -1,0 +1,887 @@
+/* Gym */
+body.css-gym,
+.css-gym p,
+.css-gym h1,
+.css-gym h2,
+.css-gym h3,
+.css-gym h4,
+.css-gym h5,
+.css-gym h6,
+.css-gym .featured-content h1.small,
+.css-gym .form-group > label,
+.css-gym .checkbox > label,
+.css-gym .alert > p,
+.css-gym .block-content-wrapper h2,
+.css-gym .intro-text h1, .intro-text h2,
+.css-gym .intro-text h3, .intro-text h4,
+.css-gym .intro-text h5, .intro-text h6,
+.css-gym .restaurant-info-img-content h4,
+.css-gym .contact-title h3 {
+  font-family: "Droid Sans", sans-serif;
+}
+
+.css-gym h1, .css-gym h2, .css-gym h3, .css-gym h4, .css-gym h5, .css-gym h6 {
+  font-family: "Droid Sans", sans-serif;
+}
+
+.css-gym .color-1 {
+  color: #fc3c2a !important;
+}
+
+.css-gym .background-1,
+.css-gym .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #fc3c2a !important;
+}
+
+.css-gym .color-2 {
+  color: #f3565d !important;
+}
+
+.css-gym .background-2,
+.css-gym .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #f3565d !important;
+}
+
+.css-gym .color-3 {
+  color: #8da6e9 !important;
+}
+
+.css-gym .background-3,
+.css-gym .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3 {
+  background-color: #8da6e9 !important;
+}
+
+.css-gym .call-to-action {
+  background-color: transparent !important;
+}
+
+.css-gym .tp-caption .btn-default,
+.css-gym .btn-default,
+.css-gym .flex-control-paging li a.flex-active,
+.css-gym .navbar-toggle,
+.css-gym #mobile-navbar,
+.css-gym .offscreen-container,
+.css-gym .maincolor-background,
+.css-gym ul.widget-ul li a > span,
+.css-gym ul.widget-social li a:hover,
+.css-gym #people .item .info,
+.css-gym .main-color,
+.css-gym .flexslider.clients .flex-control-paging li a.flex-active,
+.css-gym #portfolio-filter li a:after,
+.css-gym .navbar.banner--clone .nav li.active > a,
+.css-gym .pagination-box .pager li a,
+.css-gym .pricing-table-column.special-price-table .pricing-table-head,
+.css-gym .pricing-table-column.special-price-table .pricing-table-content,
+.css-gym .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-gym .tags-cloud-list li a:hover,
+.css-gym .progress-bar-box .progress-bar,
+.css-gym .background-1,
+.css-gym .selecter .selecter-item:hover,
+.css-gym .selecter .selecter-item.selected:hover,
+.css-gym #footer.colored,
+.css-gym section.about-counter,
+.css-gym .error-page-title:after,
+.css-gym .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-gym .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-gym .tabpanel-style-4 .tab-content h3:after,
+.css-gym .about-classic-column-themecolor,
+.css-gym .selecter .selecter-item:hover,
+.css-gym .selecter .selecter-item.selected:hover,
+.css-gym .item-text-wrapper_overlay,
+.css-gym .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-gym .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-gym .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-gym .shop-type-2 a.add-to-cart-item,
+.css-gym .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-gym .navbar-2 .btn-cart .header-cart-count,
+.css-gym .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-gym .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-gym .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-gym .dropcap.dropcap-style-2,
+.css-gym .alert-default,
+.css-gym blockquote:before,
+.css-gym blockquote:after,
+.css-gym .tp-caption .btn-default,
+.css-gym .btn-default,
+.css-gym .content-title h5:before,
+.css-gym .content-title h5:after,
+.css-gym .icon-box.icon-fill .icon-block,
+.css-gym .icon-box.icon-square:hover .icon-block,
+.css-gym .icon-box.icon-circle:hover .icon-block,
+.css-gym .icon-box.icon-square:hover .icon-block span,
+.css-gym .icon-box.icon-circle:hover .icon-block span,
+.css-gym .icon-type.it-main-color:hover,
+.css-gym .icon-type.it-main-color:focus,
+.css-gym .icon-type.it-main-color-reverse,
+.css-gym .icon-type.it-main-color:hover span,
+.css-gym .icon-type.it-main-color-reverse:hover span,
+.css-gym .add-to-cart-form .count-input .count-plus:hover,
+.css-gym .add-to-cart-form .count-input .count-minus:hover,
+.css-gym .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-gym .pricing-table-container.special-price-table,
+.css-gym .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-gym .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-gym ul.forum-list li.forum-header,
+.css-gym .textbox-withmaincolor,
+.css-gym .background-1,
+.css-gym .team-member-job,
+.css-gym .team-section .team-desc-box:before,
+.css-gym .team-section .team-desc-box:after,
+.css-gym .shop-categories:hover .shop-title-categories,
+.css-gym .content-divider-colored-bg [class^="icon-"],
+.css-gym .overlay-animation-6 .content-box,
+.css-gym .block-content-wrapper h1,
+.css-gym .benefits-box h1,
+.css-gym .selecter .selecter-item:hover,
+.css-gym .selecter .selecter-item.selected:hover,
+.css-gym .ui-slider .ui-slider-range,
+.css-gym #header.header-main-color,
+.css-gym .navbar-2.banner--clone.main-color-navbar,
+.css-gym .tabpanel-style-center .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-gym .label.label-primary,
+.css-gym .label.label-primary,
+.css-gym .star-rating .caption .label,
+.css-gym .tparrows.preview5:hover,
+.css-gym .table-style-4.table-withmaincolor thead tr th,
+.css-gym .table-style-5.table-withmaincolor thead tr th,
+.css-gym .table-style-6.table-withmaincolor thead tr th,
+.css-gym .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-gym .table-style-7.table-withmaincolor thead tr th,
+.css-gym .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-gym .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-gym .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-gym .table-style-2.table-withmaincolor thead tr th,
+.css-gym .table-style-3.table-withmaincolor thead tr th,
+.css-gym .table-style-3.table-withmaincolor tbody tr th,
+.css-gym .parallax-withmaincolor,
+.css-gym .contact-overlay-map .minimize-form:hover,
+.css-gym .team-3:hover .team-social,
+.css-gym .team-5:hover .team-social,
+.css-gym .special-table-2,
+.css-gym .special-table-3,
+.css-gym span.pricing-3-discount,
+.css-gym #vertical-timeline-container:before,
+.css-gym .subscribe-fancy-themebg,
+.css-gym .empty-cart,
+.css-gym .team-4:hover .team-social,
+.css-gym .content-divider-colored,
+.css-gym .content-divider-colored-bg,
+.css-gym .withmainbackground,
+.css-gym .services-2-heading,
+.css-gym .icon-box-2-effect-4 .icon-block-2,
+.css-gym .services-2-heading,
+.css-gym .promotion-box-theme-colored,
+.css-gym .promotion-box-theme-colored .promotion-box-title h4,
+.css-gym .icon-block-2,
+.css-gym .icon-box-2-effect-2:hover .icon-block-2,
+.css-gym .icon-box-2-effect-3 .icon-block-2:after,
+.css-gym .icon-box-2-effect-4 .icon-block-2:after,
+.css-gym .icon-box-2-effect-6 .icon-block-2,
+.css-gym .icon-box-2-effect-6:hover .icon-block-2,
+.css-gym .simple-icon-icon,
+.css-gym a.call-to-action-link:hover,
+.css-gym .add-to-cart-form .count-input .count-plus,
+.css-gym .add-to-cart-form .count-input .count-minus,
+.css-gym .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-gym .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-gym .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-gym .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-gym .special-price-box,
+.css-gym .dropdown-menu > .active > a,
+.css-gym .dropdown-menu > .active > a:focus,
+.css-gym .dropdown-menu > .active > a:hover,
+.css-gym #header.main-color-nav .navbar-2,
+.css-gym .latest-post-data,
+.css-gym .blog-single-post .bsp-heading h1,
+.css-gym .testimonial-single .slick-dots li button:before,
+.css-gym .slick-dots li button:before,
+.css-gym .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-gym .timeline-complete .timeline-status.timeline-active:before,
+.css-gym .megamenu.maincolor,
+.css-gym .dropdown.maincolor ul,
+.css-gym .dropdown.maincolor ul.dropdown-menu,
+.css-gym #footer.maincolor,
+.css-gym #copyrights.maincolor,
+.css-gym .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-gym .cd-horizontal-timeline .events a.selected::after,
+.css-gym .cd-horizontal-timeline .filling-line,
+.css-gym .pinpulsebox span,
+.css-gym .main-color-dropdown .megamenu,
+.css-gym .main-color-dropdown .dropdown-menu,
+.css-gym #cd-timeline::before,
+.css-gym ul.icon-list.il-main-bg li [class^="icon-"],
+.css-gym .process-steps ul li.current a .number,
+.css-gym ol.ordered-list.ol-main-bg li:before,
+.css-gym .irs-bar,
+.css-gym .irs-from,
+.css-gym .irs-to,
+.css-gym .irs-single,
+.css-gym .open > .dropdown-toggle.btn-default,
+.css-gym .fc-unthemed .fc-today,
+.css-gym .fc-content,
+.css-gym #particles-js,
+.css-gym .s-icon:hover,
+.css-gym #progressbar li.active:before,
+.css-gym #progressbar li.active:after,
+.css-gym .pagination > .active > a,
+.css-gym .pagination > .active > a:focus,
+.css-gym .pagination > .active > a:hover,
+.css-gym .pagination > .active > span,
+.css-gym .pagination > .active > span:focus,
+.css-gym .pagination > .active > span:hover,
+.css-gym .portfolio-filter .selecter-item.activeFilter,
+.css-gym .page-loader-spinner span,
+.css-gym .loader-6:before,
+.css-gym .loader-2,
+.css-gym .loader-2:before,
+.css-gym .loader-2:after,
+.css-gym .loader-10 > div, 
+.css-gym .loader-11 > div,
+.css-gym .loader-13 > div:first-child, 
+.css-gym .loader-14 > div, 
+.css-gym .loader-16 > div, 
+.css-gym .loader-17 > div, 
+.css-gym .loader-17 > div:before, 
+.css-gym .loader-17 > div:after, 
+.css-gym .loader-18 > div, 
+.css-gym .loader-19 > div, 
+.css-gym .loader-20 > div, 
+.css-gym .loader-22 > div, 
+.css-gym .loader-23 > div, 
+.css-gym .loader-24 > div, 
+.css-gym .loader-25 > div, 
+.css-gym .loader-26 > div, 
+.css-gym .loader-27 > div, 
+.css-gym .loader-28 > div, 
+.css-gym .loader-29 > div, 
+.css-gym .loader-32 > div, 
+.css-gym .loader-33 > div, 
+.css-gym .loader-35 > div:nth-child(3), 
+.css-gym .loader-35 > div:nth-child(4), 
+.css-gym .loader-35 > div:nth-child(5),
+.css-gym .loader-35 > div:nth-child(6), 
+.css-gym .loader-37 > div, 
+.css-gym .loader-38 > div,
+.css-gym .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-gym .radio input[type=radio]:checked ~ .check, 
+.css-gym .vlt-btn-group .dropdown-menu li a:hover, 
+.css-gym .gsi-step-indicator.triangle li.current>*, 
+.css-gym .gsi-style-4 li.current>*, 
+.css-gym .gsi-style-5 li.current>*, 
+.css-gym .gsi-style-6 li.current>* .number, 
+.css-gym .gsi-style-7 li.current:hover>*, 
+.css-gym .gsi-style-8 li.visited>*, 
+.css-gym .gsi-style-8 li.current>*, 
+.css-gym .gsi-style-9 li.visited>*:after, 
+.css-gym .gsi-style-9 li.current>*:after, 
+.css-gym .gsi-style-10 li.visited>*:after, 
+.css-gym .gsi-style-10 li.current>*:after, 
+.css-gym .gsi-style-11 li.current:before, 
+.css-gym .gsi-style-11 li.current:after, 
+.css-gym .gsi-style-11 li.visited:before, 
+.css-gym .gsi-style-11 li.visited:after, 
+.css-gym .gsi-style-11 li.visited>*:after, 
+.css-gym .gsi-style-11 li.current>*:after, 
+.css-gym .flatpickr-day.today:focus, 
+.css-gym .flatpickr-day.today:hover {
+  background-color: #fc3c2a !important;
+}
+
+.css-gym .header-content .phone-number span,
+.css-gym .intro-block h6,
+.css-gym .icon-block [class^="icon-"],
+.css-gym ul.header-links li a:hover,
+.css-gym .navbar.banner--clone .nav > li > a:hover,
+.css-gym .navbar.banner--clone .btn-search:hover,
+.css-gym .success-lg:hover [class^="icon-"],
+.css-gym #copyrights ul li a:hover,
+.css-gym #copyrights a:hover,
+.css-gym .breadcrumb > .active,
+.css-gym #portfolio-filter li a.activeFilter,
+.css-gym #portfolio-filter li a:hover,
+.css-gym .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-gym a.image_zoom:hover [class^="icon-"],
+.css-gym a.image_link:hover [class^="icon-"],
+.css-gym a.load-more-btn:hover,
+.css-gym a.load-more-btn:hover [class^="icon-"],
+.css-gym .intro-block h1 [class^="icon-"],
+.css-gym .shop-list .shop-product h4 a:hover,
+.css-gym ul#portfolio-layout-filter li a.active,
+.css-gym .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-gym ul.sidebar-shop-cat > li span,
+.css-gym .shop-price,
+.css-gym ul.sidebar-shop-cat > li > a:hover,
+.css-gym a.load-more-btn:hover,
+.css-gym a.load-more-btn:hover [class^="icon-"],
+.css-gym .intro-block h1 [class^="icon-"],
+.css-gym .shop-list .shop-product h4 a:hover,
+.css-gym ul#portfolio-layout-filter li a.active,
+.css-gym .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-gym ul.sidebar-cat > li span,
+.css-gym .shop-price,
+.css-gym ul.sidebar-cat > li > a:hover,
+.css-gym ul.jobs-list li [class^="icon-"],
+.css-gym .team-social a:hover,
+.css-gym .icon-default,
+.css-gym .error-page-icon span [class^="icon-"],
+.css-gym .footer-3-container-text a:hover,
+.css-gym .testimonials-box .testimonial-author,
+.css-gym #page-title.image-page-title-fullwidth h1,
+.css-gym #page-title.image-page-title-left.image-page-noimage h2,
+.css-gym ul.services-2-icons,
+.css-gym ul.shop-layout-filter li a.active,
+.css-gym ul.portfolio-layout-filter li a.active,
+.css-gym ul.porfolio-project-details-list > li .ppd-right,
+.css-gym ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-gym .related-projects-title .slick-custom-next:hover,
+.css-gym .related-projects-title .slick-custom-prev:hover,
+.css-gym .recent-post-content a:hover,
+.css-gym .form-group.login-form-submit a,
+.css-gym .shop-type-1 a.add-to-cart-item:before,
+.css-gym .shop-type-2 a.add-to-cart-item:before,
+.css-gym a.form-forgotpass,
+.css-gym .sidebar-shop-products-list li .ssp-title:hover,
+.css-gym .restaurant-info ul li [class^="icon-"],
+.css-gym .navbar-default.default .btn-cart .header-cart-count,
+.css-gym .cart-shop-products-list li .csp-title:hover,
+.css-gym .blog-list > article .blog-desc h4 a:hover,
+.css-gym .blog-list > article .blog-desc h4 a:focus,
+.css-gym .blog-list-full > article .blog-desc h4 a:hover,
+.css-gym .blog-list-full > article .blog-desc h4 a:focus,
+.css-gym .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-gym .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-gym .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-gym .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-gym .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-gym .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-gym .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-gym .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-gym .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-gym .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-gym .blog-masonry > article .blog-desc h4 a:hover,
+.css-gym .blog-masonry > article .blog-desc h4 a:focus,
+.css-gym .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-gym .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-gym .comment_response .media h6 a,
+.css-gym .comment_response .media_cloud a.reply_link,
+.css-gym .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-gym .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-gym .dropcap.dropcap-style-1,
+.css-gym .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-gym .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-gym .counter-box .count-icon,
+.css-gym .counter-style-1 .counter-box h4,
+.css-gym .icon-type,
+.css-gym .icon-type.it-main-color,
+.css-gym .icon-type.it-main-color-reverse:hover,
+.css-gym .icon-type.it-main-color-reverse:focus,
+.css-gym .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-gym .comment_response .media h6 a,
+.css-gym .comment_response .media_cloud a.reply_link,
+.css-gym .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-gym .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-gym .dropcap.dropcap-style-1,
+.css-gym .btn-default-reverse,
+.css-gym .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-gym .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-gym .counter-box .count-icon,
+.css-gym .counter-style-1 .counter-box h4,
+.css-gym .icon-type,
+.css-gym .icon-type.it-main-color,
+.css-gym .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-gym .icon-type.it-main-color-reverse:focus,
+.css-gym .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-gym .review_response .media h6 a,
+.css-gym .review_response .media_cloud .shop-star-rating li.full-star,
+.css-gym .rating-container .rating-stars,
+.css-gym .form-contact small,
+.css-gym ul.icon-list li a:hover,
+.css-gym ul.icon-list li a:active,
+.css-gym ul.icon-list li a:focus,
+.css-gym .checkout-sum,
+.css-gym .checkout-table td a:hover,
+.css-gym .checkout-box a,
+.css-gym .user-profile-list ul li a:hover,
+.css-gym a.profile-active,
+.css-gym .user-profile-content h2,
+.css-gym .forum-content-header span a,
+.css-gym .recent-work-content a:hover,
+.css-gym .recent-work-image-content a:hover,
+.css-gym .contact-overlay-map .maximize-form:hover,
+.css-gym .hero-slier-nav-content:hover [class^="icon-"],
+.css-gym .selected .hero-slier-nav-content [class^="icon-"],
+.css-gym .team-social a:hover,
+.css-gym .team-name h5 a:hover,
+.css-gym .clients-slick-nav .slick-custom-next:hover,
+.css-gym .clients-slick-nav .slick-custom-prev:hover,
+.css-gym .services-pricing-icon [class^="icon-"],
+.css-gym .brand [class^="icon-"],
+.css-gym .content-divider-colored [class^="icon-"],
+.css-gym .divider-content h1 span,
+.css-gym .divider-content h2 span,
+.css-gym .divider-content h3 span,
+.css-gym .intro-page-content a:hover,
+.css-gym .image-box-content a:hover,
+.css-gym .icon-type.it-main-color [class^="icon-"],
+.css-gym .icon-type-2:hover p,
+.css-gym .icon-type-2:hover span.icon-type-2-icon,
+.css-gym .heading-container .head-colored,
+.css-gym ul.home-6-list li h4 [class^="icon-"],
+.css-gym .icon-box-2-effect-1:hover .icon-block-2,
+.css-gym .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-gym .icon-box-2-effect-4:hover .icon-block-2,
+.css-gym .icon-box-2-effect-4-reverse .icon-block-2,
+.css-gym .icon-box-2-effect-5:hover .icon-block-2,
+.css-gym .simple-icon-lightbg [class^="icon-"],
+.css-gym .newsletter-signup button,
+.css-gym a.add-to-wishlist.select,
+.css-gym a.add-to-wishlist.select [class^="icon-"],
+.css-gym .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-gym .panel-body ul li a:hover,
+.css-gym .colored,
+.css-gym .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-6 .nav-tabs > li > a,
+.css-gym .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-gym .tp_caption_big span,
+.css-gym ul.icon-box-simple li:hover a,
+.css-gym .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-gym .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-gym .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-gym .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-gym .blockquote-author p,
+.css-gym .testimonial-author,
+.css-gym .latest-post-content h1 a:hover,
+.css-gym .post-by a:hover,
+.css-gym .latest-post-content .read-more-link,
+.css-gym .blog-horizontal .bh-content h3 a:hover,
+.css-gym .blog-horizontal .bh-content .bh-details a:hover,
+.css-gym .blog-horizontal .bh-content .bh-details a:hover span,
+.css-gym a.bsp-title:hover,
+.css-gym .sidebar-blog-post-list li .sbp-title:hover,
+.css-gym .navbar-nav > li.active,
+.css-gym .navbar-nav > li.active:hover,
+.css-gym a.idb-social:hover,
+.css-gym a.idb-social:hover span,
+.css-gym a.idb-price,
+.css-gym span.pts-raised,
+.css-gym .bsp-social a:hover,
+.css-gym .bsp-social a [class^="icon-"]:hover,
+.css-gym a.bsp-more:hover,
+.css-gym .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-gym .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-gym .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-gym .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-gym .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-gym .gallery-block .gallery-box .gallery-meta a:hover,
+.css-gym .gallery-block .gallery-box .gallery-meta a:focus,
+.css-gym .cd-timeline-inner-content a:hover,
+.css-gym .testimonial-box .testimonial-author span,
+.css-gym .fic-date a:hover,
+.css-gym .forum-inner-content h1 a:hover,
+.css-gym .user-profile-desc a:hover,
+.css-gym .cd-timeline-navigation a:hover::after,
+.css-gym .login-form .login-input-box [class^="icon-"],
+.css-gym .icon-input-box [class^="icon-"],
+.css-gym ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-gym ul.bar-chart-graph li,
+.css-gym ul.line-graph li,
+.css-gym ul.donut-graph li,
+.css-gym .tp-caption.Creative-SubTitle,
+.css-gym .Creative-SubTitle,
+.css-gym .tp-caption.vlt-hero-rotating,
+.css-gym .pagination > li > a:focus,
+.css-gym .pagination > li > a:hover,
+.css-gym .pagination > li > span:focus,
+.css-gym .pagination > li > span:hover,
+.css-gym .pager li > a,
+.css-gym ul.recent-post-widget .rp-post a:hover,
+.css-gym .tp-tab.selected span.tp-tab-title span,
+.css-gym .tp-tab.selected span.tp-tab-title,
+.css-gym .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-gym .tp-main-color,
+.css-gym .loader-5,
+.css-gym .loader-7,
+.css-gym .loader-9,
+.css-gym .loader-2,
+.css-gym .loader-4,
+.css-gym .gsi-style-9 li.visited>*, 
+.css-gym .gsi-style-9 li.current>* ,
+.css-gym .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-gym .item-text-wrapper_normal .portfolio-item-category a:hover{
+  color: #fc3c2a !important;
+}
+
+.css-gym .tp-caption .btn-default,
+.css-gym .btn-default,
+.css-gym .flex-control-paging li a.flex-active,
+.css-gym .flexslider.clients .flex-control-paging li a.flex-active,
+.css-gym .pagination-box .pager li a,
+.css-gym .contact-info-3,
+.css-gym .tags-cloud-list li a:hover,
+.css-gym .team-social a:hover,
+.css-gym .contact-title-one h3:after,
+.css-gym .home-title-one h3:after,
+.css-gym #login-form .login-input:active,
+.css-gym #login-form .login-input:focus,
+.css-gym .load-more-wrapper a.load-more-btn:hover,
+.css-gym #register-form .register-input:active,
+.css-gym #register-form .register-input:focus,
+.css-gym .dropcap.dropcap-style-1,
+.css-gym .dropcap.dropcap-style-2,
+.css-gym .alert-default,
+.css-gym blockquote,
+.css-gym .tp-caption .btn-default,
+.css-gym .btn-default,
+.css-gym .btn-default-reverse,
+.css-gym .icon-box.icon-square .icon-block,
+.css-gym .icon-box.icon-circle .icon-block,
+.css-gym .icon-type.it-main-color,
+.css-gym .icon-type.it-main-color:hover,
+.css-gym .icon-type.it-main-color:focus,
+.css-gym .icon-type.it-main-color-reverse,
+.css-gym .icon-type.it-main-color-reverse:hover,
+.css-gym .icon-type.it-main-color-reverse:focus,
+.css-gym .add-to-cart-form .count-input .count-plus:hover,
+.css-gym .add-to-cart-form .count-input .count-minus:hover,
+.css-gym #reviewmodal .modal-header,
+.css-gym .job-left-title h3,
+.css-gym .pricing-table-container.special-price-table,
+.css-gym .clients-slick-nav .slick-custom-next:hover,
+.css-gym .clients-slick-nav .slick-custom-prev:hover,
+.css-gym a.add-to-wishlist.select,
+.css-gym a.add-to-wishlist.select [class^="icon-"],
+.css-gym .tabpanel-style-8 .nav-tabs > li.active,
+.css-gym a.btn-default.btn-animation-icon-box,
+.css-gym .btn-default.btn-animation-icon-box:hover,
+.css-gym .btn-default.btn-animation-icon-box:focus,
+.css-gym .btn-default.btn-animation-icon-box:active,
+.css-gym .tp-caption a.btn-default.btn-animation-icon-box,
+.css-gym .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-gym .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-gym .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-gym .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-gym .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-gym .clients-slick-nav .slick-clients-prev:hover,
+.css-gym .clients-slick-nav .slick-clients-next:hover,
+.css-gym .bsp-image,
+.css-gym .blog-list > article.default-post .blog-desc,
+.css-gym .testimonial-single li.slick-active button::before,
+.css-gym .slick-dots li.slick-active button:before,
+.css-gym .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-gym .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-gym .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-gym .timeline-status.timeline-active:before,
+.css-gym .cd-horizontal-timeline .events a.older-event::after,
+.css-gym .cd-horizontal-timeline .events a.selected::after,
+.css-gym .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-gym .no-touch .cd-timeline-navigation a:hover,
+.css-gym .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-gym .cd-timeline-navigation a:hover,
+.css-gym .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-gym .login-form input:focus,
+.css-gym .pinpulse,
+.css-gym .open > .dropdown-toggle.btn-default,
+.css-gym .pagination > .active > a,
+.css-gym .pagination > .active > a:focus,
+.css-gym .pagination > .active > a:hover,
+.css-gym .pagination > .active > span,
+.css-gym .pagination > .active > span:focus,
+.css-gym .pagination > .active > span:hover,
+.css-gym .table-style-1 thead tr th,
+.css-gym .table-style-1 tbody tr:last-child th,
+.css-gym .table-style-1 tbody tr:last-child td,
+.css-gym .table-withmaincolor thead tr th,
+.css-gym .clients-title-border h3,
+.css-gym .cd-slider-nav li:hover,
+.css-gym .selected,
+.css-gym .job-form input:focus,
+.css-gym .job-form select:focus,
+.css-gym .job-form textarea:focus,
+.css-gym .form-contact input:focus,
+.css-gym .form-contact select:focus,
+.css-gym .form-contact textarea:focus,
+.css-gym .form-contact input:focus,
+.css-gym .icon-type-2:hover p,
+.css-gym .icon-type-2:hover span.icon-type-2-icon,
+.css-gym .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-gym .activeFilter,
+.css-gym .loader-30 > div, 
+.css-gym .loader-31 > div, 
+.css-gym .loader-35 > div:first-of-type, 
+.css-gym .loader-35 > div:nth-child(2),
+.css-gym .loader-12 > div,
+.css-gym .loader-15 > div,
+.css-gym .loader-21 > div,
+.css-gym .radio input[type=radio]:checked ~ .circle, 
+.css-gym .gsi-step-indicator.triangle li.current>*, 
+.css-gym .gsi-style-7.border-right li.current>*, 
+.css-gym .gsi-style-7.border-bottom li.current>*, 
+.css-gym .gsi-style-7.border-left li.current>*, 
+.css-gym .flatpickr-day.today, 
+.css-gym .flatpickr-day.today:focus, 
+.css-gym .flatpickr-day.today:hover {
+    border-color:  #fc3c2a;
+}
+
+.css-gym .tabpanel-style-4 .nav-tabs > li.active,
+.css-gym .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-gym .tabpanel-style-5 .nav-tabs > li.active,
+.css-gym .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #fc3c2a transparent;
+}
+
+.css-gym .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #fc3c2a;
+}
+
+.css-gym .icon-box-2-effect-4 .icon-block-2,
+.css-gym .icon-box-2-effect-5 .icon-block-2,
+.css-gym .icon-box-2-effect-5:hover .icon-block-2,
+.css-gym .icon-box-2-effect-1 .icon-block-2:after,
+.css-gym .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #fc3c2a;
+}
+
+.css-gym .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #fc3c2a;
+}
+
+.css-gym .empty-cart:after, .css-gym .loader-34 > div  {
+  border-bottom-color: #fc3c2a;
+}
+
+.css-gym .btn-default-reverse:hover,
+.css-gym .btn-default-reverse:focus {
+  background-color: #fc3c2a !important;
+  border-color: #fc3c2a !important;
+}
+
+.css-gym .tp-caption .btn-default.active,
+.css-gym .btn-default.active,
+.css-gym .tp-caption .btn-default.focus,
+.css-gym .btn-default.focus,
+.css-gym .tp-caption .btn-default:active,
+.css-gym .btn-default:active,
+.css-gym .tp-caption .btn-default:focus,
+.css-gym .btn-default:focus,
+.css-gym .tp-caption .btn-default:hover,
+.css-gym .btn-default:hover,
+.css-gym .tp-caption .btn-white:hover,
+.css-gym .btn-white:hover {
+  background-color: #f52f1d !important;
+  border-color: #f52f1d !important;
+}
+
+.css-gym .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #fc3c2a;
+}
+
+.css-gym #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #fc3c2a;
+}
+
+.css-gym #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-gym span.latest-post-month,
+.css-gym .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-gym .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #f52f1d;
+}
+
+.css-gym #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #f52f1d;
+  border-color: #f52f1d;
+}
+
+.css-gym #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-gym #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #f52f1d;
+}
+
+.css-gym .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-gym .item-text-wrapper,
+.css-gym .standard_hover .portfolio_overlay,
+.css-gym .overlay-animation-1 .overlay_box,
+.css-gym .overlay-animation-2 .overlay_box,
+.css-gym .flip-hover .flip-box .content-box,
+.css-gym .team-8 .team-image .overlay-team-box,
+.css-gym .team-9 .team-image .overlay-team-box,
+.css-gym .portfolio-animation-slide .sliding-content {
+  background-color: rgba(252, 60, 42, 0.9);
+}
+.css-gym .gsi-style-4 li.current>* .number:before{
+  border-left-color: #fc3c2a;
+}
+.css-gym .gsi-style-7.border-top li.current>*{
+  border-top-color: #fc3c2a;
+}
+.css-gym .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-gym .team-2 .overlay-team-box,
+.css-gym .team-6 .overlay-team-box,
+.css-gym .team-7 .overlay-team-box,
+.css-gym .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-gym .contact-overlay-map .overlay-map-background,
+.css-gym .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-gym .table-style-7.table-withmaincolor tbody tr th,
+.css-gym .table-style-2.table-withmaincolor tbody tr,
+.css-gym .fc-bgevent,
+.css-gym #particles-js.background-1 {
+  background-color: rgba(252, 60, 42, 0.6) !important;
+}
+
+.css-gym .widget-dribbble-box .shots li a:hover:before, .css-gym .dribbble-box .shots li a:hover:before,
+.css-gym .instagram-widget a:hover:before {
+  background-color: rgba(252, 60, 42, 0.85);
+}
+
+.css-gym .search-popup-box,
+.css-gym .scroll-to-top-fixed {
+  background-color: rgba(252, 60, 42, 0.95);
+}
+
+/**********************************************************/
+/*******        SLIDERS     *******************/
+/**********************************************************/
+.css-gym .tp-tab-date,
+.css-gym .tp-tab-image {
+  display: none !important;
+}
+
+.css-gym span.tp-tab-title span {
+  position: absolute;
+  font-size: 25px;
+  left: 15px;
+  top: 29px;
+  font-weight: 600;
+  color: #ffffff;
+  font-family: "Droid Sans", Arial, serif !important;
+}
+
+.css-gym .tp-tab-content {
+  padding: 15px 15px 15px 67px;
+}
+
+.css-gym .slider-hosting-section .tp-tabs {
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.css-gym .tp-tabs, .css-gym .slider-hosting-section .tp-tab:hover,
+.css-gym .slider-hosting-section .tp-tab.selected {
+  background-color: transparent !important;
+}
+
+.css-gym .tp-tabs {
+  top: -81px;
+}
+
+.css-gym .zeus .tp-tab:hover .tp-tab-title,
+.css-gym .zeus .tp-tab.selected .tp-tab-title {
+  background-color: transparent !important;
+  margin-top: 15px;
+}
+
+.css-gym .zeus .tp-tab-title {
+  text-align: left;
+  padding: 9px 10px 9px 60px;
+  background-color: transparent !important;
+  margin-top: 15px;
+  font-family: "Droid Sans", Arial, serif !important;
+  font-weight: 600 !important;
+  font-size: 17px;
+  line-height: 17px;
+}
+
+.css-gym .zeus .tp-tab:hover .tp-tab-title {
+  color: #ffffff;
+}
+
+.css-gym .loader-3 {
+  border-top-color: rgba(252, 60, 42, 0.2);
+  border-right-color: rgba(252, 60, 42, 0.2);
+  border-bottom-color: rgba(252, 60, 42, 0.2);
+  border-left-color: #fc3c2a;
+}
+
+.css-gym #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-white .navbar-2 .search-navbar .btn-cart:hover {
+  color: rgba(255, 255, 255, 0.85) !important;
+  border-color: transparent !important;
+}
+
+.css-gym .icon-box.icon-fill:hover .icon-block,
+.css-gym .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-gym .cart-shop-products h3, .css-gym .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-gym .cart-shop-products-list li .csp-price, .css-gym .sidebar-shop-products-list li .ssp-price,
+.css-gym .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-gym .shop-list .shop-product .shop-star-rating li.full-star,
+.css-gym ul.shop-star-rating li.full-star {
+  color: #8da6e9;
+}
+
+.css-gym .shop-list .shop-product .shop-ribbon, .css-gym .ui-slider-horizontal .ui-slider-range,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-gym .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #8da6e9;
+}
+.css-gym .loader-13 > div:last-child, 
+.css-gym .loader-15 > div:last-child {
+  border-color: #fc3c2a transparent;
+}
+.css-gym .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #fc3c2a 30%, #fc3c2a 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #fc3c2a 30%, #fc3c2a 100%);
+}

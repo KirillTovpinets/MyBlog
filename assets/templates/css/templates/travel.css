@@ -1,0 +1,911 @@
+/* Travel */
+body.css-travel,
+.css-travel p,
+.css-travel h1,
+.css-travel h2,
+.css-travel h3,
+.css-travel h4,
+.css-travel h5,
+.css-travel h6,
+.css-travel .featured-content h1.small,
+.css-travel .form-group > label,
+.css-travel .checkbox > label,
+.css-travel .alert > p,
+.css-travel .block-content-wrapper h2,
+.css-travel .intro-text h1, .intro-text h2,
+.css-travel .intro-text h3, .intro-text h4,
+.css-travel .intro-text h5, .intro-text h6,
+.css-travel .restaurant-info-img-content h4,
+.css-travel .contact-title h3 {
+  font-family: "Roboto", sans-serif;
+}
+
+.css-travel h1, .css-travel h2, .css-travel h3, .css-travel h4, .css-travel h5, .css-travel h6 {
+  font-family: "Roboto", sans-serif;
+}
+
+.css-travel .color-1 {
+  color: #4768f3 !important;
+}
+
+.css-travel .background-1,
+.css-travel .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-travel .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-travel .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #4768f3 !important;
+}
+
+.css-travel .color-2 {
+  color: #E85241 !important;
+}
+
+.css-travel .background-2,
+.css-travel .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-travel .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-travel .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #E85241 !important;
+}
+
+.css-travel .color-3 {
+  color: #22c064 !important;
+}
+
+.css-travel .background-3,
+.css-travel .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-travel .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-travel .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3 {
+  background-color: #22c064 !important;
+}
+
+.css-travel .tp-caption .btn-default,
+.css-travel .btn-default,
+.css-travel .flex-control-paging li a.flex-active,
+.css-travel .navbar-toggle,
+.css-travel #mobile-navbar,
+.css-travel .offscreen-container,
+.css-travel .maincolor-background,
+.css-travel ul.widget-ul li a > span,
+.css-travel ul.widget-social li a:hover,
+.css-travel #people .item .info,
+.css-travel .main-color,
+.css-travel .flexslider.clients .flex-control-paging li a.flex-active,
+.css-travel #portfolio-filter li a:after,
+.css-travel .navbar.banner--clone .nav li.active > a,
+.css-travel .pagination-box .pager li a,
+.css-travel .pricing-table-column.special-price-table .pricing-table-head,
+.css-travel .pricing-table-column.special-price-table .pricing-table-content,
+.css-travel .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-travel .tags-cloud-list li a:hover,
+.css-travel .progress-bar-box .progress-bar,
+.css-travel .background-1,
+.css-travel .selecter .selecter-item:hover,
+.css-travel .selecter .selecter-item.selected:hover,
+.css-travel #footer.colored,
+.css-travel section.about-counter,
+.css-travel .error-page-title:after,
+.css-travel .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-travel .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-travel .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-travel .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-travel .tabpanel-style-4 .tab-content h3:after,
+.css-travel .about-classic-column-themecolor,
+.css-travel .selecter .selecter-item:hover,
+.css-travel .selecter .selecter-item.selected:hover,
+.css-travel .item-text-wrapper_overlay,
+.css-travel .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-travel .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-travel .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-travel .shop-type-2 a.add-to-cart-item,
+.css-travel .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-travel .navbar-2 .btn-cart .header-cart-count,
+.css-travel .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-travel .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-travel .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-travel .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-travel .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-travel .dropcap.dropcap-style-2,
+.css-travel .alert-default,
+.css-travel blockquote:before,
+.css-travel blockquote:after,
+.css-travel .tp-caption .btn-default,
+.css-travel .btn-default,
+.css-travel .content-title h5:before,
+.css-travel .content-title h5:after,
+.css-travel .icon-box.icon-fill .icon-block,
+.css-travel .icon-box.icon-square:hover .icon-block,
+.css-travel .icon-box.icon-circle:hover .icon-block,
+.css-travel .icon-box.icon-square:hover .icon-block span,
+.css-travel .icon-box.icon-circle:hover .icon-block span,
+.css-travel .icon-type.it-main-color:hover,
+.css-travel .icon-type.it-main-color:focus,
+.css-travel .icon-type.it-main-color-reverse,
+.css-travel .icon-type.it-main-color:hover span,
+.css-travel .icon-type.it-main-color-reverse:hover span,
+.css-travel .add-to-cart-form .count-input .count-plus:hover,
+.css-travel .add-to-cart-form .count-input .count-minus:hover,
+.css-travel .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-travel .pricing-table-container.special-price-table,
+.css-travel .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-travel .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-travel ul.forum-list li.forum-header,
+.css-travel .textbox-withmaincolor,
+.css-travel .background-1,
+.css-travel .team-member-job,
+.css-travel .team-section .team-desc-box:before,
+.css-travel .team-section .team-desc-box:after,
+.css-travel .shop-categories:hover .shop-title-categories,
+.css-travel .content-divider-colored-bg [class^="icon-"],
+.css-travel .overlay-animation-6 .content-box,
+.css-travel .block-content-wrapper h1,
+.css-travel .benefits-box h1,
+.css-travel .selecter .selecter-item:hover,
+.css-travel .selecter .selecter-item.selected:hover,
+.css-travel .ui-slider .ui-slider-range,
+.css-travel #header.header-main-color,
+.css-travel .navbar-2.banner--clone.main-color-navbar,
+.css-travel .tabpanel-style-center .nav-tabs > li.active > a,
+.css-travel .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-travel .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-travel .label.label-primary,
+.css-travel .label.label-primary,
+.css-travel .star-rating .caption .label,
+.css-travel .tparrows.preview5:hover,
+.css-travel .table-style-4.table-withmaincolor thead tr th,
+.css-travel .table-style-5.table-withmaincolor thead tr th,
+.css-travel .table-style-6.table-withmaincolor thead tr th,
+.css-travel .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-travel .table-style-7.table-withmaincolor thead tr th,
+.css-travel .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-travel .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-travel .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-travel .table-style-2.table-withmaincolor thead tr th,
+.css-travel .table-style-3.table-withmaincolor thead tr th,
+.css-travel .table-style-3.table-withmaincolor tbody tr th,
+.css-travel .parallax-withmaincolor,
+.css-travel .contact-overlay-map .minimize-form:hover,
+.css-travel .team-3:hover .team-social,
+.css-travel .team-5:hover .team-social,
+.css-travel .special-table-2,
+.css-travel .special-table-3,
+.css-travel span.pricing-3-discount,
+.css-travel #vertical-timeline-container:before,
+.css-travel .subscribe-fancy-themebg,
+.css-travel .empty-cart,
+.css-travel .team-4:hover .team-social,
+.css-travel .content-divider-colored,
+.css-travel .content-divider-colored-bg,
+.css-travel .withmainbackground,
+.css-travel .services-2-heading,
+.css-travel .icon-box-2-effect-4 .icon-block-2,
+.css-travel .services-2-heading,
+.css-travel .promotion-box-theme-colored,
+.css-travel .promotion-box-theme-colored .promotion-box-title h4,
+.css-travel .icon-block-2,
+.css-travel .icon-box-2-effect-2:hover .icon-block-2,
+.css-travel .icon-box-2-effect-3 .icon-block-2:after,
+.css-travel .icon-box-2-effect-4 .icon-block-2:after,
+.css-travel .icon-box-2-effect-6 .icon-block-2,
+.css-travel .icon-box-2-effect-6:hover .icon-block-2,
+.css-travel .simple-icon-icon,
+.css-travel a.call-to-action-link:hover,
+.css-travel .add-to-cart-form .count-input .count-plus,
+.css-travel .add-to-cart-form .count-input .count-minus,
+.css-travel .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-travel .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-travel .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-travel .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-travel .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-travel .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-travel .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-travel .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-travel .special-price-box,
+.css-travel .dropdown-menu > .active > a,
+.css-travel .dropdown-menu > .active > a:focus,
+.css-travel .dropdown-menu > .active > a:hover,
+.css-travel #header.main-color-nav .navbar-2,
+.css-travel .latest-post-data,
+.css-travel .blog-single-post .bsp-heading h1,
+.css-travel .testimonial-single .slick-dots li button:before,
+.css-travel .slick-dots li button:before,
+.css-travel .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-travel .timeline-complete .timeline-status.timeline-active:before,
+.css-travel .megamenu.maincolor,
+.css-travel .dropdown.maincolor ul,
+.css-travel .dropdown.maincolor ul.dropdown-menu,
+.css-travel #footer.maincolor,
+.css-travel #copyrights.maincolor,
+.css-travel .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-travel .cd-horizontal-timeline .events a.selected::after,
+.css-travel .cd-horizontal-timeline .filling-line,
+.css-travel .pinpulsebox span,
+.css-travel .main-color-dropdown .megamenu,
+.css-travel .main-color-dropdown .dropdown-menu,
+.css-travel #cd-timeline::before,
+.css-travel ul.icon-list.il-main-bg li [class^="icon-"],
+.css-travel .process-steps ul li.current a .number,
+.css-travel ol.ordered-list.ol-main-bg li:before,
+.css-travel .irs-bar,
+.css-travel .irs-from,
+.css-travel .irs-to,
+.css-travel .irs-single,
+.css-travel .open > .dropdown-toggle.btn-default,
+.css-travel .fc-unthemed .fc-today,
+.css-travel .fc-content,
+.css-travel #particles-js,
+.css-travel .s-icon:hover,
+.css-travel #progressbar li.active:before,
+.css-travel #progressbar li.active:after,
+.css-travel .pagination > .active > a,
+.css-travel .pagination > .active > a:focus,
+.css-travel .pagination > .active > a:hover,
+.css-travel .pagination > .active > span,
+.css-travel .pagination > .active > span:focus,
+.css-travel .pagination > .active > span:hover,
+.css-travel .portfolio-filter .selecter-item.activeFilter,
+.css-travel .page-loader-spinner span,
+.css-travel .loader-6:before,
+.css-travel .loader-2,
+.css-travel .loader-2:before,
+.css-travel .loader-2:after,
+.css-travel .loader-10 > div, 
+.css-travel .loader-11 > div,
+.css-travel .loader-13 > div:first-child, 
+.css-travel .loader-14 > div, 
+.css-travel .loader-16 > div, 
+.css-travel .loader-17 > div, 
+.css-travel .loader-17 > div:before, 
+.css-travel .loader-17 > div:after, 
+.css-travel .loader-18 > div, 
+.css-travel .loader-19 > div, 
+.css-travel .loader-20 > div, 
+.css-travel .loader-22 > div, 
+.css-travel .loader-23 > div, 
+.css-travel .loader-24 > div, 
+.css-travel .loader-25 > div, 
+.css-travel .loader-26 > div, 
+.css-travel .loader-27 > div, 
+.css-travel .loader-28 > div, 
+.css-travel .loader-29 > div, 
+.css-travel .loader-32 > div, 
+.css-travel .loader-33 > div, 
+.css-travel .loader-35 > div:nth-child(3), 
+.css-travel .loader-35 > div:nth-child(4), 
+.css-travel .loader-35 > div:nth-child(5),
+.css-travel .loader-35 > div:nth-child(6), 
+.css-travel .loader-37 > div, 
+.css-travel .loader-38 > div,
+.css-travel .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-travel .radio input[type=radio]:checked ~ .check, 
+.css-travel .vlt-btn-group .dropdown-menu li a:hover, 
+.css-travel .gsi-step-indicator.triangle li.current>*, 
+.css-travel .gsi-style-4 li.current>*, 
+.css-travel .gsi-style-5 li.current>*, 
+.css-travel .gsi-style-6 li.current>* .number, 
+.css-travel .gsi-style-7 li.current:hover>*, 
+.css-travel .gsi-style-8 li.visited>*, 
+.css-travel .gsi-style-8 li.current>*, 
+.css-travel .gsi-style-9 li.visited>*:after, 
+.css-travel .gsi-style-9 li.current>*:after, 
+.css-travel .gsi-style-10 li.visited>*:after, 
+.css-travel .gsi-style-10 li.current>*:after, 
+.css-travel .gsi-style-11 li.current:before, 
+.css-travel .gsi-style-11 li.current:after, 
+.css-travel .gsi-style-11 li.visited:before, 
+.css-travel .gsi-style-11 li.visited:after, 
+.css-travel .gsi-style-11 li.visited>*:after, 
+.css-travel .gsi-style-11 li.current>*:after, 
+.css-travel .flatpickr-day.today:focus, 
+.css-travel .flatpickr-day.today:hover  {
+  background-color: #4768f3 !important;
+}
+
+.css-travel .header-content .phone-number span,
+.css-travel .intro-block h6,
+.css-travel .icon-block [class^="icon-"],
+.css-travel ul.header-links li a:hover,
+.css-travel .navbar.banner--clone .nav > li > a:hover,
+.css-travel .navbar.banner--clone .btn-search:hover,
+.css-travel .success-lg:hover [class^="icon-"],
+.css-travel #copyrights ul li a:hover,
+.css-travel #copyrights a:hover,
+.css-travel .breadcrumb > .active,
+.css-travel #portfolio-filter li a.activeFilter,
+.css-travel #portfolio-filter li a:hover,
+.css-travel .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-travel a.image_zoom:hover [class^="icon-"],
+.css-travel a.image_link:hover [class^="icon-"],
+.css-travel a.load-more-btn:hover,
+.css-travel a.load-more-btn:hover [class^="icon-"],
+.css-travel .intro-block h1 [class^="icon-"],
+.css-travel .shop-list .shop-product h4 a:hover,
+.css-travel ul#portfolio-layout-filter li a.active,
+.css-travel .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-travel ul.sidebar-shop-cat > li span,
+.css-travel .shop-price,
+.css-travel ul.sidebar-shop-cat > li > a:hover,
+.css-travel a.load-more-btn:hover,
+.css-travel a.load-more-btn:hover [class^="icon-"],
+.css-travel .intro-block h1 [class^="icon-"],
+.css-travel .shop-list .shop-product h4 a:hover,
+.css-travel ul#portfolio-layout-filter li a.active,
+.css-travel .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-travel ul.sidebar-cat > li span,
+.css-travel .shop-price,
+.css-travel ul.sidebar-cat > li > a:hover,
+.css-travel ul.jobs-list li [class^="icon-"],
+.css-travel .team-social a:hover,
+.css-travel .icon-default,
+.css-travel .error-page-icon span [class^="icon-"],
+.css-travel .footer-3-container-text a:hover,
+.css-travel .testimonials-box .testimonial-author,
+.css-travel #page-title.image-page-title-fullwidth h1,
+.css-travel #page-title.image-page-title-left.image-page-noimage h2,
+.css-travel ul.services-2-icons,
+.css-travel ul.shop-layout-filter li a.active,
+.css-travel ul.portfolio-layout-filter li a.active,
+.css-travel ul.porfolio-project-details-list > li .ppd-right,
+.css-travel ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-travel .related-projects-title .slick-custom-next:hover,
+.css-travel .related-projects-title .slick-custom-prev:hover,
+.css-travel .recent-post-content a:hover,
+.css-travel .form-group.login-form-submit a,
+.css-travel .shop-type-1 a.add-to-cart-item:before,
+.css-travel .shop-type-2 a.add-to-cart-item:before,
+.css-travel a.form-forgotpass,
+.css-travel .sidebar-shop-products-list li .ssp-title:hover,
+.css-travel .restaurant-info ul li [class^="icon-"],
+.css-travel .navbar-default.default .btn-cart .header-cart-count,
+.css-travel .cart-shop-products-list li .csp-title:hover,
+.css-travel .blog-list > article .blog-desc h4 a:hover,
+.css-travel .blog-list > article .blog-desc h4 a:focus,
+.css-travel .blog-list-full > article .blog-desc h4 a:hover,
+.css-travel .blog-list-full > article .blog-desc h4 a:focus,
+.css-travel .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-travel .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-travel .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-travel .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-travel .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-travel .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-travel .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-travel .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-travel .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-travel .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-travel .blog-masonry > article .blog-desc h4 a:hover,
+.css-travel .blog-masonry > article .blog-desc h4 a:focus,
+.css-travel .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-travel .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-travel .comment_response .media h6 a,
+.css-travel .comment_response .media_cloud a.reply_link,
+.css-travel .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-travel .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-travel .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-travel .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-travel .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-travel .dropcap.dropcap-style-1,
+.css-travel .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-travel .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-travel .counter-box .count-icon,
+.css-travel .counter-style-1 .counter-box h4,
+.css-travel .icon-type,
+.css-travel .icon-type.it-main-color,
+.css-travel .icon-type.it-main-color-reverse:hover,
+.css-travel .icon-type.it-main-color-reverse:focus,
+.css-travel .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-travel .comment_response .media h6 a,
+.css-travel .comment_response .media_cloud a.reply_link,
+.css-travel .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-travel .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-travel .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-travel .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-travel .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-travel .dropcap.dropcap-style-1,
+.css-travel .btn-default-reverse,
+.css-travel .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-travel .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-travel .counter-box .count-icon,
+.css-travel .counter-style-1 .counter-box h4,
+.css-travel .icon-type,
+.css-travel .icon-type.it-main-color,
+.css-travel .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-travel .icon-type.it-main-color-reverse:focus,
+.css-travel .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-travel .review_response .media h6 a,
+.css-travel .review_response .media_cloud .shop-star-rating li.full-star,
+.css-travel .rating-container .rating-stars,
+.css-travel .form-contact small,
+.css-travel ul.icon-list li a:hover,
+.css-travel ul.icon-list li a:active,
+.css-travel ul.icon-list li a:focus,
+.css-travel .checkout-sum,
+.css-travel .checkout-table td a:hover,
+.css-travel .checkout-box a,
+.css-travel .user-profile-list ul li a:hover,
+.css-travel a.profile-active,
+.css-travel .user-profile-content h2,
+.css-travel .forum-content-header span a,
+.css-travel .recent-work-content a:hover,
+.css-travel .recent-work-image-content a:hover,
+.css-travel .contact-overlay-map .maximize-form:hover,
+.css-travel .hero-slier-nav-content:hover [class^="icon-"],
+.css-travel .selected .hero-slier-nav-content [class^="icon-"],
+.css-travel .team-social a:hover,
+.css-travel .team-name h5 a:hover,
+.css-travel .clients-slick-nav .slick-custom-next:hover,
+.css-travel .clients-slick-nav .slick-custom-prev:hover,
+.css-travel .services-pricing-icon [class^="icon-"],
+.css-travel .brand [class^="icon-"],
+.css-travel .content-divider-colored [class^="icon-"],
+.css-travel .divider-content h1 span,
+.css-travel .divider-content h2 span,
+.css-travel .divider-content h3 span,
+.css-travel .intro-page-content a:hover,
+.css-travel .image-box-content a:hover,
+.css-travel .icon-type.it-main-color [class^="icon-"],
+.css-travel .icon-type-2:hover p,
+.css-travel .icon-type-2:hover span.icon-type-2-icon,
+.css-travel .heading-container .head-colored,
+.css-travel ul.home-6-list li h4 [class^="icon-"],
+.css-travel .icon-box-2-effect-1:hover .icon-block-2,
+.css-travel .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-travel .icon-box-2-effect-4:hover .icon-block-2,
+.css-travel .icon-box-2-effect-4-reverse .icon-block-2,
+.css-travel .icon-box-2-effect-5:hover .icon-block-2,
+.css-travel .simple-icon-lightbg [class^="icon-"],
+.css-travel .newsletter-signup button,
+.css-travel a.add-to-wishlist.select,
+.css-travel a.add-to-wishlist.select [class^="icon-"],
+.css-travel .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-travel .panel-body ul li a:hover,
+.css-travel .colored,
+.css-travel .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-travel .tabpanel-style-6 .nav-tabs > li > a,
+.css-travel .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-travel .tp_caption_big span,
+.css-travel ul.icon-box-simple li:hover a,
+.css-travel .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-travel .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-travel .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-travel .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-travel .blockquote-author p,
+.css-travel .testimonial-author,
+.css-travel .latest-post-content h1 a:hover,
+.css-travel .post-by a:hover,
+.css-travel .latest-post-content .read-more-link,
+.css-travel .blog-horizontal .bh-content h3 a:hover,
+.css-travel .blog-horizontal .bh-content .bh-details a:hover,
+.css-travel .blog-horizontal .bh-content .bh-details a:hover span,
+.css-travel a.bsp-title:hover,
+.css-travel .sidebar-blog-post-list li .sbp-title:hover,
+.css-travel .navbar-nav > li.active,
+.css-travel .navbar-nav > li.active:hover,
+.css-travel a.idb-social:hover,
+.css-travel a.idb-social:hover span,
+.css-travel a.idb-price,
+.css-travel span.pts-raised,
+.css-travel .bsp-social a:hover,
+.css-travel .bsp-social a [class^="icon-"]:hover,
+.css-travel a.bsp-more:hover,
+.css-travel .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-travel .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-travel .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-travel .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-travel .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-travel .gallery-block .gallery-box .gallery-meta a:hover,
+.css-travel .gallery-block .gallery-box .gallery-meta a:focus,
+.css-travel .cd-timeline-inner-content a:hover,
+.css-travel .testimonial-box .testimonial-author span,
+.css-travel .fic-date a:hover,
+.css-travel .forum-inner-content h1 a:hover,
+.css-travel .user-profile-desc a:hover,
+.css-travel .cd-timeline-navigation a:hover::after,
+.css-travel .login-form .login-input-box [class^="icon-"],
+.css-travel .icon-input-box [class^="icon-"],
+.css-travel ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-travel ul.bar-chart-graph li,
+.css-travel ul.line-graph li,
+.css-travel ul.donut-graph li,
+.css-travel .tp-caption.Creative-SubTitle,
+.css-travel .Creative-SubTitle,
+.css-travel .tp-caption.vlt-hero-rotating,
+.css-travel .pagination > li > a:focus,
+.css-travel .pagination > li > a:hover,
+.css-travel .pagination > li > span:focus,
+.css-travel .pagination > li > span:hover,
+.css-travel .pager li > a,
+.css-travel ul.recent-post-widget .rp-post a:hover,
+.css-travel .tp-tab.selected span.tp-tab-title span,
+.css-travel .tp-tab.selected span.tp-tab-title,
+.css-travel .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-travel .tp-main-color,
+.css-travel .loader-5,
+.css-travel .loader-7,
+.css-travel .loader-9,
+.css-travel .loader-2,
+.css-travel .loader-4,
+.css-travel .gsi-style-9 li.visited>*, 
+.css-travel .gsi-style-9 li.current>*,
+.css-travel .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-travel .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #4768f3 !important;
+}
+
+.css-travel .tp-caption .btn-default,
+.css-travel .btn-default,
+.css-travel .flex-control-paging li a.flex-active,
+.css-travel .flexslider.clients .flex-control-paging li a.flex-active,
+.css-travel .pagination-box .pager li a,
+.css-travel .contact-info-3,
+.css-travel .tags-cloud-list li a:hover,
+.css-travel .team-social a:hover,
+.css-travel .contact-title-one h3:after,
+.css-travel .home-title-one h3:after,
+.css-travel #login-form .login-input:active,
+.css-travel #login-form .login-input:focus,
+.css-travel .load-more-wrapper a.load-more-btn:hover,
+.css-travel #register-form .register-input:active,
+.css-travel #register-form .register-input:focus,
+.css-travel .dropcap.dropcap-style-1,
+.css-travel .dropcap.dropcap-style-2,
+.css-travel .alert-default,
+.css-travel blockquote,
+.css-travel .tp-caption .btn-default,
+.css-travel .btn-default,
+.css-travel .btn-default-reverse,
+.css-travel .icon-box.icon-square .icon-block,
+.css-travel .icon-box.icon-circle .icon-block,
+.css-travel .icon-type.it-main-color,
+.css-travel .icon-type.it-main-color:hover,
+.css-travel .icon-type.it-main-color:focus,
+.css-travel .icon-type.it-main-color-reverse,
+.css-travel .icon-type.it-main-color-reverse:hover,
+.css-travel .icon-type.it-main-color-reverse:focus,
+.css-travel .add-to-cart-form .count-input .count-plus:hover,
+.css-travel .add-to-cart-form .count-input .count-minus:hover,
+.css-travel #reviewmodal .modal-header,
+.css-travel .job-left-title h3,
+.css-travel .pricing-table-container.special-price-table,
+.css-travel .clients-slick-nav .slick-custom-next:hover,
+.css-travel .clients-slick-nav .slick-custom-prev:hover,
+.css-travel a.add-to-wishlist.select,
+.css-travel a.add-to-wishlist.select [class^="icon-"],
+.css-travel .tabpanel-style-8 .nav-tabs > li.active,
+.css-travel a.btn-default.btn-animation-icon-box,
+.css-travel .btn-default.btn-animation-icon-box:hover,
+.css-travel .btn-default.btn-animation-icon-box:focus,
+.css-travel .btn-default.btn-animation-icon-box:active,
+.css-travel .tp-caption a.btn-default.btn-animation-icon-box,
+.css-travel .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-travel .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-travel .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-travel .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-travel .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-travel .clients-slick-nav .slick-clients-prev:hover,
+.css-travel .clients-slick-nav .slick-clients-next:hover,
+.css-travel .bsp-image,
+.css-travel .blog-list > article.default-post .blog-desc,
+.css-travel .testimonial-single li.slick-active button::before,
+.css-travel .slick-dots li.slick-active button:before,
+.css-travel .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-travel .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-travel .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-travel .timeline-status.timeline-active:before,
+.css-travel .cd-horizontal-timeline .events a.older-event::after,
+.css-travel .cd-horizontal-timeline .events a.selected::after,
+.css-travel .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-travel .no-touch .cd-timeline-navigation a:hover,
+.css-travel .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-travel .cd-timeline-navigation a:hover,
+.css-travel .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-travel .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-travel .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-travel .login-form input:focus,
+.css-travel .pinpulse,
+.css-travel .open > .dropdown-toggle.btn-default,
+.css-travel .pagination > .active > a,
+.css-travel .pagination > .active > a:focus,
+.css-travel .pagination > .active > a:hover,
+.css-travel .pagination > .active > span,
+.css-travel .pagination > .active > span:focus,
+.css-travel .pagination > .active > span:hover,
+.css-travel .table-style-1 thead tr th,
+.css-travel .table-style-1 tbody tr:last-child th,
+.css-travel .table-style-1 tbody tr:last-child td,
+.css-travel .table-withmaincolor thead tr th,
+.css-travel .clients-title-border h3,
+.css-travel .cd-slider-nav li:hover,
+.css-travel .selected,
+.css-travel .job-form input:focus,
+.css-travel .job-form select:focus,
+.css-travel .job-form textarea:focus,
+.css-travel .form-contact input:focus,
+.css-travel .form-contact select:focus,
+.css-travel .form-contact textarea:focus,
+.css-travel .form-contact input:focus,
+.css-travel .icon-type-2:hover p,
+.css-travel .icon-type-2:hover span.icon-type-2-icon,
+.css-travel .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-travel .activeFilter,
+.css-travel .loader-30 > div, 
+.css-travel .loader-31 > div, 
+.css-travel .loader-35 > div:first-of-type, 
+.css-travel .loader-35 > div:nth-child(2),
+.css-travel .loader-12 > div,
+.css-travel .loader-15 > div,
+.css-travel .loader-21 > div,
+.css-travel .radio input[type=radio]:checked ~ .circle, 
+.css-travel .gsi-step-indicator.triangle li.current>*, 
+.css-travel .gsi-style-7.border-right li.current>*, 
+.css-travel .gsi-style-7.border-bottom li.current>*, 
+.css-travel .gsi-style-7.border-left li.current>*, 
+.css-travel .flatpickr-day.today, 
+.css-travel .flatpickr-day.today:focus, 
+.css-travel .flatpickr-day.today:hover  {
+    border-color:  #4768f3;
+}
+.css-travel .gsi-style-4 li.current>* .number:before{
+  border-left-color: #4768f3;
+}
+.css-travel .gsi-style-7.border-top li.current>*{
+  border-top-color: #4768f3;
+}
+.css-travel .tabpanel-style-4 .nav-tabs > li.active,
+.css-travel .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-travel .tabpanel-style-5 .nav-tabs > li.active,
+.css-travel .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #4768f3 transparent;
+}
+
+.css-travel .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #4768f3;
+}
+
+.css-travel .icon-box-2-effect-4 .icon-block-2,
+.css-travel .icon-box-2-effect-5 .icon-block-2,
+.css-travel .icon-box-2-effect-5:hover .icon-block-2,
+.css-travel .icon-box-2-effect-1 .icon-block-2:after,
+.css-travel .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #4768f3;
+}
+
+.css-travel .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #4768f3;
+}
+
+.css-travel .empty-cart:after, .css-travel .loader-34 > div  {
+  border-bottom-color: #4768f3;
+}
+
+.css-travel .btn-default-reverse:hover,
+.css-travel .btn-default-reverse:focus {
+  background-color: #4768f3 !important;
+  border-color: #4768f3 !important;
+}
+
+.css-travel .tp-caption .btn-default.active,
+.css-travel .btn-default.active,
+.css-travel .tp-caption .btn-default.focus,
+.css-travel .btn-default.focus,
+.css-travel .tp-caption .btn-default:active,
+.css-travel .btn-default:active,
+.css-travel .tp-caption .btn-default:focus,
+.css-travel .btn-default:focus,
+.css-travel .tp-caption .btn-default:hover,
+.css-travel .btn-default:hover,
+.css-travel .tp-caption .btn-white:hover,
+.css-travel .btn-white:hover {
+  background-color: #ec3928 !important;
+  border-color: #ec3928 !important;
+}
+
+.css-travel .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #4768f3;
+}
+
+.css-travel #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-travel #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-travel #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-travel #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-travel #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-travel #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-travel #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-travel #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #4768f3;
+}
+
+.css-travel #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-travel #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-travel span.latest-post-month,
+.css-travel .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-travel .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #ec3928;
+}
+
+.css-travel #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-travel #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-travel #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-travel #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-travel #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-travel #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-travel #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-travel #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-travel #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-travel #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-travel #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-travel #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-travel #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-travel #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-travel #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-travel #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-travel #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-travel #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #ec3928;
+  border-color: #ec3928;
+}
+
+.css-travel #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-travel #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #ec3928;
+}
+
+.css-travel .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-travel .item-text-wrapper,
+.css-travel .standard_hover .portfolio_overlay,
+.css-travel .overlay-animation-1 .overlay_box,
+.css-travel .overlay-animation-2 .overlay_box,
+.css-travel .flip-hover .flip-box .content-box,
+.css-travel .team-8 .team-image .overlay-team-box,
+.css-travel .team-9 .team-image .overlay-team-box,
+.css-travel .portfolio-animation-slide .sliding-content {
+  background-color: rgba(252, 60, 42, 0.9);
+}
+
+.css-travel .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-travel .team-2 .overlay-team-box,
+.css-travel .team-6 .overlay-team-box,
+.css-travel .team-7 .overlay-team-box,
+.css-travel .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-travel .contact-overlay-map .overlay-map-background,
+.css-travel .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-travel .table-style-7.table-withmaincolor tbody tr th,
+.css-travel .table-style-2.table-withmaincolor tbody tr,
+.css-travel .fc-bgevent,
+.css-travel #particles-js.background-1 {
+  background-color: rgba(252, 60, 42, 0.6) !important;
+}
+
+.css-travel .widget-dribbble-box .shots li a:hover:before, .css-travel .dribbble-box .shots li a:hover:before,
+.css-travel .instagram-widget a:hover:before {
+  background-color: rgba(252, 60, 42, 0.85);
+}
+
+.css-travel .search-popup-box,
+.css-travel .scroll-to-top-fixed {
+  background-color: rgba(252, 60, 42, 0.95);
+}
+
+.css-travel .tabpanel-style-1 {
+  width: 100%;
+  float: left;
+  top: -164px;
+  position: absolute;
+  z-index: 1000;
+  background: #FFF;
+  padding: 20px 20px 40px 20px;
+  border-radius: 0;
+}
+
+.css-travel .tab-section {
+  overflow: visible;
+  z-index: 800 !important;
+}
+
+.css-travel .tabpanel-style-1 .form-contact:before {
+  content: none;
+}
+
+.css-travel .gallery-block .full-height-box .image-box, .css-travel .gallery-block .full-height-box .image-box img {
+  height: 100%;
+}
+
+.css-travel .form-contact:before {
+  content: '';
+  position: absolute;
+  left: 10px;
+  right: 10px;
+  height: 4px;
+  background: #dadada;
+  top: -4px;
+}
+
+.css-travel .loader-3 {
+  border-top-color: rgba(252, 60, 42, 0.2);
+  border-right-color: rgba(252, 60, 42, 0.2);
+  border-bottom-color: rgba(252, 60, 42, 0.2);
+  border-left-color: #4768f3;
+}
+
+.css-travel #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-travel #header.header-white .navbar-2 .search-navbar .btn-cart:hover {
+  color: rgba(255, 255, 255, 0.85) !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.css-travel .icon-box-2-effect-4:hover .icon-block-2 span,
+.css-travel .icon-box-2-effect-1:hover .icon-block-2 span {
+  color: #ffffff;
+}
+
+.css-travel .transparent-background .testimonial-single .slick-dots .slick-active button:before {
+  background-color: transparent !important;
+}
+
+.css-travel .transparent-background .testimonial-single .slick-dots button:before {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.css-travel #header.transparent-header.header-sticky .navbar-2 .search-navbar .btn-search, .css-travel #header.transparent-header.header-sticky .navbar-2 .search-navbar .btn-cart {
+  border-color: rgba(0, 0, 0, 0.15);
+}
+
+.css-travel .background-1 .testimonial-single .slick-dots li button:before,
+.css-travel .background-1 .slick-dots li button:before,
+.css-travel .background-2 .testimonial-single .slick-dots li button:before,
+.css-travel .background-2 .slick-dots li button:before,
+.css-travel .background-3 .testimonial-single .slick-dots li button:before,
+.css-travel .background-3 .slick-dots li button:before,
+.css-travel .white-dots .slick-dots li button:before,
+.css-travel .transparent-background .testimonial-single .slick-dots li button:before,
+.css-travel .transparent-background .slick-dots li button:before,
+.css-travel .gray-background .testimonial-single .slick-dots li button:before,
+.css-travel .gray-background .slick-dots li button:before {
+  background-color: #ffffff !important;
+}
+
+.css-travel .background-1 .testimonial-single li.slick-active button:before,
+.css-travel .background-1 li.slick-active button:before,
+.css-travel .background-2 .testimonial-single li.slick-active button:before,
+.css-travel .background-2 li.slick-active button:before,
+.css-travel .background-3 .testimonial-single li.slick-active button:before,
+.css-travel .background-3 li.slick-active button:before,
+.css-travel .white-dots .slick-dots li.slick-active button:before {
+  background-color: transparent !important;
+  border-color: #ffffff !important;
+}
+
+.css-travel .gray-background .testimonial-single li.slick-active button:before,
+.css-travel .gray-background li.slick-active button:before {
+  background-color: rgba(71, 104, 243, 0.2) !important;
+  border-color: rgba(71, 104, 243, 0.8) !important;
+}
+
+.css-travel .call-to-action.transparent-background {
+  background-color: transparent !important;
+}
+
+.css-travel .icon-box.icon-fill:hover .icon-block,
+.css-travel .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-travel .cart-shop-products h3, .css-travel .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-travel .cart-shop-products-list li .csp-price, .css-travel .sidebar-shop-products-list li .ssp-price,
+.css-travel .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-travel .shop-list .shop-product .shop-star-rating li.full-star,
+.css-travel ul.shop-star-rating li.full-star {
+  color: #22c064;
+}
+
+.css-travel .shop-list .shop-product .shop-ribbon, .css-travel .ui-slider-horizontal .ui-slider-range,
+.css-travel .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-travel .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #22c064;
+}
+.css-travel .loader-13 > div:last-child, 
+.css-travel .loader-15 > div:last-child {
+  border-color: #4768f3 transparent;
+}
+.css-travel .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #4768f3 30%, #4768f3 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #4768f3 30%, #4768f3 100%);
+}

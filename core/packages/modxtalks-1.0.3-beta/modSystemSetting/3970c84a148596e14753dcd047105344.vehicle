@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ab0e2aa90632866f546685408028733f',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '3970c84a148596e14753dcd047105344',
+  'native_key' => 'modxtalks.onlyAuthUsers',
+  'object' => '{"key":"modxtalks.onlyAuthUsers","value":false,"xtype":"combo-boolean","namespace":"modxtalks","area":"settings","editedon":null}',
+);

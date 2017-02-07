@@ -1,0 +1,856 @@
+/* Startup */
+body.css-startup,
+.css-startup p,
+.css-startup h1,
+.css-startup h2,
+.css-startup h3,
+.css-startup h4,
+.css-startup h5,
+.css-startup h6,
+.css-startup .featured-content h1.small,
+.css-startup .form-group > label,
+.css-startup .checkbox > label,
+.css-startup .alert > p,
+.css-startup .block-content-wrapper h2,
+.css-startup .intro-text h1, .intro-text h2,
+.css-startup .intro-text h3, .intro-text h4,
+.css-startup .intro-text h5, .intro-text h6,
+.css-startup .restaurant-info-img-content h4,
+.css-startup .contact-title h3 {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.css-startup h1, .css-startup h2, .css-startup h3, .css-startup h4, .css-startup h5, .css-startup h6 {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.css-startup .color-1 {
+  color: #00c96d;
+}
+
+.css-startup .background-1,
+.css-startup .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-startup .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-startup .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #00c96d !important;
+}
+
+.css-startup .color-2 {
+  color: #f98b00;
+}
+
+.css-startup .background-2,
+.css-startup .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-startup .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-startup .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #f98b00;
+}
+
+.css-startup .color-3 {
+  color: #354a5e;
+}
+
+.css-startup .background-3,
+.css-startup .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-startup .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-startup .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3,
+.css-startup .blog-desc-details:after {
+  background-color: #354a5e;
+}
+
+.css-startup .call-to-action {
+  background-color: transparent !important;
+}
+
+.css-startup .tp-caption .btn-default,
+.css-startup .btn-default,
+.css-startup .flex-control-paging li a.flex-active,
+.css-startup .navbar-toggle,
+.css-startup #mobile-navbar,
+.css-startup .offscreen-container,
+.css-startup .maincolor-background,
+.css-startup ul.widget-ul li a > span,
+.css-startup ul.widget-social li a:hover,
+.css-startup #people .item .info,
+.css-startup .main-color,
+.css-startup .flexslider.clients .flex-control-paging li a.flex-active,
+.css-startup #portfolio-filter li a:after,
+.css-startup .navbar.banner--clone .nav li.active > a,
+.css-startup .pagination-box .pager li a,
+.css-startup .pricing-table-column.special-price-table .pricing-table-head,
+.css-startup .pricing-table-column.special-price-table .pricing-table-content,
+.css-startup .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-startup .tags-cloud-list li a:hover,
+.css-startup .progress-bar-box .progress-bar,
+.css-startup .background-1,
+.css-startup .selecter .selecter-item:hover,
+.css-startup .selecter .selecter-item.selected:hover,
+.css-startup #footer.colored,
+.css-startup section.about-counter,
+.css-startup .error-page-title:after,
+.css-startup .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-startup .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-startup .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-startup .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-startup .tabpanel-style-4 .tab-content h3:after,
+.css-startup .about-classic-column-themecolor,
+.css-startup .selecter .selecter-item:hover,
+.css-startup .selecter .selecter-item.selected:hover,
+.css-startup .item-text-wrapper_overlay,
+.css-startup .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-startup .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-startup .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-startup .shop-type-2 a.add-to-cart-item,
+.css-startup .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-startup .navbar-2 .btn-cart .header-cart-count,
+.css-startup .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-startup .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-startup .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-startup .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-startup .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-startup .dropcap.dropcap-style-2,
+.css-startup .alert-default,
+.css-startup blockquote:before,
+.css-startup blockquote:after,
+.css-startup .tp-caption .btn-default,
+.css-startup .btn-default,
+.css-startup .content-title h5:before,
+.css-startup .content-title h5:after,
+.css-startup .icon-box.icon-fill .icon-block,
+.css-startup .icon-box.icon-square:hover .icon-block,
+.css-startup .icon-box.icon-circle:hover .icon-block,
+.css-startup .icon-box.icon-square:hover .icon-block span,
+.css-startup .icon-box.icon-circle:hover .icon-block span,
+.css-startup .icon-type.it-main-color:hover,
+.css-startup .icon-type.it-main-color:focus,
+.css-startup .icon-type.it-main-color-reverse,
+.css-startup .icon-type.it-main-color:hover span,
+.css-startup .icon-type.it-main-color-reverse:hover span,
+.css-startup .add-to-cart-form .count-input .count-plus:hover,
+.css-startup .add-to-cart-form .count-input .count-minus:hover,
+.css-startup .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-startup .pricing-table-container.special-price-table,
+.css-startup .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-startup .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-startup ul.forum-list li.forum-header,
+.css-startup .textbox-withmaincolor,
+.css-startup .background-1,
+.css-startup .team-member-job,
+.css-startup .team-section .team-desc-box:before,
+.css-startup .team-section .team-desc-box:after,
+.css-startup .shop-categories:hover .shop-title-categories,
+.css-startup .content-divider-colored-bg [class^="icon-"],
+.css-startup .overlay-animation-6 .content-box,
+.css-startup .block-content-wrapper h1,
+.css-startup .benefits-box h1,
+.css-startup .selecter .selecter-item:hover,
+.css-startup .selecter .selecter-item.selected:hover,
+.css-startup .ui-slider .ui-slider-range,
+.css-startup #header.header-main-color,
+.css-startup .navbar-2.banner--clone.main-color-navbar,
+.css-startup .tabpanel-style-center .nav-tabs > li.active > a,
+.css-startup .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-startup .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-startup .label.label-primary,
+.css-startup .label.label-primary,
+.css-startup .star-rating .caption .label,
+.css-startup .tparrows.preview5:hover,
+.css-startup .table-style-4.table-withmaincolor thead tr th,
+.css-startup .table-style-5.table-withmaincolor thead tr th,
+.css-startup .table-style-6.table-withmaincolor thead tr th,
+.css-startup .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-startup .table-style-7.table-withmaincolor thead tr th,
+.css-startup .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-startup .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-startup .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-startup .table-style-2.table-withmaincolor thead tr th,
+.css-startup .table-style-3.table-withmaincolor thead tr th,
+.css-startup .table-style-3.table-withmaincolor tbody tr th,
+.css-startup .parallax-withmaincolor,
+.css-startup .contact-overlay-map .minimize-form:hover,
+.css-startup .team-3:hover .team-social,
+.css-startup .team-5:hover .team-social,
+.css-startup .special-table-2,
+.css-startup .special-table-3,
+.css-startup span.pricing-3-discount,
+.css-startup #vertical-timeline-container:before,
+.css-startup .subscribe-fancy-themebg,
+.css-startup .empty-cart,
+.css-startup .team-4:hover .team-social,
+.css-startup .content-divider-colored,
+.css-startup .content-divider-colored-bg,
+.css-startup .withmainbackground,
+.css-startup .services-2-heading,
+.css-startup .icon-box-2-effect-4 .icon-block-2,
+.css-startup .services-2-heading,
+.css-startup .promotion-box-theme-colored,
+.css-startup .promotion-box-theme-colored .promotion-box-title h4,
+.css-startup .icon-block-2,
+.css-startup .icon-box-2-effect-2:hover .icon-block-2,
+.css-startup .icon-box-2-effect-3 .icon-block-2:after,
+.css-startup .icon-box-2-effect-4 .icon-block-2:after,
+.css-startup .icon-box-2-effect-6 .icon-block-2,
+.css-startup .icon-box-2-effect-6:hover .icon-block-2,
+.css-startup .simple-icon-icon,
+.css-startup a.call-to-action-link:hover,
+.css-startup .add-to-cart-form .count-input .count-plus,
+.css-startup .add-to-cart-form .count-input .count-minus,
+.css-startup .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-startup .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-startup .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-startup .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-startup .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-startup .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-startup .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-startup .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-startup .special-price-box,
+.css-startup .dropdown-menu > .active > a,
+.css-startup .dropdown-menu > .active > a:focus,
+.css-startup .dropdown-menu > .active > a:hover,
+.css-startup #header.main-color-nav .navbar-2,
+.css-startup .latest-post-data,
+.css-startup .blog-single-post .bsp-heading h1,
+.css-startup .testimonial-single .slick-dots li button:before,
+.css-startup .slick-dots li button:before,
+.css-startup .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-startup .timeline-complete .timeline-status.timeline-active:before,
+.css-startup .megamenu.maincolor,
+.css-startup .dropdown.maincolor ul,
+.css-startup .dropdown.maincolor ul.dropdown-menu,
+.css-startup #footer.maincolor,
+.css-startup #copyrights.maincolor,
+.css-startup .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-startup .cd-horizontal-timeline .events a.selected::after,
+.css-startup .cd-horizontal-timeline .filling-line,
+.css-startup .pinpulsebox span,
+.css-startup .main-color-dropdown .megamenu,
+.css-startup .main-color-dropdown .dropdown-menu,
+.css-startup #cd-timeline::before,
+.css-startup ul.icon-list.il-main-bg li [class^="icon-"],
+.css-startup .process-steps ul li.current a .number,
+.css-startup ol.ordered-list.ol-main-bg li:before,
+.css-startup .irs-bar,
+.css-startup .irs-from,
+.css-startup .irs-to,
+.css-startup .irs-single,
+.css-startup .open > .dropdown-toggle.btn-default,
+.css-startup .fc-unthemed .fc-today,
+.css-startup .fc-content,
+.css-startup #particles-js,
+.css-startup .s-icon:hover,
+.css-startup #progressbar li.active:before,
+.css-startup #progressbar li.active:after,
+.css-startup .pagination > .active > a,
+.css-startup .pagination > .active > a:focus,
+.css-startup .pagination > .active > a:hover,
+.css-startup .pagination > .active > span,
+.css-startup .pagination > .active > span:focus,
+.css-startup .pagination > .active > span:hover,
+.css-startup .portfolio-filter .selecter-item.activeFilter,
+.css-startup .page-loader-spinner span,
+.css-startup .loader-6:before,
+.css-startup .loader-2,
+.css-startup .loader-2:before,
+.css-startup .loader-2:after,
+.css-startup .loader-10 > div, 
+.css-startup .loader-11 > div,
+.css-startup .loader-13 > div:first-child, 
+.css-startup .loader-14 > div, 
+.css-startup .loader-16 > div, 
+.css-startup .loader-17 > div, 
+.css-startup .loader-17 > div:before, 
+.css-startup .loader-17 > div:after, 
+.css-startup .loader-18 > div, 
+.css-startup .loader-19 > div, 
+.css-startup .loader-20 > div, 
+.css-startup .loader-22 > div, 
+.css-startup .loader-23 > div, 
+.css-startup .loader-24 > div, 
+.css-startup .loader-25 > div, 
+.css-startup .loader-26 > div, 
+.css-startup .loader-27 > div, 
+.css-startup .loader-28 > div, 
+.css-startup .loader-29 > div, 
+.css-startup .loader-32 > div, 
+.css-startup .loader-33 > div, 
+.css-startup .loader-35 > div:nth-child(3), 
+.css-startup .loader-35 > div:nth-child(4), 
+.css-startup .loader-35 > div:nth-child(5),
+.css-startup .loader-35 > div:nth-child(6), 
+.css-startup .loader-37 > div, 
+.css-startup .loader-38 > div,
+.css-startup .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-startup .radio input[type=radio]:checked ~ .check, 
+.css-startup .vlt-btn-group .dropdown-menu li a:hover, 
+.css-startup .gsi-step-indicator.triangle li.current>*, 
+.css-startup .gsi-style-4 li.current>*, 
+.css-startup .gsi-style-5 li.current>*, 
+.css-startup .gsi-style-6 li.current>* .number, 
+.css-startup .gsi-style-7 li.current:hover>*, 
+.css-startup .gsi-style-8 li.visited>*, 
+.css-startup .gsi-style-8 li.current>*, 
+.css-startup .gsi-style-9 li.visited>*:after, 
+.css-startup .gsi-style-9 li.current>*:after, 
+.css-startup .gsi-style-10 li.visited>*:after, 
+.css-startup .gsi-style-10 li.current>*:after, 
+.css-startup .gsi-style-11 li.current:before, 
+.css-startup .gsi-style-11 li.current:after, 
+.css-startup .gsi-style-11 li.visited:before, 
+.css-startup .gsi-style-11 li.visited:after, 
+.css-startup .gsi-style-11 li.visited>*:after, 
+.css-startup .gsi-style-11 li.current>*:after, 
+.css-startup .flatpickr-day.today:focus, 
+.css-startup .flatpickr-day.today:hover  {
+  background-color: #00c96d !important;
+}
+.css-startup .gsi-style-4 li.current>* .number:before{
+  border-left-color: #00c96d;
+}
+.css-startup .gsi-style-7.border-top li.current>*{
+  border-top-color: #00c96d;
+}
+.css-startup .header-content .phone-number span,
+.css-startup .intro-block h6,
+.css-startup .icon-block [class^="icon-"],
+.css-startup ul.header-links li a:hover,
+.css-startup .navbar.banner--clone .nav > li > a:hover,
+.css-startup .navbar.banner--clone .btn-search:hover,
+.css-startup .success-lg:hover [class^="icon-"],
+.css-startup #copyrights ul li a:hover,
+.css-startup #copyrights a:hover,
+.css-startup .breadcrumb > .active,
+.css-startup #portfolio-filter li a.activeFilter,
+.css-startup #portfolio-filter li a:hover,
+.css-startup .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-startup a.image_zoom:hover [class^="icon-"],
+.css-startup a.image_link:hover [class^="icon-"],
+.css-startup a.load-more-btn:hover,
+.css-startup a.load-more-btn:hover [class^="icon-"],
+.css-startup .intro-block h1 [class^="icon-"],
+.css-startup .shop-list .shop-product h4 a:hover,
+.css-startup ul#portfolio-layout-filter li a.active,
+.css-startup .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-startup ul.sidebar-shop-cat > li span,
+.css-startup .shop-price,
+.css-startup ul.sidebar-shop-cat > li > a:hover,
+.css-startup a.load-more-btn:hover,
+.css-startup a.load-more-btn:hover [class^="icon-"],
+.css-startup .intro-block h1 [class^="icon-"],
+.css-startup .shop-list .shop-product h4 a:hover,
+.css-startup ul#portfolio-layout-filter li a.active,
+.css-startup .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-startup ul.sidebar-cat > li span,
+.css-startup .shop-price,
+.css-startup ul.sidebar-cat > li > a:hover,
+.css-startup ul.jobs-list li [class^="icon-"],
+.css-startup .team-social a:hover,
+.css-startup .icon-default,
+.css-startup .error-page-icon span [class^="icon-"],
+.css-startup .footer-3-container-text a:hover,
+.css-startup .testimonials-box .testimonial-author,
+.css-startup #page-title.image-page-title-fullwidth h1,
+.css-startup #page-title.image-page-title-left.image-page-noimage h2,
+.css-startup ul.services-2-icons,
+.css-startup ul.shop-layout-filter li a.active,
+.css-startup ul.portfolio-layout-filter li a.active,
+.css-startup ul.porfolio-project-details-list > li .ppd-right,
+.css-startup ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-startup .related-projects-title .slick-custom-next:hover,
+.css-startup .related-projects-title .slick-custom-prev:hover,
+.css-startup .recent-post-content a:hover,
+.css-startup .form-group.login-form-submit a,
+.css-startup .shop-type-1 a.add-to-cart-item:before,
+.css-startup .shop-type-2 a.add-to-cart-item:before,
+.css-startup a.form-forgotpass,
+.css-startup .sidebar-shop-products-list li .ssp-title:hover,
+.css-startup .restaurant-info ul li [class^="icon-"],
+.css-startup .navbar-default.default .btn-cart .header-cart-count,
+.css-startup .cart-shop-products-list li .csp-title:hover,
+.css-startup .blog-list > article .blog-desc h4 a:hover,
+.css-startup .blog-list > article .blog-desc h4 a:focus,
+.css-startup .blog-list-full > article .blog-desc h4 a:hover,
+.css-startup .blog-list-full > article .blog-desc h4 a:focus,
+.css-startup .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-startup .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-startup .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-startup .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-startup .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-startup .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-startup .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-startup .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-startup .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-startup .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-startup .blog-masonry > article .blog-desc h4 a:hover,
+.css-startup .blog-masonry > article .blog-desc h4 a:focus,
+.css-startup .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-startup .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-startup .comment_response .media h6 a,
+.css-startup .comment_response .media_cloud a.reply_link,
+.css-startup .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-startup .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-startup .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-startup .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-startup .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-startup .dropcap.dropcap-style-1,
+.css-startup .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-startup .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-startup .counter-box .count-icon,
+.css-startup .counter-style-1 .counter-box h4,
+.css-startup .icon-type,
+.css-startup .icon-type.it-main-color,
+.css-startup .icon-type.it-main-color-reverse:hover,
+.css-startup .icon-type.it-main-color-reverse:focus,
+.css-startup .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-startup .comment_response .media h6 a,
+.css-startup .comment_response .media_cloud a.reply_link,
+.css-startup .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-startup .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-startup .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-startup .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-startup .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-startup .dropcap.dropcap-style-1,
+.css-startup .btn-default-reverse,
+.css-startup .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-startup .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-startup .counter-box .count-icon,
+.css-startup .counter-style-1 .counter-box h4,
+.css-startup .icon-type,
+.css-startup .icon-type.it-main-color,
+.css-startup .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-startup .icon-type.it-main-color-reverse:focus,
+.css-startup .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-startup .review_response .media h6 a,
+.css-startup .review_response .media_cloud .shop-star-rating li.full-star,
+.css-startup .rating-container .rating-stars,
+.css-startup .form-contact small,
+.css-startup ul.icon-list li a:hover,
+.css-startup ul.icon-list li a:active,
+.css-startup ul.icon-list li a:focus,
+.css-startup .checkout-sum,
+.css-startup .checkout-table td a:hover,
+.css-startup .checkout-box a,
+.css-startup .user-profile-list ul li a:hover,
+.css-startup a.profile-active,
+.css-startup .user-profile-content h2,
+.css-startup .forum-content-header span a,
+.css-startup .recent-work-content a:hover,
+.css-startup .recent-work-image-content a:hover,
+.css-startup .contact-overlay-map .maximize-form:hover,
+.css-startup .hero-slier-nav-content:hover [class^="icon-"],
+.css-startup .selected .hero-slier-nav-content [class^="icon-"],
+.css-startup .team-social a:hover,
+.css-startup .team-name h5 a:hover,
+.css-startup .clients-slick-nav .slick-custom-next:hover,
+.css-startup .clients-slick-nav .slick-custom-prev:hover,
+.css-startup .services-pricing-icon [class^="icon-"],
+.css-startup .brand [class^="icon-"],
+.css-startup .content-divider-colored [class^="icon-"],
+.css-startup .divider-content h1 span,
+.css-startup .divider-content h2 span,
+.css-startup .divider-content h3 span,
+.css-startup .intro-page-content a:hover,
+.css-startup .image-box-content a:hover,
+.css-startup .icon-type.it-main-color [class^="icon-"],
+.css-startup .icon-type-2:hover p,
+.css-startup .icon-type-2:hover span.icon-type-2-icon,
+.css-startup .heading-container .head-colored,
+.css-startup ul.home-6-list li h4 [class^="icon-"],
+.css-startup .icon-box-2-effect-1:hover .icon-block-2,
+.css-startup .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-startup .icon-box-2-effect-4:hover .icon-block-2,
+.css-startup .icon-box-2-effect-4-reverse .icon-block-2,
+.css-startup .icon-box-2-effect-5:hover .icon-block-2,
+.css-startup .simple-icon-lightbg [class^="icon-"],
+.css-startup .newsletter-signup button,
+.css-startup a.add-to-wishlist.select,
+.css-startup a.add-to-wishlist.select [class^="icon-"],
+.css-startup .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-startup .panel-body ul li a:hover,
+.css-startup .colored,
+.css-startup .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-startup .tabpanel-style-6 .nav-tabs > li > a,
+.css-startup .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-startup .tp_caption_big span,
+.css-startup ul.icon-box-simple li:hover a,
+.css-startup .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-startup .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-startup .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-startup .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-startup .blockquote-author p,
+.css-startup .testimonial-author,
+.css-startup .latest-post-content h1 a:hover,
+.css-startup .post-by a:hover,
+.css-startup .latest-post-content .read-more-link,
+.css-startup .blog-horizontal .bh-content h3 a:hover,
+.css-startup .blog-horizontal .bh-content .bh-details a:hover,
+.css-startup .blog-horizontal .bh-content .bh-details a:hover span,
+.css-startup a.bsp-title:hover,
+.css-startup .sidebar-blog-post-list li .sbp-title:hover,
+.css-startup .navbar-nav > li.active,
+.css-startup .navbar-nav > li.active:hover,
+.css-startup a.idb-social:hover,
+.css-startup a.idb-social:hover span,
+.css-startup a.idb-price,
+.css-startup span.pts-raised,
+.css-startup .bsp-social a:hover,
+.css-startup .bsp-social a [class^="icon-"]:hover,
+.css-startup a.bsp-more:hover,
+.css-startup .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-startup .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-startup .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-startup .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-startup .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-startup .gallery-block .gallery-box .gallery-meta a:hover,
+.css-startup .gallery-block .gallery-box .gallery-meta a:focus,
+.css-startup .cd-timeline-inner-content a:hover,
+.css-startup .testimonial-box .testimonial-author span,
+.css-startup .fic-date a:hover,
+.css-startup .forum-inner-content h1 a:hover,
+.css-startup .user-profile-desc a:hover,
+.css-startup .cd-timeline-navigation a:hover::after,
+.css-startup .login-form .login-input-box [class^="icon-"],
+.css-startup .icon-input-box [class^="icon-"],
+.css-startup ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-startup ul.bar-chart-graph li,
+.css-startup ul.line-graph li,
+.css-startup ul.donut-graph li,
+.css-startup .tp-caption.Creative-SubTitle,
+.css-startup .Creative-SubTitle,
+.css-startup .tp-caption.vlt-hero-rotating,
+.css-startup .pagination > li > a:focus,
+.css-startup .pagination > li > a:hover,
+.css-startup .pagination > li > span:focus,
+.css-startup .pagination > li > span:hover,
+.css-startup .pager li > a,
+.css-startup ul.recent-post-widget .rp-post a:hover,
+.css-startup .tp-tab.selected span.tp-tab-title span,
+.css-startup .tp-tab.selected span.tp-tab-title,
+.css-startup .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-startup .tp-main-color,
+.css-startup .loader-5,
+.css-startup .loader-7,
+.css-startup .loader-9,
+.css-startup .loader-2,
+.css-startup .loader-4,
+.css-startup .gsi-style-9 li.visited>*, 
+.css-startup .gsi-style-9 li.current>*,
+.css-startup .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-startup .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #00c96d !important;
+}
+
+.css-startup .tp-caption .btn-default,
+.css-startup .btn-default,
+.css-startup .flex-control-paging li a.flex-active,
+.css-startup .flexslider.clients .flex-control-paging li a.flex-active,
+.css-startup .pagination-box .pager li a,
+.css-startup .contact-info-3,
+.css-startup .tags-cloud-list li a:hover,
+.css-startup .team-social a:hover,
+.css-startup .contact-title-one h3:after,
+.css-startup .home-title-one h3:after,
+.css-startup #login-form .login-input:active,
+.css-startup #login-form .login-input:focus,
+.css-startup .load-more-wrapper a.load-more-btn:hover,
+.css-startup #register-form .register-input:active,
+.css-startup #register-form .register-input:focus,
+.css-startup .dropcap.dropcap-style-1,
+.css-startup .dropcap.dropcap-style-2,
+.css-startup .alert-default,
+.css-startup blockquote,
+.css-startup .tp-caption .btn-default,
+.css-startup .btn-default,
+.css-startup .btn-default-reverse,
+.css-startup .icon-box.icon-square .icon-block,
+.css-startup .icon-box.icon-circle .icon-block,
+.css-startup .icon-type.it-main-color,
+.css-startup .icon-type.it-main-color:hover,
+.css-startup .icon-type.it-main-color:focus,
+.css-startup .icon-type.it-main-color-reverse,
+.css-startup .icon-type.it-main-color-reverse:hover,
+.css-startup .icon-type.it-main-color-reverse:focus,
+.css-startup .add-to-cart-form .count-input .count-plus:hover,
+.css-startup .add-to-cart-form .count-input .count-minus:hover,
+.css-startup #reviewmodal .modal-header,
+.css-startup .job-left-title h3,
+.css-startup .pricing-table-container.special-price-table,
+.css-startup .clients-slick-nav .slick-custom-next:hover,
+.css-startup .clients-slick-nav .slick-custom-prev:hover,
+.css-startup a.add-to-wishlist.select,
+.css-startup a.add-to-wishlist.select [class^="icon-"],
+.css-startup .tabpanel-style-8 .nav-tabs > li.active,
+.css-startup a.btn-default.btn-animation-icon-box,
+.css-startup .btn-default.btn-animation-icon-box:hover,
+.css-startup .btn-default.btn-animation-icon-box:focus,
+.css-startup .btn-default.btn-animation-icon-box:active,
+.css-startup .tp-caption a.btn-default.btn-animation-icon-box,
+.css-startup .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-startup .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-startup .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-startup .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-startup .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-startup .clients-slick-nav .slick-clients-prev:hover,
+.css-startup .clients-slick-nav .slick-clients-next:hover,
+.css-startup .bsp-image,
+.css-startup .blog-list > article.default-post .blog-desc,
+.css-startup .testimonial-single li.slick-active button::before,
+.css-startup .slick-dots li.slick-active button:before,
+.css-startup .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-startup .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-startup .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-startup .timeline-status.timeline-active:before,
+.css-startup .cd-horizontal-timeline .events a.older-event::after,
+.css-startup .cd-horizontal-timeline .events a.selected::after,
+.css-startup .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-startup .no-touch .cd-timeline-navigation a:hover,
+.css-startup .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-startup .cd-timeline-navigation a:hover,
+.css-startup .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-startup .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-startup .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-startup .login-form input:focus,
+.css-startup .pinpulse,
+.css-startup .open > .dropdown-toggle.btn-default,
+.css-startup .pagination > .active > a,
+.css-startup .pagination > .active > a:focus,
+.css-startup .pagination > .active > a:hover,
+.css-startup .pagination > .active > span,
+.css-startup .pagination > .active > span:focus,
+.css-startup .pagination > .active > span:hover,
+.css-startup .table-style-1 thead tr th,
+.css-startup .table-style-1 tbody tr:last-child th,
+.css-startup .table-style-1 tbody tr:last-child td,
+.css-startup .table-withmaincolor thead tr th,
+.css-startup .clients-title-border h3,
+.css-startup .cd-slider-nav li:hover,
+.css-startup .selected,
+.css-startup .job-form input:focus,
+.css-startup .job-form select:focus,
+.css-startup .job-form textarea:focus,
+.css-startup .form-contact input:focus,
+.css-startup .form-contact select:focus,
+.css-startup .form-contact textarea:focus,
+.css-startup .form-contact input:focus,
+.css-startup .icon-type-2:hover p,
+.css-startup .icon-type-2:hover span.icon-type-2-icon,
+.css-startup .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-startup .activeFilter,
+.css-startup .loader-30 > div, 
+.css-startup .loader-31 > div, 
+.css-startup .loader-35 > div:first-of-type, 
+.css-startup .loader-35 > div:nth-child(2),
+.css-startup .loader-12 > div,
+.css-startup .loader-15 > div,
+.css-startup .loader-21 > div  {
+    border-color:  #00c96d;
+}
+
+.css-startup .tabpanel-style-4 .nav-tabs > li.active,
+.css-startup .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-startup .tabpanel-style-5 .nav-tabs > li.active,
+.css-startup .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #00c96d transparent;
+}
+
+.css-startup .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #00c96d;
+}
+
+.css-startup .icon-box-2-effect-4 .icon-block-2,
+.css-startup .icon-box-2-effect-5 .icon-block-2,
+.css-startup .icon-box-2-effect-5:hover .icon-block-2,
+.css-startup .icon-box-2-effect-1 .icon-block-2:after,
+.css-startup .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #00c96d;
+}
+
+.css-startup .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #00c96d;
+}
+
+.css-startup .empty-cart:after, .css-startup .loader-34 > div  {
+  border-bottom-color: #00c96d;
+}
+
+.css-startup .btn-default-reverse:hover,
+.css-startup .btn-default-reverse:focus {
+  background-color: #00c96d !important;
+  border-color: #00c96d !important;
+}
+
+.css-startup .tp-caption .btn-default.active,
+.css-startup .btn-default.active,
+.css-startup .tp-caption .btn-default.focus,
+.css-startup .btn-default.focus,
+.css-startup .tp-caption .btn-default:active,
+.css-startup .btn-default:active,
+.css-startup .tp-caption .btn-default:focus,
+.css-startup .btn-default:focus,
+.css-startup .tp-caption .btn-default:hover,
+.css-startup .btn-default:hover,
+.css-startup .tp-caption .btn-white:hover,
+.css-startup .btn-white:hover {
+  background-color: #02b865 !important;
+  border-color: #02b865 !important;
+}
+
+.css-startup .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #00c96d;
+}
+
+.css-startup #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-startup #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-startup #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-startup #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-startup #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-startup #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-startup #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-startup #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #00c96d;
+}
+
+.css-startup #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-startup #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-startup span.latest-post-month,
+.css-startup .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-startup .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #02b865;
+}
+
+.css-startup #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-startup #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-startup #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-startup #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-startup #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-startup #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-startup #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-startup #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-startup #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-startup #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-startup #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-startup #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-startup #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-startup #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-startup #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-startup #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-startup #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-startup #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #02b865;
+  border-color: #02b865;
+}
+
+.css-startup #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-startup #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #02b865;
+}
+
+.css-startup .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-startup .item-text-wrapper,
+.css-startup .standard_hover .portfolio_overlay,
+.css-startup .overlay-animation-1 .overlay_box,
+.css-startup .overlay-animation-2 .overlay_box,
+.css-startup .flip-hover .flip-box .content-box,
+.css-startup .team-8 .team-image .overlay-team-box,
+.css-startup .team-9 .team-image .overlay-team-box,
+.css-startup .portfolio-animation-slide .sliding-content {
+  background-color: rgba(0, 201, 109, 0.9);
+}
+
+.css-startup .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-startup .team-2 .overlay-team-box,
+.css-startup .team-6 .overlay-team-box,
+.css-startup .team-7 .overlay-team-box,
+.css-startup .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-startup .contact-overlay-map .overlay-map-background,
+.css-startup .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-startup .table-style-7.table-withmaincolor tbody tr th,
+.css-startup .table-style-2.table-withmaincolor tbody tr,
+.css-startup .fc-bgevent,
+.css-startup #particles-js.background-1 {
+  background-color: rgba(0, 201, 109, 0.6) !important;
+}
+
+.css-startup .widget-dribbble-box .shots li a:hover:before, .css-startup .dribbble-box .shots li a:hover:before,
+.css-startup .instagram-widget a:hover:before {
+  background-color: rgba(0, 201, 109, 0.85);
+}
+
+.css-startup .search-popup-box,
+.css-startup .scroll-to-top-fixed {
+  background-color: rgba(0, 201, 109, 0.95);
+}
+
+.css-startup .title-medium {
+  font-family: "Source Sans Pro", serif !important;
+  font-size: 5em !important;
+  line-height: 1.5 !important;
+  color: #fff;
+  text-transform: capitalize !important;
+  font-weight: 700 !important;
+}
+
+.css-startup .title-medium .tp-splitted.tp-linesplit {
+  text-transform: uppercase !important;
+}
+
+.css-startup .background-2 .testimonial-single .slick-dots li button::before,
+.css-startup .background-2 .slick-dots li button::before,
+.css-startup .background-1 .testimonial-single .slick-dots li button::before,
+.css-startup .background-1 .slick-dots li button::before,
+.css-startup .background-3 .testimonial-single .slick-dots li button::before,
+.css-startup .background-3 .slick-dots li button::before,
+.css-startup .gray-background .testimonial-single .slick-dots li button::before,
+.css-startup .gray-background-3 .slick-dots li button::before {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+.css-startup .blockquote-style-2 blockquote::before,
+.css-startup .blockquote-style-2 blockquote::after {
+  background-color: transparent !important;
+}
+
+.css-startup .loader-3 {
+  border-top-color: rgba(0, 201, 109, 0.2);
+  border-right-color: rgba(0, 201, 109, 0.2);
+  border-bottom-color: rgba(0, 201, 109, 0.2);
+  border-left-color: #00c96d;
+}
+
+.css-startup #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-startup #header.header-white .navbar-2 .search-navbar .btn-cart:hover {
+  color: rgba(255, 255, 255, 0.85) !important;
+  border-color: transparent !important;
+}
+
+.css-startup .blockquote-style-2 blockquote {
+  border-color: #dedede;
+}
+
+.css-startup .icon-box.icon-fill:hover .icon-block,
+.css-startup .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-startup .cart-shop-products h3, .css-startup .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-startup .cart-shop-products-list li .csp-price, .css-startup .sidebar-shop-products-list li .ssp-price,
+.css-startup .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-startup .shop-list .shop-product .shop-star-rating li.full-star,
+.css-startup ul.shop-star-rating li.full-star {
+  color: #354a5e;
+}
+
+.css-startup .shop-list .shop-product .shop-ribbon, .css-startup .ui-slider-horizontal .ui-slider-range,
+.css-startup .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-startup .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #354a5e;
+}
+.css-startup .loader-13 > div:last-child, 
+.css-startup .loader-15 > div:last-child {
+  border-color: #00c96d transparent;
+}
+.css-startup .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #00c96d 30%, #00c96d 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #00c96d 30%, #00c96d 100%);
+}

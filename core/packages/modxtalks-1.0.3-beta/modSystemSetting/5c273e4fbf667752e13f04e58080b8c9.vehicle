@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6861cd666b3b2b4d28863ca73c0dd4fc',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '5c273e4fbf667752e13f04e58080b8c9',
+  'native_key' => 'modxtalks.edit_time',
+  'object' => '{"key":"modxtalks.edit_time","value":180,"xtype":"textfield","namespace":"modxtalks","area":"settings","editedon":null}',
+);

@@ -1,0 +1,863 @@
+/* Medical */
+body.css-medical,
+.css-medical p,
+.css-medical h1,
+.css-medical h2,
+.css-medical h3,
+.css-medical h4,
+.css-medical h5,
+.css-medical h6,
+.css-medical .featured-content h1.small,
+.css-medical .form-group > label,
+.css-medical .checkbox > label,
+.css-medical .alert > p,
+.css-medical .block-content-wrapper h2,
+.css-medical .intro-text h1, .intro-text h2,
+.css-medical .intro-text h3, .intro-text h4,
+.css-medical .intro-text h5, .intro-text h6,
+.css-medical .restaurant-info-img-content h4,
+.css-medical .contact-title h3 {
+  font-family: "Droid Sans", sans-serif;
+}
+
+.css-medical h1, .css-medical h2, .css-medical h3, .css-medical h4, .css-medical h5, .css-medical h6 {
+  font-family: "Open Sans", sans-serif;
+}
+
+.css-medical .color-1 {
+  color: #36a8eb !important;
+}
+
+.css-medical .background-1,
+.css-medical .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-medical .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-medical .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #36a8eb !important;
+}
+
+.css-medical .color-2 {
+  color: #088edd !important;
+}
+
+.css-medical .background-2,
+.css-medical .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-medical .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-medical .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #088edd;
+}
+
+.css-medical .color-3 {
+  color: #1063af !important;
+}
+
+.css-medical .background-3,
+.css-medical .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-medical .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-medical .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3 {
+  background-color: #1063af !important;
+}
+
+.css-medical .call-to-action {
+  background-color: transparent !important;
+}
+
+.css-medical .tp-caption .btn-default,
+.css-medical .btn-default,
+.css-medical .flex-control-paging li a.flex-active,
+.css-medical .navbar-toggle,
+.css-medical #mobile-navbar,
+.css-medical .offscreen-container,
+.css-medical .maincolor-background,
+.css-medical ul.widget-ul li a > span,
+.css-medical ul.widget-social li a:hover,
+.css-medical #people .item .info,
+.css-medical .main-color,
+.css-medical .flexslider.clients .flex-control-paging li a.flex-active,
+.css-medical #portfolio-filter li a:after,
+.css-medical .navbar.banner--clone .nav li.active > a,
+.css-medical .pagination-box .pager li a,
+.css-medical .pricing-table-column.special-price-table .pricing-table-head,
+.css-medical .pricing-table-column.special-price-table .pricing-table-content,
+.css-medical .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-medical .tags-cloud-list li a:hover,
+.css-medical .progress-bar-box .progress-bar,
+.css-medical .background-1,
+.css-medical .selecter .selecter-item:hover,
+.css-medical .selecter .selecter-item.selected:hover,
+.css-medical #footer.colored,
+.css-medical section.about-counter,
+.css-medical .error-page-title:after,
+.css-medical .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-medical .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-medical .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-medical .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-medical .tabpanel-style-4 .tab-content h3:after,
+.css-medical .about-classic-column-themecolor,
+.css-medical .selecter .selecter-item:hover,
+.css-medical .selecter .selecter-item.selected:hover,
+.css-medical .item-text-wrapper_overlay,
+.css-medical .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-medical .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-medical .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-medical .shop-type-2 a.add-to-cart-item,
+.css-medical .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-medical .navbar-2 .btn-cart .header-cart-count,
+.css-medical .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-medical .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-medical .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-medical .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-medical .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-medical .dropcap.dropcap-style-2,
+.css-medical .alert-default,
+.css-medical blockquote:before,
+.css-medical blockquote:after,
+.css-medical .tp-caption .btn-default,
+.css-medical .btn-default,
+.css-medical .content-title h5:before,
+.css-medical .content-title h5:after,
+.css-medical .icon-box.icon-fill .icon-block,
+.css-medical .icon-box.icon-square:hover .icon-block,
+.css-medical .icon-box.icon-circle:hover .icon-block,
+.css-medical .icon-box.icon-square:hover .icon-block span,
+.css-medical .icon-box.icon-circle:hover .icon-block span,
+.css-medical .icon-type.it-main-color:hover,
+.css-medical .icon-type.it-main-color:focus,
+.css-medical .icon-type.it-main-color-reverse,
+.css-medical .icon-type.it-main-color:hover span,
+.css-medical .icon-type.it-main-color-reverse:hover span,
+.css-medical .add-to-cart-form .count-input .count-plus:hover,
+.css-medical .add-to-cart-form .count-input .count-minus:hover,
+.css-medical .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-medical .pricing-table-container.special-price-table,
+.css-medical .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-medical .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-medical ul.forum-list li.forum-header,
+.css-medical .textbox-withmaincolor,
+.css-medical .background-1,
+.css-medical .team-member-job,
+.css-medical .team-section .team-desc-box:before,
+.css-medical .team-section .team-desc-box:after,
+.css-medical .shop-categories:hover .shop-title-categories,
+.css-medical .content-divider-colored-bg [class^="icon-"],
+.css-medical .overlay-animation-6 .content-box,
+.css-medical .block-content-wrapper h1,
+.css-medical .benefits-box h1,
+.css-medical .selecter .selecter-item:hover,
+.css-medical .selecter .selecter-item.selected:hover,
+.css-medical .ui-slider .ui-slider-range,
+.css-medical #header.header-main-color,
+.css-medical .navbar-2.banner--clone.main-color-navbar,
+.css-medical .tabpanel-style-center .nav-tabs > li.active > a,
+.css-medical .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-medical .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-medical .label.label-primary,
+.css-medical .label.label-primary,
+.css-medical .star-rating .caption .label,
+.css-medical .tparrows.preview5:hover,
+.css-medical .table-style-4.table-withmaincolor thead tr th,
+.css-medical .table-style-5.table-withmaincolor thead tr th,
+.css-medical .table-style-6.table-withmaincolor thead tr th,
+.css-medical .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-medical .table-style-7.table-withmaincolor thead tr th,
+.css-medical .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-medical .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-medical .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-medical .table-style-2.table-withmaincolor thead tr th,
+.css-medical .table-style-3.table-withmaincolor thead tr th,
+.css-medical .table-style-3.table-withmaincolor tbody tr th,
+.css-medical .parallax-withmaincolor,
+.css-medical .contact-overlay-map .minimize-form:hover,
+.css-medical .team-3:hover .team-social,
+.css-medical .team-5:hover .team-social,
+.css-medical .special-table-2,
+.css-medical .special-table-3,
+.css-medical span.pricing-3-discount,
+.css-medical #vertical-timeline-container:before,
+.css-medical .subscribe-fancy-themebg,
+.css-medical .empty-cart,
+.css-medical .team-4:hover .team-social,
+.css-medical .content-divider-colored,
+.css-medical .content-divider-colored-bg,
+.css-medical .withmainbackground,
+.css-medical .services-2-heading,
+.css-medical .icon-box-2-effect-4 .icon-block-2,
+.css-medical .services-2-heading,
+.css-medical .promotion-box-theme-colored,
+.css-medical .promotion-box-theme-colored .promotion-box-title h4,
+.css-medical .icon-block-2,
+.css-medical .icon-box-2-effect-2:hover .icon-block-2,
+.css-medical .icon-box-2-effect-3 .icon-block-2:after,
+.css-medical .icon-box-2-effect-4 .icon-block-2:after,
+.css-medical .icon-box-2-effect-6 .icon-block-2,
+.css-medical .icon-box-2-effect-6:hover .icon-block-2,
+.css-medical .simple-icon-icon,
+.css-medical a.call-to-action-link:hover,
+.css-medical .add-to-cart-form .count-input .count-plus,
+.css-medical .add-to-cart-form .count-input .count-minus,
+.css-medical .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-medical .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-medical .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-medical .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-medical .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-medical .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-medical .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-medical .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-medical .special-price-box,
+.css-medical .dropdown-menu > .active > a,
+.css-medical .dropdown-menu > .active > a:focus,
+.css-medical .dropdown-menu > .active > a:hover,
+.css-medical #header.main-color-nav .navbar-2,
+.css-medical .latest-post-data,
+.css-medical .blog-single-post .bsp-heading h1,
+.css-medical .testimonial-single .slick-dots li button:before,
+.css-medical .slick-dots li button:before,
+.css-medical .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-medical .timeline-complete .timeline-status.timeline-active:before,
+.css-medical .megamenu.maincolor,
+.css-medical .dropdown.maincolor ul,
+.css-medical .dropdown.maincolor ul.dropdown-menu,
+.css-medical #footer.maincolor,
+.css-medical #copyrights.maincolor,
+.css-medical .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-medical .cd-horizontal-timeline .events a.selected::after,
+.css-medical .cd-horizontal-timeline .filling-line,
+.css-medical .pinpulsebox span,
+.css-medical .main-color-dropdown .megamenu,
+.css-medical .main-color-dropdown .dropdown-menu,
+.css-medical #cd-timeline::before,
+.css-medical ul.icon-list.il-main-bg li [class^="icon-"],
+.css-medical .process-steps ul li.current a .number,
+.css-medical ol.ordered-list.ol-main-bg li:before,
+.css-medical .irs-bar,
+.css-medical .irs-from,
+.css-medical .irs-to,
+.css-medical .irs-single,
+.css-medical .open > .dropdown-toggle.btn-default,
+.css-medical .fc-unthemed .fc-today,
+.css-medical .fc-content,
+.css-medical #particles-js,
+.css-medical .s-icon:hover,
+.css-medical #progressbar li.active:before,
+.css-medical #progressbar li.active:after,
+.css-medical .pagination > .active > a,
+.css-medical .pagination > .active > a:focus,
+.css-medical .pagination > .active > a:hover,
+.css-medical .pagination > .active > span,
+.css-medical .pagination > .active > span:focus,
+.css-medical .pagination > .active > span:hover,
+.css-medical .portfolio-filter .selecter-item.activeFilter,
+.css-medical .page-loader-spinner span,
+.css-medical .loader-6:before,
+.css-medical .loader-2,
+.css-medical .loader-2:before,
+.css-medical .loader-2:after,
+.css-medical .loader-10 > div, 
+.css-medical .loader-11 > div,
+.css-medical .loader-13 > div:first-child, 
+.css-medical .loader-14 > div, 
+.css-medical .loader-16 > div, 
+.css-medical .loader-17 > div, 
+.css-medical .loader-17 > div:before, 
+.css-medical .loader-17 > div:after, 
+.css-medical .loader-18 > div, 
+.css-medical .loader-19 > div, 
+.css-medical .loader-20 > div, 
+.css-medical .loader-22 > div, 
+.css-medical .loader-23 > div, 
+.css-medical .loader-24 > div, 
+.css-medical .loader-25 > div, 
+.css-medical .loader-26 > div, 
+.css-medical .loader-27 > div, 
+.css-medical .loader-28 > div, 
+.css-medical .loader-29 > div, 
+.css-medical .loader-32 > div, 
+.css-medical .loader-33 > div, 
+.css-medical .loader-35 > div:nth-child(3), 
+.css-medical .loader-35 > div:nth-child(4), 
+.css-medical .loader-35 > div:nth-child(5),
+.css-medical .loader-35 > div:nth-child(6), 
+.css-medical .loader-37 > div, 
+.css-medical .loader-38 > div,
+.css-medical .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-medical .radio input[type=radio]:checked ~ .check, 
+.css-medical .vlt-btn-group .dropdown-menu li a:hover, 
+.css-medical .gsi-step-indicator.triangle li.current>*, 
+.css-medical .gsi-style-4 li.current>*, 
+.css-medical .gsi-style-5 li.current>*, 
+.css-medical .gsi-style-6 li.current>* .number, 
+.css-medical .gsi-style-7 li.current:hover>*, 
+.css-medical .gsi-style-8 li.visited>*, 
+.css-medical .gsi-style-8 li.current>*, 
+.css-medical .gsi-style-9 li.visited>*:after, 
+.css-medical .gsi-style-9 li.current>*:after, 
+.css-medical .gsi-style-10 li.visited>*:after, 
+.css-medical .gsi-style-10 li.current>*:after, 
+.css-medical .gsi-style-11 li.current:before, 
+.css-medical .gsi-style-11 li.current:after, 
+.css-medical .gsi-style-11 li.visited:before, 
+.css-medical .gsi-style-11 li.visited:after, 
+.css-medical .gsi-style-11 li.visited>*:after, 
+.css-medical .gsi-style-11 li.current>*:after, 
+.css-medical .flatpickr-day.today:focus, 
+.css-medical .flatpickr-day.today:hover  {
+  background-color: #36a8eb !important;
+}
+
+.css-medical .header-content .phone-number span,
+.css-medical .intro-block h6,
+.css-medical .icon-block [class^="icon-"],
+.css-medical ul.header-links li a:hover,
+.css-medical .navbar.banner--clone .nav > li > a:hover,
+.css-medical .navbar.banner--clone .btn-search:hover,
+.css-medical .success-lg:hover [class^="icon-"],
+.css-medical #copyrights ul li a:hover,
+.css-medical #copyrights a:hover,
+.css-medical .breadcrumb > .active,
+.css-medical #portfolio-filter li a.activeFilter,
+.css-medical #portfolio-filter li a:hover,
+.css-medical .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-medical a.image_zoom:hover [class^="icon-"],
+.css-medical a.image_link:hover [class^="icon-"],
+.css-medical a.load-more-btn:hover,
+.css-medical a.load-more-btn:hover [class^="icon-"],
+.css-medical .intro-block h1 [class^="icon-"],
+.css-medical .shop-list .shop-product h4 a:hover,
+.css-medical ul#portfolio-layout-filter li a.active,
+.css-medical .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-medical ul.sidebar-shop-cat > li span,
+.css-medical .shop-price,
+.css-medical ul.sidebar-shop-cat > li > a:hover,
+.css-medical a.load-more-btn:hover,
+.css-medical a.load-more-btn:hover [class^="icon-"],
+.css-medical .intro-block h1 [class^="icon-"],
+.css-medical .shop-list .shop-product h4 a:hover,
+.css-medical ul#portfolio-layout-filter li a.active,
+.css-medical .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-medical ul.sidebar-cat > li span,
+.css-medical .shop-price,
+.css-medical ul.sidebar-cat > li > a:hover,
+.css-medical ul.jobs-list li [class^="icon-"],
+.css-medical .team-social a:hover,
+.css-medical .icon-default,
+.css-medical .error-page-icon span [class^="icon-"],
+.css-medical .footer-3-container-text a:hover,
+.css-medical .testimonials-box .testimonial-author,
+.css-medical #page-title.image-page-title-fullwidth h1,
+.css-medical #page-title.image-page-title-left.image-page-noimage h2,
+.css-medical ul.services-2-icons,
+.css-medical ul.shop-layout-filter li a.active,
+.css-medical ul.portfolio-layout-filter li a.active,
+.css-medical ul.porfolio-project-details-list > li .ppd-right,
+.css-medical ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-medical .related-projects-title .slick-custom-next:hover,
+.css-medical .related-projects-title .slick-custom-prev:hover,
+.css-medical .recent-post-content a:hover,
+.css-medical .form-group.login-form-submit a,
+.css-medical .shop-type-1 a.add-to-cart-item:before,
+.css-medical .shop-type-2 a.add-to-cart-item:before,
+.css-medical a.form-forgotpass,
+.css-medical .sidebar-shop-products-list li .ssp-title:hover,
+.css-medical .restaurant-info ul li [class^="icon-"],
+.css-medical .navbar-default.default .btn-cart .header-cart-count,
+.css-medical .cart-shop-products-list li .csp-title:hover,
+.css-medical .blog-list > article .blog-desc h4 a:hover,
+.css-medical .blog-list > article .blog-desc h4 a:focus,
+.css-medical .blog-list-full > article .blog-desc h4 a:hover,
+.css-medical .blog-list-full > article .blog-desc h4 a:focus,
+.css-medical .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-medical .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-medical .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-medical .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-medical .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-medical .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-medical .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-medical .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-medical .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-medical .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-medical .blog-masonry > article .blog-desc h4 a:hover,
+.css-medical .blog-masonry > article .blog-desc h4 a:focus,
+.css-medical .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-medical .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-medical .comment_response .media h6 a,
+.css-medical .comment_response .media_cloud a.reply_link,
+.css-medical .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-medical .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-medical .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-medical .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-medical .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-medical .dropcap.dropcap-style-1,
+.css-medical .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-medical .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-medical .counter-box .count-icon,
+.css-medical .counter-style-1 .counter-box h4,
+.css-medical .icon-type,
+.css-medical .icon-type.it-main-color,
+.css-medical .icon-type.it-main-color-reverse:hover,
+.css-medical .icon-type.it-main-color-reverse:focus,
+.css-medical .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-medical .comment_response .media h6 a,
+.css-medical .comment_response .media_cloud a.reply_link,
+.css-medical .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-medical .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-medical .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-medical .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-medical .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-medical .dropcap.dropcap-style-1,
+.css-medical .btn-default-reverse,
+.css-medical .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-medical .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-medical .counter-box .count-icon,
+.css-medical .counter-style-1 .counter-box h4,
+.css-medical .icon-type,
+.css-medical .icon-type.it-main-color,
+.css-medical .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-medical .icon-type.it-main-color-reverse:focus,
+.css-medical .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-medical .review_response .media h6 a,
+.css-medical .review_response .media_cloud .shop-star-rating li.full-star,
+.css-medical .rating-container .rating-stars,
+.css-medical .form-contact small,
+.css-medical ul.icon-list li a:hover,
+.css-medical ul.icon-list li a:active,
+.css-medical ul.icon-list li a:focus,
+.css-medical .checkout-sum,
+.css-medical .checkout-table td a:hover,
+.css-medical .checkout-box a,
+.css-medical .user-profile-list ul li a:hover,
+.css-medical a.profile-active,
+.css-medical .user-profile-content h2,
+.css-medical .forum-content-header span a,
+.css-medical .recent-work-content a:hover,
+.css-medical .recent-work-image-content a:hover,
+.css-medical .contact-overlay-map .maximize-form:hover,
+.css-medical .hero-slier-nav-content:hover [class^="icon-"],
+.css-medical .selected .hero-slier-nav-content [class^="icon-"],
+.css-medical .team-social a:hover,
+.css-medical .team-name h5 a:hover,
+.css-medical .clients-slick-nav .slick-custom-next:hover,
+.css-medical .clients-slick-nav .slick-custom-prev:hover,
+.css-medical .services-pricing-icon [class^="icon-"],
+.css-medical .brand [class^="icon-"],
+.css-medical .content-divider-colored [class^="icon-"],
+.css-medical .divider-content h1 span,
+.css-medical .divider-content h2 span,
+.css-medical .divider-content h3 span,
+.css-medical .intro-page-content a:hover,
+.css-medical .image-box-content a:hover,
+.css-medical .icon-type.it-main-color [class^="icon-"],
+.css-medical .icon-type-2:hover p,
+.css-medical .icon-type-2:hover span.icon-type-2-icon,
+.css-medical .heading-container .head-colored,
+.css-medical ul.home-6-list li h4 [class^="icon-"],
+.css-medical .icon-box-2-effect-1:hover .icon-block-2,
+.css-medical .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-medical .icon-box-2-effect-4:hover .icon-block-2,
+.css-medical .icon-box-2-effect-4-reverse .icon-block-2,
+.css-medical .icon-box-2-effect-5:hover .icon-block-2,
+.css-medical .simple-icon-lightbg [class^="icon-"],
+.css-medical .newsletter-signup button,
+.css-medical a.add-to-wishlist.select,
+.css-medical a.add-to-wishlist.select [class^="icon-"],
+.css-medical .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-medical .panel-body ul li a:hover,
+.css-medical .colored,
+.css-medical .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-medical .tabpanel-style-6 .nav-tabs > li > a,
+.css-medical .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-medical .tp_caption_big span,
+.css-medical ul.icon-box-simple li:hover a,
+.css-medical .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-medical .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-medical .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-medical .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-medical .blockquote-author p,
+.css-medical .testimonial-author,
+.css-medical .latest-post-content h1 a:hover,
+.css-medical .post-by a:hover,
+.css-medical .latest-post-content .read-more-link,
+.css-medical .blog-horizontal .bh-content h3 a:hover,
+.css-medical .blog-horizontal .bh-content .bh-details a:hover,
+.css-medical .blog-horizontal .bh-content .bh-details a:hover span,
+.css-medical a.bsp-title:hover,
+.css-medical .sidebar-blog-post-list li .sbp-title:hover,
+.css-medical .navbar-nav > li.active,
+.css-medical .navbar-nav > li.active:hover,
+.css-medical a.idb-social:hover,
+.css-medical a.idb-social:hover span,
+.css-medical a.idb-price,
+.css-medical span.pts-raised,
+.css-medical .bsp-social a:hover,
+.css-medical .bsp-social a [class^="icon-"]:hover,
+.css-medical a.bsp-more:hover,
+.css-medical .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-medical .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-medical .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-medical .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-medical .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-medical .gallery-block .gallery-box .gallery-meta a:hover,
+.css-medical .gallery-block .gallery-box .gallery-meta a:focus,
+.css-medical .cd-timeline-inner-content a:hover,
+.css-medical .testimonial-box .testimonial-author span,
+.css-medical .fic-date a:hover,
+.css-medical .forum-inner-content h1 a:hover,
+.css-medical .user-profile-desc a:hover,
+.css-medical .cd-timeline-navigation a:hover::after,
+.css-medical .login-form .login-input-box [class^="icon-"],
+.css-medical .icon-input-box [class^="icon-"],
+.css-medical ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-medical ul.bar-chart-graph li,
+.css-medical ul.line-graph li,
+.css-medical ul.donut-graph li,
+.css-medical .tp-caption.Creative-SubTitle,
+.css-medical .Creative-SubTitle,
+.css-medical .tp-caption.vlt-hero-rotating,
+.css-medical .pagination > li > a:focus,
+.css-medical .pagination > li > a:hover,
+.css-medical .pagination > li > span:focus,
+.css-medical .pagination > li > span:hover,
+.css-medical .pager li > a,
+.css-medical ul.recent-post-widget .rp-post a:hover,
+.css-medical .tp-tab.selected span.tp-tab-title span,
+.css-medical .tp-tab.selected span.tp-tab-title,
+.css-medical .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-medical .tp-main-color,
+.css-medical .loader-5,
+.css-medical .loader-7,
+.css-medical .loader-9,
+.css-medical .loader-2,
+.css-medical .loader-4,
+.css-medical .gsi-style-9 li.visited>*, 
+.css-medical .gsi-style-9 li.current>*,
+.css-medical .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-medical .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #36a8eb !important;
+}
+
+.css-medical .tp-caption .btn-default,
+.css-medical .btn-default,
+.css-medical .flex-control-paging li a.flex-active,
+.css-medical .flexslider.clients .flex-control-paging li a.flex-active,
+.css-medical .pagination-box .pager li a,
+.css-medical .contact-info-3,
+.css-medical .tags-cloud-list li a:hover,
+.css-medical .team-social a:hover,
+.css-medical .contact-title-one h3:after,
+.css-medical .home-title-one h3:after,
+.css-medical #login-form .login-input:active,
+.css-medical #login-form .login-input:focus,
+.css-medical .load-more-wrapper a.load-more-btn:hover,
+.css-medical #register-form .register-input:active,
+.css-medical #register-form .register-input:focus,
+.css-medical .dropcap.dropcap-style-1,
+.css-medical .dropcap.dropcap-style-2,
+.css-medical .alert-default,
+.css-medical blockquote,
+.css-medical .tp-caption .btn-default,
+.css-medical .btn-default,
+.css-medical .btn-default-reverse,
+.css-medical .icon-box.icon-square .icon-block,
+.css-medical .icon-box.icon-circle .icon-block,
+.css-medical .icon-type.it-main-color,
+.css-medical .icon-type.it-main-color:hover,
+.css-medical .icon-type.it-main-color:focus,
+.css-medical .icon-type.it-main-color-reverse,
+.css-medical .icon-type.it-main-color-reverse:hover,
+.css-medical .icon-type.it-main-color-reverse:focus,
+.css-medical .add-to-cart-form .count-input .count-plus:hover,
+.css-medical .add-to-cart-form .count-input .count-minus:hover,
+.css-medical #reviewmodal .modal-header,
+.css-medical .job-left-title h3,
+.css-medical .pricing-table-container.special-price-table,
+.css-medical .clients-slick-nav .slick-custom-next:hover,
+.css-medical .clients-slick-nav .slick-custom-prev:hover,
+.css-medical a.add-to-wishlist.select,
+.css-medical a.add-to-wishlist.select [class^="icon-"],
+.css-medical .tabpanel-style-8 .nav-tabs > li.active,
+.css-medical a.btn-default.btn-animation-icon-box,
+.css-medical .btn-default.btn-animation-icon-box:hover,
+.css-medical .btn-default.btn-animation-icon-box:focus,
+.css-medical .btn-default.btn-animation-icon-box:active,
+.css-medical .tp-caption a.btn-default.btn-animation-icon-box,
+.css-medical .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-medical .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-medical .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-medical .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-medical .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-medical .clients-slick-nav .slick-clients-prev:hover,
+.css-medical .clients-slick-nav .slick-clients-next:hover,
+.css-medical .bsp-image,
+.css-medical .blog-list > article.default-post .blog-desc,
+.css-medical .testimonial-single li.slick-active button::before,
+.css-medical .slick-dots li.slick-active button:before,
+.css-medical .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-medical .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-medical .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-medical .timeline-status.timeline-active:before,
+.css-medical .cd-horizontal-timeline .events a.older-event::after,
+.css-medical .cd-horizontal-timeline .events a.selected::after,
+.css-medical .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-medical .no-touch .cd-timeline-navigation a:hover,
+.css-medical .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-medical .cd-timeline-navigation a:hover,
+.css-medical .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-medical .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-medical .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-medical .login-form input:focus,
+.css-medical .pinpulse,
+.css-medical .open > .dropdown-toggle.btn-default,
+.css-medical .pagination > .active > a,
+.css-medical .pagination > .active > a:focus,
+.css-medical .pagination > .active > a:hover,
+.css-medical .pagination > .active > span,
+.css-medical .pagination > .active > span:focus,
+.css-medical .pagination > .active > span:hover,
+.css-medical .table-style-1 thead tr th,
+.css-medical .table-style-1 tbody tr:last-child th,
+.css-medical .table-style-1 tbody tr:last-child td,
+.css-medical .table-withmaincolor thead tr th,
+.css-medical .clients-title-border h3,
+.css-medical .cd-slider-nav li:hover,
+.css-medical .selected,
+.css-medical .job-form input:focus,
+.css-medical .job-form select:focus,
+.css-medical .job-form textarea:focus,
+.css-medical .form-contact input:focus,
+.css-medical .form-contact select:focus,
+.css-medical .form-contact textarea:focus,
+.css-medical .form-contact input:focus,
+.css-medical .icon-type-2:hover p,
+.css-medical .icon-type-2:hover span.icon-type-2-icon,
+.css-medical .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-medical .activeFilter,
+.css-medical .loader-30 > div, 
+.css-medical .loader-31 > div, 
+.css-medical .loader-35 > div:first-of-type, 
+.css-medical .loader-35 > div:nth-child(2),
+.css-medical .loader-12 > div,
+.css-medical .loader-15 > div,
+.css-medical .loader-21 > div,
+.css-medical .radio input[type=radio]:checked ~ .circle, 
+.css-medical .gsi-step-indicator.triangle li.current>*, 
+.css-medical .gsi-style-7.border-right li.current>*, 
+.css-medical .gsi-style-7.border-bottom li.current>*, 
+.css-medical .gsi-style-7.border-left li.current>*, 
+.css-medical .flatpickr-day.today, 
+.css-medical .flatpickr-day.today:focus, 
+.css-medical .flatpickr-day.today:hover {
+    border-color:  #36a8eb;
+}
+
+.css-medical .tabpanel-style-4 .nav-tabs > li.active,
+.css-medical .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-medical .tabpanel-style-5 .nav-tabs > li.active,
+.css-medical .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #36a8eb transparent;
+}
+
+.css-medical .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #36a8eb;
+}
+
+.css-medical .icon-box-2-effect-4 .icon-block-2,
+.css-medical .icon-box-2-effect-5 .icon-block-2,
+.css-medical .icon-box-2-effect-5:hover .icon-block-2,
+.css-medical .icon-box-2-effect-1 .icon-block-2:after,
+.css-medical .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #36a8eb;
+}
+
+.css-medical .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #36a8eb;
+}
+
+.css-medical .empty-cart:after, .css-medical .loader-34 > div  {
+  border-bottom-color: #36a8eb;
+}
+.css-medical .gsi-style-4 li.current>* .number:before{
+  border-left-color: #36a8eb;
+}
+.css-medical .gsi-style-7.border-top li.current>*{
+  border-top-color: #36a8eb;
+}
+.css-medical .btn-default-reverse:hover,
+.css-medical .btn-default-reverse:focus {
+  background-color: #36a8eb !important;
+  border-color: #36a8eb !important;
+}
+
+.css-medical .tp-caption .btn-default.active,
+.css-medical .btn-default.active,
+.css-medical .tp-caption .btn-default.focus,
+.css-medical .btn-default.focus,
+.css-medical .tp-caption .btn-default:active,
+.css-medical .btn-default:active,
+.css-medical .tp-caption .btn-default:focus,
+.css-medical .btn-default:focus,
+.css-medical .tp-caption .btn-default:hover,
+.css-medical .btn-default:hover,
+.css-medical .tp-caption .btn-white:hover,
+.css-medical .btn-white:hover {
+  background-color: #299fe3 !important;
+  border-color: #299fe3 !important;
+}
+
+.css-medical .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #36a8eb;
+}
+
+.css-medical #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-medical #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-medical #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-medical #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-medical #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-medical #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-medical #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-medical #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #36a8eb;
+}
+
+.css-medical #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-medical #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-medical span.latest-post-month,
+.css-medical .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-medical .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #299fe3;
+}
+
+.css-medical #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-medical #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-medical #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-medical #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-medical #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-medical #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-medical #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-medical #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-medical #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-medical #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-medical #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-medical #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-medical #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-medical #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-medical #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-medical #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-medical #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-medical #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #299fe3;
+  border-color: #299fe3;
+}
+
+.css-medical #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-medical #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #299fe3;
+}
+
+.css-medical .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-medical .item-text-wrapper,
+.css-medical .standard_hover .portfolio_overlay,
+.css-medical .overlay-animation-1 .overlay_box,
+.css-medical .overlay-animation-2 .overlay_box,
+.css-medical .flip-hover .flip-box .content-box,
+.css-medical .team-8 .team-image .overlay-team-box,
+.css-medical .team-9 .team-image .overlay-team-box,
+.css-medical .portfolio-animation-slide .sliding-content {
+  background-color: rgba(54, 168, 235, 0.9);
+}
+
+.css-medical .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-medical .team-2 .overlay-team-box,
+.css-medical .team-6 .overlay-team-box,
+.css-medical .team-7 .overlay-team-box,
+.css-medical .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-medical .contact-overlay-map .overlay-map-background,
+.css-medical .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-medical .table-style-7.table-withmaincolor tbody tr th,
+.css-medical .table-style-2.table-withmaincolor tbody tr,
+.css-medical .fc-bgevent,
+.css-medical #particles-js.background-1 {
+  background-color: rgba(54, 168, 235, 0.6) !important;
+}
+
+.css-medical .widget-dribbble-box .shots li a:hover:before, .css-medical .dribbble-box .shots li a:hover:before,
+.css-medical .instagram-widget a:hover:before {
+  background-color: rgba(54, 168, 235, 0.85);
+}
+
+.css-medical .search-popup-box,
+.css-medical .scroll-to-top-fixed {
+  background-color: rgba(54, 168, 235, 0.95);
+}
+
+.css-medical .title-medium {
+  font-size: 5em !important;
+  line-height: 1.5 !important;
+  color: #fff;
+  text-transform: capitalize !important;
+  font-weight: 700 !important;
+}
+
+.css-medical .title-medium .tp-splitted.tp-linesplit {
+  text-transform: capitalize !important;
+}
+
+.css-medical .loader-3 {
+  border-top-color: rgba(54, 168, 235, 0.2);
+  border-right-color: rgba(54, 168, 235, 0.2);
+  border-bottom-color: rgba(54, 168, 235, 0.2);
+  border-left-color: #36a8eb;
+}
+
+.css-medical #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-medical #header.header-white .navbar-2 .search-navbar .btn-cart:hover {
+  color: rgba(255, 255, 255, 0.85) !important;
+  border-color: transparent !important;
+}
+
+.css-medical .background-1 .testimonial-single .slick-dots li button:before,
+.css-medical .background-1 .slick-dots li button:before, .background-2 .testimonial-single .slick-dots li button:before, .background-2 .slick-dots li button:before,
+.css-medical .background-3 .testimonial-single .slick-dots li button:before, .background-3 .slick-dots li button:before, .white-dots .slick-dots li button:before,
+.css-medical .transparent-background .testimonial-single .slick-dots li button:before,
+.css-medical .transparent-background .slick-dots li button:before {
+  background-color: #ffffff  !important;
+}
+
+.css-medical .background-1 .testimonial-single li.slick-active button:before,
+.css-medical .background-1 li.slick-active button:before,
+.css-medical .background-2 .testimonial-single li.slick-active button:before,
+.css-medical .background-2 li.slick-active button:before,
+.css-medical .background-3 .testimonial-single li.slick-active button:before,
+.css-medical .background-3 li.slick-active button:before,
+.css-medical .white-dots .slick-dots li.slick-active button:before {
+  background-color: transparent !important;
+  border-color: #ffffff  !important;
+}
+
+.css-medical .icon-box.icon-fill:hover .icon-block,
+.css-medical .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-medical .cart-shop-products h3, .css-medical .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-medical .cart-shop-products-list li .csp-price, .css-medical .sidebar-shop-products-list li .ssp-price,
+.css-medical .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-medical .shop-list .shop-product .shop-star-rating li.full-star,
+.css-medical ul.shop-star-rating li.full-star {
+  color: #1063af;
+}
+
+.css-medical .shop-list .shop-product .shop-ribbon, .css-medical .ui-slider-horizontal .ui-slider-range,
+.css-medical .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-medical .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #1063af;
+}
+.css-medical .loader-13 > div:last-child, 
+.css-medical .loader-15 > div:last-child {
+  border-color: #36a8eb transparent;
+}
+.css-medical .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #36a8eb 30%, #36a8eb 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #36a8eb 30%, #36a8eb 100%);
+}
+.css-medical .icon-box.icon-circle:hover .icon-block span[class^="icon-"]{
+  color: #ffffff!important;
+}

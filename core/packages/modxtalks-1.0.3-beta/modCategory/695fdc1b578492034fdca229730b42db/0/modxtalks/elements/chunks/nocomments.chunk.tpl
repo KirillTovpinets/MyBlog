@@ -1,0 +1,1 @@
+<div class="mt_nocomments">[[+nobody_leave_comment]]</div>

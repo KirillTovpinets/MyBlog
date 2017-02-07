@@ -1,0 +1,50 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'unique_key' => 'text',
+  'related_objects' => 
+  array (
+    'Action' => 
+    array (
+      '44797d92483f3784844fbe7c49d8f866' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 
+        array (
+          0 => 'namespace',
+          1 => 'controller',
+        ),
+        'class' => 'modAction',
+        'object' => '{"id":1,"namespace":"modxtalks","controller":"index","haslayout":1,"lang_topics":"modxtalks:default","assets":"","help_url":"","parent":0}',
+        'guid' => '38a1256b76c3b7c5e3a81bdd2b9b24e0',
+        'native_key' => 1,
+        'signature' => '3112a31da2a0ce89be53597d2c27dc3a',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Action' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 
+      array (
+        0 => 'namespace',
+        1 => 'controller',
+      ),
+    ),
+  ),
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4db4ef50ad083fbff9695ad689632438',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '1a6ceb0c910b6767b24eae5931e6a404',
+  'native_key' => 'modxtalks.comments_unconfirmed',
+  'object' => '{"text":"modxtalks.comments_unconfirmed","parent":"modxtalks","action":1,"description":"modxtalks.comments_unconfirmed_desc","icon":"images\\/icons\\/plugin.gif","menuindex":0,"params":"#modxTalks:not-confirmed","handler":"","permissions":"","namespace":"core"}',
+);

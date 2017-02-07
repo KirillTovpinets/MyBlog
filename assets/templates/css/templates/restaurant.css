@@ -1,0 +1,945 @@
+/* Restaurant */
+.css-restaurant #header.transparent-header .navbar-2 .search-navbar .btn-search, .css-restaurant #header.transparent-header .navbar-2 .search-navbar .btn-cart {
+  border-color: transparent;
+}
+
+.css-restaurant h1,
+.css-restaurant h2,
+.css-restaurant h3,
+.css-restaurant h4,
+.css-restaurant h5,
+.css-restaurant h6,
+.css-restaurant .featured-content h1.small,
+.css-restaurant .form-group > label,
+.css-restaurant .checkbox > label,
+.css-restaurant .alert > p,
+.css-restaurant .block-content-wrapper h2,
+.css-restaurant .intro-text h1, .intro-text h2,
+.css-restaurant .intro-text h3, .intro-text h4,
+.css-restaurant .intro-text h5, .intro-text h6,
+.css-restaurant .restaurant-info-img-content h4,
+.css-restaurant .contact-title h3, .css-restaurant .title-medium {
+  font-family: "Playfair Display", sans-serif;
+}
+
+.css-restaurant h1, .css-restaurant h2, .css-restaurant h3, .css-restaurant h4, .css-restaurant h5, .css-restaurant h6 {
+  font-family: "Playfair Display", sans-serif;
+}
+
+.css-restaurant p, body.css-restaurant {
+  font-family: "Libre Baskerville", serif;
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+.css-restaurant .full-height-box .contact-title-one h3 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+}
+
+.css-restaurant #header.transparent-header .navbar-2 .navbar-nav > .active > a {
+  font-family: 'Libre Baskerville', serif;
+}
+
+.css-restaurant ::-moz-selection {
+  background-color: #a2ac70;
+}
+
+.css-restaurant ::selection {
+  background-color: #a2ac70;
+}
+
+.css-restaurant li.menu-list-content .mlc-price p,
+.css-restaurant .color-1 {
+  color: #a2ac70;
+}
+
+.css-restaurant .intro-text.centered h1 {
+  letter-spacing: 0.5px;
+  font-size: 34px;
+  font-weight: 400;
+}
+
+.css-restaurant .landing-service-content h4 {
+  text-transform: capitalize;
+  font-size: 22px;
+}
+
+.css-restaurant .tp-caption .btn-default,
+.css-restaurant .btn-default,
+.css-restaurant .flex-control-paging li a.flex-active,
+.css-restaurant .navbar-toggle,
+.css-restaurant #mobile-navbar,
+.css-restaurant .offscreen-container,
+
+.css-restaurant .maincolor-background,
+.css-restaurant ul.widget-ul li a > span,
+.css-restaurant ul.widget-social li a:hover,
+.css-restaurant #people .item .info,
+.css-restaurant .main-color,
+.css-restaurant .flexslider.clients .flex-control-paging li a.flex-active,
+.css-restaurant #portfolio-filter li a:after,
+.css-restaurant .navbar.banner--clone .nav li.active > a,
+.css-restaurant .pagination-box .pager li a,
+.css-restaurant .pricing-table-column.special-price-table .pricing-table-head,
+.css-restaurant .pricing-table-column.special-price-table .pricing-table-content,
+.css-restaurant .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-restaurant .tags-cloud-list li a:hover,
+.css-restaurant .progress-bar-box .progress-bar,
+.css-restaurant .background-1,
+.css-restaurant .selecter .selecter-item:hover,
+.css-restaurant .selecter .selecter-item.selected:hover,
+.css-restaurant #footer.colored,
+.css-restaurant section.about-counter,
+.css-restaurant .error-page-title:after,
+.css-restaurant .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-restaurant .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-restaurant .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-restaurant .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-restaurant .tabpanel-style-4 .tab-content h3:after,
+.css-restaurant .about-classic-column-themecolor,
+.css-restaurant .selecter .selecter-item:hover,
+.css-restaurant .selecter .selecter-item.selected:hover,
+.css-restaurant .item-text-wrapper_overlay,
+.css-restaurant .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-restaurant .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-restaurant .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-restaurant .shop-type-2 a.add-to-cart-item,
+.css-restaurant .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-restaurant .navbar-2 .btn-cart .header-cart-count,
+.css-restaurant .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-restaurant .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-restaurant .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-restaurant .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-restaurant .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-restaurant .dropcap.dropcap-style-2,
+.css-restaurant .alert-default,
+.css-restaurant blockquote:before,
+.css-restaurant blockquote:after,
+.css-restaurant .tp-caption .btn-default,
+.css-restaurant .btn-default,
+.css-restaurant .content-title h5:before,
+.css-restaurant .content-title h5:after,
+.css-restaurant .icon-box.icon-fill .icon-block,
+.css-restaurant .icon-box.icon-square:hover .icon-block,
+.css-restaurant .icon-box.icon-circle:hover .icon-block,
+.css-restaurant .icon-box.icon-square:hover .icon-block span,
+.css-restaurant .icon-box.icon-circle:hover .icon-block span,
+.css-restaurant .icon-type.it-main-color:hover,
+.css-restaurant .icon-type.it-main-color:focus,
+.css-restaurant .icon-type.it-main-color-reverse,
+.css-restaurant .icon-type.it-main-color:hover span,
+.css-restaurant .icon-type.it-main-color-reverse:hover span,
+.css-restaurant .add-to-cart-form .count-input .count-plus:hover,
+.css-restaurant .add-to-cart-form .count-input .count-minus:hover,
+.css-restaurant .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-restaurant .pricing-table-container.special-price-table,
+.css-restaurant .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-restaurant .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-restaurant ul.forum-list li.forum-header,
+.css-restaurant .textbox-withmaincolor,
+.css-restaurant .background-1,
+.css-restaurant .team-member-job,
+.css-restaurant .team-section .team-desc-box:before,
+.css-restaurant .team-section .team-desc-box:after,
+.css-restaurant .shop-categories:hover .shop-title-categories,
+.css-restaurant .content-divider-colored-bg [class^="icon-"],
+.css-restaurant .overlay-animation-6 .content-box,
+.css-restaurant .block-content-wrapper h1,
+.css-restaurant .benefits-box h1,
+.css-restaurant .selecter .selecter-item:hover,
+.css-restaurant .selecter .selecter-item.selected:hover,
+.css-restaurant .ui-slider .ui-slider-range,
+.css-restaurant #header.header-main-color,
+.css-restaurant .navbar-2.banner--clone.main-color-navbar,
+.css-restaurant .tabpanel-style-center .nav-tabs > li.active > a,
+.css-restaurant .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-restaurant .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-restaurant .label.label-primary,
+.css-restaurant .label.label-primary,
+.css-restaurant .star-rating .caption .label,
+.css-restaurant .tparrows.preview5:hover,
+.css-restaurant .table-style-4.table-withmaincolor thead tr th,
+.css-restaurant .table-style-5.table-withmaincolor thead tr th,
+.css-restaurant .table-style-6.table-withmaincolor thead tr th,
+.css-restaurant .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-restaurant .table-style-7.table-withmaincolor thead tr th,
+.css-restaurant .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-restaurant .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-restaurant .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-restaurant .table-style-2.table-withmaincolor thead tr th,
+.css-restaurant .table-style-3.table-withmaincolor thead tr th,
+.css-restaurant .table-style-3.table-withmaincolor tbody tr th,
+.css-restaurant .parallax-withmaincolor,
+.css-restaurant .contact-overlay-map .minimize-form:hover,
+.css-restaurant .team-3:hover .team-social,
+.css-restaurant .team-5:hover .team-social,
+.css-restaurant .special-table-2,
+.css-restaurant .special-table-3,
+.css-restaurant span.pricing-3-discount,
+.css-restaurant #vertical-timeline-container:before,
+.css-restaurant .subscribe-fancy-themebg,
+.css-restaurant .empty-cart,
+.css-restaurant .team-4:hover .team-social,
+.css-restaurant .content-divider-colored,
+.css-restaurant .content-divider-colored-bg,
+.css-restaurant .withmainbackground,
+.css-restaurant .services-2-heading,
+.css-restaurant .icon-box-2-effect-4 .icon-block-2,
+.css-restaurant .services-2-heading,
+.css-restaurant .promotion-box-theme-colored,
+.css-restaurant .promotion-box-theme-colored .promotion-box-title h4,
+.css-restaurant .icon-block-2,
+.css-restaurant .icon-box-2-effect-2:hover .icon-block-2,
+.css-restaurant .icon-box-2-effect-3 .icon-block-2:after,
+.css-restaurant .icon-box-2-effect-4 .icon-block-2:after,
+.css-restaurant .icon-box-2-effect-6 .icon-block-2,
+.css-restaurant .icon-box-2-effect-6:hover .icon-block-2,
+.css-restaurant .simple-icon-icon,
+.css-restaurant a.call-to-action-link:hover,
+.css-restaurant .add-to-cart-form .count-input .count-plus,
+.css-restaurant .add-to-cart-form .count-input .count-minus,
+.css-restaurant .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-restaurant .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-restaurant .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-restaurant .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-restaurant .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-restaurant .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-restaurant .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-restaurant .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-restaurant .special-price-box,
+.css-restaurant .dropdown-menu > .active > a,
+.css-restaurant .dropdown-menu > .active > a:focus,
+.css-restaurant .dropdown-menu > .active > a:hover,
+.css-restaurant #header.main-color-nav .navbar-2,
+.css-restaurant .latest-post-data,
+.css-restaurant .blog-single-post .bsp-heading h1,
+.css-restaurant .testimonial-single .slick-dots li button:before,
+.css-restaurant .slick-dots li button:before,
+.css-restaurant .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-restaurant .timeline-complete .timeline-status.timeline-active:before,
+.css-restaurant .megamenu.maincolor,
+.css-restaurant .dropdown.maincolor ul,
+.css-restaurant .dropdown.maincolor ul.dropdown-menu,
+.css-restaurant #footer.maincolor,
+.css-restaurant #copyrights.maincolor,
+.css-restaurant .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-restaurant .cd-horizontal-timeline .events a.selected::after,
+.css-restaurant .cd-horizontal-timeline .filling-line,
+.css-restaurant .pinpulsebox span,
+.css-restaurant .main-color-dropdown .megamenu,
+.css-restaurant .main-color-dropdown .dropdown-menu,
+.css-restaurant #cd-timeline::before,
+.css-restaurant ul.icon-list.il-main-bg li [class^="icon-"],
+.css-restaurant .process-steps ul li.current a .number,
+.css-restaurant ol.ordered-list.ol-main-bg li:before,
+.css-restaurant .irs-bar,
+.css-restaurant .irs-from,
+.css-restaurant .irs-to,
+.css-restaurant .irs-single,
+.css-restaurant .open > .dropdown-toggle.btn-default,
+.css-restaurant .fc-unthemed .fc-today,
+.css-restaurant .fc-content,
+.css-restaurant #particles-js,
+.css-restaurant .s-icon:hover,
+.css-restaurant #progressbar li.active:before,
+.css-restaurant #progressbar li.active:after,
+.css-restaurant .pagination > .active > a,
+.css-restaurant .pagination > .active > a:focus,
+.css-restaurant .pagination > .active > a:hover,
+.css-restaurant .pagination > .active > span,
+.css-restaurant .pagination > .active > span:focus,
+.css-restaurant .pagination > .active > span:hover,
+.css-restaurant .portfolio-filter .selecter-item.activeFilter,
+.css-restaurant .page-loader-spinner span,
+.css-restaurant .loader-6:before,
+.css-restaurant .loader-2,
+.css-restaurant .loader-2:before,
+.css-restaurant .loader-2:after,
+a.brand-modern span.line-1,
+.css-restaurant .loader-10 > div, 
+.css-restaurant .loader-11 > div,
+.css-restaurant .loader-13 > div:first-child, 
+.css-restaurant .loader-14 > div, 
+.css-restaurant .loader-16 > div, 
+.css-restaurant .loader-17 > div, 
+.css-restaurant .loader-17 > div:before, 
+.css-restaurant .loader-17 > div:after, 
+.css-restaurant .loader-18 > div, 
+.css-restaurant .loader-19 > div, 
+.css-restaurant .loader-20 > div, 
+.css-restaurant .loader-22 > div, 
+.css-restaurant .loader-23 > div, 
+.css-restaurant .loader-24 > div, 
+.css-restaurant .loader-25 > div, 
+.css-restaurant .loader-26 > div, 
+.css-restaurant .loader-27 > div, 
+.css-restaurant .loader-28 > div, 
+.css-restaurant .loader-29 > div, 
+.css-restaurant .loader-32 > div, 
+.css-restaurant .loader-33 > div, 
+.css-restaurant .loader-35 > div:nth-child(3), 
+.css-restaurant .loader-35 > div:nth-child(4), 
+.css-restaurant .loader-35 > div:nth-child(5),
+.css-restaurant .loader-35 > div:nth-child(6), 
+.css-restaurant .loader-37 > div, 
+.css-restaurant .loader-38 > div ,
+.css-restaurant .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-restaurant .radio input[type=radio]:checked ~ .check, 
+.css-restaurant .vlt-btn-group .dropdown-menu li a:hover, 
+.css-restaurant .gsi-step-indicator.triangle li.current>*, 
+.css-restaurant .gsi-style-4 li.current>*, 
+.css-restaurant .gsi-style-5 li.current>*, 
+.css-restaurant .gsi-style-6 li.current>* .number, 
+.css-restaurant .gsi-style-7 li.current:hover>*, 
+.css-restaurant .gsi-style-8 li.visited>*, 
+.css-restaurant .gsi-style-8 li.current>*, 
+.css-restaurant .gsi-style-9 li.visited>*:after, 
+.css-restaurant .gsi-style-9 li.current>*:after, 
+.css-restaurant .gsi-style-10 li.visited>*:after, 
+.css-restaurant .gsi-style-10 li.current>*:after, 
+.css-restaurant .gsi-style-11 li.current:before, 
+.css-restaurant .gsi-style-11 li.current:after, 
+.css-restaurant .gsi-style-11 li.visited:before, 
+.css-restaurant .gsi-style-11 li.visited:after, 
+.css-restaurant .gsi-style-11 li.visited>*:after, 
+.css-restaurant .gsi-style-11 li.current>*:after, 
+.css-restaurant .flatpickr-day.today:focus, 
+.css-restaurant .flatpickr-day.today:hover {
+  background-color: #a2ac70 !important;
+}
+
+.css-restaurant .header-content .phone-number span,
+.css-restaurant .intro-block h6,
+.css-restaurant .icon-block [class^="icon-"],
+.css-restaurant ul.header-links li a:hover,
+.css-restaurant .navbar.banner--clone .nav > li > a:hover,
+.css-restaurant .navbar.banner--clone .btn-search:hover,
+.css-restaurant .success-lg:hover [class^="icon-"],
+.css-restaurant #copyrights ul li a:hover,
+.css-restaurant #copyrights a:hover,
+.css-restaurant .breadcrumb > .active,
+.css-restaurant #portfolio-filter li a.activeFilter,
+.css-restaurant #portfolio-filter li a:hover,
+.css-restaurant .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-restaurant a.image_zoom:hover [class^="icon-"],
+.css-restaurant a.image_link:hover [class^="icon-"],
+.css-restaurant a.load-more-btn:hover,
+.css-restaurant a.load-more-btn:hover [class^="icon-"],
+.css-restaurant .intro-block h1 [class^="icon-"],
+.css-restaurant .shop-list .shop-product h4 a:hover,
+.css-restaurant ul#portfolio-layout-filter li a.active,
+.css-restaurant .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-restaurant ul.sidebar-shop-cat > li span,
+.css-restaurant .shop-price,
+.css-restaurant ul.sidebar-shop-cat > li > a:hover,
+.css-restaurant a.load-more-btn:hover,
+.css-restaurant a.load-more-btn:hover [class^="icon-"],
+.css-restaurant .intro-block h1 [class^="icon-"],
+.css-restaurant .shop-list .shop-product h4 a:hover,
+.css-restaurant ul#portfolio-layout-filter li a.active,
+.css-restaurant .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-restaurant ul.sidebar-cat > li span,
+.css-restaurant .shop-price,
+.css-restaurant ul.sidebar-cat > li > a:hover,
+.css-restaurant ul.jobs-list li [class^="icon-"],
+.css-restaurant .team-social a:hover,
+.css-restaurant .icon-default,
+.css-restaurant .error-page-icon span [class^="icon-"],
+.css-restaurant .footer-3-container-text a:hover,
+.css-restaurant .testimonials-box .testimonial-author,
+.css-restaurant #page-title.image-page-title-fullwidth h1,
+.css-restaurant #page-title.image-page-title-left.image-page-noimage h2,
+.css-restaurant ul.services-2-icons,
+.css-restaurant ul.shop-layout-filter li a.active,
+.css-restaurant ul.portfolio-layout-filter li a.active,
+.css-restaurant ul.porfolio-project-details-list > li .ppd-right,
+.css-restaurant ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-restaurant .related-projects-title .slick-custom-next:hover,
+.css-restaurant .related-projects-title .slick-custom-prev:hover,
+.css-restaurant .recent-post-content a:hover,
+.css-restaurant .form-group.login-form-submit a,
+.css-restaurant .shop-type-1 a.add-to-cart-item:before,
+.css-restaurant .shop-type-2 a.add-to-cart-item:before,
+.css-restaurant a.form-forgotpass,
+.css-restaurant .sidebar-shop-products-list li .ssp-title:hover,
+.css-restaurant .restaurant-info ul li [class^="icon-"],
+.css-restaurant .navbar-default.default .btn-cart .header-cart-count,
+.css-restaurant .cart-shop-products-list li .csp-title:hover,
+.css-restaurant .blog-list > article .blog-desc h4 a:hover,
+.css-restaurant .blog-list > article .blog-desc h4 a:focus,
+.css-restaurant .blog-list-full > article .blog-desc h4 a:hover,
+.css-restaurant .blog-list-full > article .blog-desc h4 a:focus,
+.css-restaurant .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-restaurant .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-restaurant .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-restaurant .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-restaurant .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-restaurant .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-restaurant .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-restaurant .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-restaurant .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-restaurant .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-restaurant .blog-masonry > article .blog-desc h4 a:hover,
+.css-restaurant .blog-masonry > article .blog-desc h4 a:focus,
+.css-restaurant .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-restaurant .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-restaurant .comment_response .media h6 a,
+.css-restaurant .comment_response .media_cloud a.reply_link,
+.css-restaurant .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-restaurant .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-restaurant .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-restaurant .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-restaurant .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-restaurant .dropcap.dropcap-style-1,
+.css-restaurant .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-restaurant .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-restaurant .counter-box .count-icon,
+.css-restaurant .counter-style-1 .counter-box h4,
+.css-restaurant .icon-type,
+.css-restaurant .icon-type.it-main-color,
+.css-restaurant .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-restaurant .comment_response .media h6 a,
+.css-restaurant .comment_response .media_cloud a.reply_link,
+.css-restaurant .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-restaurant .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-restaurant .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-restaurant .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-restaurant .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-restaurant .dropcap.dropcap-style-1,
+.css-restaurant .btn-default-reverse,
+.css-restaurant .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-restaurant .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-restaurant .counter-box .count-icon,
+.css-restaurant .counter-style-1 .counter-box h4,
+.css-restaurant .icon-type,
+.css-restaurant .icon-type.it-main-color,
+.css-restaurant .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-restaurant .review_response .media h6 a,
+.css-restaurant .review_response .media_cloud .shop-star-rating li.full-star,
+.css-restaurant .rating-container .rating-stars,
+.css-restaurant .form-contact small,
+.css-restaurant ul.icon-list li a:hover,
+.css-restaurant ul.icon-list li a:active,
+.css-restaurant ul.icon-list li a:focus,
+.css-restaurant .checkout-sum,
+.css-restaurant .checkout-table td a:hover,
+.css-restaurant .checkout-box a,
+.css-restaurant .user-profile-list ul li a:hover,
+.css-restaurant a.profile-active,
+.css-restaurant .user-profile-content h2,
+.css-restaurant .forum-content-header span a,
+.css-restaurant .recent-work-content a:hover,
+.css-restaurant .recent-work-image-content a:hover,
+.css-restaurant .contact-overlay-map .maximize-form:hover,
+.css-restaurant .hero-slier-nav-content:hover [class^="icon-"],
+.css-restaurant .selected .hero-slier-nav-content [class^="icon-"],
+.css-restaurant .team-social a:hover,
+.css-restaurant .team-name h5 a:hover,
+.css-restaurant .clients-slick-nav .slick-custom-next:hover,
+.css-restaurant .clients-slick-nav .slick-custom-prev:hover,
+.css-restaurant .services-pricing-icon [class^="icon-"],
+.css-restaurant .brand [class^="icon-"],
+.css-restaurant .content-divider-colored [class^="icon-"],
+.css-restaurant .divider-content h1 span,
+.css-restaurant .divider-content h2 span,
+.css-restaurant .divider-content h3 span,
+.css-restaurant .intro-page-content a:hover,
+.css-restaurant .image-box-content a:hover,
+.css-restaurant .icon-type.it-main-color [class^="icon-"],
+.css-restaurant .icon-type-2:hover p,
+.css-restaurant .icon-type-2:hover span.icon-type-2-icon,
+.css-restaurant .heading-container .head-colored,
+.css-restaurant ul.home-6-list li h4 [class^="icon-"],
+.css-restaurant .icon-box-2-effect-1:hover .icon-block-2,
+.css-restaurant .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-restaurant .icon-box-2-effect-4:hover .icon-block-2,
+.css-restaurant .icon-box-2-effect-4-reverse .icon-block-2,
+.css-restaurant .icon-box-2-effect-5:hover .icon-block-2,
+.css-restaurant .simple-icon-lightbg [class^="icon-"],
+.css-restaurant .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-restaurant .panel-body ul li a:hover,
+.css-restaurant .colored,
+.css-restaurant .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-restaurant .tabpanel-style-6 .nav-tabs > li > a,
+.css-restaurant .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-restaurant .tp_caption_big span,
+.css-restaurant ul.icon-box-simple li:hover a,
+.css-restaurant .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-restaurant .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-restaurant .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-restaurant .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-restaurant .blockquote-author p,
+.css-restaurant .testimonial-author,
+.css-restaurant .latest-post-content h1 a:hover,
+.css-restaurant .post-by a:hover,
+.css-restaurant .latest-post-content .read-more-link,
+.css-restaurant .blog-horizontal .bh-content h3 a:hover,
+.css-restaurant .blog-horizontal .bh-content .bh-details a:hover,
+.css-restaurant .blog-horizontal .bh-content .bh-details a:hover span,
+.css-restaurant a.bsp-title:hover,
+.css-restaurant .sidebar-blog-post-list li .sbp-title:hover,
+.css-restaurant .navbar-nav > li.active,
+.css-restaurant .navbar-nav > li.active:hover,
+.css-restaurant a.idb-social:hover,
+.css-restaurant a.idb-social:hover span,
+.css-restaurant a.idb-price,
+.css-restaurant span.pts-raised,
+.css-restaurant .bsp-social a:hover,
+.css-restaurant .bsp-social a [class^="icon-"]:hover,
+.css-restaurant a.bsp-more:hover,
+.css-restaurant .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-restaurant .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-restaurant .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-restaurant .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-restaurant .gallery-block .gallery-box .gallery-meta a:hover,
+.css-restaurant .gallery-block .gallery-box .gallery-meta a:focus,
+.css-restaurant .tp-caption a,
+.css-restaurant .tp-caption a:hover,
+.css-restaurant .cd-timeline-inner-content a:hover,
+.css-restaurant .testimonial-box .testimonial-author span,
+.css-restaurant .fic-date a:hover,
+.css-restaurant .forum-inner-content h1 a:hover,
+.css-restaurant .user-profile-desc a:hover,
+.css-restaurant .cd-timeline-navigation a:hover::after,
+.css-restaurant .login-form .login-input-box [class^="icon-"],
+.css-restaurant .icon-input-box [class^="icon-"],
+.css-restaurant ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-restaurant ul.bar-chart-graph li,
+.css-restaurant ul.line-graph li,
+.css-restaurant ul.donut-graph li,
+.css-restaurant .tp-caption.Creative-SubTitle,
+.css-restaurant .Creative-SubTitle,
+.css-restaurant .tp-caption.vlt-hero-rotating,
+.css-restaurant .pagination > li > a:focus,
+.css-restaurant .pagination > li > a:hover,
+.css-restaurant .pagination > li > span:focus,
+.css-restaurant .pagination > li > span:hover,
+.css-restaurant .pager li > a,
+.css-restaurant ul.recent-post-widget .rp-post a:hover,
+.css-restaurant .loader-5,
+.css-restaurant .loader-7,
+.css-restaurant .loader-9,
+.css-restaurant .loader-2,
+.css-restaurant .loader-4,
+.css-restaurant .gsi-style-9 li.visited>*, 
+.css-restaurant .gsi-style-9 li.current>*,
+.css-restaurant .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-restaurant .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #a2ac70 !important;
+}
+
+.css-restaurant .tp-caption .btn-default,
+.css-restaurant .btn-default,
+.css-restaurant .flex-control-paging li a.flex-active,
+.css-restaurant .flexslider.clients .flex-control-paging li a.flex-active,
+.css-restaurant .pagination-box .pager li a,
+.css-restaurant .contact-info-3,
+.css-restaurant .tags-cloud-list li a:hover,
+.css-restaurant .team-social a:hover,
+.css-restaurant .contact-title-one h3:after,
+.css-restaurant .home-title-one h3:after,
+.css-restaurant #login-form .login-input:active,
+.css-restaurant #login-form .login-input:focus,
+.css-restaurant .load-more-wrapper a.load-more-btn:hover,
+.css-restaurant #register-form .register-input:active,
+.css-restaurant #register-form .register-input:focus,
+.css-restaurant .dropcap.dropcap-style-1,
+.css-restaurant .dropcap.dropcap-style-2,
+.css-restaurant .alert-default,
+.css-restaurant blockquote,
+.css-restaurant .tp-caption .btn-default,
+.css-restaurant .btn-default,
+.css-restaurant .btn-default-reverse,
+.css-restaurant .icon-box.icon-square .icon-block,
+.css-restaurant .icon-box.icon-circle .icon-block,
+.css-restaurant .icon-type.it-main-color,
+.css-restaurant .icon-type.it-main-color:hover,
+.css-restaurant .icon-type.it-main-color:focus,
+.css-restaurant .icon-type.it-main-color-reverse,
+.css-restaurant .icon-type.it-main-color-reverse:hover,
+.css-restaurant .icon-type.it-main-color-reverse:focus,
+.css-restaurant .add-to-cart-form .count-input .count-plus:hover,
+.css-restaurant .add-to-cart-form .count-input .count-minus:hover,
+.css-restaurant #reviewmodal .modal-header,
+.css-restaurant .job-left-title h3,
+.css-restaurant .pricing-table-container.special-price-table,
+.css-restaurant .clients-slick-nav .slick-custom-next:hover,
+.css-restaurant .clients-slick-nav .slick-custom-prev:hover,
+.css-restaurant .tabpanel-style-8 .nav-tabs > li.active,
+.css-restaurant a.btn-default.btn-animation-icon-box,
+.css-restaurant .btn-default.btn-animation-icon-box:hover,
+.css-restaurant .btn-default.btn-animation-icon-box:focus,
+.css-restaurant .btn-default.btn-animation-icon-box:active,
+.css-restaurant .tp-caption a.btn-default.btn-animation-icon-box,
+.css-restaurant .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-restaurant .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-restaurant .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-restaurant .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-restaurant .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-restaurant .clients-slick-nav .slick-clients-prev:hover,
+.css-restaurant .clients-slick-nav .slick-clients-next:hover,
+.css-restaurant .bsp-image,
+.css-restaurant .blog-list > article.default-post .blog-desc,
+.css-restaurant .testimonial-single li.slick-active button::before,
+.css-restaurant .slick-dots li.slick-active button:before,
+.css-restaurant .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-restaurant .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-restaurant .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-restaurant .timeline-status.timeline-active:before,
+.css-restaurant .cd-horizontal-timeline .events a.older-event::after,
+.css-restaurant .cd-horizontal-timeline .events a.selected::after,
+.css-restaurant .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-restaurant .no-touch .cd-timeline-navigation a:hover,
+.css-restaurant .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-restaurant .cd-timeline-navigation a:hover,
+.css-restaurant .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-restaurant .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-restaurant .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-restaurant .login-form input:focus,
+.css-restaurant .pinpulse,
+.css-restaurant .open > .dropdown-toggle.btn-default,
+.css-restaurant .pagination > .active > a,
+.css-restaurant .pagination > .active > a:focus,
+.css-restaurant .pagination > .active > a:hover,
+.css-restaurant .pagination > .active > span,
+.css-restaurant .pagination > .active > span:focus,
+.css-restaurant .pagination > .active > span:hover,
+.css-restaurant .loader-12 > div,
+.css-restaurant .loader-15 > div,
+.css-restaurant .loader-21 > div,
+.css-restaurant .radio input[type=radio]:checked ~ .circle, 
+.css-restaurant .gsi-step-indicator.triangle li.current>*, 
+.css-restaurant .gsi-style-7.border-right li.current>*, 
+.css-restaurant .gsi-style-7.border-bottom li.current>*, 
+.css-restaurant .gsi-style-7.border-left li.current>*, 
+.css-restaurant .flatpickr-day.today, 
+.css-restaurant .flatpickr-day.today:focus, 
+.css-restaurant .flatpickr-day.today:hover {
+  border-color: #a2ac70;
+}
+.css-restaurant .gsi-style-4 li.current>* .number:before{
+  border-left-color: #a2ac70;
+}
+.css-restaurant .gsi-style-7.border-top li.current>*{
+  border-top-color: #a2ac70;
+}
+.css-restaurant .table-style-1 thead tr th,
+.css-restaurant .table-style-1 tbody tr:last-child th,
+.css-restaurant .table-style-1 tbody tr:last-child td,
+.css-restaurant .table-withmaincolor thead tr th,
+.css-restaurant .clients-title-border h3,
+.css-restaurant .cd-slider-nav li:hover,
+.css-restaurant .selected,
+.css-restaurant .job-form input:focus,
+.css-restaurant .job-form select:focus,
+.css-restaurant .job-form textarea:focus,
+.css-restaurant .form-contact input:focus,
+.css-restaurant .form-contact select:focus,
+.css-restaurant .form-contact textarea:focus,
+.css-restaurant .form-contact input:focus,
+.css-restaurant .icon-type-2:hover p,
+.css-restaurant .icon-type-2:hover span.icon-type-2-icon,
+.css-restaurant .icon-type-2:hover span.icon-type-2-icon i,
+.css-restaurant .activeFilter,
+.css-restaurant .loader-30 > div, 
+.css-restaurant .loader-31 > div, 
+.css-restaurant .loader-35 > div:first-of-type, 
+.css-restaurant .loader-35 > div:nth-child(2) {
+    border-color:  #a2ac70;
+}
+
+.css-restaurant .forum-reply-signin {
+  background: rgba(162, 172, 112, 0.92);
+}
+
+.css-restaurant .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-restaurant .team-2 .overlay-team-box,
+.css-restaurant .team-6 .overlay-team-box,
+.css-restaurant .team-7 .overlay-team-box,
+.css-restaurant .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-restaurant .contact-overlay-map .overlay-map-background,
+.css-restaurant .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-restaurant .table-style-7.table-withmaincolor tbody tr th,
+.css-restaurant .table-style-2.table-withmaincolor tbody tr {
+  background-color: rgba(162, 172, 112, 0.6);
+}
+
+.css-restaurant .search-popup-box, .css-restaurant .scroll-to-top-fixed {
+  background-color: rgba(162, 172, 112, 0.95);
+}
+
+.css-restaurant .widget-dribbble-box .shots li a:hover:before, .css-restaurant .dribbble-box .shots li a:hover:before, .css-restaurant .instagram-widget a:hover:before {
+  background-color: rgba(162, 172, 112, 0.85);
+}
+
+.css-restaurant .empty-cart:after, .css-restaurant .loader-34 > div  {
+  border-bottom-color: #a2ac70;
+}
+
+.css-restaurant .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #a2ac70;
+}
+
+.css-restaurant .item-text-wrapper,
+.css-restaurant .standard_hover .portfolio_overlay,
+.css-restaurant .overlay-animation-1 .overlay_box,
+.css-restaurant .overlay-animation-2 .overlay_box,
+.css-restaurant .flip-hover .flip-box .content-box,
+.css-restaurant .team-8 .team-image .overlay-team-box,
+.css-restaurant .team-9 .team-image .overlay-team-box,
+.css-restaurant .portfolio-animation-slide .sliding-content {
+  background-color: rgba(162, 172, 112, 0.9) !important;
+}
+
+.css-restaurant .tp-caption .btn-default,
+.css-restaurant .btn-default,
+.css-restaurant .flex-control-paging li a.flex-active,
+.css-restaurant .flexslider.clients .flex-control-paging li a.flex-active,
+.css-restaurant .pagination-box .pager li a,
+.css-restaurant .contact-info-3,
+.css-restaurant .tags-cloud-list li a:hover,
+.css-restaurant .team-social a:hover,
+.css-restaurant .contact-title-one h3:after,
+.css-restaurant .home-title-one h3:after,
+.css-restaurant #login-form .login-input:active,
+.css-restaurant #login-form .login-input:focus,
+.css-restaurant .load-more-wrapper a.load-more-btn:hover,
+.css-restaurant #register-form .register-input:active,
+.css-restaurant #register-form .register-input:focus,
+.css-restaurant .dropcap.dropcap-style-1,
+.css-restaurant .dropcap.dropcap-style-2,
+.css-restaurant .alert-default,
+.css-restaurant blockquote,
+.css-restaurant .tp-caption .btn-default,
+.css-restaurant .btn-default,
+.css-restaurant .btn-default-reverse,
+.css-restaurant .icon-box.icon-square .icon-block,
+.css-restaurant .icon-box.icon-circle .icon-block,
+.css-restaurant .icon-type.it-main-color,
+.css-restaurant .icon-type.it-main-color:hover,
+.css-restaurant .icon-type.it-main-color:focus,
+.css-restaurant .icon-type.it-main-color-reverse,
+.css-restaurant .icon-type.it-main-color-reverse:hover,
+.css-restaurant .icon-type.it-main-color-reverse:focus,
+.css-restaurant .add-to-cart-form .count-input .count-plus:hover,
+.css-restaurant .add-to-cart-form .count-input .count-minus:hover,
+.css-restaurant #reviewmodal .modal-header,
+.css-restaurant .job-left-title h3,
+.css-restaurant .pricing-table-container.special-price-table,
+.css-restaurant .clients-slick-nav .slick-custom-next:hover,
+.css-restaurant .clients-slick-nav .slick-custom-prev:hover,
+.css-restaurant a.add-to-wishlist.select,
+.css-restaurant a.add-to-wishlist.select [class^="icon-"],
+.css-restaurant .tabpanel-style-8 .nav-tabs > li.active,
+.css-restaurant a.btn-default.btn-animation-icon-box,
+.css-restaurant .btn-default.btn-animation-icon-box:hover,
+.css-restaurant .btn-default.btn-animation-icon-box:focus,
+.css-restaurant .btn-default.btn-animation-icon-box:active,
+.css-restaurant .tp-caption a.btn-default.btn-animation-icon-box,
+.css-restaurant .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-restaurant .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-restaurant .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-restaurant .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-restaurant .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-restaurant .clients-slick-nav .slick-clients-prev:hover,
+.css-restaurant .clients-slick-nav .slick-clients-next:hover,
+.css-restaurant .bsp-image,
+.css-restaurant .blog-list > article.default-post .blog-desc,
+.css-restaurant .testimonial-single li.slick-active button::before,
+.css-restaurant .slick-dots li.slick-active button:before,
+.css-restaurant .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-restaurant .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-restaurant .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-restaurant .timeline-status.timeline-active:before,
+.css-restaurant .cd-horizontal-timeline .events a.older-event::after,
+.css-restaurant .cd-horizontal-timeline .events a.selected::after,
+.css-restaurant .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-restaurant .no-touch .cd-timeline-navigation a:hover,
+.css-restaurant .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-restaurant .cd-timeline-navigation a:hover,
+.css-restaurant .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-restaurant .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-restaurant .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-restaurant .login-form input:focus,
+.css-restaurant .pinpulse,
+.css-restaurant .open > .dropdown-toggle.btn-defaul,
+.css-restaurant li.menu-list-content .mlc-price {
+  border-color: #a2ac70;
+}
+
+.css-restaurant .btn-default:hover,
+.css-restaurant .tp-caption .btn-white:hover,
+.css-restaurant .btn-white:hover {
+  border-color: #a2ac70 !important;
+}
+
+.css-restaurant .btn-default-reverse:hover,
+.css-restaurant .btn-default-reverse:focus {
+  background-color: #a2ac70 !important;
+  border-color: #a2ac70 !important;
+  color: #ffffff !important;
+}
+
+.css-restaurant .tp-caption .btn-default.active,
+.css-restaurant .btn-default.active,
+.css-restaurant .tp-caption .btn-default.focus,
+.css-restaurant .btn-default.focus,
+.css-restaurant .tp-caption .btn-default:active,
+.css-restaurant .btn-default:active,
+.css-restaurant .tp-caption .btn-default:focus,
+.css-restaurant .btn-default:focus,
+.css-restaurant .tp-caption .btn-default:hover,
+.css-restaurant .btn-default:hover,
+.css-restaurant .tp-caption .btn-white:hover,
+.css-restaurant .btn-white:hover {
+  background-color: #868e5e !important;
+  border-color: #868e5e !important;
+}
+
+.css-restaurant #header.header-sticky .brand .sticky-logo {
+  height: 20px;
+  margin-top: 0px;
+}
+
+.css-restaurant .btn-default-reverse:hover,
+.restaurant.btn-default-reverse:focus {
+  background-color: #a2ac70 !important;
+  border-color: #a2ac70 !important;
+}
+
+.css-restaurant #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-restaurant #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-restaurant #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-restaurant #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-restaurant #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-restaurant #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-restaurant #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-restaurant #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #a2ac70 !important;
+}
+
+.css-restaurant .color-2 {
+  color: #c69c6d;
+}
+
+.css-restaurant .background-2,
+.css-restaurant .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-restaurant .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-restaurant .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #c69c6d;
+}
+
+.css-restaurant .color-3 {
+  color: #d94a38;
+}
+
+.css-restaurant .background-3,
+.css-restaurant .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-restaurant .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-restaurant .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3 {
+  background-color: #d94a38;
+}
+
+.css-restaurant .testimonials-slider .testimonials-slider-box .testimonial-text {
+  color: #FFF;
+}
+
+.css-restaurant .testimonials-slider .testimonials-slider-box .testimonial-author, .css-restaurant .testimonials-slider .testimonials-slider-box .testimonial-author span {
+  color: #FFF;
+}
+
+.css-restaurant li.menu-list-content .mlc-desc h3 {
+  text-transform: lowercase;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+.css-restaurant ul.menu-list.lefted li.menu-list-content .mlc-desc h3 {
+  text-transform: lowercase;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+.css-restaurant .pricing-restaurant hr.section-divider {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.css-restaurant .pricing-restaurant hr.section-divider:before {
+  color: rgba(0, 0, 0, 0.25);
+}
+
+.css-restaurant .event-box-title h3 {
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-top: 0;
+  font-size: 22px;
+}
+
+.css-restaurant .event-box-content p {
+  font-size: 20px;
+}
+
+.css-restaurant .gallery-block .full-height-box .image-box, .css-restaurant .gallery-block .full-height-box .image-box img {
+  height: 100%;
+}
+
+.css-restaurant .loader-3 {
+  border-top-color: rgba(162, 172, 112, 0.2);
+  border-right-color: rgba(162, 172, 112, 0.2);
+  border-bottom-color: rgba(162, 172, 112, 0.2);
+  border-left-color: #a2ac70;
+}
+
+.css-restaurant #header.transparent-header.header-sticky .navbar-2 .search-navbar .btn-search, .css-restaurant #header.transparent-header.header-sticky .navbar-2 .search-navbar .btn-cart {
+  border-color: rgba(0, 0, 0, 0.15);
+}
+
+.css-restaurant .background-1 .testimonial-single .slick-dots li button:before,
+.css-restaurant .background-1 .slick-dots li button:before,
+.css-restaurant .background-2 .testimonial-single .slick-dots li button:before,
+.css-restaurant .background-2 .slick-dots li button:before,
+.css-restaurant .background-3 .testimonial-single .slick-dots li button:before,
+.css-restaurant .background-3 .slick-dots li button:before,
+.css-restaurant .white-dots .slick-dots li button:before,
+.css-restaurant .transparent-background .testimonial-single .slick-dots li button:before,
+.css-restaurant .transparent-background .slick-dots li button:before {
+  background-color: #ffffff !important;
+}
+
+.css-restaurant .background-1 .testimonial-single li.slick-active button:before,
+.css-restaurant .background-1 li.slick-active button:before,
+.css-restaurant .background-2 .testimonial-single li.slick-active button:before,
+.css-restaurant .background-2 li.slick-active button:before,
+.css-restaurant .background-3 .testimonial-single li.slick-active button:before,
+.css-restaurant .background-3 li.slick-active button:before,
+.css-restaurant .white-dots .slick-dots li.slick-active button:before {
+  background-color: transparent !important;
+  border-color: #ffffff !important;
+}
+
+.css-restaurant .icon-box.icon-fill:hover .icon-block,
+.css-restaurant .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-restaurant .cart-shop-products h3, .css-restaurant .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-restaurant .cart-shop-products-list li .csp-price, .css-restaurant .sidebar-shop-products-list li .ssp-price,
+.css-restaurant .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-restaurant .shop-list .shop-product .shop-star-rating li.full-star,
+.css-restaurant ul.shop-star-rating li.full-star {
+  color: #d94a38;
+}
+
+.css-restaurant .shop-list .shop-product .shop-ribbon, .css-restaurant .ui-slider-horizontal .ui-slider-range,
+.css-restaurant .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-restaurant .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #d94a38;
+}
+.css-restaurant .loader-13 > div:last-child, 
+.css-restaurant .loader-15 > div:last-child {
+  border-color: #a2ac70 transparent;
+}
+.css-restaurant .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #a2ac70 30%, #a2ac70 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #a2ac70 30%, #a2ac70 100%);
+}

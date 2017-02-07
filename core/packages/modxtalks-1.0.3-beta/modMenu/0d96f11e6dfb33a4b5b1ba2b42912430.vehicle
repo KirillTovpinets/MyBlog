@@ -1,0 +1,50 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'unique_key' => 'text',
+  'related_objects' => 
+  array (
+    'Action' => 
+    array (
+      '68f88157653b5f2082cb9c7b15c66c3d' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 
+        array (
+          0 => 'namespace',
+          1 => 'controller',
+        ),
+        'class' => 'modAction',
+        'object' => '{"id":1,"namespace":"modxtalks","controller":"index","haslayout":1,"lang_topics":"modxtalks:default","assets":"","help_url":"","parent":0}',
+        'guid' => '52efcb7e775203f41747eafed1ad79d3',
+        'native_key' => 1,
+        'signature' => '42112e8c3c87406dafc8e308dffd7167',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Action' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 
+      array (
+        0 => 'namespace',
+        1 => 'controller',
+      ),
+    ),
+  ),
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '70f4920530160b2c34db993818239ffb',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '0d96f11e6dfb33a4b5b1ba2b42912430',
+  'native_key' => 'modxtalks.help',
+  'object' => '{"text":"modxtalks.help","parent":"modxtalks","action":1,"description":"modxtalks.help_desc","icon":"images\\/icons\\/plugin.gif","menuindex":1,"params":"","handler":"window.open(\\"http:\\/\\/modxtalks.artdevue.com\\/en\\/help.html\\");","permissions":"","namespace":"core"}',
+);

@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ccacf8b2262ed5726ffa81200cc15915',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '412559399c61202106161feb2c650e17',
+  'native_key' => 'modxtalks.defaultAvatar',
+  'object' => '{"key":"modxtalks.defaultAvatar","value":"","xtype":"textfield","namespace":"modxtalks","area":"settings","editedon":null}',
+);

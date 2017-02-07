@@ -1,0 +1,878 @@
+/* Animal */
+body.css-animal,
+.css-animal p,
+.css-animal h1,
+.css-animal h2,
+.css-animal h3,
+.css-animal h4,
+.css-animal h5,
+.css-animal h6,
+.css-animal .featured-content h1.small,
+.css-animal .form-group > label,
+.css-animal .checkbox > label,
+.css-animal .alert > p,
+.css-animal .block-content-wrapper h2,
+.css-animal .intro-text h1, .intro-text h2,
+.css-animal .intro-text h3, .intro-text h4,
+.css-animal .intro-text h5, .intro-text h6,
+.css-animal .restaurant-info-img-content h4,
+.css-animal .contact-title h3 {
+  font-family: "Droid Sans", sans-serif;
+}
+
+.css-animal h1, .css-animal h2, .css-animal h3, .css-animal h4, .css-animal h5, .css-animal h6 {
+  font-family: "Droid Sans", sans-serif;
+}
+
+.css-animal .color-1 {
+  color: #3f51b5 !important;
+}
+
+.css-animal .background-1,
+.css-animal .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-animal .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-animal .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #3f51b5 !important;
+}
+
+.css-animal .color-2 {
+  color: #ffca44 !important;
+}
+
+.css-animal .background-2,
+.css-animal .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-animal .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-animal .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #ffca44 !important;
+}
+
+.css-animal .color-3 {
+  color: #97b714 !important;
+}
+
+.css-animal .background-3,
+.css-animal .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-animal .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-animal .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3,
+.css-animal .blog-desc-details:after {
+  background-color: #97b714 !important;
+}
+
+.css-animal .call-to-action {
+  background-color: transparent !important;
+}
+
+.css-animal .tp-caption .btn-default,
+.css-animal .btn-default,
+.css-animal .flex-control-paging li a.flex-active,
+.css-animal .navbar-toggle,
+.css-animal #mobile-navbar,
+.css-animal .offscreen-container,
+.css-animal .maincolor-background,
+.css-animal ul.widget-ul li a > span,
+.css-animal ul.widget-social li a:hover,
+.css-animal #people .item .info,
+.css-animal .main-color,
+.css-animal .flexslider.clients .flex-control-paging li a.flex-active,
+.css-animal #portfolio-filter li a:after,
+.css-animal .navbar.banner--clone .nav li.active > a,
+.css-animal .pagination-box .pager li a,
+.css-animal .pricing-table-column.special-price-table .pricing-table-head,
+.css-animal .pricing-table-column.special-price-table .pricing-table-content,
+.css-animal .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-animal .tags-cloud-list li a:hover,
+.css-animal .progress-bar-box .progress-bar,
+.css-animal .background-1,
+.css-animal .selecter .selecter-item:hover,
+.css-animal .selecter .selecter-item.selected:hover,
+.css-animal #footer.colored,
+.css-animal section.about-counter,
+.css-animal .error-page-title:after,
+.css-animal .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-animal .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-animal .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-animal .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-animal .tabpanel-style-4 .tab-content h3:after,
+.css-animal .about-classic-column-themecolor,
+.css-animal .selecter .selecter-item:hover,
+.css-animal .selecter .selecter-item.selected:hover,
+.css-animal .item-text-wrapper_overlay,
+.css-animal .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-animal .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-animal .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-animal .shop-type-2 a.add-to-cart-item,
+.css-animal .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-animal .navbar-2 .btn-cart .header-cart-count,
+.css-animal .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-animal .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-animal .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-animal .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-animal .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-animal .dropcap.dropcap-style-2,
+.css-animal .alert-default,
+.css-animal blockquote:before,
+.css-animal blockquote:after,
+.css-animal .tp-caption .btn-default,
+.css-animal .btn-default,
+.css-animal .content-title h5:before,
+.css-animal .content-title h5:after,
+.css-animal .icon-box.icon-fill .icon-block,
+.css-animal .icon-box.icon-square:hover .icon-block,
+.css-animal .icon-box.icon-circle:hover .icon-block,
+.css-animal .icon-box.icon-square:hover .icon-block span,
+.css-animal .icon-box.icon-circle:hover .icon-block span,
+.css-animal .icon-type.it-main-color:hover,
+.css-animal .icon-type.it-main-color:focus,
+.css-animal .icon-type.it-main-color-reverse,
+.css-animal .icon-type.it-main-color:hover span,
+.css-animal .icon-type.it-main-color-reverse:hover span,
+.css-animal .add-to-cart-form .count-input .count-plus:hover,
+.css-animal .add-to-cart-form .count-input .count-minus:hover,
+.css-animal .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-animal .pricing-table-container.special-price-table,
+.css-animal .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-animal .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-animal ul.forum-list li.forum-header,
+.css-animal .textbox-withmaincolor,
+.css-animal .background-1,
+.css-animal .team-member-job,
+.css-animal .team-section .team-desc-box:before,
+.css-animal .team-section .team-desc-box:after,
+.css-animal .shop-categories:hover .shop-title-categories,
+.css-animal .content-divider-colored-bg [class^="icon-"],
+.css-animal .overlay-animation-6 .content-box,
+.css-animal .block-content-wrapper h1,
+.css-animal .benefits-box h1,
+.css-animal .selecter .selecter-item:hover,
+.css-animal .selecter .selecter-item.selected:hover,
+.css-animal .ui-slider .ui-slider-range,
+.css-animal #header.header-main-color,
+.css-animal .navbar-2.banner--clone.main-color-navbar,
+.css-animal .tabpanel-style-center .nav-tabs > li.active > a,
+.css-animal .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-animal .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-animal .label.label-primary,
+.css-animal .label.label-primary,
+.css-animal .star-rating .caption .label,
+.css-animal .tparrows.preview5:hover,
+.css-animal .table-style-4.table-withmaincolor thead tr th,
+.css-animal .table-style-5.table-withmaincolor thead tr th,
+.css-animal .table-style-6.table-withmaincolor thead tr th,
+.css-animal .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-animal .table-style-7.table-withmaincolor thead tr th,
+.css-animal .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-animal .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-animal .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-animal .table-style-2.table-withmaincolor thead tr th,
+.css-animal .table-style-3.table-withmaincolor thead tr th,
+.css-animal .table-style-3.table-withmaincolor tbody tr th,
+.css-animal .parallax-withmaincolor,
+.css-animal .contact-overlay-map .minimize-form:hover,
+.css-animal .team-3:hover .team-social,
+.css-animal .team-5:hover .team-social,
+.css-animal .special-table-2,
+.css-animal .special-table-3,
+.css-animal span.pricing-3-discount,
+.css-animal #vertical-timeline-container:before,
+.css-animal .subscribe-fancy-themebg,
+.css-animal .empty-cart,
+.css-animal .team-4:hover .team-social,
+.css-animal .content-divider-colored,
+.css-animal .content-divider-colored-bg,
+.css-animal .withmainbackground,
+.css-animal .services-2-heading,
+.css-animal .icon-box-2-effect-4 .icon-block-2,
+.css-animal .services-2-heading,
+.css-animal .promotion-box-theme-colored,
+.css-animal .promotion-box-theme-colored .promotion-box-title h4,
+.css-animal .icon-block-2,
+.css-animal .icon-box-2-effect-2:hover .icon-block-2,
+.css-animal .icon-box-2-effect-3 .icon-block-2:after,
+.css-animal .icon-box-2-effect-4 .icon-block-2:after,
+.css-animal .icon-box-2-effect-6 .icon-block-2,
+.css-animal .icon-box-2-effect-6:hover .icon-block-2,
+.css-animal .simple-icon-icon,
+.css-animal a.call-to-action-link:hover,
+.css-animal .add-to-cart-form .count-input .count-plus,
+.css-animal .add-to-cart-form .count-input .count-minus,
+.css-animal .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-animal .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-animal .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-animal .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-animal .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-animal .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-animal .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-animal .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-animal .special-price-box,
+.css-animal .dropdown-menu > .active > a,
+.css-animal .dropdown-menu > .active > a:focus,
+.css-animal .dropdown-menu > .active > a:hover,
+.css-animal .header.main-color-nav .navbar-2,
+.css-animal .latest-post-data,
+.css-animal .blog-single-post .bsp-heading h1,
+.css-animal .testimonial-single .slick-dots li button:before,
+.css-animal .slick-dots li button:before,
+.css-animal .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-animal .timeline-complete .timeline-status.timeline-active:before,
+.css-animal .megamenu.maincolor,
+.css-animal .dropdown.maincolor ul,
+.css-animal .dropdown.maincolor ul.dropdown-menu,
+.css-animal #footer.maincolor,
+.css-animal #copyrights.maincolor,
+.css-animal .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-animal .cd-horizontal-timeline .events a.selected::after,
+.css-animal .cd-horizontal-timeline .filling-line,
+.css-animal .pinpulsebox span,
+.css-animal .main-color-dropdown .megamenu,
+.css-animal .main-color-dropdown .dropdown-menu,
+.css-animal #cd-timeline::before,
+.css-animal ul.icon-list.il-main-bg li [class^="icon-"],
+.css-animal .process-steps ul li.current a .number,
+.css-animal ol.ordered-list.ol-main-bg li:before,
+.css-animal .irs-bar,
+.css-animal .irs-from,
+.css-animal .irs-to,
+.css-animal .irs-single,
+.css-animal .open > .dropdown-toggle.btn-default,
+.css-animal .fc-unthemed .fc-today,
+.css-animal .fc-content,
+.css-animal #particles-js,
+.css-animal .s-icon:hover,
+.css-animal #progressbar li.active:before,
+.css-animal #progressbar li.active:after,
+.css-animal .pagination > .active > a,
+.css-animal .pagination > .active > a:focus,
+.css-animal .pagination > .active > a:hover,
+.css-animal .pagination > .active > span,
+.css-animal .pagination > .active > span:focus,
+.css-animal .pagination > .active > span:hover,
+.css-animal .portfolio-filter .selecter-item.activeFilter,
+.css-animal .page-loader-spinner span,
+.css-animal .loader-6:before,
+.css-animal .loader-2,
+.css-animal .loader-2:before,
+.css-animal .loader-2:after,
+.css-animal .loader-10 > div, 
+.css-animal .loader-11 > div,
+.css-animal .loader-13 > div:first-child, 
+.css-animal .loader-14 > div, 
+.css-animal .loader-16 > div, 
+.css-animal .loader-17 > div, 
+.css-animal .loader-17 > div:before, 
+.css-animal .loader-17 > div:after, 
+.css-animal .loader-18 > div, 
+.css-animal .loader-19 > div, 
+.css-animal .loader-20 > div, 
+.css-animal .loader-22 > div, 
+.css-animal .loader-23 > div, 
+.css-animal .loader-24 > div, 
+.css-animal .loader-25 > div, 
+.css-animal .loader-26 > div, 
+.css-animal .loader-27 > div, 
+.css-animal .loader-28 > div, 
+.css-animal .loader-29 > div, 
+.css-animal .loader-32 > div, 
+.css-animal .loader-33 > div, 
+.css-animal .loader-35 > div:nth-child(3), 
+.css-animal .loader-35 > div:nth-child(4), 
+.css-animal .loader-35 > div:nth-child(5),
+.css-animal .loader-35 > div:nth-child(6), 
+.css-animal .loader-37 > div, 
+.css-animal .loader-38 > div,
+.css-animal .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-animal .radio input[type=radio]:checked ~ .check, 
+.css-animal .vlt-btn-group .dropdown-menu li a:hover, 
+.css-animal .gsi-step-indicator.triangle li.current>*, 
+.css-animal .gsi-style-4 li.current>*, 
+.css-animal .gsi-style-5 li.current>*, 
+.css-animal .gsi-style-6 li.current>* .number, 
+.css-animal .gsi-style-7 li.current:hover>*, 
+.css-animal .gsi-style-8 li.visited>*, 
+.css-animal .gsi-style-8 li.current>*, 
+.css-animal .gsi-style-9 li.visited>*:after, 
+.css-animal .gsi-style-9 li.current>*:after, 
+.css-animal .gsi-style-10 li.visited>*:after, 
+.css-animal .gsi-style-10 li.current>*:after, 
+.css-animal .gsi-style-11 li.current:before, 
+.css-animal .gsi-style-11 li.current:after, 
+.css-animal .gsi-style-11 li.visited:before, 
+.css-animal .gsi-style-11 li.visited:after, 
+.css-animal .gsi-style-11 li.visited>*:after, 
+.css-animal .gsi-style-11 li.current>*:after, 
+.css-animal .flatpickr-day.today:focus, 
+.css-animal .flatpickr-day.today:hover {
+  background-color: #3f51b5 !important;
+}
+
+.css-animal .header-content .phone-number span,
+.css-animal .intro-block h6,
+.css-animal .icon-block [class^="icon-"],
+.css-animal ul.header-links li a:hover,
+.css-animal .navbar.banner--clone .nav > li > a:hover,
+.css-animal .navbar.banner--clone .btn-search:hover,
+.css-animal .success-lg:hover [class^="icon-"],
+.css-animal #copyrights ul li a:hover,
+.css-animal #copyrights a:hover,
+.css-animal .breadcrumb > .active,
+.css-animal #portfolio-filter li a.activeFilter,
+.css-animal #portfolio-filter li a:hover,
+.css-animal .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-animal a.image_zoom:hover [class^="icon-"],
+.css-animal a.image_link:hover [class^="icon-"],
+.css-animal a.load-more-btn:hover,
+.css-animal a.load-more-btn:hover [class^="icon-"],
+.css-animal .intro-block h1 [class^="icon-"],
+.css-animal .shop-list .shop-product h4 a:hover,
+.css-animal ul#portfolio-layout-filter li a.active,
+.css-animal .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-animal ul.sidebar-shop-cat > li span,
+.css-animal .shop-price,
+.css-animal ul.sidebar-shop-cat > li > a:hover,
+.css-animal a.load-more-btn:hover,
+.css-animal a.load-more-btn:hover [class^="icon-"],
+.css-animal .intro-block h1 [class^="icon-"],
+.css-animal .shop-list .shop-product h4 a:hover,
+.css-animal ul#portfolio-layout-filter li a.active,
+.css-animal .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-animal ul.sidebar-cat > li span,
+.css-animal .shop-price,
+.css-animal ul.sidebar-cat > li > a:hover,
+.css-animal ul.jobs-list li [class^="icon-"],
+.css-animal .team-social a:hover,
+.css-animal .icon-default,
+.css-animal .error-page-icon span [class^="icon-"],
+.css-animal .footer-3-container-text a:hover,
+.css-animal .testimonials-box .testimonial-author,
+.css-animal #page-title.image-page-title-fullwidth h1,
+.css-animal #page-title.image-page-title-left.image-page-noimage h2,
+.css-animal ul.services-2-icons,
+.css-animal ul.shop-layout-filter li a.active,
+.css-animal ul.portfolio-layout-filter li a.active,
+.css-animal ul.porfolio-project-details-list > li .ppd-right,
+.css-animal ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-animal .related-projects-title .slick-custom-next:hover,
+.css-animal .related-projects-title .slick-custom-prev:hover,
+.css-animal .recent-post-content a:hover,
+.css-animal .form-group.login-form-submit a,
+.css-animal .shop-type-1 a.add-to-cart-item:before,
+.css-animal .shop-type-2 a.add-to-cart-item:before,
+.css-animal a.form-forgotpass,
+.css-animal .sidebar-shop-products-list li .ssp-title:hover,
+.css-animal .restaurant-info ul li [class^="icon-"],
+.css-animal .navbar-default.default .btn-cart .header-cart-count,
+.css-animal .cart-shop-products-list li .csp-title:hover,
+.css-animal .blog-list > article .blog-desc h4 a:hover,
+.css-animal .blog-list > article .blog-desc h4 a:focus,
+.css-animal .blog-list-full > article .blog-desc h4 a:hover,
+.css-animal .blog-list-full > article .blog-desc h4 a:focus,
+.css-animal .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-animal .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-animal .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-animal .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-animal .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-animal .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-animal .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-animal .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-animal .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-animal .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-animal .blog-masonry > article .blog-desc h4 a:hover,
+.css-animal .blog-masonry > article .blog-desc h4 a:focus,
+.css-animal .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-animal .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-animal .comment_response .media h6 a,
+.css-animal .comment_response .media_cloud a.reply_link,
+.css-animal .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-animal .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-animal .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-animal .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-animal .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-animal .dropcap.dropcap-style-1,
+.css-animal .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-animal .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-animal .counter-box .count-icon,
+.css-animal .counter-style-1 .counter-box h4,
+.css-animal .icon-type,
+.css-animal .icon-type.it-main-color,
+.css-animal .icon-type.it-main-color-reverse:hover,
+.css-animal .icon-type.it-main-color-reverse:focus,
+.css-animal .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-animal .comment_response .media h6 a,
+.css-animal .comment_response .media_cloud a.reply_link,
+.css-animal .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-animal .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-animal .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-animal .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-animal .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-animal .dropcap.dropcap-style-1,
+.css-animal .btn-default-reverse,
+.css-animal .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-animal .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-animal .counter-box .count-icon,
+.css-animal .counter-style-1 .counter-box h4,
+.css-animal .icon-type,
+.css-animal .icon-type.it-main-color,
+.css-animal .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-animal .icon-type.it-main-color-reverse:focus,
+.css-animal .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-animal .review_response .media h6 a,
+.css-animal .review_response .media_cloud .shop-star-rating li.full-star,
+.css-animal .rating-container .rating-stars,
+.css-animal .form-contact small,
+.css-animal ul.icon-list li a:hover,
+.css-animal ul.icon-list li a:active,
+.css-animal ul.icon-list li a:focus,
+.css-animal .checkout-sum,
+.css-animal .checkout-table td a:hover,
+.css-animal .checkout-box a,
+.css-animal .user-profile-list ul li a:hover,
+.css-animal a.profile-active,
+.css-animal .user-profile-content h2,
+.css-animal .forum-content-header span a,
+.css-animal .recent-work-content a:hover,
+.css-animal .recent-work-image-content a:hover,
+.css-animal .contact-overlay-map .maximize-form:hover,
+.css-animal .hero-slier-nav-content:hover [class^="icon-"],
+.css-animal .selected .hero-slier-nav-content [class^="icon-"],
+.css-animal .team-social a:hover,
+.css-animal .team-name h5 a:hover,
+.css-animal .clients-slick-nav .slick-custom-next:hover,
+.css-animal .clients-slick-nav .slick-custom-prev:hover,
+.css-animal .services-pricing-icon [class^="icon-"],
+.css-animal .brand [class^="icon-"],
+.css-animal .content-divider-colored [class^="icon-"],
+.css-animal .divider-content h1 span,
+.css-animal .divider-content h2 span,
+.css-animal .divider-content h3 span,
+.css-animal .intro-page-content a:hover,
+.css-animal .image-box-content a:hover,
+.css-animal .icon-type.it-main-color [class^="icon-"],
+.css-animal .icon-type-2:hover p,
+.css-animal .icon-type-2:hover span.icon-type-2-icon,
+.css-animal .heading-container .head-colored,
+.css-animal ul.home-6-list li h4 [class^="icon-"],
+.css-animal .icon-box-2-effect-1:hover .icon-block-2,
+.css-animal .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-animal .icon-box-2-effect-4:hover .icon-block-2,
+.css-animal .icon-box-2-effect-4-reverse .icon-block-2,
+.css-animal .icon-box-2-effect-5:hover .icon-block-2,
+.css-animal .simple-icon-lightbg [class^="icon-"],
+.css-animal .newsletter-signup button,
+.css-animal a.add-to-wishlist.select,
+.css-animal a.add-to-wishlist.select [class^="icon-"],
+.css-animal .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-animal .panel-body ul li a:hover,
+.css-animal .colored,
+.css-animal .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-animal .tabpanel-style-6 .nav-tabs > li > a,
+.css-animal .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-animal .tp_caption_big span,
+.css-animal ul.icon-box-simple li:hover a,
+.css-animal .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-animal .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-animal .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-animal .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-animal .blockquote-author p,
+.css-animal .testimonial-author,
+.css-animal .latest-post-content h1 a:hover,
+.css-animal .post-by a:hover,
+.css-animal .latest-post-content .read-more-link,
+.css-animal .blog-horizontal .bh-content h3 a:hover,
+.css-animal .blog-horizontal .bh-content .bh-details a:hover,
+.css-animal .blog-horizontal .bh-content .bh-details a:hover span,
+.css-animal a.bsp-title:hover,
+.css-animal .sidebar-blog-post-list li .sbp-title:hover,
+.css-animal .navbar-nav > li.active,
+.css-animal .navbar-nav > li.active:hover,
+.css-animal a.idb-social:hover,
+.css-animal a.idb-social:hover span,
+.css-animal a.idb-price,
+.css-animal span.pts-raised,
+.css-animal .bsp-social a:hover,
+.css-animal .bsp-social a [class^="icon-"]:hover,
+.css-animal a.bsp-more:hover,
+.css-animal .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-animal .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-animal .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-animal .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-animal .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-animal .gallery-block .gallery-box .gallery-meta a:hover,
+.css-animal .gallery-block .gallery-box .gallery-meta a:focus,
+.css-animal .cd-timeline-inner-content a:hover,
+.css-animal .testimonial-box .testimonial-author span,
+.css-animal .fic-date a:hover,
+.css-animal .forum-inner-content h1 a:hover,
+.css-animal .user-profile-desc a:hover,
+.css-animal .cd-timeline-navigation a:hover::after,
+.css-animal .login-form .login-input-box [class^="icon-"],
+.css-animal .icon-input-box [class^="icon-"],
+.css-animal ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-animal ul.bar-chart-graph li,
+.css-animal ul.line-graph li,
+.css-animal ul.donut-graph li,
+.css-animal .tp-caption.Creative-SubTitle,
+.css-animal .Creative-SubTitle,
+.css-animal .tp-caption.vlt-hero-rotating,
+.css-animal .pagination > li > a:focus,
+.css-animal .pagination > li > a:hover,
+.css-animal .pagination > li > span:focus,
+.css-animal .pagination > li > span:hover,
+.css-animal .pager li > a,
+.css-animal ul.recent-post-widget .rp-post a:hover,
+.css-animal .tp-tab.selected span.tp-tab-title span,
+.css-animal .tp-tab.selected span.tp-tab-title,
+.css-animal .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-animal .tp-main-color,
+.css-animal .loader-5,
+.css-animal .loader-7,
+.css-animal .loader-9,
+.css-animal .loader-2,
+.css-animal .loader-4,
+.css-animal .gsi-style-9 li.visited>*, 
+.css-animal .gsi-style-9 li.current>*,
+.css-animal .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-animal .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #3f51b5 !important;
+}
+
+.css-animal .tp-caption .btn-default,
+.css-animal .btn-default,
+.css-animal .flex-control-paging li a.flex-active,
+.css-animal .flexslider.clients .flex-control-paging li a.flex-active,
+.css-animal .pagination-box .pager li a,
+.css-animal .contact-info-3,
+.css-animal .tags-cloud-list li a:hover,
+.css-animal .team-social a:hover,
+.css-animal .contact-title-one h3:after,
+.css-animal .home-title-one h3:after,
+.css-animal #login-form .login-input:active,
+.css-animal #login-form .login-input:focus,
+.css-animal .load-more-wrapper a.load-more-btn:hover,
+.css-animal #register-form .register-input:active,
+.css-animal #register-form .register-input:focus,
+.css-animal .dropcap.dropcap-style-1,
+.css-animal .dropcap.dropcap-style-2,
+.css-animal .alert-default,
+.css-animal blockquote,
+.css-animal .tp-caption .btn-default,
+.css-animal .btn-default,
+.css-animal .btn-default-reverse,
+.css-animal .icon-box.icon-square .icon-block,
+.css-animal .icon-box.icon-circle .icon-block,
+.css-animal .icon-type.it-main-color,
+.css-animal .icon-type.it-main-color:hover,
+.css-animal .icon-type.it-main-color:focus,
+.css-animal .icon-type.it-main-color-reverse,
+.css-animal .icon-type.it-main-color-reverse:hover,
+.css-animal .icon-type.it-main-color-reverse:focus,
+.css-animal .add-to-cart-form .count-input .count-plus:hover,
+.css-animal .add-to-cart-form .count-input .count-minus:hover,
+.css-animal #reviewmodal .modal-header,
+.css-animal .job-left-title h3,
+.css-animal .pricing-table-container.special-price-table,
+.css-animal .clients-slick-nav .slick-custom-next:hover,
+.css-animal .clients-slick-nav .slick-custom-prev:hover,
+.css-animal a.add-to-wishlist.select,
+.css-animal a.add-to-wishlist.select [class^="icon-"],
+.css-animal .tabpanel-style-8 .nav-tabs > li.active,
+.css-animal a.btn-default.btn-animation-icon-box,
+.css-animal .btn-default.btn-animation-icon-box:hover,
+.css-animal .btn-default.btn-animation-icon-box:focus,
+.css-animal .btn-default.btn-animation-icon-box:active,
+.css-animal .tp-caption a.btn-default.btn-animation-icon-box,
+.css-animal .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-animal .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-animal .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-animal .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-animal .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-animal .clients-slick-nav .slick-clients-prev:hover,
+.css-animal .clients-slick-nav .slick-clients-next:hover,
+.css-animal .bsp-image,
+.css-animal .blog-list > article.default-post .blog-desc,
+.css-animal .testimonial-single li.slick-active button::before,
+.css-animal .slick-dots li.slick-active button:before,
+.css-animal .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-animal .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-animal .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-animal .timeline-status.timeline-active:before,
+.css-animal .cd-horizontal-timeline .events a.older-event::after,
+.css-animal .cd-horizontal-timeline .events a.selected::after,
+.css-animal .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-animal .no-touch .cd-timeline-navigation a:hover,
+.css-animal .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-animal .cd-timeline-navigation a:hover,
+.css-animal .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-animal .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-animal .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-animal .login-form input:focus,
+.css-animal .pinpulse,
+.css-animal .open > .dropdown-toggle.btn-default,
+.css-animal .pagination > .active > a,
+.css-animal .pagination > .active > a:focus,
+.css-animal .pagination > .active > a:hover,
+.css-animal .pagination > .active > span,
+.css-animal .pagination > .active > span:focus,
+.css-animal .pagination > .active > span:hover,
+.css-animal .table-style-1 thead tr th,
+.css-animal .table-style-1 tbody tr:last-child th,
+.css-animal .table-style-1 tbody tr:last-child td,
+.css-animal .table-withmaincolor thead tr th,
+.css-animal .clients-title-border h3,
+.css-animal .cd-slider-nav li:hover,
+.css-animal .selected,
+.css-animal .job-form input:focus,
+.css-animal .job-form select:focus,
+.css-animal .job-form textarea:focus,
+.css-animal .form-contact input:focus,
+.css-animal .form-contact select:focus,
+.css-animal .form-contact textarea:focus,
+.css-animal .form-contact input:focus,
+.css-animal .icon-type-2:hover p,
+.css-animal .icon-type-2:hover span.icon-type-2-icon,
+.css-animal .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-animal .activeFilter,
+.css-animal .loader-30 > div, 
+.css-animal .loader-31 > div, 
+.css-animal .loader-35 > div:first-of-type, 
+.css-animal .loader-35 > div:nth-child(2),
+.css-animal .loader-12 > div,
+.css-animal .loader-15 > div,
+.css-animal .loader-21 > div,
+.css-animal .radio input[type=radio]:checked ~ .circle, 
+.css-animal .gsi-step-indicator.triangle li.current>*, 
+.css-animal .gsi-style-7.border-right li.current>*, 
+.css-animal .gsi-style-7.border-bottom li.current>*, 
+.css-animal .gsi-style-7.border-left li.current>*, 
+.css-animal .flatpickr-day.today, 
+.css-animal .flatpickr-day.today:focus, 
+.css-animal .flatpickr-day.today:hover {
+  border-color: #3f51b5;
+}
+
+.css-animal .tabpanel-style-4 .nav-tabs > li.active,
+.css-animal .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-animal .tabpanel-style-5 .nav-tabs > li.active,
+.css-animal .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #3f51b5 transparent;
+}
+
+.css-animal .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #3f51b5;
+}
+
+.css-animal .icon-box-2-effect-4 .icon-block-2,
+.css-animal .icon-box-2-effect-5 .icon-block-2,
+.css-animal .icon-box-2-effect-5:hover .icon-block-2,
+.css-animal .icon-box-2-effect-1 .icon-block-2:after,
+.css-animal .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #3f51b5;
+}
+
+.css-animal .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #3f51b5;
+}
+
+.css-animal .empty-cart:after, .css-animal .loader-34 > div  {
+  border-bottom-color: #3f51b5;
+}
+
+.css-animal .btn-default-reverse:hover,
+.css-animal .btn-default-reverse:focus {
+  background-color: #3f51b5 !important;
+  border-color: #3f51b5 !important;
+}
+
+.css-animal .tp-caption .btn-default.active,
+.css-animal .btn-default.active,
+.css-animal .tp-caption .btn-default.focus,
+.css-animal .btn-default.focus,
+.css-animal .tp-caption .btn-default:active,
+.css-animal .btn-default:active,
+.css-animal .tp-caption .btn-default:focus,
+.css-animal .btn-default:focus,
+.css-animal .tp-caption .btn-default:hover,
+.css-animal .btn-default:hover,
+.css-animal .tp-caption .btn-white:hover,
+.css-animal .btn-white:hover {
+  background-color: #394aa8 !important;
+  border-color: #394aa8 !important;
+}
+
+.css-animal .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #3f51b5;
+}
+
+.css-animal #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-animal #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-animal #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-animal #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-animal #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-animal #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-animal #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-animal #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #3f51b5;
+}
+
+.css-animal #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-animal #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-animal span.latest-post-month,
+.css-animal .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-animal .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #394aa8;
+}
+
+.css-animal #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-animal #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-animal #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-animal #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-animal #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-animal #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-animal #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-animal #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-animal #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-animal #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-animal #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-animal #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-animal #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-animal #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-animal #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-animal #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-animal #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-animal #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #394aa8;
+  border-color: #394aa8;
+}
+
+.css-animal #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-animal #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #394aa8;
+}
+
+.css-animal .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-animal .item-text-wrapper,
+.css-animal .standard_hover .portfolio_overlay,
+.css-animal .overlay-animation-1 .overlay_box,
+.css-animal .overlay-animation-2 .overlay_box,
+.css-animal .flip-hover .flip-box .content-box,
+.css-animal .team-8 .team-image .overlay-team-box,
+.css-animal .team-9 .team-image .overlay-team-box,
+.css-animal .portfolio-animation-slide .sliding-content {
+  background-color: rgba(63, 81, 181, 0.9);
+}
+
+.css-animal .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-animal .team-2 .overlay-team-box,
+.css-animal .team-6 .overlay-team-box,
+.css-animal .team-7 .overlay-team-box,
+.css-animal .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-animal .contact-overlay-map .overlay-map-background,
+.css-animal .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-animal .table-style-7.table-withmaincolor tbody tr th,
+.css-animal .table-style-2.table-withmaincolor tbody tr,
+.css-animal .fc-bgevent,
+.css-animal #particles-js.background-1 {
+  background-color: rgba(63, 81, 181, 0.6) !important;
+}
+
+.css-animal .widget-dribbble-box .shots li a:hover:before, .css-animal .dribbble-box .shots li a:hover:before,
+.css-animal .instagram-widget a:hover:before {
+  background-color: rgba(63, 81, 181, 0.85);
+}
+
+.css-animal .search-popup-box,
+.css-animal .scroll-to-top-fixed {
+  background-color: rgba(63, 81, 181, 0.95);
+}
+
+.css-animal .background-2 .testimonial-single .slick-dots li button::before,
+.css-animal .background-2 .slick-dots li button::before,
+.css-animal .background-1 .testimonial-single .slick-dots li button::before,
+.css-animal .background-1 .slick-dots li button::before,
+.css-animal .background-3 .testimonial-single .slick-dots li button::before,
+.css-animal .background-3 .slick-dots li button::before,
+.css-animal .gray-background .testimonial-single .slick-dots li button::before,
+.css-animal .gray-background-3 .slick-dots li button::before {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+.css-animal .loader-3 {
+  border-top-color: rgba(63, 81, 181, 0.2);
+  border-right-color: rgba(63, 81, 181, 0.2);
+  border-bottom-color: rgba(63, 81, 181, 0.2);
+  border-left-color: #3f51b5;
+}
+
+.css-animal #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-animal #header.header-white .navbar-2 .search-navbar .btn-cart:hover {
+  color: rgba(255, 255, 255, 0.85) !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.css-animal .icon-box-2-effect-4:hover .icon-block-2 span,
+.css-animal .icon-box-2-effect-1:hover .icon-block-2 span {
+  color: #ffffff;
+}
+
+.css-animal .transparent-background .testimonial-single .slick-dots .slick-active button:before {
+  background-color: transparent !important;
+}
+
+.css-animal .transparent-background .testimonial-single .slick-dots button:before {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.css-animal .background-1 .testimonial-single .slick-dots li button:before,
+.css-animal .background-1 .slick-dots li button:before, .background-2 .testimonial-single .slick-dots li button:before, .background-2 .slick-dots li button:before,
+.css-animal .background-3 .testimonial-single .slick-dots li button:before, .background-3 .slick-dots li button:before, .white-dots .slick-dots li button:before,
+.css-animal .transparent-background .testimonial-single .slick-dots li button:before,
+.css-animal .transparent-background .slick-dots li button:before {
+  background-color: #ffffff  !important;
+}
+
+.css-animal .background-1 .testimonial-single li.slick-active button:before,
+.css-animal .background-1 li.slick-active button:before,
+.css-animal .background-2 .testimonial-single li.slick-active button:before,
+.css-animal .background-2 li.slick-active button:before,
+.css-animal .background-3 .testimonial-single li.slick-active button:before,
+.css-animal .background-3 li.slick-active button:before,
+.css-animal .white-dots .slick-dots li.slick-active button:before {
+  background-color: transparent !important;
+  border-color: #ffffff  !important;
+}
+
+.css-animal .icon-box.icon-fill:hover .icon-block,
+.css-animal .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+.css-animal .gsi-style-4 li.current>* .number:before{
+  border-left-color: #3f51b5;
+}
+.css-animal .gsi-style-7.border-top li.current>*{
+  border-top-color: #3f51b5;
+}
+.css-animal .cart-shop-products h3, .css-animal .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-animal .cart-shop-products-list li .csp-price, .css-animal .sidebar-shop-products-list li .ssp-price,
+.css-animal .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-animal .shop-list .shop-product .shop-star-rating li.full-star,
+.css-animal ul.shop-star-rating li.full-star {
+  color: #97b714;
+}
+
+.css-animal .shop-list .shop-product .shop-ribbon, .css-animal .ui-slider-horizontal .ui-slider-range,
+.css-animal .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-animal .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #97b714;
+}
+
+.css-animal .blockquote-style-2 blockquote::before, .css-animal .blockquote-style-2 blockquote::after {
+  background-color: transparent !important;
+}
+.css-animal .loader-13 > div:last-child, 
+.css-animal .loader-15 > div:last-child {
+  border-color: #3f51b5 transparent;
+}
+.css-animal .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #3f51b5 30%, #3f51b5 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #3f51b5 30%, #3f51b5 100%);
+}

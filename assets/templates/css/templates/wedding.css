@@ -1,0 +1,892 @@
+/* Wedding */
+body.css-wedding,
+.css-wedding p,
+.css-wedding h1,
+.css-wedding h2,
+.css-wedding h3,
+.css-wedding h4,
+.css-wedding h5,
+.css-wedding h6,
+.css-wedding .featured-content h1.small,
+.css-wedding .form-group > label,
+.css-wedding .checkbox > label,
+.css-wedding .alert > p,
+.css-wedding .block-content-wrapper h2,
+.css-wedding .intro-text h1, .intro-text h2,
+.css-wedding .intro-text h3, .intro-text h4,
+.css-wedding .intro-text h5, .intro-text h6,
+.css-wedding .restaurant-info-img-content h4,
+.css-wedding .contact-title h3 {
+  font-family: "Roboto", sans-serif;
+}
+
+.css-wedding h1, .css-wedding h2, .css-wedding h3, .css-wedding h4, .css-wedding h5, .css-wedding h6 {
+  font-family: "Roboto", sans-serif;
+}
+
+.css-wedding .color-1 {
+  color: #F07677;
+}
+
+.css-wedding .background-1,
+.css-wedding .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-wedding .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-wedding .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #F07677 !important;
+}
+
+.css-wedding .color-2 {
+  color: #8da6e9;
+}
+
+.css-wedding .background-2,
+.css-wedding .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-wedding .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-wedding .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #8da6e9;
+}
+
+.css-wedding .color-3 {
+  color: #f3565d;
+}
+
+.css-wedding .background-3,
+.css-wedding .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-wedding .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-wedding .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3,
+.css-wedding .blog-desc-details:after {
+  background-color: #f3565d;
+}
+
+.css-wedding .call-to-action {
+  background-color: transparent !important;
+}
+
+.css-wedding .tp-caption .btn-default,
+.css-wedding .btn-default,
+.css-wedding .flex-control-paging li a.flex-active,
+.css-wedding .navbar-toggle,
+.css-wedding #mobile-navbar,
+.css-wedding .offscreen-container,
+.css-wedding .maincolor-background,
+.css-wedding ul.widget-ul li a > span,
+.css-wedding ul.widget-social li a:hover,
+.css-wedding #people .item .info,
+.css-wedding .main-color,
+.css-wedding .flexslider.clients .flex-control-paging li a.flex-active,
+.css-wedding #portfolio-filter li a:after,
+.css-wedding .navbar.banner--clone .nav li.active > a,
+.css-wedding .pagination-box .pager li a,
+.css-wedding .pricing-table-column.special-price-table .pricing-table-head,
+.css-wedding .pricing-table-column.special-price-table .pricing-table-content,
+.css-wedding .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-wedding .tags-cloud-list li a:hover,
+.css-wedding .progress-bar-box .progress-bar,
+.css-wedding .background-1,
+.css-wedding .selecter .selecter-item:hover,
+.css-wedding .selecter .selecter-item.selected:hover,
+.css-wedding #footer.colored,
+.css-wedding section.about-counter,
+.css-wedding .error-page-title:after,
+.css-wedding .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-wedding .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-wedding .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-wedding .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-wedding .tabpanel-style-4 .tab-content h3:after,
+.css-wedding .about-classic-column-themecolor,
+.css-wedding .selecter .selecter-item:hover,
+.css-wedding .selecter .selecter-item.selected:hover,
+.css-wedding .item-text-wrapper_overlay,
+.css-wedding .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-wedding .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-wedding .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-wedding .shop-type-2 a.add-to-cart-item,
+.css-wedding .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-wedding .navbar-2 .btn-cart .header-cart-count,
+.css-wedding .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-wedding .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-wedding .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-wedding .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-wedding .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-wedding .dropcap.dropcap-style-2,
+.css-wedding .alert-default,
+.css-wedding blockquote:before,
+.css-wedding blockquote:after,
+.css-wedding .tp-caption .btn-default,
+.css-wedding .btn-default,
+.css-wedding .content-title h5:before,
+.css-wedding .content-title h5:after,
+.css-wedding .icon-box.icon-fill .icon-block,
+.css-wedding .icon-box.icon-square:hover .icon-block,
+.css-wedding .icon-box.icon-circle:hover .icon-block,
+.css-wedding .icon-box.icon-square:hover .icon-block span,
+.css-wedding .icon-box.icon-circle:hover .icon-block span,
+.css-wedding .icon-type.it-main-color:hover,
+.css-wedding .icon-type.it-main-color:focus,
+.css-wedding .icon-type.it-main-color-reverse,
+.css-wedding .icon-type.it-main-color:hover span,
+.css-wedding .icon-type.it-main-color-reverse:hover span,
+.css-wedding .add-to-cart-form .count-input .count-plus:hover,
+.css-wedding .add-to-cart-form .count-input .count-minus:hover,
+.css-wedding .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-wedding .pricing-table-container.special-price-table,
+.css-wedding .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-wedding .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-wedding ul.forum-list li.forum-header,
+.css-wedding .textbox-withmaincolor,
+.css-wedding .background-1,
+.css-wedding .team-member-job,
+.css-wedding .team-section .team-desc-box:before,
+.css-wedding .team-section .team-desc-box:after,
+.css-wedding .shop-categories:hover .shop-title-categories,
+.css-wedding .content-divider-colored-bg [class^="icon-"],
+.css-wedding .overlay-animation-6 .content-box,
+.css-wedding .block-content-wrapper h1,
+.css-wedding .benefits-box h1,
+.css-wedding .selecter .selecter-item:hover,
+.css-wedding .selecter .selecter-item.selected:hover,
+.css-wedding .ui-slider .ui-slider-range,
+.css-wedding #header.header-main-color,
+.css-wedding .navbar-2.banner--clone.main-color-navbar,
+.css-wedding .tabpanel-style-center .nav-tabs > li.active > a,
+.css-wedding .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-wedding .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-wedding .label.label-primary,
+.css-wedding .label.label-primary,
+.css-wedding .star-rating .caption .label,
+.css-wedding .tparrows.preview5:hover,
+.css-wedding .table-style-4.table-withmaincolor thead tr th,
+.css-wedding .table-style-5.table-withmaincolor thead tr th,
+.css-wedding .table-style-6.table-withmaincolor thead tr th,
+.css-wedding .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-wedding .table-style-7.table-withmaincolor thead tr th,
+.css-wedding .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-wedding .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-wedding .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-wedding .table-style-2.table-withmaincolor thead tr th,
+.css-wedding .table-style-3.table-withmaincolor thead tr th,
+.css-wedding .table-style-3.table-withmaincolor tbody tr th,
+.css-wedding .parallax-withmaincolor,
+.css-wedding .contact-overlay-map .minimize-form:hover,
+.css-wedding .team-3:hover .team-social,
+.css-wedding .team-5:hover .team-social,
+.css-wedding .special-table-2,
+.css-wedding .special-table-3,
+.css-wedding span.pricing-3-discount,
+.css-wedding #vertical-timeline-container:before,
+.css-wedding .subscribe-fancy-themebg,
+.css-wedding .empty-cart,
+.css-wedding .team-4:hover .team-social,
+.css-wedding .content-divider-colored,
+.css-wedding .content-divider-colored-bg,
+.css-wedding .withmainbackground,
+.css-wedding .services-2-heading,
+.css-wedding .icon-box-2-effect-4 .icon-block-2,
+.css-wedding .services-2-heading,
+.css-wedding .promotion-box-theme-colored,
+.css-wedding .promotion-box-theme-colored .promotion-box-title h4,
+.css-wedding .icon-block-2,
+.css-wedding .icon-box-2-effect-2:hover .icon-block-2,
+.css-wedding .icon-box-2-effect-3 .icon-block-2:after,
+.css-wedding .icon-box-2-effect-4 .icon-block-2:after,
+.css-wedding .icon-box-2-effect-6 .icon-block-2,
+.css-wedding .icon-box-2-effect-6:hover .icon-block-2,
+.css-wedding .simple-icon-icon,
+.css-wedding a.call-to-action-link:hover,
+.css-wedding .add-to-cart-form .count-input .count-plus,
+.css-wedding .add-to-cart-form .count-input .count-minus,
+.css-wedding .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-wedding .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-wedding .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-wedding .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-wedding .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-wedding .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-wedding .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-wedding .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-wedding .special-price-box,
+.css-wedding .dropdown-menu > .active > a,
+.css-wedding .dropdown-menu > .active > a:focus,
+.css-wedding .dropdown-menu > .active > a:hover,
+.css-wedding #header.main-color-nav .navbar-2,
+.css-wedding .latest-post-data,
+.css-wedding .blog-single-post .bsp-heading h1,
+.css-wedding .testimonial-single .slick-dots li button:before,
+.css-wedding .slick-dots li button:before,
+.css-wedding .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-wedding .timeline-complete .timeline-status.timeline-active:before,
+.css-wedding .megamenu.maincolor,
+.css-wedding .dropdown.maincolor ul,
+.css-wedding .dropdown.maincolor ul.dropdown-menu,
+.css-wedding #footer.maincolor,
+.css-wedding #copyrights.maincolor,
+.css-wedding .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-wedding .cd-horizontal-timeline .events a.selected::after,
+.css-wedding .cd-horizontal-timeline .filling-line,
+.css-wedding .pinpulsebox span,
+.css-wedding .main-color-dropdown .megamenu,
+.css-wedding .main-color-dropdown .dropdown-menu,
+.css-wedding #cd-timeline::before,
+.css-wedding ul.icon-list.il-main-bg li [class^="icon-"],
+.css-wedding .process-steps ul li.current a .number,
+.css-wedding ol.ordered-list.ol-main-bg li:before,
+.css-wedding .irs-bar,
+.css-wedding .irs-from,
+.css-wedding .irs-to,
+.css-wedding .irs-single,
+.css-wedding .open > .dropdown-toggle.btn-default,
+.css-wedding .fc-unthemed .fc-today,
+.css-wedding .fc-content,
+.css-wedding #particles-js,
+.css-wedding .s-icon:hover,
+.css-wedding #progressbar li.active:before,
+.css-wedding #progressbar li.active:after,
+.css-wedding .pagination > .active > a,
+.css-wedding .pagination > .active > a:focus,
+.css-wedding .pagination > .active > a:hover,
+.css-wedding .pagination > .active > span,
+.css-wedding .pagination > .active > span:focus,
+.css-wedding .pagination > .active > span:hover,
+.css-wedding .portfolio-filter .selecter-item.activeFilter,
+.css-wedding .page-loader-spinner span,
+.css-wedding .loader-6:before,
+.css-wedding .loader-2,
+.css-wedding .loader-2:before,
+.css-wedding .loader-2:after,
+.css-wedding .loader-10 > div, 
+.css-wedding .loader-11 > div,
+.css-wedding .loader-13 > div:first-child, 
+.css-wedding .loader-14 > div, 
+.css-wedding .loader-16 > div, 
+.css-wedding .loader-17 > div, 
+.css-wedding .loader-17 > div:before, 
+.css-wedding .loader-17 > div:after, 
+.css-wedding .loader-18 > div, 
+.css-wedding .loader-19 > div, 
+.css-wedding .loader-20 > div, 
+.css-wedding .loader-22 > div, 
+.css-wedding .loader-23 > div, 
+.css-wedding .loader-24 > div, 
+.css-wedding .loader-25 > div, 
+.css-wedding .loader-26 > div, 
+.css-wedding .loader-27 > div, 
+.css-wedding .loader-28 > div, 
+.css-wedding .loader-29 > div, 
+.css-wedding .loader-32 > div, 
+.css-wedding .loader-33 > div, 
+.css-wedding .loader-35 > div:nth-child(3), 
+.css-wedding .loader-35 > div:nth-child(4), 
+.css-wedding .loader-35 > div:nth-child(5),
+.css-wedding .loader-35 > div:nth-child(6), 
+.css-wedding .loader-37 > div, 
+.css-wedding .loader-38 > div,
+.css-wedding .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-wedding .radio input[type=radio]:checked ~ .check, 
+.css-wedding .vlt-btn-group .dropdown-menu li a:hover, 
+.css-wedding .gsi-step-indicator.triangle li.current>*, 
+.css-wedding .gsi-style-4 li.current>*, 
+.css-wedding .gsi-style-5 li.current>*, 
+.css-wedding .gsi-style-6 li.current>* .number, 
+.css-wedding .gsi-style-7 li.current:hover>*, 
+.css-wedding .gsi-style-8 li.visited>*, 
+.css-wedding .gsi-style-8 li.current>*, 
+.css-wedding .gsi-style-9 li.visited>*:after, 
+.css-wedding .gsi-style-9 li.current>*:after, 
+.css-wedding .gsi-style-10 li.visited>*:after, 
+.css-wedding .gsi-style-10 li.current>*:after, 
+.css-wedding .gsi-style-11 li.current:before, 
+.css-wedding .gsi-style-11 li.current:after, 
+.css-wedding .gsi-style-11 li.visited:before, 
+.css-wedding .gsi-style-11 li.visited:after, 
+.css-wedding .gsi-style-11 li.visited>*:after, 
+.css-wedding .gsi-style-11 li.current>*:after, 
+.css-wedding .flatpickr-day.today:focus, 
+.css-wedding .flatpickr-day.today:hover  {
+  background-color: #F07677 !important;
+}
+
+.css-wedding .header-content .phone-number span,
+.css-wedding .intro-block h6,
+.css-wedding .icon-block [class^="icon-"],
+.css-wedding ul.header-links li a:hover,
+.css-wedding .navbar.banner--clone .nav > li > a:hover,
+.css-wedding .navbar.banner--clone .btn-search:hover,
+.css-wedding .success-lg:hover [class^="icon-"],
+.css-wedding #copyrights ul li a:hover,
+.css-wedding #copyrights a:hover,
+.css-wedding .breadcrumb > .active,
+.css-wedding #portfolio-filter li a.activeFilter,
+.css-wedding #portfolio-filter li a:hover,
+.css-wedding .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-wedding a.image_zoom:hover [class^="icon-"],
+.css-wedding a.image_link:hover [class^="icon-"],
+.css-wedding a.load-more-btn:hover,
+.css-wedding a.load-more-btn:hover [class^="icon-"],
+.css-wedding .intro-block h1 [class^="icon-"],
+.css-wedding .shop-list .shop-product h4 a:hover,
+.css-wedding ul#portfolio-layout-filter li a.active,
+.css-wedding .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-wedding ul.sidebar-shop-cat > li span,
+.css-wedding .shop-price,
+.css-wedding ul.sidebar-shop-cat > li > a:hover,
+.css-wedding a.load-more-btn:hover,
+.css-wedding a.load-more-btn:hover [class^="icon-"],
+.css-wedding .intro-block h1 [class^="icon-"],
+.css-wedding .shop-list .shop-product h4 a:hover,
+.css-wedding ul#portfolio-layout-filter li a.active,
+.css-wedding .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-wedding ul.sidebar-cat > li span,
+.css-wedding .shop-price,
+.css-wedding ul.sidebar-cat > li > a:hover,
+.css-wedding ul.jobs-list li [class^="icon-"],
+.css-wedding .team-social a:hover,
+.css-wedding .icon-default,
+.css-wedding .error-page-icon span [class^="icon-"],
+.css-wedding .footer-3-container-text a:hover,
+.css-wedding .testimonials-box .testimonial-author,
+.css-wedding #page-title.image-page-title-fullwidth h1,
+.css-wedding #page-title.image-page-title-left.image-page-noimage h2,
+.css-wedding ul.services-2-icons,
+.css-wedding ul.shop-layout-filter li a.active,
+.css-wedding ul.portfolio-layout-filter li a.active,
+.css-wedding ul.porfolio-project-details-list > li .ppd-right,
+.css-wedding ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-wedding .related-projects-title .slick-custom-next:hover,
+.css-wedding .related-projects-title .slick-custom-prev:hover,
+.css-wedding .recent-post-content a:hover,
+.css-wedding .form-group.login-form-submit a,
+.css-wedding .shop-type-1 a.add-to-cart-item:before,
+.css-wedding .shop-type-2 a.add-to-cart-item:before,
+.css-wedding a.form-forgotpass,
+.css-wedding .sidebar-shop-products-list li .ssp-title:hover,
+.css-wedding .restaurant-info ul li [class^="icon-"],
+.css-wedding .navbar-default.default .btn-cart .header-cart-count,
+.css-wedding .cart-shop-products-list li .csp-title:hover,
+.css-wedding .blog-list > article .blog-desc h4 a:hover,
+.css-wedding .blog-list > article .blog-desc h4 a:focus,
+.css-wedding .blog-list-full > article .blog-desc h4 a:hover,
+.css-wedding .blog-list-full > article .blog-desc h4 a:focus,
+.css-wedding .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-wedding .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-wedding .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-wedding .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-wedding .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-wedding .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-wedding .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-wedding .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-wedding .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-wedding .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-wedding .blog-masonry > article .blog-desc h4 a:hover,
+.css-wedding .blog-masonry > article .blog-desc h4 a:focus,
+.css-wedding .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-wedding .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-wedding .comment_response .media h6 a,
+.css-wedding .comment_response .media_cloud a.reply_link,
+.css-wedding .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-wedding .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-wedding .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-wedding .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-wedding .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-wedding .dropcap.dropcap-style-1,
+.css-wedding .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-wedding .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-wedding .counter-box .count-icon,
+.css-wedding .counter-style-1 .counter-box h4,
+.css-wedding .icon-type,
+.css-wedding .icon-type.it-main-color,
+.css-wedding .icon-type.it-main-color-reverse:hover,
+.css-wedding .icon-type.it-main-color-reverse:focus,
+.css-wedding .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-wedding .comment_response .media h6 a,
+.css-wedding .comment_response .media_cloud a.reply_link,
+.css-wedding .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-wedding .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-wedding .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-wedding .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-wedding .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-wedding .dropcap.dropcap-style-1,
+.css-wedding .btn-default-reverse,
+.css-wedding .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-wedding .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-wedding .counter-box .count-icon,
+.css-wedding .counter-style-1 .counter-box h4,
+.css-wedding .icon-type,
+.css-wedding .icon-type.it-main-color,
+.css-wedding .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-wedding .icon-type.it-main-color-reverse:focus,
+.css-wedding .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-wedding .review_response .media h6 a,
+.css-wedding .review_response .media_cloud .shop-star-rating li.full-star,
+.css-wedding .rating-container .rating-stars,
+.css-wedding .form-contact small,
+.css-wedding ul.icon-list li a:hover,
+.css-wedding ul.icon-list li a:active,
+.css-wedding ul.icon-list li a:focus,
+.css-wedding .checkout-sum,
+.css-wedding .checkout-table td a:hover,
+.css-wedding .checkout-box a,
+.css-wedding .user-profile-list ul li a:hover,
+.css-wedding a.profile-active,
+.css-wedding .user-profile-content h2,
+.css-wedding .forum-content-header span a,
+.css-wedding .recent-work-content a:hover,
+.css-wedding .recent-work-image-content a:hover,
+.css-wedding .contact-overlay-map .maximize-form:hover,
+.css-wedding .hero-slier-nav-content:hover [class^="icon-"],
+.css-wedding .selected .hero-slier-nav-content [class^="icon-"],
+.css-wedding .team-social a:hover,
+.css-wedding .team-name h5 a:hover,
+.css-wedding .clients-slick-nav .slick-custom-next:hover,
+.css-wedding .clients-slick-nav .slick-custom-prev:hover,
+.css-wedding .services-pricing-icon [class^="icon-"],
+.css-wedding .brand [class^="icon-"],
+.css-wedding .content-divider-colored [class^="icon-"],
+.css-wedding .divider-content h1 span,
+.css-wedding .divider-content h2 span,
+.css-wedding .divider-content h3 span,
+.css-wedding .intro-page-content a:hover,
+.css-wedding .image-box-content a:hover,
+.css-wedding .icon-type.it-main-color [class^="icon-"],
+.css-wedding .icon-type-2:hover p,
+.css-wedding .icon-type-2:hover span.icon-type-2-icon,
+.css-wedding .heading-container .head-colored,
+.css-wedding ul.home-6-list li h4 [class^="icon-"],
+.css-wedding .icon-box-2-effect-1:hover .icon-block-2,
+.css-wedding .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-wedding .icon-box-2-effect-4:hover .icon-block-2,
+.css-wedding .icon-box-2-effect-4-reverse .icon-block-2,
+.css-wedding .icon-box-2-effect-5:hover .icon-block-2,
+.css-wedding .simple-icon-lightbg [class^="icon-"],
+.css-wedding .newsletter-signup button,
+.css-wedding a.add-to-wishlist.select,
+.css-wedding a.add-to-wishlist.select [class^="icon-"],
+.css-wedding .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-wedding .panel-body ul li a:hover,
+.css-wedding .colored,
+.css-wedding .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-wedding .tabpanel-style-6 .nav-tabs > li > a,
+.css-wedding .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-wedding .tp_caption_big span,
+.css-wedding ul.icon-box-simple li:hover a,
+.css-wedding .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-wedding .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-wedding .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-wedding .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-wedding .blockquote-author p,
+.css-wedding .testimonial-author,
+.css-wedding .latest-post-content h1 a:hover,
+.css-wedding .post-by a:hover,
+.css-wedding .latest-post-content .read-more-link,
+.css-wedding .blog-horizontal .bh-content h3 a:hover,
+.css-wedding .blog-horizontal .bh-content .bh-details a:hover,
+.css-wedding .blog-horizontal .bh-content .bh-details a:hover span,
+.css-wedding a.bsp-title:hover,
+.css-wedding .sidebar-blog-post-list li .sbp-title:hover,
+.css-wedding .navbar-nav > li.active,
+.css-wedding .navbar-nav > li.active:hover,
+.css-wedding a.idb-social:hover,
+.css-wedding a.idb-social:hover span,
+.css-wedding a.idb-price,
+.css-wedding span.pts-raised,
+.css-wedding .bsp-social a:hover,
+.css-wedding .bsp-social a [class^="icon-"]:hover,
+.css-wedding a.bsp-more:hover,
+.css-wedding .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-wedding .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-wedding .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-wedding .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-wedding .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-wedding .gallery-block .gallery-box .gallery-meta a:hover,
+.css-wedding .gallery-block .gallery-box .gallery-meta a:focus,
+.css-wedding .cd-timeline-inner-content a:hover,
+.css-wedding .testimonial-box .testimonial-author span,
+.css-wedding .fic-date a:hover,
+.css-wedding .forum-inner-content h1 a:hover,
+.css-wedding .user-profile-desc a:hover,
+.css-wedding .cd-timeline-navigation a:hover::after,
+.css-wedding .login-form .login-input-box [class^="icon-"],
+.css-wedding .icon-input-box [class^="icon-"],
+.css-wedding ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-wedding ul.bar-chart-graph li,
+.css-wedding ul.line-graph li,
+.css-wedding ul.donut-graph li,
+.css-wedding .tp-caption.Creative-SubTitle,
+.css-wedding .Creative-SubTitle,
+.css-wedding .tp-caption.vlt-hero-rotating,
+.css-wedding .pagination > li > a:focus,
+.css-wedding .pagination > li > a:hover,
+.css-wedding .pagination > li > span:focus,
+.css-wedding .pagination > li > span:hover,
+.css-wedding .pager li > a,
+.css-wedding ul.recent-post-widget .rp-post a:hover,
+.css-wedding .tp-tab.selected span.tp-tab-title span,
+.css-wedding .tp-tab.selected span.tp-tab-title,
+.css-wedding .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-wedding .tp-main-color,
+.css-wedding .loader-5,
+.css-wedding .loader-7,
+.css-wedding .loader-9,
+.css-wedding .loader-2,
+.css-wedding .loader-4,
+.css-wedding .events-vertical .events-vertical-desc h4 a:hover,
+.css-wedding .gsi-style-9 li.visited>*, 
+.css-wedding .gsi-style-9 li.current>*,
+.css-wedding .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-wedding .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #F07677 !important;
+}
+
+.css-wedding .tp-caption .btn-default,
+.css-wedding .btn-default,
+.css-wedding .flex-control-paging li a.flex-active,
+.css-wedding .flexslider.clients .flex-control-paging li a.flex-active,
+.css-wedding .pagination-box .pager li a,
+.css-wedding .contact-info-3,
+.css-wedding .tags-cloud-list li a:hover,
+.css-wedding .team-social a:hover,
+.css-wedding .contact-title-one h3:after,
+.css-wedding .home-title-one h3:after,
+.css-wedding #login-form .login-input:active,
+.css-wedding #login-form .login-input:focus,
+.css-wedding .load-more-wrapper a.load-more-btn:hover,
+.css-wedding #register-form .register-input:active,
+.css-wedding #register-form .register-input:focus,
+.css-wedding .dropcap.dropcap-style-1,
+.css-wedding .dropcap.dropcap-style-2,
+.css-wedding .alert-default,
+.css-wedding blockquote,
+.css-wedding .tp-caption .btn-default,
+.css-wedding .btn-default,
+.css-wedding .btn-default-reverse,
+.css-wedding .icon-box.icon-square .icon-block,
+.css-wedding .icon-box.icon-circle .icon-block,
+.css-wedding .icon-type.it-main-color,
+.css-wedding .icon-type.it-main-color:hover,
+.css-wedding .icon-type.it-main-color:focus,
+.css-wedding .icon-type.it-main-color-reverse,
+.css-wedding .icon-type.it-main-color-reverse:hover,
+.css-wedding .icon-type.it-main-color-reverse:focus,
+.css-wedding .add-to-cart-form .count-input .count-plus:hover,
+.css-wedding .add-to-cart-form .count-input .count-minus:hover,
+.css-wedding #reviewmodal .modal-header,
+.css-wedding .job-left-title h3,
+.css-wedding .pricing-table-container.special-price-table,
+.css-wedding .clients-slick-nav .slick-custom-next:hover,
+.css-wedding .clients-slick-nav .slick-custom-prev:hover,
+.css-wedding a.add-to-wishlist.select,
+.css-wedding a.add-to-wishlist.select [class^="icon-"],
+.css-wedding .tabpanel-style-8 .nav-tabs > li.active,
+.css-wedding a.btn-default.btn-animation-icon-box,
+.css-wedding .btn-default.btn-animation-icon-box:hover,
+.css-wedding .btn-default.btn-animation-icon-box:focus,
+.css-wedding .btn-default.btn-animation-icon-box:active,
+.css-wedding .tp-caption a.btn-default.btn-animation-icon-box,
+.css-wedding .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-wedding .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-wedding .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-wedding .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-wedding .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-wedding .clients-slick-nav .slick-clients-prev:hover,
+.css-wedding .clients-slick-nav .slick-clients-next:hover,
+.css-wedding .bsp-image,
+.css-wedding .blog-list > article.default-post .blog-desc,
+.css-wedding .testimonial-single li.slick-active button::before,
+.css-wedding .slick-dots li.slick-active button:before,
+.css-wedding .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-wedding .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-wedding .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-wedding .timeline-status.timeline-active:before,
+.css-wedding .cd-horizontal-timeline .events a.older-event::after,
+.css-wedding .cd-horizontal-timeline .events a.selected::after,
+.css-wedding .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-wedding .no-touch .cd-timeline-navigation a:hover,
+.css-wedding .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-wedding .cd-timeline-navigation a:hover,
+.css-wedding .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-wedding .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-wedding .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-wedding .login-form input:focus,
+.css-wedding .pinpulse,
+.css-wedding .open > .dropdown-toggle.btn-default,
+.css-wedding .pagination > .active > a,
+.css-wedding .pagination > .active > a:focus,
+.css-wedding .pagination > .active > a:hover,
+.css-wedding .pagination > .active > span,
+.css-wedding .pagination > .active > span:focus,
+.css-wedding .pagination > .active > span:hover,
+.css-wedding .table-style-1 thead tr th,
+.css-wedding .table-style-1 tbody tr:last-child th,
+.css-wedding .table-style-1 tbody tr:last-child td,
+.css-wedding .table-withmaincolor thead tr th,
+.css-wedding .clients-title-border h3,
+.css-wedding .cd-slider-nav li:hover,
+.css-wedding .selected,
+.css-wedding .job-form input:focus,
+.css-wedding .job-form select:focus,
+.css-wedding .job-form textarea:focus,
+.css-wedding .form-contact input:focus,
+.css-wedding .form-contact select:focus,
+.css-wedding .form-contact textarea:focus,
+.css-wedding .form-contact input:focus,
+.css-wedding .icon-type-2:hover p,
+.css-wedding .icon-type-2:hover span.icon-type-2-icon,
+.css-wedding .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-wedding .activeFilter,
+.css-wedding .loader-30 > div, 
+.css-wedding .loader-31 > div, 
+.css-wedding .loader-35 > div:first-of-type, 
+.css-wedding .loader-35 > div:nth-child(2),
+.css-wedding .loader-12 > div,
+.css-wedding .loader-15 > div,
+.css-wedding .loader-21 > div, 
+.css-wedding .radio input[type=radio]:checked ~ .circle, 
+.css-wedding .gsi-step-indicator.triangle li.current>*, 
+.css-wedding .gsi-style-7.border-right li.current>*, 
+.css-wedding .gsi-style-7.border-bottom li.current>*, 
+.css-wedding .gsi-style-7.border-left li.current>*, 
+.css-wedding .flatpickr-day.today, 
+.css-wedding .flatpickr-day.today:focus, 
+.css-wedding .flatpickr-day.today:hover {
+    border-color:  #F07677;
+}
+.css-wedding .gsi-style-4 li.current>* .number:before{
+  border-left-color: #F07677;
+}
+.css-wedding .gsi-style-7.border-top li.current>*{
+  border-top-color: #F07677;
+}
+.css-wedding .tabpanel-style-4 .nav-tabs > li.active,
+.css-wedding .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-wedding .tabpanel-style-5 .nav-tabs > li.active,
+.css-wedding .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #F07677 transparent;
+}
+
+.css-wedding .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #F07677;
+}
+
+.css-wedding .icon-box-2-effect-4 .icon-block-2,
+.css-wedding .icon-box-2-effect-5 .icon-block-2,
+.css-wedding .icon-box-2-effect-5:hover .icon-block-2,
+.css-wedding .icon-box-2-effect-1 .icon-block-2:after,
+.css-wedding .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #F07677;
+}
+
+.css-wedding .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #F07677;
+}
+
+.css-wedding .empty-cart:after, .css-wedding .loader-34 > div  {
+  border-bottom-color: #F07677;
+}
+
+.css-wedding .btn-default-reverse:hover,
+.css-wedding .btn-default-reverse:focus {
+  background-color: #F07677 !important;
+  border-color: #F07677 !important;
+}
+
+.css-wedding .tp-caption .btn-default.active,
+.css-wedding .btn-default.active,
+.css-wedding .tp-caption .btn-default.focus,
+.css-wedding .btn-default.focus,
+.css-wedding .tp-caption .btn-default:active,
+.css-wedding .btn-default:active,
+.css-wedding .tp-caption .btn-default:focus,
+.css-wedding .btn-default:focus,
+.css-wedding .tp-caption .btn-default:hover,
+.css-wedding .btn-default:hover,
+.css-wedding .tp-caption .btn-white:hover,
+.css-wedding .btn-white:hover {
+  background-color: #e47273 !important;
+  border-color: #e47273 !important;
+}
+
+.css-wedding .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #F07677;
+}
+
+.css-wedding #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-wedding #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-wedding #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-wedding #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-wedding #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-wedding #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-wedding #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-wedding #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #F07677;
+}
+
+.css-wedding #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-wedding #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-wedding span.latest-post-month,
+.css-wedding .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-wedding .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #e47273;
+}
+
+.css-wedding #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-wedding #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-wedding #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-wedding #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-wedding #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-wedding #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-wedding #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-wedding #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-wedding #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-wedding #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-wedding #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-wedding #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-wedding #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-wedding #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-wedding #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-wedding #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-wedding #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-wedding #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #e47273;
+  border-color: #e47273;
+}
+
+.css-wedding #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-wedding #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #e47273;
+}
+
+.css-wedding .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-wedding .item-text-wrapper,
+.css-wedding .standard_hover .portfolio_overlay,
+.css-wedding .overlay-animation-1 .overlay_box,
+.css-wedding .overlay-animation-2 .overlay_box,
+.css-wedding .flip-hover .flip-box .content-box,
+.css-wedding .team-8 .team-image .overlay-team-box,
+.css-wedding .team-9 .team-image .overlay-team-box,
+.css-wedding .portfolio-animation-slide .sliding-content {
+  background-color: rgba(240, 118, 119, 0.9);
+}
+
+.css-wedding .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-wedding .team-2 .overlay-team-box,
+.css-wedding .team-6 .overlay-team-box,
+.css-wedding .team-7 .overlay-team-box,
+.css-wedding .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-wedding .contact-overlay-map .overlay-map-background,
+.css-wedding .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-wedding .table-style-7.table-withmaincolor tbody tr th,
+.css-wedding .table-style-2.table-withmaincolor tbody tr,
+.css-wedding .fc-bgevent,
+.css-wedding #particles-js.background-1 {
+  background-color: rgba(240, 118, 119, 0.6) !important;
+}
+
+.css-wedding .widget-dribbble-box .shots li a:hover:before, .css-wedding .dribbble-box .shots li a:hover:before,
+.css-wedding .instagram-widget a:hover:before {
+  background-color: rgba(240, 118, 119, 0.85);
+}
+
+.css-wedding .search-popup-box,
+.css-wedding .scroll-to-top-fixed {
+  background-color: rgba(240, 118, 119, 0.95);
+}
+
+.css-wedding .coming-soon-counter {
+  margin: 0 auto 50px;
+}
+
+.css-wedding .title-medium {
+  font-family: "Roboto", serif !important;
+  font-size: 5em !important;
+  line-height: 1.5 !important;
+  color: #fff;
+  text-transform: capitalize !important;
+  font-weight: 400 !important;
+}
+
+.css-wedding .background-2 .testimonial-single .slick-dots li button::before,
+.css-wedding .background-2 .slick-dots li button::before,
+.css-wedding .background-1 .testimonial-single .slick-dots li button::before,
+.css-wedding .background-1 .slick-dots li button::before,
+.css-wedding .background-3 .testimonial-single .slick-dots li button::before,
+.css-wedding .background-3 .slick-dots li button::before,
+.css-wedding .gray-background .testimonial-single .slick-dots li button::before,
+.css-wedding .gray-background-3 .slick-dots li button::before {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+.css-wedding .loader-3 {
+  border-top-color: rgba(240, 118, 119, 0.2);
+  border-right-color: rgba(240, 118, 119, 0.2);
+  border-bottom-color: rgba(240, 118, 119, 0.2);
+  border-left-color: #F07677;
+}
+
+.css-wedding #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-wedding #header.header-white .navbar-2 .search-navbar .btn-cart:hover {
+  color: rgba(255, 255, 255, 0.85) !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.css-wedding .icon-box-2-effect-4:hover .icon-block-2 span,
+.css-wedding .icon-box-2-effect-1:hover .icon-block-2 span {
+  color: #ffffff;
+}
+
+.css-wedding .transparent-background .testimonial-single .slick-dots .slick-active button:before {
+  background-color: transparent !important;
+}
+
+.css-wedding .transparent-background .testimonial-single .slick-dots button:before {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.css-wedding .background-1 .testimonial-single .slick-dots li button:before,
+.css-wedding .background-1 .slick-dots li button:before, .background-2 .testimonial-single .slick-dots li button:before, .background-2 .slick-dots li button:before,
+.css-wedding .background-3 .testimonial-single .slick-dots li button:before, .background-3 .slick-dots li button:before, .white-dots .slick-dots li button:before,
+.css-wedding .transparent-background .testimonial-single .slick-dots li button:before,
+.css-wedding .transparent-background .slick-dots li button:before {
+  background-color: #ffffff  !important;
+}
+
+.css-wedding .background-1 .testimonial-single li.slick-active button:before,
+.css-wedding .background-1 li.slick-active button:before,
+.css-wedding .background-2 .testimonial-single li.slick-active button:before,
+.css-wedding .background-2 li.slick-active button:before,
+.css-wedding .background-3 .testimonial-single li.slick-active button:before,
+.css-wedding .background-3 li.slick-active button:before,
+.css-wedding .white-dots .slick-dots li.slick-active button:before {
+  background-color: transparent !important;
+  border-color: #ffffff  !important;
+}
+
+.css-wedding .icon-box.icon-fill:hover .icon-block,
+.css-wedding .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-wedding .cart-shop-products h3, .css-wedding .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-wedding .cart-shop-products-list li .csp-price, .css-wedding .sidebar-shop-products-list li .ssp-price,
+.css-wedding .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-wedding .shop-list .shop-product .shop-star-rating li.full-star,
+.css-wedding ul.shop-star-rating li.full-star {
+  color: #22c064;
+}
+
+.css-wedding .shop-list .shop-product .shop-ribbon, .css-wedding .ui-slider-horizontal .ui-slider-range,
+.css-wedding .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-wedding .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #22c064;
+}
+.css-wedding .btn-default-reverse:hover {
+	color:#fff !important
+}
+
+.css-wedding .loader-13 > div:last-child, 
+.css-wedding .loader-15 > div:last-child {
+  border-color: #F07677 transparent;
+}
+.css-wedding .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #F07677 30%, #F07677 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #F07677 30%, #F07677 100%);
+}

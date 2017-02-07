@@ -1,0 +1,854 @@
+/* Consultants */
+body.css-consultants,
+.css-consultants p,
+.css-consultants h1,
+.css-consultants h2,
+.css-consultants h3,
+.css-consultants h4,
+.css-consultants h5,
+.css-consultants h6,
+.css-consultants .featured-content h1.small,
+.css-consultants .form-group > label,
+.css-consultants .checkbox > label,
+.css-consultants .alert > p,
+.css-consultants .block-content-wrapper h2,
+.css-consultants .intro-text h1, .intro-text h2,
+.css-consultants .intro-text h3, .intro-text h4,
+.css-consultants .intro-text h5, .intro-text h6,
+.css-consultants .restaurant-info-img-content h4,
+.css-consultants .contact-title h3 {
+  font-family: "Raleway", sans-serif;
+}
+
+.css-consultants h1, .css-consultants h2, .css-consultants h3, .css-consultants h4, .css-consultants h5, .css-consultants h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+.css-consultants .color-1 {
+  color: #51c4d4;
+}
+
+.css-consultants .background-1,
+.css-consultants .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-consultants .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-consultants .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #51c4d4 !important;
+}
+
+.css-consultants .color-2 {
+  color: #E85241;
+}
+
+.css-consultants .background-2,
+.css-consultants .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-consultants .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-consultants .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #E85241;
+}
+
+.css-consultants .color-3 {
+  color: #8b9db0;
+}
+
+.css-consultants .background-3,
+.css-consultants .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-consultants .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-consultants .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3,
+.css-consultants .blog-desc-details:after {
+  background-color: #8b9db0;
+}
+
+.css-consultants .call-to-action {
+  background-color: transparent !important;
+}
+
+.css-consultants .tp-caption .btn-default,
+.css-consultants .btn-default,
+.css-consultants .flex-control-paging li a.flex-active,
+.css-consultants .navbar-toggle,
+.css-consultants #mobile-navbar,
+.css-consultants .offscreen-container,
+.css-consultants .maincolor-background,
+.css-consultants ul.widget-ul li a > span,
+.css-consultants ul.widget-social li a:hover,
+.css-consultants #people .item .info,
+.css-consultants .main-color,
+.css-consultants .flexslider.clients .flex-control-paging li a.flex-active,
+.css-consultants #portfolio-filter li a:after,
+.css-consultants .navbar.banner--clone .nav li.active > a,
+.css-consultants .pagination-box .pager li a,
+.css-consultants .pricing-table-column.special-price-table .pricing-table-head,
+.css-consultants .pricing-table-column.special-price-table .pricing-table-content,
+.css-consultants .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-consultants .tags-cloud-list li a:hover,
+.css-consultants .progress-bar-box .progress-bar,
+.css-consultants .background-1,
+.css-consultants .selecter .selecter-item:hover,
+.css-consultants .selecter .selecter-item.selected:hover,
+.css-consultants #footer.colored,
+.css-consultants section.about-counter,
+.css-consultants .error-page-title:after,
+.css-consultants .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-consultants .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-consultants .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-consultants .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-consultants .tabpanel-style-4 .tab-content h3:after,
+.css-consultants .about-classic-column-themecolor,
+.css-consultants .selecter .selecter-item:hover,
+.css-consultants .selecter .selecter-item.selected:hover,
+.css-consultants .item-text-wrapper_overlay,
+.css-consultants .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-consultants .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-consultants .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-consultants .shop-type-2 a.add-to-cart-item,
+.css-consultants .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-consultants .navbar-2 .btn-cart .header-cart-count,
+.css-consultants .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-consultants .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-consultants .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-consultants .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-consultants .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-consultants .dropcap.dropcap-style-2,
+.css-consultants .alert-default,
+.css-consultants blockquote:before,
+.css-consultants blockquote:after,
+.css-consultants .tp-caption .btn-default,
+.css-consultants .btn-default,
+.css-consultants .content-title h5:before,
+.css-consultants .content-title h5:after,
+.css-consultants .icon-box.icon-fill .icon-block,
+.css-consultants .icon-box.icon-square:hover .icon-block,
+.css-consultants .icon-box.icon-circle:hover .icon-block,
+.css-consultants .icon-box.icon-square:hover .icon-block span,
+.css-consultants .icon-box.icon-circle:hover .icon-block span,
+.css-consultants .icon-type.it-main-color:hover,
+.css-consultants .icon-type.it-main-color:focus,
+.css-consultants .icon-type.it-main-color-reverse,
+.css-consultants .icon-type.it-main-color:hover span,
+.css-consultants .icon-type.it-main-color-reverse:hover span,
+.css-consultants .add-to-cart-form .count-input .count-plus:hover,
+.css-consultants .add-to-cart-form .count-input .count-minus:hover,
+.css-consultants .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-consultants .pricing-table-container.special-price-table,
+.css-consultants .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-consultants .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-consultants ul.forum-list li.forum-header,
+.css-consultants .textbox-withmaincolor,
+.css-consultants .background-1,
+.css-consultants .team-member-job,
+.css-consultants .team-section .team-desc-box:before,
+.css-consultants .team-section .team-desc-box:after,
+.css-consultants .shop-categories:hover .shop-title-categories,
+.css-consultants .content-divider-colored-bg [class^="icon-"],
+.css-consultants .overlay-animation-6 .content-box,
+.css-consultants .block-content-wrapper h1,
+.css-consultants .benefits-box h1,
+.css-consultants .selecter .selecter-item:hover,
+.css-consultants .selecter .selecter-item.selected:hover,
+.css-consultants .ui-slider .ui-slider-range,
+.css-consultants #header.header-main-color,
+.css-consultants .navbar-2.banner--clone.main-color-navbar,
+.css-consultants .tabpanel-style-center .nav-tabs > li.active > a,
+.css-consultants .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-consultants .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-consultants .label.label-primary,
+.css-consultants .label.label-primary,
+.css-consultants .star-rating .caption .label,
+.css-consultants .tparrows.preview5:hover,
+.css-consultants .table-style-4.table-withmaincolor thead tr th,
+.css-consultants .table-style-5.table-withmaincolor thead tr th,
+.css-consultants .table-style-6.table-withmaincolor thead tr th,
+.css-consultants .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-consultants .table-style-7.table-withmaincolor thead tr th,
+.css-consultants .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-consultants .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-consultants .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-consultants .table-style-2.table-withmaincolor thead tr th,
+.css-consultants .table-style-3.table-withmaincolor thead tr th,
+.css-consultants .table-style-3.table-withmaincolor tbody tr th,
+.css-consultants .parallax-withmaincolor,
+.css-consultants .contact-overlay-map .minimize-form:hover,
+.css-consultants .team-3:hover .team-social,
+.css-consultants .team-5:hover .team-social,
+.css-consultants .special-table-2,
+.css-consultants .special-table-3,
+.css-consultants span.pricing-3-discount,
+.css-consultants #vertical-timeline-container:before,
+.css-consultants .subscribe-fancy-themebg,
+.css-consultants .empty-cart,
+.css-consultants .team-4:hover .team-social,
+.css-consultants .content-divider-colored,
+.css-consultants .content-divider-colored-bg,
+.css-consultants .withmainbackground,
+.css-consultants .services-2-heading,
+.css-consultants .icon-box-2-effect-4 .icon-block-2,
+.css-consultants .services-2-heading,
+.css-consultants .promotion-box-theme-colored,
+.css-consultants .promotion-box-theme-colored .promotion-box-title h4,
+.css-consultants .icon-block-2,
+.css-consultants .icon-box-2-effect-2:hover .icon-block-2,
+.css-consultants .icon-box-2-effect-3 .icon-block-2:after,
+.css-consultants .icon-box-2-effect-4 .icon-block-2:after,
+.css-consultants .icon-box-2-effect-6 .icon-block-2,
+.css-consultants .icon-box-2-effect-6:hover .icon-block-2,
+.css-consultants .simple-icon-icon,
+.css-consultants a.call-to-action-link:hover,
+.css-consultants .add-to-cart-form .count-input .count-plus,
+.css-consultants .add-to-cart-form .count-input .count-minus,
+.css-consultants .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-consultants .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-consultants .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-consultants .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-consultants .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-consultants .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-consultants .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-consultants .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-consultants .special-price-box,
+.css-consultants .dropdown-menu > .active > a,
+.css-consultants .dropdown-menu > .active > a:focus,
+.css-consultants .dropdown-menu > .active > a:hover,
+.css-consultants #header.main-color-nav .navbar-2,
+.css-consultants .latest-post-data,
+.css-consultants .blog-single-post .bsp-heading h1,
+.css-consultants .testimonial-single .slick-dots li button:before,
+.css-consultants .slick-dots li button:before,
+.css-consultants .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-consultants .timeline-complete .timeline-status.timeline-active:before,
+.css-consultants .megamenu.maincolor,
+.css-consultants .dropdown.maincolor ul,
+.css-consultants .dropdown.maincolor ul.dropdown-menu,
+.css-consultants #footer.maincolor,
+.css-consultants #copyrights.maincolor,
+.css-consultants .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-consultants .cd-horizontal-timeline .events a.selected::after,
+.css-consultants .cd-horizontal-timeline .filling-line,
+.css-consultants .pinpulsebox span,
+.css-consultants .main-color-dropdown .megamenu,
+.css-consultants .main-color-dropdown .dropdown-menu,
+.css-consultants #cd-timeline::before,
+.css-consultants ul.icon-list.il-main-bg li [class^="icon-"],
+.css-consultants .process-steps ul li.current a .number,
+.css-consultants ol.ordered-list.ol-main-bg li:before,
+.css-consultants .irs-bar,
+.css-consultants .irs-from,
+.css-consultants .irs-to,
+.css-consultants .irs-single,
+.css-consultants .open > .dropdown-toggle.btn-default,
+.css-consultants .fc-unthemed .fc-today,
+.css-consultants .fc-content,
+.css-consultants #particles-js,
+.css-consultants .s-icon:hover,
+.css-consultants #progressbar li.active:before,
+.css-consultants #progressbar li.active:after,
+.css-consultants .pagination > .active > a,
+.css-consultants .pagination > .active > a:focus,
+.css-consultants .pagination > .active > a:hover,
+.css-consultants .pagination > .active > span,
+.css-consultants .pagination > .active > span:focus,
+.css-consultants .pagination > .active > span:hover,
+.css-consultants .portfolio-filter .selecter-item.activeFilter,
+.css-consultants .page-loader-spinner span,
+.css-consultants .loader-6:before,
+.css-consultants .loader-2,
+.css-consultants .loader-2:before,
+.css-consultants .loader-2:after,
+.css-consultants .loader-10 > div, 
+.css-consultants .loader-11 > div,
+.css-consultants .loader-13 > div:first-child, 
+.css-consultants .loader-14 > div, 
+.css-consultants .loader-16 > div, 
+.css-consultants .loader-17 > div, 
+.css-consultants .loader-17 > div:before, 
+.css-consultants .loader-17 > div:after, 
+.css-consultants .loader-18 > div, 
+.css-consultants .loader-19 > div, 
+.css-consultants .loader-20 > div, 
+.css-consultants .loader-22 > div, 
+.css-consultants .loader-23 > div, 
+.css-consultants .loader-24 > div, 
+.css-consultants .loader-25 > div, 
+.css-consultants .loader-26 > div, 
+.css-consultants .loader-27 > div, 
+.css-consultants .loader-28 > div, 
+.css-consultants .loader-29 > div, 
+.css-consultants .loader-32 > div, 
+.css-consultants .loader-33 > div, 
+.css-consultants .loader-35 > div:nth-child(3), 
+.css-consultants .loader-35 > div:nth-child(4), 
+.css-consultants .loader-35 > div:nth-child(5),
+.css-consultants .loader-35 > div:nth-child(6), 
+.css-consultants .loader-37 > div, 
+.css-consultants .loader-38 > div,
+.css-consultants .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-consultants .radio input[type=radio]:checked ~ .check, 
+.css-consultants .vlt-btn-group .dropdown-menu li a:hover, 
+.css-consultants .gsi-step-indicator.triangle li.current>*, 
+.css-consultants .gsi-style-4 li.current>*, 
+.css-consultants .gsi-style-5 li.current>*, 
+.css-consultants .gsi-style-6 li.current>* .number, 
+.css-consultants .gsi-style-7 li.current:hover>*, 
+.css-consultants .gsi-style-8 li.visited>*, 
+.css-consultants .gsi-style-8 li.current>*, 
+.css-consultants .gsi-style-9 li.visited>*:after, 
+.css-consultants .gsi-style-9 li.current>*:after, 
+.css-consultants .gsi-style-10 li.visited>*:after, 
+.css-consultants .gsi-style-10 li.current>*:after, 
+.css-consultants .gsi-style-11 li.current:before, 
+.css-consultants .gsi-style-11 li.current:after, 
+.css-consultants .gsi-style-11 li.visited:before, 
+.css-consultants .gsi-style-11 li.visited:after, 
+.css-consultants .gsi-style-11 li.visited>*:after, 
+.css-consultants .gsi-style-11 li.current>*:after, 
+.css-consultants .flatpickr-day.today:focus, 
+.css-consultants .flatpickr-day.today:hover {
+  background-color: #51c4d4 !important;
+}
+
+.css-consultants .header-content .phone-number span,
+.css-consultants .intro-block h6,
+.css-consultants .icon-block [class^="icon-"],
+.css-consultants ul.header-links li a:hover,
+.css-consultants .navbar.banner--clone .nav > li > a:hover,
+.css-consultants .navbar.banner--clone .btn-search:hover,
+.css-consultants .success-lg:hover [class^="icon-"],
+.css-consultants #copyrights ul li a:hover,
+.css-consultants #copyrights a:hover,
+.css-consultants .breadcrumb > .active,
+.css-consultants #portfolio-filter li a.activeFilter,
+.css-consultants #portfolio-filter li a:hover,
+.css-consultants .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-consultants a.image_zoom:hover [class^="icon-"],
+.css-consultants a.image_link:hover [class^="icon-"],
+.css-consultants a.load-more-btn:hover,
+.css-consultants a.load-more-btn:hover [class^="icon-"],
+.css-consultants .intro-block h1 [class^="icon-"],
+.css-consultants .shop-list .shop-product h4 a:hover,
+.css-consultants ul#portfolio-layout-filter li a.active,
+.css-consultants .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-consultants ul.sidebar-shop-cat > li span,
+.css-consultants .shop-price,
+.css-consultants ul.sidebar-shop-cat > li > a:hover,
+.css-consultants a.load-more-btn:hover,
+.css-consultants a.load-more-btn:hover [class^="icon-"],
+.css-consultants .intro-block h1 [class^="icon-"],
+.css-consultants .shop-list .shop-product h4 a:hover,
+.css-consultants ul#portfolio-layout-filter li a.active,
+.css-consultants .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-consultants ul.sidebar-cat > li span,
+.css-consultants .shop-price,
+.css-consultants ul.sidebar-cat > li > a:hover,
+.css-consultants ul.jobs-list li [class^="icon-"],
+.css-consultants .team-social a:hover,
+.css-consultants .icon-default,
+.css-consultants .error-page-icon span [class^="icon-"],
+.css-consultants .footer-3-container-text a:hover,
+.css-consultants .testimonials-box .testimonial-author,
+.css-consultants #page-title.image-page-title-fullwidth h1,
+.css-consultants #page-title.image-page-title-left.image-page-noimage h2,
+.css-consultants ul.services-2-icons,
+.css-consultants ul.shop-layout-filter li a.active,
+.css-consultants ul.portfolio-layout-filter li a.active,
+.css-consultants ul.porfolio-project-details-list > li .ppd-right,
+.css-consultants ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-consultants .related-projects-title .slick-custom-next:hover,
+.css-consultants .related-projects-title .slick-custom-prev:hover,
+.css-consultants .recent-post-content a:hover,
+.css-consultants .form-group.login-form-submit a,
+.css-consultants .shop-type-1 a.add-to-cart-item:before,
+.css-consultants .shop-type-2 a.add-to-cart-item:before,
+.css-consultants a.form-forgotpass,
+.css-consultants .sidebar-shop-products-list li .ssp-title:hover,
+.css-consultants .restaurant-info ul li [class^="icon-"],
+.css-consultants .navbar-default.default .btn-cart .header-cart-count,
+.css-consultants .cart-shop-products-list li .csp-title:hover,
+.css-consultants .blog-list > article .blog-desc h4 a:hover,
+.css-consultants .blog-list > article .blog-desc h4 a:focus,
+.css-consultants .blog-list-full > article .blog-desc h4 a:hover,
+.css-consultants .blog-list-full > article .blog-desc h4 a:focus,
+.css-consultants .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-consultants .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-consultants .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-consultants .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-consultants .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-consultants .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-consultants .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-consultants .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-consultants .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-consultants .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-consultants .blog-masonry > article .blog-desc h4 a:hover,
+.css-consultants .blog-masonry > article .blog-desc h4 a:focus,
+.css-consultants .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-consultants .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-consultants .comment_response .media h6 a,
+.css-consultants .comment_response .media_cloud a.reply_link,
+.css-consultants .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-consultants .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-consultants .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-consultants .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-consultants .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-consultants .dropcap.dropcap-style-1,
+.css-consultants .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-consultants .counter-box .count-icon,
+.css-consultants .counter-style-1 .counter-box h4,
+.css-consultants .icon-type,
+.css-consultants .icon-type.it-main-color,
+.css-consultants .icon-type.it-main-color-reverse:hover,
+.css-consultants .icon-type.it-main-color-reverse:focus,
+.css-consultants .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-consultants .comment_response .media h6 a,
+.css-consultants .comment_response .media_cloud a.reply_link,
+.css-consultants .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-consultants .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-consultants .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-consultants .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-consultants .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-consultants .dropcap.dropcap-style-1,
+.css-consultants .btn-default-reverse,
+.css-consultants .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-consultants .counter-box .count-icon,
+.css-consultants .counter-style-1 .counter-box h4,
+.css-consultants .icon-type,
+.css-consultants .icon-type.it-main-color,
+.css-consultants .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-consultants .icon-type.it-main-color-reverse:focus,
+.css-consultants .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-consultants .review_response .media h6 a,
+.css-consultants .review_response .media_cloud .shop-star-rating li.full-star,
+.css-consultants .rating-container .rating-stars,
+.css-consultants .form-contact small,
+.css-consultants ul.icon-list li a:hover,
+.css-consultants ul.icon-list li a:active,
+.css-consultants ul.icon-list li a:focus,
+.css-consultants .checkout-sum,
+.css-consultants .checkout-table td a:hover,
+.css-consultants .checkout-box a,
+.css-consultants .user-profile-list ul li a:hover,
+.css-consultants a.profile-active,
+.css-consultants .user-profile-content h2,
+.css-consultants .forum-content-header span a,
+.css-consultants .recent-work-content a:hover,
+.css-consultants .recent-work-image-content a:hover,
+.css-consultants .contact-overlay-map .maximize-form:hover,
+.css-consultants .hero-slier-nav-content:hover [class^="icon-"],
+.css-consultants .selected .hero-slier-nav-content [class^="icon-"],
+.css-consultants .team-social a:hover,
+.css-consultants .team-name h5 a:hover,
+.css-consultants .clients-slick-nav .slick-custom-next:hover,
+.css-consultants .clients-slick-nav .slick-custom-prev:hover,
+.css-consultants .services-pricing-icon [class^="icon-"],
+.css-consultants .brand [class^="icon-"],
+.css-consultants .content-divider-colored [class^="icon-"],
+.css-consultants .divider-content h1 span,
+.css-consultants .divider-content h2 span,
+.css-consultants .divider-content h3 span,
+.css-consultants .intro-page-content a:hover,
+.css-consultants .image-box-content a:hover,
+.css-consultants .icon-type.it-main-color [class^="icon-"],
+.css-consultants .icon-type-2:hover p,
+.css-consultants .icon-type-2:hover span.icon-type-2-icon,
+.css-consultants .heading-container .head-colored,
+.css-consultants ul.home-6-list li h4 [class^="icon-"],
+.css-consultants .icon-box-2-effect-1:hover .icon-block-2,
+.css-consultants .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-consultants .icon-box-2-effect-4:hover .icon-block-2,
+.css-consultants .icon-box-2-effect-4-reverse .icon-block-2,
+.css-consultants .icon-box-2-effect-5:hover .icon-block-2,
+.css-consultants .simple-icon-lightbg [class^="icon-"],
+.css-consultants .newsletter-signup button,
+.css-consultants a.add-to-wishlist.select,
+.css-consultants a.add-to-wishlist.select [class^="icon-"],
+.css-consultants .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-consultants .panel-body ul li a:hover,
+.css-consultants .colored,
+.css-consultants .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-consultants .tabpanel-style-6 .nav-tabs > li > a,
+.css-consultants .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-consultants .tp_caption_big span,
+.css-consultants ul.icon-box-simple li:hover a,
+.css-consultants .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-consultants .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-consultants .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-consultants .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-consultants .blockquote-author p,
+.css-consultants .testimonial-author,
+.css-consultants .latest-post-content h1 a:hover,
+.css-consultants .post-by a:hover,
+.css-consultants .latest-post-content .read-more-link,
+.css-consultants .blog-horizontal .bh-content h3 a:hover,
+.css-consultants .blog-horizontal .bh-content .bh-details a:hover,
+.css-consultants .blog-horizontal .bh-content .bh-details a:hover span,
+.css-consultants a.bsp-title:hover,
+.css-consultants .sidebar-blog-post-list li .sbp-title:hover,
+.css-consultants .navbar-nav > li.active,
+.css-consultants .navbar-nav > li.active:hover,
+.css-consultants a.idb-social:hover,
+.css-consultants a.idb-social:hover span,
+.css-consultants a.idb-price,
+.css-consultants span.pts-raised,
+.css-consultants .bsp-social a:hover,
+.css-consultants .bsp-social a [class^="icon-"]:hover,
+.css-consultants a.bsp-more:hover,
+.css-consultants .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-consultants .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-consultants .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-consultants .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-consultants .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-consultants .gallery-block .gallery-box .gallery-meta a:hover,
+.css-consultants .gallery-block .gallery-box .gallery-meta a:focus,
+.css-consultants .cd-timeline-inner-content a:hover,
+.css-consultants .testimonial-box .testimonial-author span,
+.css-consultants .fic-date a:hover,
+.css-consultants .forum-inner-content h1 a:hover,
+.css-consultants .user-profile-desc a:hover,
+.css-consultants .cd-timeline-navigation a:hover::after,
+.css-consultants .login-form .login-input-box [class^="icon-"],
+.css-consultants .icon-input-box [class^="icon-"],
+.css-consultants ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-consultants ul.bar-chart-graph li,
+.css-consultants ul.line-graph li,
+.css-consultants ul.donut-graph li,
+.css-consultants .tp-caption.Creative-SubTitle,
+.css-consultants .Creative-SubTitle,
+.css-consultants .tp-caption.vlt-hero-rotating,
+.css-consultants .pagination > li > a:focus,
+.css-consultants .pagination > li > a:hover,
+.css-consultants .pagination > li > span:focus,
+.css-consultants .pagination > li > span:hover,
+.css-consultants .pager li > a,
+.css-consultants .icon-box.icon-fill:hover .icon-block [class^="icon-"],
+.css-consultants ul.recent-post-widget .rp-post a:hover,
+.css-consultants .tp-tab.selected span.tp-tab-title span,
+.css-consultants .tp-tab.selected span.tp-tab-title,
+.css-consultants .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-consultants .tp-main-color,
+.css-consultants .loader-5,
+.css-consultants .loader-7,
+.css-consultants .loader-9,
+.css-consultants .loader-2,
+.css-consultants .loader-4,
+.css-consultants .gsi-style-9 li.visited>*, 
+.css-consultants .gsi-style-9 li.current>*,
+.css-consultants .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-consultants .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #51c4d4 !important;
+}
+
+.css-consultants .tp-caption .btn-default,
+.css-consultants .btn-default,
+.css-consultants .flex-control-paging li a.flex-active,
+.css-consultants .flexslider.clients .flex-control-paging li a.flex-active,
+.css-consultants .pagination-box .pager li a,
+.css-consultants .contact-info-3,
+.css-consultants .tags-cloud-list li a:hover,
+.css-consultants .team-social a:hover,
+.css-consultants .contact-title-one h3:after,
+.css-consultants .home-title-one h3:after,
+.css-consultants #login-form .login-input:active,
+.css-consultants #login-form .login-input:focus,
+.css-consultants .load-more-wrapper a.load-more-btn:hover,
+.css-consultants #register-form .register-input:active,
+.css-consultants #register-form .register-input:focus,
+.css-consultants .dropcap.dropcap-style-1,
+.css-consultants .dropcap.dropcap-style-2,
+.css-consultants .alert-default,
+.css-consultants blockquote,
+.css-consultants .tp-caption .btn-default,
+.css-consultants .btn-default,
+.css-consultants .btn-default-reverse,
+.css-consultants .icon-box.icon-square .icon-block,
+.css-consultants .icon-box.icon-circle .icon-block,
+.css-consultants .icon-type.it-main-color,
+.css-consultants .icon-type.it-main-color:hover,
+.css-consultants .icon-type.it-main-color:focus,
+.css-consultants .icon-type.it-main-color-reverse,
+.css-consultants .icon-type.it-main-color-reverse:hover,
+.css-consultants .icon-type.it-main-color-reverse:focus,
+.css-consultants .add-to-cart-form .count-input .count-plus:hover,
+.css-consultants .add-to-cart-form .count-input .count-minus:hover,
+.css-consultants #reviewmodal .modal-header,
+.css-consultants .job-left-title h3,
+.css-consultants .pricing-table-container.special-price-table,
+.css-consultants .clients-slick-nav .slick-custom-next:hover,
+.css-consultants .clients-slick-nav .slick-custom-prev:hover,
+.css-consultants a.add-to-wishlist.select,
+.css-consultants a.add-to-wishlist.select [class^="icon-"],
+.css-consultants .tabpanel-style-8 .nav-tabs > li.active,
+.css-consultants a.btn-default.btn-animation-icon-box,
+.css-consultants .btn-default.btn-animation-icon-box:hover,
+.css-consultants .btn-default.btn-animation-icon-box:focus,
+.css-consultants .btn-default.btn-animation-icon-box:active,
+.css-consultants .tp-caption a.btn-default.btn-animation-icon-box,
+.css-consultants .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-consultants .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-consultants .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-consultants .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-consultants .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-consultants .clients-slick-nav .slick-clients-prev:hover,
+.css-consultants .clients-slick-nav .slick-clients-next:hover,
+.css-consultants .bsp-image,
+.css-consultants .blog-list > article.default-post .blog-desc,
+.css-consultants .testimonial-single li.slick-active button::before,
+.css-consultants .slick-dots li.slick-active button:before,
+.css-consultants .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-consultants .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-consultants .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-consultants .timeline-status.timeline-active:before,
+.css-consultants .cd-horizontal-timeline .events a.older-event::after,
+.css-consultants .cd-horizontal-timeline .events a.selected::after,
+.css-consultants .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-consultants .no-touch .cd-timeline-navigation a:hover,
+.css-consultants .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-consultants .cd-timeline-navigation a:hover,
+.css-consultants .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-consultants .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-consultants .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-consultants .login-form input:focus,
+.css-consultants .pinpulse,
+.css-consultants .open > .dropdown-toggle.btn-default,
+.css-consultants .pagination > .active > a,
+.css-consultants .pagination > .active > a:focus,
+.css-consultants .pagination > .active > a:hover,
+.css-consultants .pagination > .active > span,
+.css-consultants .pagination > .active > span:focus,
+.css-consultants .pagination > .active > span:hover,
+.css-consultants .table-style-1 thead tr th,
+.css-consultants .table-style-1 tbody tr:last-child th,
+.css-consultants .table-style-1 tbody tr:last-child td,
+.css-consultants .table-withmaincolor thead tr th,
+.css-consultants .clients-title-border h3,
+.css-consultants .cd-slider-nav li:hover,
+.css-consultants .selected,
+.css-consultants .job-form input:focus,
+.css-consultants .job-form select:focus,
+.css-consultants .job-form textarea:focus,
+.css-consultants .form-contact input:focus,
+.css-consultants .form-contact select:focus,
+.css-consultants .form-contact textarea:focus,
+.css-consultants .form-contact input:focus,
+.css-consultants .icon-type-2:hover p,
+.css-consultants .icon-type-2:hover span.icon-type-2-icon,
+.css-consultants .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-consultants .activeFilter,
+.css-consultants .loader-30 > div, 
+.css-consultants .loader-31 > div, 
+.css-consultants .loader-35 > div:first-of-type, 
+.css-consultants .loader-35 > div:nth-child(2),
+.css-consultants .loader-12 > div,
+.css-consultants .loader-15 > div,
+.css-consultants .loader-21 > div,
+.css-consultants .radio input[type=radio]:checked ~ .circle, 
+.css-consultants .gsi-step-indicator.triangle li.current>*, 
+.css-consultants .gsi-style-7.border-right li.current>*, 
+.css-consultants .gsi-style-7.border-bottom li.current>*, 
+.css-consultants .gsi-style-7.border-left li.current>*, 
+.css-consultants .flatpickr-day.today, 
+.css-consultants .flatpickr-day.today:focus, 
+.css-consultants .flatpickr-day.today:hover {
+    border-color:  #51c4d4;
+}
+
+.css-consultants .tabpanel-style-4 .nav-tabs > li.active,
+.css-consultants .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-consultants .tabpanel-style-5 .nav-tabs > li.active,
+.css-consultants .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #51c4d4 transparent;
+}
+
+.css-consultants .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #51c4d4;
+}
+
+.css-consultants .icon-box-2-effect-4 .icon-block-2,
+.css-consultants .icon-box-2-effect-5 .icon-block-2,
+.css-consultants .icon-box-2-effect-5:hover .icon-block-2,
+.css-consultants .icon-box-2-effect-1 .icon-block-2:after,
+.css-consultants .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #51c4d4;
+}
+
+.css-consultants .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #51c4d4;
+}
+
+.css-consultants .empty-cart:after, .css-consultants .loader-34 > div  {
+  border-bottom-color: #51c4d4;
+}
+
+.css-consultants .btn-default-reverse:hover,
+.css-consultants .btn-default-reverse:focus {
+  background-color: #51c4d4 !important;
+  border-color: #51c4d4 !important;
+}
+
+.css-consultants .tp-caption .btn-default.active,
+.css-consultants .btn-default.active,
+.css-consultants .tp-caption .btn-default.focus,
+.css-consultants .btn-default.focus,
+.css-consultants .tp-caption .btn-default:active,
+.css-consultants .btn-default:active,
+.css-consultants .tp-caption .btn-default:focus,
+.css-consultants .btn-default:focus,
+.css-consultants .tp-caption .btn-default:hover,
+.css-consultants .btn-default:hover,
+.css-consultants .tp-caption .btn-white:hover,
+.css-consultants .btn-white:hover {
+  background-color: #45b0bf !important;
+  border-color: #45b0bf !important;
+}
+
+.css-consultants .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #51c4d4;
+}
+
+.css-consultants #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-consultants #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-consultants #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-consultants #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-consultants #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-consultants #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-consultants #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-consultants #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #51c4d4;
+}
+
+.css-consultants #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-consultants #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-consultants span.latest-post-month,
+.css-consultants .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-consultants .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #45b0bf;
+}
+.css-consultants .gsi-style-4 li.current>* .number:before{
+  border-left-color: #51c4d4;
+}
+.css-consultants .gsi-style-7.border-top li.current>*{
+  border-top-color: #51c4d4;
+}
+.css-consultants #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-consultants #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-consultants #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-consultants #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-consultants #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-consultants #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-consultants #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-consultants #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-consultants #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-consultants #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-consultants #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-consultants #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-consultants #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-consultants #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-consultants #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-consultants #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-consultants #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-consultants #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #45b0bf;
+  border-color: #45b0bf;
+}
+
+.css-consultants #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-consultants #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #45b0bf;
+}
+
+.css-consultants .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-consultants .item-text-wrapper,
+.css-consultants .standard_hover .portfolio_overlay,
+.css-consultants .overlay-animation-1 .overlay_box,
+.css-consultants .overlay-animation-2 .overlay_box,
+.css-consultants .flip-hover .flip-box .content-box,
+.css-consultants .team-8 .team-image .overlay-team-box,
+.css-consultants .team-9 .team-image .overlay-team-box,
+.css-consultants .portfolio-animation-slide .sliding-content {
+  background-color: rgba(81, 196, 212, 0.9);
+}
+
+.css-consultants .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-consultants .team-2 .overlay-team-box,
+.css-consultants .team-6 .overlay-team-box,
+.css-consultants .team-7 .overlay-team-box,
+.css-consultants .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-consultants .contact-overlay-map .overlay-map-background,
+.css-consultants .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-consultants .table-style-7.table-withmaincolor tbody tr th,
+.css-consultants .table-style-2.table-withmaincolor tbody tr,
+.css-consultants .fc-bgevent,
+.css-consultants #particles-js.background-1 {
+  background-color: rgba(81, 196, 212, 0.6) !important;
+}
+
+.css-consultants .widget-dribbble-box .shots li a:hover:before, .css-consultants .dribbble-box .shots li a:hover:before,
+.css-consultants .instagram-widget a:hover:before {
+  background-color: rgba(81, 196, 212, 0.85);
+}
+
+.css-consultants .search-popup-box,
+.css-consultants .scroll-to-top-fixed {
+  background-color: rgba(81, 196, 212, 0.95);
+}
+
+.css-consultants .background-2 .testimonial-single .slick-dots li button::before,
+.css-consultants .background-2 .slick-dots li button::before,
+.css-consultants .background-1 .testimonial-single .slick-dots li button::before,
+.css-consultants .background-1 .slick-dots li button::before,
+.css-consultants .background-3 .testimonial-single .slick-dots li button::before,
+.css-consultants .background-3 .slick-dots li button::before,
+.css-consultants .gray-background .testimonial-single .slick-dots li button::before,
+.css-consultants .gray-background-3 .slick-dots li button::before {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+.css-consultants .loader-3 {
+  border-top-color: rgba(81, 196, 212, 0.2);
+  border-right-color: rgba(81, 196, 212, 0.2);
+  border-bottom-color: rgba(81, 196, 212, 0.2);
+  border-left-color: #51c4d4;
+}
+
+.css-consultants #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-consultants #header.header-white .navbar-2 .search-navbar .btn-cart:hover {
+  color: rgba(255, 255, 255, 0.85) !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.css-consultants .icon-box-2-effect-4:hover .icon-block-2 span,
+.css-consultants .icon-box-2-effect-1:hover .icon-block-2 span {
+  color: #ffffff !important;
+}
+
+.css-consultants .transparent-background .testimonial-single .slick-dots .slick-active button:before {
+  background-color: transparent !important;
+}
+
+.css-consultants .transparent-background .testimonial-single .slick-dots button:before {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.css-consultants .icon-box.icon-fill:hover .icon-block,
+.css-consultants .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-consultants .cart-shop-products h3, .css-consultants .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-consultants .cart-shop-products-list li .csp-price, .css-consultants .sidebar-shop-products-list li .ssp-price,
+.css-consultants .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-consultants .shop-list .shop-product .shop-star-rating li.full-star,
+.css-consultants ul.shop-star-rating li.full-star {
+  color: #8b9db0;
+}
+
+.css-consultants .shop-list .shop-product .shop-ribbon, .css-consultants .ui-slider-horizontal .ui-slider-range,
+.css-consultants .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-consultants .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #8b9db0;
+}
+.css-consultants .loader-13 > div:last-child, 
+.css-consultants .loader-15 > div:last-child {
+  border-color: #51c4d4 transparent;
+}
+.css-consultants .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #51c4d4 30%, #51c4d4 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #51c4d4 30%, #51c4d4 100%);
+}

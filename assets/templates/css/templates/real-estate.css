@@ -1,0 +1,944 @@
+/* Real Estate */
+body.css-real-estate,
+.css-real-estate p,
+.css-real-estate h1,
+.css-real-estate h2,
+.css-real-estate h3,
+.css-real-estate h4,
+.css-real-estate h5,
+.css-real-estate h6,
+.css-real-estate .featured-content h1.small,
+.css-real-estate .form-group > label,
+.css-real-estate .checkbox > label,
+.css-real-estate .alert > p,
+.css-real-estate .block-content-wrapper h2,
+.css-real-estate .intro-text h1, .intro-text h2,
+.css-real-estate .intro-text h3, .intro-text h4,
+.css-real-estate .intro-text h5, .intro-text h6,
+.css-real-estate .restaurant-info-img-content h4,
+.css-real-estate .contact-title h3 {
+  font-family: "Droid Sans", sans-serif;
+}
+
+.css-real-estate h1, .css-real-estate h2, .css-real-estate h3, .css-real-estate h4, .css-real-estate h5, .css-real-estate h6 {
+  font-family: "Droid Sans", sans-serif;
+}
+
+.css-real-estate .color-1 {
+  color: #004274;
+}
+
+.css-real-estate .background-1,
+.css-real-estate .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-real-estate .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-real-estate .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #004274 !important;
+}
+
+.css-real-estate .color-2 {
+  color: #00aeef;
+}
+
+.css-real-estate .background-2,
+.css-real-estate .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-real-estate .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-real-estate .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2, .tp-box-wrap-tip {
+  background-color: #00aeef;
+}
+
+.css-real-estate .color-3 {
+  color: #FFB74D;
+}
+
+.css-real-estate .background-3,
+.css-real-estate .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-real-estate .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-real-estate .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3,
+.css-real-estate .blog-desc-details:after {
+  background-color: #FFB74D;
+}
+
+.css-real-estate .call-to-action.transparent-background {
+  background-color: transparent !important;
+}
+
+.css-real-estate .tp-caption .btn-default,
+.css-real-estate .btn-default,
+.css-real-estate .flex-control-paging li a.flex-active,
+.css-real-estate .navbar-toggle,
+.css-real-estate #mobile-navbar,
+.css-real-estate .offscreen-container,
+.css-real-estate .maincolor-background,
+.css-real-estate ul.widget-ul li a > span,
+.css-real-estate ul.widget-social li a:hover,
+.css-real-estate #people .item .info,
+.css-real-estate .main-color,
+.css-real-estate .flexslider.clients .flex-control-paging li a.flex-active,
+.css-real-estate #portfolio-filter li a:after,
+.css-real-estate .navbar.banner--clone .nav li.active > a,
+.css-real-estate .pagination-box .pager li a,
+.css-real-estate .pricing-table-column.special-price-table .pricing-table-head,
+.css-real-estate .pricing-table-column.special-price-table .pricing-table-content,
+.css-real-estate .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-real-estate .tags-cloud-list li a:hover,
+.css-real-estate .progress-bar-box .progress-bar,
+.css-real-estate .background-1,
+.css-real-estate .selecter .selecter-item:hover,
+.css-real-estate .selecter .selecter-item.selected:hover,
+.css-real-estate #footer.colored,
+.css-real-estate section.about-counter,
+.css-real-estate .error-page-title:after,
+.css-real-estate .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-real-estate .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-real-estate .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-real-estate .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-real-estate .tabpanel-style-4 .tab-content h3:after,
+.css-real-estate .about-classic-column-themecolor,
+.css-real-estate .selecter .selecter-item:hover,
+.css-real-estate .selecter .selecter-item.selected:hover,
+.css-real-estate .item-text-wrapper_overlay,
+.css-real-estate .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-real-estate .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-real-estate .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-real-estate .shop-type-2 a.add-to-cart-item,
+.css-real-estate .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-real-estate .navbar-2 .btn-cart .header-cart-count,
+.css-real-estate .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-real-estate .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-real-estate .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-real-estate .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-real-estate .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-real-estate .dropcap.dropcap-style-2,
+.css-real-estate .alert-default,
+.css-real-estate blockquote:before,
+.css-real-estate blockquote:after,
+.css-real-estate .tp-caption .btn-default,
+.css-real-estate .btn-default,
+.css-real-estate .content-title h5:before,
+.css-real-estate .content-title h5:after,
+.css-real-estate .icon-box.icon-fill .icon-block,
+.css-real-estate .icon-box.icon-square:hover .icon-block,
+.css-real-estate .icon-box.icon-circle:hover .icon-block,
+.css-real-estate .icon-box.icon-square:hover .icon-block span,
+.css-real-estate .icon-box.icon-circle:hover .icon-block span,
+.css-real-estate .icon-type.it-main-color:hover,
+.css-real-estate .icon-type.it-main-color:focus,
+.css-real-estate .icon-type.it-main-color-reverse,
+.css-real-estate .icon-type.it-main-color:hover span,
+.css-real-estate .icon-type.it-main-color-reverse:hover span,
+.css-real-estate .add-to-cart-form .count-input .count-plus:hover,
+.css-real-estate .add-to-cart-form .count-input .count-minus:hover,
+.css-real-estate .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-real-estate .pricing-table-container.special-price-table,
+.css-real-estate .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-real-estate .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-real-estate ul.forum-list li.forum-header,
+.css-real-estate .textbox-withmaincolor,
+.css-real-estate .background-1,
+.css-real-estate .team-member-job,
+.css-real-estate .team-section .team-desc-box:before,
+.css-real-estate .team-section .team-desc-box:after,
+.css-real-estate .shop-categories:hover .shop-title-categories,
+.css-real-estate .content-divider-colored-bg [class^="icon-"],
+.css-real-estate .overlay-animation-6 .content-box,
+.css-real-estate .block-content-wrapper h1,
+.css-real-estate .benefits-box h1,
+.css-real-estate .selecter .selecter-item:hover,
+.css-real-estate .selecter .selecter-item.selected:hover,
+.css-real-estate .ui-slider .ui-slider-range,
+.css-real-estate #header.header-main-color,
+.css-real-estate .navbar-2.banner--clone.main-color-navbar,
+.css-real-estate .tabpanel-style-center .nav-tabs > li.active > a,
+.css-real-estate .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-real-estate .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-real-estate .label.label-primary,
+.css-real-estate .label.label-primary,
+.css-real-estate .star-rating .caption .label,
+.css-real-estate .tparrows.preview5:hover,
+.css-real-estate .table-style-4.table-withmaincolor thead tr th,
+.css-real-estate .table-style-5.table-withmaincolor thead tr th,
+.css-real-estate .table-style-6.table-withmaincolor thead tr th,
+.css-real-estate .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-real-estate .table-style-7.table-withmaincolor thead tr th,
+.css-real-estate .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-real-estate .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-real-estate .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-real-estate .table-style-2.table-withmaincolor thead tr th,
+.css-real-estate .table-style-3.table-withmaincolor thead tr th,
+.css-real-estate .table-style-3.table-withmaincolor tbody tr th,
+.css-real-estate .parallax-withmaincolor,
+.css-real-estate .contact-overlay-map .minimize-form:hover,
+.css-real-estate .team-3:hover .team-social,
+.css-real-estate .team-5:hover .team-social,
+.css-real-estate .special-table-2,
+.css-real-estate .special-table-3,
+.css-real-estate span.pricing-3-discount,
+.css-real-estate #vertical-timeline-container:before,
+.css-real-estate .subscribe-fancy-themebg,
+.css-real-estate .empty-cart,
+.css-real-estate .team-4:hover .team-social,
+.css-real-estate .content-divider-colored,
+.css-real-estate .content-divider-colored-bg,
+.css-real-estate .withmainbackground,
+.css-real-estate .services-2-heading,
+.css-real-estate .icon-box-2-effect-4 .icon-block-2,
+.css-real-estate .services-2-heading,
+.css-real-estate .promotion-box-theme-colored,
+.css-real-estate .promotion-box-theme-colored .promotion-box-title h4,
+.css-real-estate .icon-block-2,
+.css-real-estate .icon-box-2-effect-2:hover .icon-block-2,
+.css-real-estate .icon-box-2-effect-3 .icon-block-2:after,
+.css-real-estate .icon-box-2-effect-4 .icon-block-2:after,
+.css-real-estate .icon-box-2-effect-6 .icon-block-2,
+.css-real-estate .icon-box-2-effect-6:hover .icon-block-2,
+.css-real-estate .simple-icon-icon,
+.css-real-estate a.call-to-action-link:hover,
+.css-real-estate .add-to-cart-form .count-input .count-plus,
+.css-real-estate .add-to-cart-form .count-input .count-minus,
+.css-real-estate .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-real-estate .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-real-estate .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-real-estate .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-real-estate .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-real-estate .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-real-estate .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-real-estate .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-real-estate .special-price-box,
+.css-real-estate .dropdown-menu > .active > a,
+.css-real-estate .dropdown-menu > .active > a:focus,
+.css-real-estate .dropdown-menu > .active > a:hover,
+.css-real-estate #header.main-color-nav .navbar-2,
+.css-real-estate .latest-post-data,
+.css-real-estate .blog-single-post .bsp-heading h1,
+.css-real-estate .testimonial-single .slick-dots li button:before,
+.css-real-estate .slick-dots li button:before,
+.css-real-estate .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-real-estate .timeline-complete .timeline-status.timeline-active:before,
+.css-real-estate .megamenu.maincolor,
+.css-real-estate .dropdown.maincolor ul,
+.css-real-estate .dropdown.maincolor ul.dropdown-menu,
+.css-real-estate #footer.maincolor,
+.css-real-estate #copyrights.maincolor,
+.css-real-estate .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-real-estate .cd-horizontal-timeline .events a.selected::after,
+.css-real-estate .cd-horizontal-timeline .filling-line,
+.css-real-estate .pinpulsebox span,
+.css-real-estate .main-color-dropdown .megamenu,
+.css-real-estate .main-color-dropdown .dropdown-menu,
+.css-real-estate #cd-timeline::before,
+.css-real-estate ul.icon-list.il-main-bg li [class^="icon-"],
+.css-real-estate .process-steps ul li.current a .number,
+.css-real-estate ol.ordered-list.ol-main-bg li:before,
+.css-real-estate .irs-bar,
+.css-real-estate .irs-from,
+.css-real-estate .irs-to,
+.css-real-estate .irs-single,
+.css-real-estate .open > .dropdown-toggle.btn-default,
+.css-real-estate .fc-unthemed .fc-today,
+.css-real-estate .fc-content,
+.css-real-estate #particles-js,
+.css-real-estate .call-to-action,
+.css-real-estate .s-icon:hover,
+.css-real-estate #progressbar li.active:before,
+.css-real-estate #progressbar li.active:after,
+.css-real-estate .pagination > .active > a,
+.css-real-estate .pagination > .active > a:focus,
+.css-real-estate .pagination > .active > a:hover,
+.css-real-estate .pagination > .active > span,
+.css-real-estate .pagination > .active > span:focus,
+.css-real-estate .pagination > .active > span:hover,
+.css-real-estate .portfolio-filter .selecter-item.activeFilter,
+.css-real-estate .page-loader-spinner span,
+.css-real-estate .loader-6:before,
+.css-real-estate .loader-2,
+.css-real-estate .loader-2:before,
+.css-real-estate .loader-2:after,
+.css-real-estate .loader-10 > div, 
+.css-real-estate .loader-11 > div,
+.css-real-estate .loader-13 > div:first-child, 
+.css-real-estate .loader-14 > div, 
+.css-real-estate .loader-16 > div, 
+.css-real-estate .loader-17 > div, 
+.css-real-estate .loader-17 > div:before, 
+.css-real-estate .loader-17 > div:after, 
+.css-real-estate .loader-18 > div, 
+.css-real-estate .loader-19 > div, 
+.css-real-estate .loader-20 > div, 
+.css-real-estate .loader-22 > div, 
+.css-real-estate .loader-23 > div, 
+.css-real-estate .loader-24 > div, 
+.css-real-estate .loader-25 > div, 
+.css-real-estate .loader-26 > div, 
+.css-real-estate .loader-27 > div, 
+.css-real-estate .loader-28 > div, 
+.css-real-estate .loader-29 > div, 
+.css-real-estate .loader-32 > div, 
+.css-real-estate .loader-33 > div, 
+.css-real-estate .loader-35 > div:nth-child(3), 
+.css-real-estate .loader-35 > div:nth-child(4), 
+.css-real-estate .loader-35 > div:nth-child(5),
+.css-real-estate .loader-35 > div:nth-child(6), 
+.css-real-estate .loader-37 > div, 
+.css-real-estate .loader-38 > div,
+.css-real-estate .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-real-estate .radio input[type=radio]:checked ~ .check, 
+.css-real-estate .vlt-btn-group .dropdown-menu li a:hover, 
+.css-real-estate .gsi-step-indicator.triangle li.current>*, 
+.css-real-estate .gsi-style-4 li.current>*, 
+.css-real-estate .gsi-style-5 li.current>*, 
+.css-real-estate .gsi-style-6 li.current>* .number, 
+.css-real-estate .gsi-style-7 li.current:hover>*, 
+.css-real-estate .gsi-style-8 li.visited>*, 
+.css-real-estate .gsi-style-8 li.current>*, 
+.css-real-estate .gsi-style-9 li.visited>*:after, 
+.css-real-estate .gsi-style-9 li.current>*:after, 
+.css-real-estate .gsi-style-10 li.visited>*:after, 
+.css-real-estate .gsi-style-10 li.current>*:after, 
+.css-real-estate .gsi-style-11 li.current:before, 
+.css-real-estate .gsi-style-11 li.current:after, 
+.css-real-estate .gsi-style-11 li.visited:before, 
+.css-real-estate .gsi-style-11 li.visited:after, 
+.css-real-estate .gsi-style-11 li.visited>*:after, 
+.css-real-estate .gsi-style-11 li.current>*:after, 
+.css-real-estate .flatpickr-day.today:focus, 
+.css-real-estate .flatpickr-day.today:hover  {
+  background-color: #004274 !important;
+}
+
+.css-real-estate .header-content .phone-number span,
+.css-real-estate .intro-block h6,
+.css-real-estate .icon-block [class^="icon-"],
+.css-real-estate ul.header-links li a:hover,
+.css-real-estate .navbar.banner--clone .nav > li > a:hover,
+.css-real-estate .navbar.banner--clone .btn-search:hover,
+.css-real-estate .success-lg:hover [class^="icon-"],
+.css-real-estate #copyrights ul li a:hover,
+.css-real-estate #copyrights a:hover,
+.css-real-estate .breadcrumb > .active,
+.css-real-estate #portfolio-filter li a.activeFilter,
+.css-real-estate #portfolio-filter li a:hover,
+.css-real-estate .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-real-estate a.image_zoom:hover [class^="icon-"],
+.css-real-estate a.image_link:hover [class^="icon-"],
+.css-real-estate a.load-more-btn:hover,
+.css-real-estate a.load-more-btn:hover [class^="icon-"],
+.css-real-estate .intro-block h1 [class^="icon-"],
+.css-real-estate .shop-list .shop-product h4 a:hover,
+.css-real-estate ul#portfolio-layout-filter li a.active,
+.css-real-estate .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-real-estate ul.sidebar-shop-cat > li span,
+.css-real-estate .shop-price,
+.css-real-estate ul.sidebar-shop-cat > li > a:hover,
+.css-real-estate a.load-more-btn:hover,
+.css-real-estate a.load-more-btn:hover [class^="icon-"],
+.css-real-estate .intro-block h1 [class^="icon-"],
+.css-real-estate .shop-list .shop-product h4 a:hover,
+.css-real-estate ul#portfolio-layout-filter li a.active,
+.css-real-estate .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-real-estate ul.sidebar-cat > li span,
+.css-real-estate .shop-price,
+.css-real-estate ul.sidebar-cat > li > a:hover,
+.css-real-estate ul.jobs-list li [class^="icon-"],
+.css-real-estate .team-social a:hover,
+.css-real-estate .icon-default,
+.css-real-estate .error-page-icon span [class^="icon-"],
+.css-real-estate .footer-3-container-text a:hover,
+.css-real-estate .testimonials-box .testimonial-author,
+.css-real-estate #page-title.image-page-title-fullwidth h1,
+.css-real-estate #page-title.image-page-title-left.image-page-noimage h2,
+.css-real-estate ul.services-2-icons,
+.css-real-estate ul.shop-layout-filter li a.active,
+.css-real-estate ul.portfolio-layout-filter li a.active,
+.css-real-estate ul.porfolio-project-details-list > li .ppd-right,
+.css-real-estate ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-real-estate .related-projects-title .slick-custom-next:hover,
+.css-real-estate .related-projects-title .slick-custom-prev:hover,
+.css-real-estate .recent-post-content a:hover,
+.css-real-estate .form-group.login-form-submit a,
+.css-real-estate .shop-type-1 a.add-to-cart-item:before,
+.css-real-estate .shop-type-2 a.add-to-cart-item:before,
+.css-real-estate a.form-forgotpass,
+.css-real-estate .sidebar-shop-products-list li .ssp-title:hover,
+.css-real-estate .restaurant-info ul li [class^="icon-"],
+.css-real-estate .navbar-default.default .btn-cart .header-cart-count,
+.css-real-estate .cart-shop-products-list li .csp-title:hover,
+.css-real-estate .blog-list > article .blog-desc h4 a:hover,
+.css-real-estate .blog-list > article .blog-desc h4 a:focus,
+.css-real-estate .blog-list-full > article .blog-desc h4 a:hover,
+.css-real-estate .blog-list-full > article .blog-desc h4 a:focus,
+.css-real-estate .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-real-estate .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-real-estate .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-real-estate .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-real-estate .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-real-estate .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-real-estate .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-real-estate .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-real-estate .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-real-estate .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-real-estate .blog-masonry > article .blog-desc h4 a:hover,
+.css-real-estate .blog-masonry > article .blog-desc h4 a:focus,
+.css-real-estate .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-real-estate .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-real-estate .comment_response .media h6 a,
+.css-real-estate .comment_response .media_cloud a.reply_link,
+.css-real-estate .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-real-estate .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-real-estate .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-real-estate .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-real-estate .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-real-estate .dropcap.dropcap-style-1,
+.css-real-estate .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-real-estate .counter-box .count-icon,
+.css-real-estate .counter-style-1 .counter-box h4,
+.css-real-estate .icon-type,
+.css-real-estate .icon-type.it-main-color,
+.css-real-estate .icon-type.it-main-color-reverse:hover,
+.css-real-estate .icon-type.it-main-color-reverse:focus,
+.css-real-estate .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-real-estate .comment_response .media h6 a,
+.css-real-estate .comment_response .media_cloud a.reply_link,
+.css-real-estate .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-real-estate .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-real-estate .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-real-estate .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-real-estate .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-real-estate .dropcap.dropcap-style-1,
+.css-real-estate .btn-default-reverse,
+.css-real-estate .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-real-estate .counter-box .count-icon,
+.css-real-estate .counter-style-1 .counter-box h4,
+.css-real-estate .icon-type,
+.css-real-estate .icon-type.it-main-color,
+.css-real-estate .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-real-estate .icon-type.it-main-color-reverse:focus,
+.css-real-estate .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-real-estate .review_response .media h6 a,
+.css-real-estate .review_response .media_cloud .shop-star-rating li.full-star,
+.css-real-estate .rating-container .rating-stars,
+.css-real-estate .form-contact small,
+.css-real-estate ul.icon-list li a:hover,
+.css-real-estate ul.icon-list li a:active,
+.css-real-estate ul.icon-list li a:focus,
+.css-real-estate .checkout-sum,
+.css-real-estate .checkout-table td a:hover,
+.css-real-estate .checkout-box a,
+.css-real-estate .user-profile-list ul li a:hover,
+.css-real-estate a.profile-active,
+.css-real-estate .user-profile-content h2,
+.css-real-estate .forum-content-header span a,
+.css-real-estate .recent-work-content a:hover,
+.css-real-estate .recent-work-image-content a:hover,
+.css-real-estate .contact-overlay-map .maximize-form:hover,
+.css-real-estate .hero-slier-nav-content:hover [class^="icon-"],
+.css-real-estate .selected .hero-slier-nav-content [class^="icon-"],
+.css-real-estate .team-social a:hover,
+.css-real-estate .team-name h5 a:hover,
+.css-real-estate .clients-slick-nav .slick-custom-next:hover,
+.css-real-estate .clients-slick-nav .slick-custom-prev:hover,
+.css-real-estate .services-pricing-icon [class^="icon-"],
+.css-real-estate .brand [class^="icon-"],
+.css-real-estate .content-divider-colored [class^="icon-"],
+.css-real-estate .divider-content h1 span,
+.css-real-estate .divider-content h2 span,
+.css-real-estate .divider-content h3 span,
+.css-real-estate .intro-page-content a:hover,
+.css-real-estate .image-box-content a:hover,
+.css-real-estate .icon-type.it-main-color [class^="icon-"],
+.css-real-estate .icon-type-2:hover p,
+.css-real-estate .icon-type-2:hover span.icon-type-2-icon,
+.css-real-estate .heading-container .head-colored,
+.css-real-estate ul.home-6-list li h4 [class^="icon-"],
+.css-real-estate .icon-box-2-effect-1:hover .icon-block-2,
+.css-real-estate .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-real-estate .icon-box-2-effect-4:hover .icon-block-2,
+.css-real-estate .icon-box-2-effect-4-reverse .icon-block-2,
+.css-real-estate .icon-box-2-effect-5:hover .icon-block-2,
+.css-real-estate .simple-icon-lightbg [class^="icon-"],
+.css-real-estate .newsletter-signup button,
+.css-real-estate a.add-to-wishlist.select,
+.css-real-estate a.add-to-wishlist.select [class^="icon-"],
+.css-real-estate .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-real-estate .panel-body ul li a:hover,
+.css-real-estate .colored,
+.css-real-estate .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-real-estate .tabpanel-style-6 .nav-tabs > li > a,
+.css-real-estate .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-real-estate .tp_caption_big span,
+.css-real-estate ul.icon-box-simple li:hover a,
+.css-real-estate .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-real-estate .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-real-estate .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-real-estate .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-real-estate .blockquote-author p,
+.css-real-estate .testimonial-author,
+.css-real-estate .latest-post-content h1 a:hover,
+.css-real-estate .post-by a:hover,
+.css-real-estate .latest-post-content .read-more-link,
+.css-real-estate .blog-horizontal .bh-content h3 a:hover,
+.css-real-estate .blog-horizontal .bh-content .bh-details a:hover,
+.css-real-estate .blog-horizontal .bh-content .bh-details a:hover span,
+.css-real-estate a.bsp-title:hover,
+.css-real-estate .sidebar-blog-post-list li .sbp-title:hover,
+.css-real-estate .navbar-nav > li.active,
+.css-real-estate .navbar-nav > li.active:hover,
+.css-real-estate a.idb-social:hover,
+.css-real-estate a.idb-social:hover span,
+.css-real-estate a.idb-price,
+.css-real-estate span.pts-raised,
+.css-real-estate .bsp-social a:hover,
+.css-real-estate .bsp-social a [class^="icon-"]:hover,
+.css-real-estate a.bsp-more:hover,
+.css-real-estate .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-real-estate .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-real-estate .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-real-estate .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-real-estate .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-real-estate .gallery-block .gallery-box .gallery-meta a:hover,
+.css-real-estate .gallery-block .gallery-box .gallery-meta a:focus,
+.css-real-estate .cd-timeline-inner-content a:hover,
+.css-real-estate .testimonial-box .testimonial-author span,
+.css-real-estate .fic-date a:hover,
+.css-real-estate .forum-inner-content h1 a:hover,
+.css-real-estate .user-profile-desc a:hover,
+.css-real-estate .cd-timeline-navigation a:hover::after,
+.css-real-estate .login-form .login-input-box [class^="icon-"],
+.css-real-estate .icon-input-box [class^="icon-"],
+.css-real-estate ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-real-estate ul.bar-chart-graph li,
+.css-real-estate ul.line-graph li,
+.css-real-estate ul.donut-graph li,
+.css-real-estate .tp-caption.Creative-SubTitle,
+.css-real-estate .Creative-SubTitle,
+.css-real-estate .tp-caption.vlt-hero-rotating,
+.css-real-estate .pagination > li > a:focus,
+.css-real-estate .pagination > li > a:hover,
+.css-real-estate .pagination > li > span:focus,
+.css-real-estate .pagination > li > span:hover,
+.css-real-estate .pager li > a,
+.css-real-estate .icon-box.icon-fill:hover .icon-block [class^="icon-"],
+.css-real-estate ul.recent-post-widget .rp-post a:hover,
+.css-real-estate .tp-tab.selected span.tp-tab-title span,
+.css-real-estate .tp-tab.selected span.tp-tab-title,
+.css-real-estate .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-real-estate .tp-main-color,
+.css-real-estate .loader-5,
+.css-real-estate .loader-7,
+.css-real-estate .loader-9,
+.css-real-estate .loader-2,
+.css-real-estate .loader-4,
+.css-real-estate .gsi-style-9 li.visited>*, 
+.css-real-estate .gsi-style-9 li.current>*,
+.css-real-estate .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-real-estate .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #004274 !important;
+}
+
+.css-real-estate .tp-caption .btn-default,
+.css-real-estate .btn-default,
+.css-real-estate .flex-control-paging li a.flex-active,
+.css-real-estate .flexslider.clients .flex-control-paging li a.flex-active,
+.css-real-estate .pagination-box .pager li a,
+.css-real-estate .contact-info-3,
+.css-real-estate .tags-cloud-list li a:hover,
+.css-real-estate .team-social a:hover,
+.css-real-estate .contact-title-one h3:after,
+.css-real-estate .home-title-one h3:after,
+.css-real-estate #login-form .login-input:active,
+.css-real-estate #login-form .login-input:focus,
+.css-real-estate .load-more-wrapper a.load-more-btn:hover,
+.css-real-estate #register-form .register-input:active,
+.css-real-estate #register-form .register-input:focus,
+.css-real-estate .dropcap.dropcap-style-1,
+.css-real-estate .dropcap.dropcap-style-2,
+.css-real-estate .alert-default,
+.css-real-estate blockquote,
+.css-real-estate .tp-caption .btn-default,
+.css-real-estate .btn-default,
+.css-real-estate .btn-default-reverse,
+.css-real-estate .icon-box.icon-square .icon-block,
+.css-real-estate .icon-box.icon-circle .icon-block,
+.css-real-estate .icon-type.it-main-color,
+.css-real-estate .icon-type.it-main-color:hover,
+.css-real-estate .icon-type.it-main-color:focus,
+.css-real-estate .icon-type.it-main-color-reverse,
+.css-real-estate .icon-type.it-main-color-reverse:hover,
+.css-real-estate .icon-type.it-main-color-reverse:focus,
+.css-real-estate .add-to-cart-form .count-input .count-plus:hover,
+.css-real-estate .add-to-cart-form .count-input .count-minus:hover,
+.css-real-estate #reviewmodal .modal-header,
+.css-real-estate .job-left-title h3,
+.css-real-estate .pricing-table-container.special-price-table,
+.css-real-estate .clients-slick-nav .slick-custom-next:hover,
+.css-real-estate .clients-slick-nav .slick-custom-prev:hover,
+.css-real-estate a.add-to-wishlist.select,
+.css-real-estate a.add-to-wishlist.select [class^="icon-"],
+.css-real-estate .tabpanel-style-8 .nav-tabs > li.active,
+.css-real-estate a.btn-default.btn-animation-icon-box,
+.css-real-estate .btn-default.btn-animation-icon-box:hover,
+.css-real-estate .btn-default.btn-animation-icon-box:focus,
+.css-real-estate .btn-default.btn-animation-icon-box:active,
+.css-real-estate .tp-caption a.btn-default.btn-animation-icon-box,
+.css-real-estate .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-real-estate .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-real-estate .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-real-estate .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-real-estate .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-real-estate .clients-slick-nav .slick-clients-prev:hover,
+.css-real-estate .clients-slick-nav .slick-clients-next:hover,
+.css-real-estate .bsp-image,
+.css-real-estate .blog-list > article.default-post .blog-desc,
+.css-real-estate .testimonial-single li.slick-active button::before,
+.css-real-estate .slick-dots li.slick-active button:before,
+.css-real-estate .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-real-estate .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-real-estate .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-real-estate .timeline-status.timeline-active:before,
+.css-real-estate .cd-horizontal-timeline .events a.older-event::after,
+.css-real-estate .cd-horizontal-timeline .events a.selected::after,
+.css-real-estate .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-real-estate .no-touch .cd-timeline-navigation a:hover,
+.css-real-estate .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-real-estate .cd-timeline-navigation a:hover,
+.css-real-estate .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-real-estate .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-real-estate .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-real-estate .login-form input:focus,
+.css-real-estate .pinpulse,
+.css-real-estate .open > .dropdown-toggle.btn-default,
+.css-real-estate .pagination > .active > a,
+.css-real-estate .pagination > .active > a:focus,
+.css-real-estate .pagination > .active > a:hover,
+.css-real-estate .pagination > .active > span,
+.css-real-estate .pagination > .active > span:focus,
+.css-real-estate .pagination > .active > span:hover,
+.css-real-estate .table-style-1 thead tr th,
+.css-real-estate .table-style-1 tbody tr:last-child th,
+.css-real-estate .table-style-1 tbody tr:last-child td,
+.css-real-estate .table-withmaincolor thead tr th,
+.css-real-estate .clients-title-border h3,
+.css-real-estate .cd-slider-nav li:hover,
+.css-real-estate .selected,
+.css-real-estate .job-form input:focus,
+.css-real-estate .job-form select:focus,
+.css-real-estate .job-form textarea:focus,
+.css-real-estate .form-contact input:focus,
+.css-real-estate .form-contact select:focus,
+.css-real-estate .form-contact textarea:focus,
+.css-real-estate .form-contact input:focus,
+.css-real-estate .icon-type-2:hover p,
+.css-real-estate .icon-type-2:hover span.icon-type-2-icon,
+.css-real-estate .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-real-estate .activeFilter,
+.css-real-estate .loader-30 > div, 
+.css-real-estate .loader-31 > div, 
+.css-real-estate .loader-35 > div:first-of-type, 
+.css-real-estate .loader-35 > div:nth-child(2),
+.css-real-estate .loader-12 > div,
+.css-real-estate .loader-15 > div,
+.css-real-estate .loader-21 > div,
+.css-real-estate .radio input[type=radio]:checked ~ .circle, 
+.css-real-estate .gsi-step-indicator.triangle li.current>*, 
+.css-real-estate .gsi-style-7.border-right li.current>*, 
+.css-real-estate .gsi-style-7.border-bottom li.current>*, 
+.css-real-estate .gsi-style-7.border-left li.current>*, 
+.css-real-estate .flatpickr-day.today, 
+.css-real-estate .flatpickr-day.today:focus, 
+.css-real-estate .flatpickr-day.today:hover {
+    border-color:  #004274;
+}
+.css-real-estate .gsi-style-4 li.current>* .number:before{
+  border-left-color: #004274;
+}
+.css-real-estate .gsi-style-7.border-top li.current>*{
+  border-top-color: #004274;
+}
+.css-real-estate .tabpanel-style-4 .nav-tabs > li.active,
+.css-real-estate .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-real-estate .tabpanel-style-5 .nav-tabs > li.active,
+.css-real-estate .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #004274 transparent;
+}
+
+.css-real-estate .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #004274;
+}
+
+.css-real-estate .icon-box-2-effect-4 .icon-block-2,
+.css-real-estate .icon-box-2-effect-5 .icon-block-2,
+.css-real-estate .icon-box-2-effect-5:hover .icon-block-2,
+.css-real-estate .icon-box-2-effect-1 .icon-block-2:after,
+.css-real-estate .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #004274;
+}
+
+.css-real-estate .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #004274;
+}
+
+.css-real-estate .empty-cart:after, .css-real-estate .loader-34 > div  {
+  border-bottom-color: #004274;
+}
+
+.css-real-estate .btn-default-reverse:hover,
+.css-real-estate .btn-default-reverse:focus {
+  background-color: #004274 !important;
+  border-color: #004274 !important;
+}
+
+.css-real-estate .tp-caption .btn-default.active,
+.css-real-estate .btn-default.active,
+.css-real-estate .tp-caption .btn-default.focus,
+.css-real-estate .btn-default.focus,
+.css-real-estate .tp-caption .btn-default:active,
+.css-real-estate .btn-default:active,
+.css-real-estate .tp-caption .btn-default:focus,
+.css-real-estate .btn-default:focus,
+.css-real-estate .tp-caption .btn-default:hover,
+.css-real-estate .btn-default:hover,
+.css-real-estate .tp-caption .btn-white:hover,
+.css-real-estate .btn-white:hover {
+  background-color: #003863 !important;
+  border-color: #003863 !important;
+}
+
+.css-real-estate .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #004274;
+}
+
+.css-real-estate #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-real-estate #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-real-estate #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-real-estate #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-real-estate #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-real-estate #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-real-estate #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-real-estate #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #004274;
+}
+
+.css-real-estate #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-real-estate #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-real-estate span.latest-post-month,
+.css-real-estate .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-real-estate .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #003863;
+}
+
+.css-real-estate #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-real-estate #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-real-estate #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-real-estate #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-real-estate #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-real-estate #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-real-estate #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-real-estate #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-real-estate #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-real-estate #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-real-estate #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-real-estate #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-real-estate #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-real-estate #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-real-estate #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-real-estate #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-real-estate #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-real-estate #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #003863;
+  border-color: #003863;
+}
+
+.css-real-estate #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-real-estate #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #003863;
+}
+
+.css-real-estate .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-real-estate .item-text-wrapper,
+.css-real-estate .standard_hover .portfolio_overlay,
+.css-real-estate .overlay-animation-1 .overlay_box,
+.css-real-estate .overlay-animation-2 .overlay_box,
+.css-real-estate .flip-hover .flip-box .content-box,
+.css-real-estate .team-8 .team-image .overlay-team-box,
+.css-real-estate .team-9 .team-image .overlay-team-box,
+.css-real-estate .portfolio-animation-slide .sliding-content {
+  background-color: rgba(236, 137, 77, 0.9);
+}
+
+.css-real-estate .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-real-estate .team-2 .overlay-team-box,
+.css-real-estate .team-6 .overlay-team-box,
+.css-real-estate .team-7 .overlay-team-box,
+.css-real-estate .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-real-estate .contact-overlay-map .overlay-map-background,
+.css-real-estate .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-real-estate .table-style-7.table-withmaincolor tbody tr th,
+.css-real-estate .table-style-2.table-withmaincolor tbody tr,
+.css-real-estate .fc-bgevent,
+.css-real-estate #particles-js.background-1 {
+  background-color: rgba(236, 137, 77, 0.6) !important;
+}
+
+.css-real-estate .widget-dribbble-box .shots li a:hover:before, .dribbble-box .shots li a:hover:before,
+.css-real-estate .instagram-widget a:hover:before {
+  background-color: rgba(236, 137, 77, 0.85);
+}
+
+.css-real-estate .search-popup-box,
+.css-real-estate .scroll-to-top-fixed {
+  background-color: rgba(236, 137, 77, 0.95);
+}
+
+.css-real-estate .title-medium {
+  font-family: "Droid Serif", serif !important;
+  font-size: 5em !important;
+  line-height: 1.5 !important;
+  color: #fff;
+  text-transform: capitalize !important;
+  font-weight: 700 !important;
+}
+
+.css-real-estate .title-medium .tp-splitted.tp-linesplit {
+  text-transform: uppercase !important;
+}
+
+.css-real-estate .form-contact input {
+  padding-bottom: 12px;
+}
+
+.css-real-estate .form-contact .full-height-box .btn.btn-block {
+  top: 0px;
+}
+
+.css-real-estate .form-tab-title {
+  background: #004274;
+  float: left;
+  padding: 10px 20px;
+  position: absolute;
+  top: -40.5%;
+}
+
+.css-real-estate .form-tab-title h1 {
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.css-real-estate . .form-tab-title {
+  top: -72.5%;
+}
+
+.css-real-estate .vertical-align-content .separator {
+  margin: 10px 0px 50px 0px !important;
+}
+
+.css-real-estate .background-1 .testimonial-single .slick-dots li button:before,
+.css-real-estate .background-1 .slick-dots li button:before,
+.css-real-estate .background-2 .testimonial-single .slick-dots li button:before,
+.css-real-estate .background-2 .slick-dots li button:before,
+.css-real-estate .background-3 .testimonial-single .slick-dots li button:before,
+.css-real-estate .background-3 .slick-dots li button:before,
+.css-real-estate .white-dots .slick-dots li button:before,
+.css-real-estate .transparent-background .testimonial-single .slick-dots li button:before,
+.css-real-estate .transparent-background .slick-dots li button:before {
+  background-color: #ffffff !important;
+  webkit-transition: all 0.35s ease-out;
+  -moz-transition: all 0.35s ease-out;
+  -o-transition: all 0.35s ease-out;
+  -ms-transition: all 0.35s ease-out;
+  transition: all 0.35s ease-out;
+}
+
+.css-real-estate .background-1 .testimonial-single li.slick-active button:before,
+.css-real-estate .background-1 li.slick-active button:before,
+.css-real-estate .background-2 .testimonial-single li.slick-active button:before,
+.css-real-estate .background-2 li.slick-active button:before,
+.css-real-estate .background-3 .testimonial-single li.slick-active button:before,
+.css-real-estate .background-3 li.slick-active button:before,
+.css-real-estate .white-dots .slick-dots li.slick-active button:before {
+  background-color: transparent !important;
+  border-color: #ffffff !important;
+}
+
+.css-real-estate .gray-background .testimonial-single .slick-dots li button:before,
+.css-real-estate .gray-background .slick-dots li button:before {
+  background-color: #777 !important;
+  webkit-transition: all 0.35s ease-out;
+  -moz-transition: all 0.35s ease-out;
+  -o-transition: all 0.35s ease-out;
+  -ms-transition: all 0.35s ease-out;
+  transition: all 0.35s ease-out;
+}
+
+.css-real-estate .gray-background .testimonial-single li.slick-active button:before,
+.css-real-estate .gray-background li.slick-active button:before {
+  background-color: transparent !important;
+  border-color: #777 !important;
+}
+
+.css-real-estate .transparent-background .testimonial-single li.slick-active button:before,
+.css-real-estate .transparent-background li.slick-active button:before {
+  background-color: transparent !important;
+  border-color: #ffffff !important;
+}
+
+.css-real-estate .background-2 .testimonial-single .slick-dots li button::before,
+.css-real-estate .background-2 .slick-dots li button::before,
+.css-real-estate .background-1 .testimonial-single .slick-dots li button::before,
+.css-real-estate .background-1 .slick-dots li button::before,
+.css-real-estate .background-3 .testimonial-single .slick-dots li button::before,
+.css-real-estate .background-3 .slick-dots li button::before,
+.css-real-estate .gray-background .testimonial-single .slick-dots li button::before,
+.css-real-estate .gray-background-3 .slick-dots li button::before {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+.css-real-estate .loader-3 {
+  border-top-color: rgba(236, 137, 77, 0.2);
+  border-right-color: rgba(236, 137, 77, 0.2);
+  border-bottom-color: rgba(236, 137, 77, 0.2);
+  border-left-color: #004274;
+}
+
+.css-real-estate .icon-box-2-effect-4:hover .icon-block-2 span,
+.css-real-estate .icon-box-2-effect-1:hover .icon-block-2 span {
+  color: #ffffff;
+}
+
+.css-real-estate .transparent-background .testimonial-single .slick-dots .slick-active button:before {
+  background-color: transparent !important;
+}
+
+.css-real-estate .transparent-background .testimonial-single .slick-dots button:before {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.css-real-estate .icon-box.icon-fill:hover .icon-block,
+.css-real-estate .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-real-estate .cart-shop-products h3, .css-real-estate .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-real-estate .cart-shop-products-list li .csp-price, .css-real-estate .sidebar-shop-products-list li .ssp-price,
+.css-real-estate .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-real-estate .shop-list .shop-product .shop-star-rating li.full-star,
+.css-real-estate ul.shop-star-rating li.full-star {
+  color: #22c064;
+}
+
+.css-real-estate .shop-list .shop-product .shop-ribbon, .css-real-estate .ui-slider-horizontal .ui-slider-range,
+.css-real-estate .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-real-estate .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #22c064;
+}
+.css-real-estate .loader-13 > div:last-child, 
+.css-real-estate .loader-15 > div:last-child {
+  border-color: #004274 transparent;
+}
+.css-real-estate .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #004274 30%, #004274 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #004274 30%, #004274 100%);
+}

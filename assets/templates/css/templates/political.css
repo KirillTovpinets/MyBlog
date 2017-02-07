@@ -1,0 +1,871 @@
+/* Political */
+body.css-political,
+.css-political p,
+.css-political h1,
+.css-political h2,
+.css-political h3,
+.css-political h4,
+.css-political h5,
+.css-political h6,
+.css-political .featured-content h1.small,
+.css-political .form-group > label,
+.css-political .checkbox > label,
+.css-political .alert > p,
+.css-political .block-content-wrapper h2,
+.css-political .intro-text h1, .intro-text h2,
+.css-political .intro-text h3, .intro-text h4,
+.css-political .intro-text h5, .intro-text h6,
+.css-political .restaurant-info-img-content h4,
+.css-political .contact-title h3 {
+  font-family: "Raleway", sans-serif;
+}
+
+.css-political h1, .css-political h2, .css-political h3, .css-political h4, .css-political h5, .css-political h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+.css-political .color-1 {
+  color: #B71234;
+}
+
+.css-political .background-1,
+.css-political .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-political .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-political .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #B71234 !important;
+}
+
+.css-political .color-2 {
+  color: #00497a;
+}
+
+.css-political .background-2,
+.css-political .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-political .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-political .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #00497a;
+}
+
+.css-political .color-3 {
+  color: #b07b45;
+}
+
+.css-political .background-3,
+.css-political .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-political .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-political .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3,
+.css-political .blog-desc-details:after {
+  background-color: #b07b45;
+}
+
+.css-political .call-to-action {
+  background-color: transparent !important;
+}
+
+.css-political .tp-caption .btn-default,
+.css-political .btn-default,
+.css-political .flex-control-paging li a.flex-active,
+.css-political .navbar-toggle,
+.css-political #mobile-navbar,
+.css-political .offscreen-container,
+.css-political .maincolor-background,
+.css-political ul.widget-ul li a > span,
+.css-political ul.widget-social li a:hover,
+.css-political #people .item .info,
+.css-political .main-color,
+.css-political .flexslider.clients .flex-control-paging li a.flex-active,
+.css-political #portfolio-filter li a:after,
+.css-political .navbar.banner--clone .nav li.active > a,
+.css-political .pagination-box .pager li a,
+.css-political .pricing-table-column.special-price-table .pricing-table-head,
+.css-political .pricing-table-column.special-price-table .pricing-table-content,
+.css-political .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-political .tags-cloud-list li a:hover,
+.css-political .progress-bar-box .progress-bar,
+.css-political .background-1,
+.css-political .selecter .selecter-item:hover,
+.css-political .selecter .selecter-item.selected:hover,
+.css-political #footer.colored,
+.css-political section.about-counter,
+.css-political .error-page-title:after,
+.css-political .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-political .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-political .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-political .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-political .tabpanel-style-4 .tab-content h3:after,
+.css-political .about-classic-column-themecolor,
+.css-political .selecter .selecter-item:hover,
+.css-political .selecter .selecter-item.selected:hover,
+.css-political .item-text-wrapper_overlay,
+.css-political .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-political .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-political .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-political .shop-type-2 a.add-to-cart-item,
+.css-political .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-political .navbar-2 .btn-cart .header-cart-count,
+.css-political .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-political .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-political .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-political .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-political .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-political .dropcap.dropcap-style-2,
+.css-political .alert-default,
+.css-political blockquote:before,
+.css-political blockquote:after,
+.css-political .tp-caption .btn-default,
+.css-political .btn-default,
+.css-political .content-title h5:before,
+.css-political .content-title h5:after,
+.css-political .icon-box.icon-fill .icon-block,
+.css-political .icon-box.icon-square:hover .icon-block,
+.css-political .icon-box.icon-circle:hover .icon-block,
+.css-political .icon-box.icon-square:hover .icon-block span,
+.css-political .icon-box.icon-circle:hover .icon-block span,
+.css-political .icon-type.it-main-color:hover,
+.css-political .icon-type.it-main-color:focus,
+.css-political .icon-type.it-main-color-reverse,
+.css-political .icon-type.it-main-color:hover span,
+.css-political .icon-type.it-main-color-reverse:hover span,
+.css-political .add-to-cart-form .count-input .count-plus:hover,
+.css-political .add-to-cart-form .count-input .count-minus:hover,
+.css-political .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-political .pricing-table-container.special-price-table,
+.css-political .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-political .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-political ul.forum-list li.forum-header,
+.css-political .textbox-withmaincolor,
+.css-political .background-1,
+.css-political .team-member-job,
+.css-political .team-section .team-desc-box:before,
+.css-political .team-section .team-desc-box:after,
+.css-political .shop-categories:hover .shop-title-categories,
+.css-political .content-divider-colored-bg [class^="icon-"],
+.css-political .overlay-animation-6 .content-box,
+.css-political .block-content-wrapper h1,
+.css-political .benefits-box h1,
+.css-political .selecter .selecter-item:hover,
+.css-political .selecter .selecter-item.selected:hover,
+.css-political .ui-slider .ui-slider-range,
+.css-political #header.header-main-color,
+.css-political .navbar-2.banner--clone.main-color-navbar,
+.css-political .tabpanel-style-center .nav-tabs > li.active > a,
+.css-political .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-political .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-political .label.label-primary,
+.css-political .label.label-primary,
+.css-political .star-rating .caption .label,
+.css-political .tparrows.preview5:hover,
+.css-political .table-style-4.table-withmaincolor thead tr th,
+.css-political .table-style-5.table-withmaincolor thead tr th,
+.css-political .table-style-6.table-withmaincolor thead tr th,
+.css-political .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-political .table-style-7.table-withmaincolor thead tr th,
+.css-political .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-political .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-political .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-political .table-style-2.table-withmaincolor thead tr th,
+.css-political .table-style-3.table-withmaincolor thead tr th,
+.css-political .table-style-3.table-withmaincolor tbody tr th,
+.css-political .parallax-withmaincolor,
+.css-political .contact-overlay-map .minimize-form:hover,
+.css-political .team-3:hover .team-social,
+.css-political .team-5:hover .team-social,
+.css-political .special-table-2,
+.css-political .special-table-3,
+.css-political span.pricing-3-discount,
+.css-political #vertical-timeline-container:before,
+.css-political .subscribe-fancy-themebg,
+.css-political .empty-cart,
+.css-political .team-4:hover .team-social,
+.css-political .content-divider-colored,
+.css-political .content-divider-colored-bg,
+.css-political .withmainbackground,
+.css-political .services-2-heading,
+.css-political .icon-box-2-effect-4 .icon-block-2,
+.css-political .services-2-heading,
+.css-political .promotion-box-theme-colored,
+.css-political .promotion-box-theme-colored .promotion-box-title h4,
+.css-political .icon-block-2,
+.css-political .icon-box-2-effect-2:hover .icon-block-2,
+.css-political .icon-box-2-effect-3 .icon-block-2:after,
+.css-political .icon-box-2-effect-4 .icon-block-2:after,
+.css-political .icon-box-2-effect-6 .icon-block-2,
+.css-political .icon-box-2-effect-6:hover .icon-block-2,
+.css-political .simple-icon-icon,
+.css-political a.call-to-action-link:hover,
+.css-political .add-to-cart-form .count-input .count-plus,
+.css-political .add-to-cart-form .count-input .count-minus,
+.css-political .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-political .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-political .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-political .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-political .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-political .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-political .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-political .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-political .special-price-box,
+.css-political .dropdown-menu > .active > a,
+.css-political .dropdown-menu > .active > a:focus,
+.css-political .dropdown-menu > .active > a:hover,
+.css-political .header.main-color-nav .navbar-2,
+.css-political .latest-post-data,
+.css-political .blog-single-post .bsp-heading h1,
+.css-political .testimonial-single .slick-dots li button:before,
+.css-political .slick-dots li button:before,
+.css-political .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-political .timeline-complete .timeline-status.timeline-active:before,
+.css-political .megamenu.maincolor,
+.css-political .dropdown.maincolor ul,
+.css-political .dropdown.maincolor ul.dropdown-menu,
+.css-political #footer.maincolor,
+.css-political #copyrights.maincolor,
+.css-political .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-political .cd-horizontal-timeline .events a.selected::after,
+.css-political .cd-horizontal-timeline .filling-line,
+.css-political .pinpulsebox span,
+.css-political .main-color-dropdown .megamenu,
+.css-political .main-color-dropdown .dropdown-menu,
+.css-political #cd-timeline::before,
+.css-political ul.icon-list.il-main-bg li [class^="icon-"],
+.css-political .process-steps ul li.current a .number,
+.css-political ol.ordered-list.ol-main-bg li:before,
+.css-political .irs-bar,
+.css-political .irs-from,
+.css-political .irs-to,
+.css-political .irs-single,
+.css-political .open > .dropdown-toggle.btn-default,
+.css-political .fc-unthemed .fc-today,
+.css-political .fc-content,
+.css-political #particles-js,
+.css-political .s-icon:hover,
+.css-political #progressbar li.active:before,
+.css-political #progressbar li.active:after,
+.css-political .pagination > .active > a,
+.css-political .pagination > .active > a:focus,
+.css-political .pagination > .active > a:hover,
+.css-political .pagination > .active > span,
+.css-political .pagination > .active > span:focus,
+.css-political .pagination > .active > span:hover,
+.css-political .portfolio-filter .selecter-item.activeFilter,
+.css-political .page-loader-spinner span,
+.css-political .loader-6:before,
+.css-political .loader-2,
+.css-political .loader-2:before,
+.css-political .loader-2:after,
+.css-political .loader-10 > div, 
+.css-political .loader-11 > div,
+.css-political .loader-13 > div:first-child, 
+.css-political .loader-14 > div, 
+.css-political .loader-16 > div, 
+.css-political .loader-17 > div, 
+.css-political .loader-17 > div:before, 
+.css-political .loader-17 > div:after, 
+.css-political .loader-18 > div, 
+.css-political .loader-19 > div, 
+.css-political .loader-20 > div, 
+.css-political .loader-22 > div, 
+.css-political .loader-23 > div, 
+.css-political .loader-24 > div, 
+.css-political .loader-25 > div, 
+.css-political .loader-26 > div, 
+.css-political .loader-27 > div, 
+.css-political .loader-28 > div, 
+.css-political .loader-29 > div, 
+.css-political .loader-32 > div, 
+.css-political .loader-33 > div, 
+.css-political .loader-35 > div:nth-child(3), 
+.css-political .loader-35 > div:nth-child(4), 
+.css-political .loader-35 > div:nth-child(5),
+.css-political .loader-35 > div:nth-child(6), 
+.css-political .loader-37 > div, 
+.css-political .loader-38 > div,
+.css-political .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-political .radio input[type=radio]:checked ~ .check, 
+.css-political .vlt-btn-group .dropdown-menu li a:hover, 
+.css-political .gsi-step-indicator.triangle li.current>*, 
+.css-political .gsi-style-4 li.current>*, 
+.css-political .gsi-style-5 li.current>*, 
+.css-political .gsi-style-6 li.current>* .number, 
+.css-political .gsi-style-7 li.current:hover>*, 
+.css-political .gsi-style-8 li.visited>*, 
+.css-political .gsi-style-8 li.current>*, 
+.css-political .gsi-style-9 li.visited>*:after, 
+.css-political .gsi-style-9 li.current>*:after, 
+.css-political .gsi-style-10 li.visited>*:after, 
+.css-political .gsi-style-10 li.current>*:after, 
+.css-political .gsi-style-11 li.current:before, 
+.css-political .gsi-style-11 li.current:after, 
+.css-political .gsi-style-11 li.visited:before, 
+.css-political .gsi-style-11 li.visited:after, 
+.css-political .gsi-style-11 li.visited>*:after, 
+.css-political .gsi-style-11 li.current>*:after, 
+.css-political .flatpickr-day.today:focus, 
+.css-political .flatpickr-day.today:hover {
+  background-color: #B71234 !important;
+}
+
+.css-political .header-content .phone-number span,
+.css-political .intro-block h6,
+.css-political .icon-block [class^="icon-"],
+.css-political ul.header-links li a:hover,
+.css-political .navbar.banner--clone .nav > li > a:hover,
+.css-political .navbar.banner--clone .btn-search:hover,
+.css-political .success-lg:hover [class^="icon-"],
+.css-political #copyrights ul li a:hover,
+.css-political #copyrights a:hover,
+.css-political .breadcrumb > .active,
+.css-political #portfolio-filter li a.activeFilter,
+.css-political #portfolio-filter li a:hover,
+.css-political .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-political a.image_zoom:hover [class^="icon-"],
+.css-political a.image_link:hover [class^="icon-"],
+.css-political a.load-more-btn:hover,
+.css-political a.load-more-btn:hover [class^="icon-"],
+.css-political .intro-block h1 [class^="icon-"],
+.css-political .shop-list .shop-product h4 a:hover,
+.css-political ul#portfolio-layout-filter li a.active,
+.css-political .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-political ul.sidebar-shop-cat > li span,
+.css-political .shop-price,
+.css-political ul.sidebar-shop-cat > li > a:hover,
+.css-political a.load-more-btn:hover,
+.css-political a.load-more-btn:hover [class^="icon-"],
+.css-political .intro-block h1 [class^="icon-"],
+.css-political .shop-list .shop-product h4 a:hover,
+.css-political ul#portfolio-layout-filter li a.active,
+.css-political .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-political ul.sidebar-cat > li span,
+.css-political .shop-price,
+.css-political ul.sidebar-cat > li > a:hover,
+.css-political ul.jobs-list li [class^="icon-"],
+.css-political .team-social a:hover,
+.css-political .icon-default,
+.css-political .error-page-icon span [class^="icon-"],
+.css-political .footer-3-container-text a:hover,
+.css-political .testimonials-box .testimonial-author,
+.css-political #page-title.image-page-title-fullwidth h1,
+.css-political #page-title.image-page-title-left.image-page-noimage h2,
+.css-political ul.services-2-icons,
+.css-political ul.shop-layout-filter li a.active,
+.css-political ul.portfolio-layout-filter li a.active,
+.css-political ul.porfolio-project-details-list > li .ppd-right,
+.css-political ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-political .related-projects-title .slick-custom-next:hover,
+.css-political .related-projects-title .slick-custom-prev:hover,
+.css-political .recent-post-content a:hover,
+.css-political .form-group.login-form-submit a,
+.css-political .shop-type-1 a.add-to-cart-item:before,
+.css-political .shop-type-2 a.add-to-cart-item:before,
+.css-political a.form-forgotpass,
+.css-political .sidebar-shop-products-list li .ssp-title:hover,
+.css-political .restaurant-info ul li [class^="icon-"],
+.css-political .navbar-default.default .btn-cart .header-cart-count,
+.css-political .cart-shop-products-list li .csp-title:hover,
+.css-political .blog-list > article .blog-desc h4 a:hover,
+.css-political .blog-list > article .blog-desc h4 a:focus,
+.css-political .blog-list-full > article .blog-desc h4 a:hover,
+.css-political .blog-list-full > article .blog-desc h4 a:focus,
+.css-political .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-political .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-political .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-political .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-political .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-political .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-political .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-political .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-political .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-political .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-political .blog-masonry > article .blog-desc h4 a:hover,
+.css-political .blog-masonry > article .blog-desc h4 a:focus,
+.css-political .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-political .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-political .comment_response .media h6 a,
+.css-political .comment_response .media_cloud a.reply_link,
+.css-political .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-political .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-political .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-political .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-political .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-political .dropcap.dropcap-style-1,
+.css-political .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-political .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-political .counter-box .count-icon,
+.css-political .counter-style-1 .counter-box h4,
+.css-political .icon-type,
+.css-political .icon-type.it-main-color,
+.css-political .icon-type.it-main-color-reverse:hover,
+.css-political .icon-type.it-main-color-reverse:focus,
+.css-political .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-political .comment_response .media h6 a,
+.css-political .comment_response .media_cloud a.reply_link,
+.css-political .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-political .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-political .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-political .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-political .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-political .dropcap.dropcap-style-1,
+.css-political .btn-default-reverse,
+.css-political .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-political .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-political .counter-box .count-icon,
+.css-political .counter-style-1 .counter-box h4,
+.css-political .icon-type,
+.css-political .icon-type.it-main-color,
+.css-political .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-political .icon-type.it-main-color-reverse:focus,
+.css-political .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-political .review_response .media h6 a,
+.css-political .review_response .media_cloud .shop-star-rating li.full-star,
+.css-political .rating-container .rating-stars,
+.css-political .form-contact small,
+.css-political ul.icon-list li a:hover,
+.css-political ul.icon-list li a:active,
+.css-political ul.icon-list li a:focus,
+.css-political .checkout-sum,
+.css-political .checkout-table td a:hover,
+.css-political .checkout-box a,
+.css-political .user-profile-list ul li a:hover,
+.css-political a.profile-active,
+.css-political .user-profile-content h2,
+.css-political .forum-content-header span a,
+.css-political .recent-work-content a:hover,
+.css-political .recent-work-image-content a:hover,
+.css-political .contact-overlay-map .maximize-form:hover,
+.css-political .hero-slier-nav-content:hover [class^="icon-"],
+.css-political .selected .hero-slier-nav-content [class^="icon-"],
+.css-political .team-social a:hover,
+.css-political .team-name h5 a:hover,
+.css-political .clients-slick-nav .slick-custom-next:hover,
+.css-political .clients-slick-nav .slick-custom-prev:hover,
+.css-political .services-pricing-icon [class^="icon-"],
+.css-political .brand [class^="icon-"],
+.css-political .content-divider-colored [class^="icon-"],
+.css-political .divider-content h1 span,
+.css-political .divider-content h2 span,
+.css-political .divider-content h3 span,
+.css-political .intro-page-content a:hover,
+.css-political .image-box-content a:hover,
+.css-political .icon-type.it-main-color [class^="icon-"],
+.css-political .icon-type-2:hover p,
+.css-political .icon-type-2:hover span.icon-type-2-icon,
+.css-political .heading-container .head-colored,
+.css-political ul.home-6-list li h4 [class^="icon-"],
+.css-political .icon-box-2-effect-1:hover .icon-block-2,
+.css-political .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-political .icon-box-2-effect-4:hover .icon-block-2,
+.css-political .icon-box-2-effect-4-reverse .icon-block-2,
+.css-political .icon-box-2-effect-5:hover .icon-block-2,
+.css-political .simple-icon-lightbg [class^="icon-"],
+.css-political .newsletter-signup button,
+.css-political a.add-to-wishlist.select,
+.css-political a.add-to-wishlist.select [class^="icon-"],
+.css-political .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-political .panel-body ul li a:hover,
+.css-political .colored,
+.css-political .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-political .tabpanel-style-6 .nav-tabs > li > a,
+.css-political .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-political .tp_caption_big span,
+.css-political ul.icon-box-simple li:hover a,
+.css-political .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-political .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-political .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-political .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-political .blockquote-author p,
+.css-political .testimonial-author,
+.css-political .latest-post-content h1 a:hover,
+.css-political .post-by a:hover,
+.css-political .latest-post-content .read-more-link,
+.css-political .blog-horizontal .bh-content h3 a:hover,
+.css-political .blog-horizontal .bh-content .bh-details a:hover,
+.css-political .blog-horizontal .bh-content .bh-details a:hover span,
+.css-political a.bsp-title:hover,
+.css-political .sidebar-blog-post-list li .sbp-title:hover,
+.css-political .navbar-nav > li.active,
+.css-political .navbar-nav > li.active:hover,
+.css-political a.idb-social:hover,
+.css-political a.idb-social:hover span,
+.css-political a.idb-price,
+.css-political span.pts-raised,
+.css-political .bsp-social a:hover,
+.css-political .bsp-social a [class^="icon-"]:hover,
+.css-political a.bsp-more:hover,
+.css-political .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-political .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-political .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-political .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-political .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-political .gallery-block .gallery-box .gallery-meta a:hover,
+.css-political .gallery-block .gallery-box .gallery-meta a:focus,
+.css-political .cd-timeline-inner-content a:hover,
+.css-political .testimonial-box .testimonial-author span,
+.css-political .fic-date a:hover,
+.css-political .forum-inner-content h1 a:hover,
+.css-political .user-profile-desc a:hover,
+.css-political .cd-timeline-navigation a:hover::after,
+.css-political .login-form .login-input-box [class^="icon-"],
+.css-political .icon-input-box [class^="icon-"],
+.css-political ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-political ul.bar-chart-graph li,
+.css-political ul.line-graph li,
+.css-political ul.donut-graph li,
+.css-political .tp-caption.Creative-SubTitle,
+.css-political .Creative-SubTitle,
+.css-political .tp-caption.vlt-hero-rotating,
+.css-political .pagination > li > a:focus,
+.css-political .pagination > li > a:hover,
+.css-political .pagination > li > span:focus,
+.css-political .pagination > li > span:hover,
+.css-political .pager li > a,
+.css-political ul.recent-post-widget .rp-post a:hover,
+.css-political .tp-tab.selected span.tp-tab-title span,
+.css-political .tp-tab.selected span.tp-tab-title,
+.css-political .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-political .tp-main-color,
+.css-political .loader-5,
+.css-political .loader-7,
+.css-political .loader-9,
+.css-political .loader-2,
+.css-political .loader-4,
+.css-political .gsi-style-9 li.visited>*, 
+.css-political .gsi-style-9 li.current>*,
+.css-political .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-political .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #B71234 !important;
+}
+
+.css-political .tp-caption .btn-default,
+.css-political .btn-default,
+.css-political .flex-control-paging li a.flex-active,
+.css-political .flexslider.clients .flex-control-paging li a.flex-active,
+.css-political .pagination-box .pager li a,
+.css-political .contact-info-3,
+.css-political .tags-cloud-list li a:hover,
+.css-political .team-social a:hover,
+.css-political .contact-title-one h3:after,
+.css-political .home-title-one h3:after,
+.css-political #login-form .login-input:active,
+.css-political #login-form .login-input:focus,
+.css-political .load-more-wrapper a.load-more-btn:hover,
+.css-political #register-form .register-input:active,
+.css-political #register-form .register-input:focus,
+.css-political .dropcap.dropcap-style-1,
+.css-political .dropcap.dropcap-style-2,
+.css-political .alert-default,
+.css-political blockquote,
+.css-political .tp-caption .btn-default,
+.css-political .btn-default,
+.css-political .btn-default-reverse,
+.css-political .icon-box.icon-square .icon-block,
+.css-political .icon-box.icon-circle .icon-block,
+.css-political .icon-type.it-main-color,
+.css-political .icon-type.it-main-color:hover,
+.css-political .icon-type.it-main-color:focus,
+.css-political .icon-type.it-main-color-reverse,
+.css-political .icon-type.it-main-color-reverse:hover,
+.css-political .icon-type.it-main-color-reverse:focus,
+.css-political .add-to-cart-form .count-input .count-plus:hover,
+.css-political .add-to-cart-form .count-input .count-minus:hover,
+.css-political #reviewmodal .modal-header,
+.css-political .job-left-title h3,
+.css-political .pricing-table-container.special-price-table,
+.css-political .clients-slick-nav .slick-custom-next:hover,
+.css-political .clients-slick-nav .slick-custom-prev:hover,
+.css-political a.add-to-wishlist.select,
+.css-political a.add-to-wishlist.select [class^="icon-"],
+.css-political .tabpanel-style-8 .nav-tabs > li.active,
+.css-political a.btn-default.btn-animation-icon-box,
+.css-political .btn-default.btn-animation-icon-box:hover,
+.css-political .btn-default.btn-animation-icon-box:focus,
+.css-political .btn-default.btn-animation-icon-box:active,
+.css-political .tp-caption a.btn-default.btn-animation-icon-box,
+.css-political .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-political .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-political .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-political .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-political .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-political .clients-slick-nav .slick-clients-prev:hover,
+.css-political .clients-slick-nav .slick-clients-next:hover,
+.css-political .bsp-image,
+.css-political .blog-list > article.default-post .blog-desc,
+.css-political .testimonial-single li.slick-active button::before,
+.css-political .slick-dots li.slick-active button:before,
+.css-political .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-political .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-political .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-political .timeline-status.timeline-active:before,
+.css-political .cd-horizontal-timeline .events a.older-event::after,
+.css-political .cd-horizontal-timeline .events a.selected::after,
+.css-political .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-political .no-touch .cd-timeline-navigation a:hover,
+.css-political .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-political .cd-timeline-navigation a:hover,
+.css-political .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-political .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-political .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-political .login-form input:focus,
+.css-political .pinpulse,
+.css-political .open > .dropdown-toggle.btn-default,
+.css-political .pagination > .active > a,
+.css-political .pagination > .active > a:focus,
+.css-political .pagination > .active > a:hover,
+.css-political .pagination > .active > span,
+.css-political .pagination > .active > span:focus,
+.css-political .pagination > .active > span:hover,
+.css-political .table-style-1 thead tr th,
+.css-political .table-style-1 tbody tr:last-child th,
+.css-political .table-style-1 tbody tr:last-child td,
+.css-political .table-withmaincolor thead tr th,
+.css-political .clients-title-border h3,
+.css-political .cd-slider-nav li:hover,
+.css-political .selected,
+.css-political .job-form input:focus,
+.css-political .job-form select:focus,
+.css-political .job-form textarea:focus,
+.css-political .form-contact input:focus,
+.css-political .form-contact select:focus,
+.css-political .form-contact textarea:focus,
+.css-political .form-contact input:focus,
+.css-political .icon-type-2:hover p,
+.css-political .icon-type-2:hover span.icon-type-2-icon,
+.css-political .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-political .activeFilter,
+.css-political .loader-30 > div, 
+.css-political .loader-31 > div, 
+.css-political .loader-35 > div:first-of-type, 
+.css-political .loader-35 > div:nth-child(2),
+.css-political .loader-12 > div,
+.css-political .loader-15 > div,
+.css-political .loader-21 > div,
+.css-political .radio input[type=radio]:checked ~ .circle, 
+.css-political .gsi-step-indicator.triangle li.current>*, 
+.css-political .gsi-style-7.border-right li.current>*, 
+.css-political .gsi-style-7.border-bottom li.current>*, 
+.css-political .gsi-style-7.border-left li.current>*, 
+.css-political .flatpickr-day.today, 
+.css-political .flatpickr-day.today:focus, 
+.css-political .flatpickr-day.today:hover {
+    border-color:  #B71234;
+}
+.css-political .gsi-style-4 li.current>* .number:before{
+  border-left-color: #B71234;
+}
+.css-political .gsi-style-7.border-top li.current>*{
+  border-top-color: #B71234;
+}
+.css-political .tabpanel-style-4 .nav-tabs > li.active,
+.css-political .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-political .tabpanel-style-5 .nav-tabs > li.active,
+.css-political .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #B71234 transparent;
+}
+
+.css-political .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #B71234;
+}
+
+.css-political .icon-box-2-effect-4 .icon-block-2,
+.css-political .icon-box-2-effect-5 .icon-block-2,
+.css-political .icon-box-2-effect-5:hover .icon-block-2,
+.css-political .icon-box-2-effect-1 .icon-block-2:after,
+.css-political .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #B71234;
+}
+
+.css-political .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #B71234;
+}
+
+.css-political .empty-cart:after, .css-political .loader-34 > div  {
+  border-bottom-color: #B71234;
+}
+
+.css-political .btn-default-reverse:hover,
+.css-political .btn-default-reverse:focus {
+  background-color: #B71234 !important;
+  border-color: #B71234 !important;
+}
+
+.css-political .tp-caption .btn-default.active,
+.css-political .btn-default.active,
+.css-political .tp-caption .btn-default.focus,
+.css-political .btn-default.focus,
+.css-political .tp-caption .btn-default:active,
+.css-political .btn-default:active,
+.css-political .tp-caption .btn-default:focus,
+.css-political .btn-default:focus,
+.css-political .tp-caption .btn-default:hover,
+.css-political .btn-default:hover,
+.css-political .tp-caption .btn-white:hover,
+.css-political .btn-white:hover {
+  background-color: #a41230 !important;
+  border-color: #a41230 !important;
+}
+
+.css-political .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #B71234;
+}
+
+.css-political #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-political #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-political #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-political #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-political #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-political #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-political #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-political #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #B71234;
+}
+
+.css-political #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-political #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-political span.latest-post-month,
+.css-political .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-political .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #a41230;
+}
+
+.css-political #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-political #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-political #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-political #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-political #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-political #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-political #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-political #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-political #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-political #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-political #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-political #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-political #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-political #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-political #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-political #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-political #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-political #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #a41230;
+  border-color: #a41230;
+}
+
+.css-political #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-political #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #a41230;
+}
+
+.css-political .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-political .item-text-wrapper,
+.css-political .standard_hover .portfolio_overlay,
+.css-political .overlay-animation-1 .overlay_box,
+.css-political .overlay-animation-2 .overlay_box,
+.css-political .flip-hover .flip-box .content-box,
+.css-political .team-8 .team-image .overlay-team-box,
+.css-political .team-9 .team-image .overlay-team-box,
+.css-political .portfolio-animation-slide .sliding-content {
+  background-color: rgba(183, 18, 52, 0.9);
+}
+
+.css-political .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-political .team-2 .overlay-team-box,
+.css-political .team-6 .overlay-team-box,
+.css-political .team-7 .overlay-team-box,
+.css-political .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-political .contact-overlay-map .overlay-map-background,
+.css-political .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-political .table-style-7.table-withmaincolor tbody tr th,
+.css-political .table-style-2.table-withmaincolor tbody tr,
+.css-political .fc-bgevent,
+.css-political #particles-js.background-1 {
+  background-color: rgba(183, 18, 52, 0.6) !important;
+}
+
+.css-political .widget-dribbble-box .shots li a:hover:before, .dribbble-box .shots li a:hover:before,
+.css-political .instagram-widget a:hover:before {
+  background-color: rgba(183, 18, 52, 0.85);
+}
+
+.css-political .search-popup-box,
+.css-political .scroll-to-top-fixed {
+  background-color: rgba(183, 18, 52, 0.95);
+}
+
+.css-political .title-medium {
+  font-family: "Droid Serif", serif !important;
+  font-size: 5em !important;
+  line-height: 1.5 !important;
+  color: #fff;
+  text-transform: capitalize !important;
+  font-weight: 700 !important;
+}
+
+.css-political .title-medium .tp-splitted.tp-linesplit {
+  text-transform: uppercase !important;
+}
+
+.css-political .background-2 .testimonial-single .slick-dots li button::before,
+.css-political .background-2 .slick-dots li button::before,
+.css-political .background-1 .testimonial-single .slick-dots li button::before,
+.css-political .background-1 .slick-dots li button::before,
+.css-political .background-3 .testimonial-single .slick-dots li button::before,
+.css-political .background-3 .slick-dots li button::before,
+.css-political .gray-background .testimonial-single .slick-dots li button::before,
+.css-political .gray-background-3 .slick-dots li button::before {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+.css-political .loader-3 {
+  border-top-color: rgba(183, 18, 52, 0.2);
+  border-right-color: rgba(183, 18, 52, 0.2);
+  border-bottom-color: rgba(183, 18, 52, 0.2);
+  border-left-color: #B71234;
+}
+
+.css-political .icon-box-2-effect-4:hover .icon-block-2 span,
+.css-political .icon-box-2-effect-1:hover .icon-block-2 span {
+  color: #ffffff;
+}
+
+.css-political .transparent-background .testimonial-single .slick-dots .slick-active button:before {
+  background-color: transparent !important;
+}
+
+.css-political .transparent-background .testimonial-single .slick-dots button:before {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.css-political .icon-box.icon-fill:hover .icon-block,
+.css-political .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-political .cart-shop-products h3, .css-political .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-political .cart-shop-products-list li .csp-price, .css-political .sidebar-shop-products-list li .ssp-price,
+.css-political .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-political .shop-list .shop-product .shop-star-rating li.full-star,
+.css-political ul.shop-star-rating li.full-star {
+  color: #22c064;
+}
+
+.css-political .shop-list .shop-product .shop-ribbon, .css-political .ui-slider-horizontal .ui-slider-range,
+.css-political .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-political .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #22c064;
+}
+
+.css-political #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-political #header.header-white .navbar-2 .search-navbar .btn-cart:hover {
+  color: white !important;
+  border-color: white !important;
+}
+.css-political .loader-13 > div:last-child, 
+.css-political .loader-15 > div:last-child {
+  border-color: #B71234 transparent;
+}
+.css-political .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #B71234 30%, #B71234 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #B71234 30%, #B71234 100%);
+}
+.css-political .icon-box.icon-fill .icon-block [class^="icon-"] {
+    color: #fff!important;
+}

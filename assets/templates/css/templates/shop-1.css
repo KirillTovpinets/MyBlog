@@ -1,0 +1,869 @@
+/* Shop 1 */
+body.css-shop-1,
+.css-shop-1 p,
+.css-shop-1 h1,
+.css-shop-1 h2,
+.css-shop-1 h3,
+.css-shop-1 h4,
+.css-shop-1 h5,
+.css-shop-1 h6,
+.css-shop-1 .featured-content h1.small,
+.css-shop-1 .form-group > label,
+.css-shop-1 .checkbox > label,
+.css-shop-1 .alert > p,
+.css-shop-1 .block-content-wrapper h2,
+.css-shop-1 .intro-text h1, .intro-text h2,
+.css-shop-1 .intro-text h3, .intro-text h4,
+.css-shop-1 .intro-text h5, .intro-text h6,
+.css-shop-1 .restaurant-info-img-content h4,
+.css-shop-1 .contact-title h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.css-shop-1 h1, .css-shop-1 h2, .css-shop-1 h3, .css-shop-1 h4, .css-shop-1 h5, .css-shop-1 h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.css-shop-1 .color-1 {
+  color: #e3ac56 !important;
+}
+
+.css-shop-1 .background-1,
+.css-shop-1 .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #e3ac56 !important;
+}
+
+.css-shop-1 .color-2 {
+  color: #22c064 !important;
+}
+
+.css-shop-1 .background-2,
+.css-shop-1 .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #22c064 !important;
+}
+
+.css-shop-1 .color-3 {
+  color: #fe824c !important;
+}
+
+.css-shop-1 .background-3,
+.css-shop-1 .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3,
+.css-shop-1 .blog-desc-details:after {
+  background-color: #fe824c !important;
+}
+
+.css-shop-1 .call-to-action {
+  background-color: transparent !important;
+}
+
+.css-shop-1 .tp-caption .btn-default,
+.css-shop-1 .btn-default,
+.css-shop-1 .flex-control-paging li a.flex-active,
+.css-shop-1 .navbar-toggle,
+.css-shop-1 #mobile-navbar,
+.css-shop-1 .offscreen-container,
+.css-shop-1 .maincolor-background,
+.css-shop-1 ul.widget-ul li a > span,
+.css-shop-1 ul.widget-social li a:hover,
+.css-shop-1 #people .item .info,
+.css-shop-1 .main-color,
+.css-shop-1 .flexslider.clients .flex-control-paging li a.flex-active,
+.css-shop-1 #portfolio-filter li a:after,
+.css-shop-1 .navbar.banner--clone .nav li.active > a,
+.css-shop-1 .pagination-box .pager li a,
+.css-shop-1 .pricing-table-column.special-price-table .pricing-table-head,
+.css-shop-1 .pricing-table-column.special-price-table .pricing-table-content,
+.css-shop-1 .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-shop-1 .tags-cloud-list li a:hover,
+.css-shop-1 .progress-bar-box .progress-bar,
+.css-shop-1 .background-1,
+.css-shop-1 .selecter .selecter-item:hover,
+.css-shop-1 .selecter .selecter-item.selected:hover,
+.css-shop-1 #footer.colored,
+.css-shop-1 section.about-counter,
+.css-shop-1 .error-page-title:after,
+.css-shop-1 .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-shop-1 .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-shop-1 .tabpanel-style-4 .tab-content h3:after,
+.css-shop-1 .about-classic-column-themecolor,
+.css-shop-1 .selecter .selecter-item:hover,
+.css-shop-1 .selecter .selecter-item.selected:hover,
+.css-shop-1 .item-text-wrapper_overlay,
+.css-shop-1 .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-shop-1 .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-shop-1 .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-shop-1 .shop-type-2 a.add-to-cart-item,
+.css-shop-1 .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-shop-1 .navbar-2 .btn-cart .header-cart-count,
+.css-shop-1 .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-shop-1 .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-shop-1 .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-shop-1 .dropcap.dropcap-style-2,
+.css-shop-1 .alert-default,
+.css-shop-1 blockquote:before,
+.css-shop-1 blockquote:after,
+.css-shop-1 .tp-caption .btn-default,
+.css-shop-1 .btn-default,
+.css-shop-1 .content-title h5:before,
+.css-shop-1 .content-title h5:after,
+.css-shop-1 .icon-box.icon-fill .icon-block,
+.css-shop-1 .icon-box.icon-square:hover .icon-block,
+.css-shop-1 .icon-box.icon-circle:hover .icon-block,
+.css-shop-1 .icon-box.icon-square:hover .icon-block span,
+.css-shop-1 .icon-box.icon-circle:hover .icon-block span,
+.css-shop-1 .icon-type.it-main-color:hover,
+.css-shop-1 .icon-type.it-main-color:focus,
+.css-shop-1 .icon-type.it-main-color-reverse,
+.css-shop-1 .icon-type.it-main-color:hover span,
+.css-shop-1 .icon-type.it-main-color-reverse:hover span,
+.css-shop-1 .add-to-cart-form .count-input .count-plus:hover,
+.css-shop-1 .add-to-cart-form .count-input .count-minus:hover,
+.css-shop-1 .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-shop-1 .pricing-table-container.special-price-table,
+.css-shop-1 .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-shop-1 .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-shop-1 ul.forum-list li.forum-header,
+.css-shop-1 .textbox-withmaincolor,
+.css-shop-1 .background-1,
+.css-shop-1 .team-member-job,
+.css-shop-1 .team-section .team-desc-box:before,
+.css-shop-1 .team-section .team-desc-box:after,
+.css-shop-1 .shop-categories:hover .shop-title-categories,
+.css-shop-1 .content-divider-colored-bg [class^="icon-"],
+.css-shop-1 .overlay-animation-6 .content-box,
+.css-shop-1 .block-content-wrapper h1,
+.css-shop-1 .benefits-box h1,
+.css-shop-1 .selecter .selecter-item:hover,
+.css-shop-1 .selecter .selecter-item.selected:hover,
+.css-shop-1 .ui-slider .ui-slider-range,
+.css-shop-1 #header.header-main-color,
+.css-shop-1 .navbar-2.banner--clone.main-color-navbar,
+.css-shop-1 .tabpanel-style-center .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-shop-1 .label.label-primary,
+.css-shop-1 .label.label-primary,
+.css-shop-1 .star-rating .caption .label,
+.css-shop-1 .tparrows.preview5:hover,
+.css-shop-1 .table-style-4.table-withmaincolor thead tr th,
+.css-shop-1 .table-style-5.table-withmaincolor thead tr th,
+.css-shop-1 .table-style-6.table-withmaincolor thead tr th,
+.css-shop-1 .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-shop-1 .table-style-7.table-withmaincolor thead tr th,
+.css-shop-1 .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-shop-1 .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-shop-1 .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-shop-1 .table-style-2.table-withmaincolor thead tr th,
+.css-shop-1 .table-style-3.table-withmaincolor thead tr th,
+.css-shop-1 .table-style-3.table-withmaincolor tbody tr th,
+.css-shop-1 .parallax-withmaincolor,
+.css-shop-1 .contact-overlay-map .minimize-form:hover,
+.css-shop-1 .team-3:hover .team-social,
+.css-shop-1 .team-5:hover .team-social,
+.css-shop-1 .special-table-2,
+.css-shop-1 .special-table-3,
+.css-shop-1 span.pricing-3-discount,
+.css-shop-1 #vertical-timeline-container:before,
+.css-shop-1 .subscribe-fancy-themebg,
+.css-shop-1 .empty-cart,
+.css-shop-1 .team-4:hover .team-social,
+.css-shop-1 .content-divider-colored,
+.css-shop-1 .content-divider-colored-bg,
+.css-shop-1 .withmainbackground,
+.css-shop-1 .services-2-heading,
+.css-shop-1 .icon-box-2-effect-4 .icon-block-2,
+.css-shop-1 .services-2-heading,
+.css-shop-1 .promotion-box-theme-colored,
+.css-shop-1 .promotion-box-theme-colored .promotion-box-title h4,
+.css-shop-1 .icon-block-2,
+.css-shop-1 .icon-box-2-effect-2:hover .icon-block-2,
+.css-shop-1 .icon-box-2-effect-3 .icon-block-2:after,
+.css-shop-1 .icon-box-2-effect-4 .icon-block-2:after,
+.css-shop-1 .icon-box-2-effect-6 .icon-block-2,
+.css-shop-1 .icon-box-2-effect-6:hover .icon-block-2,
+.css-shop-1 .simple-icon-icon,
+.css-shop-1 a.call-to-action-link:hover,
+.css-shop-1 .add-to-cart-form .count-input .count-plus,
+.css-shop-1 .add-to-cart-form .count-input .count-minus,
+.css-shop-1 .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-shop-1 .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-shop-1 .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-shop-1 .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-shop-1 .special-price-box,
+.css-shop-1 .dropdown-menu > .active > a,
+.css-shop-1 .dropdown-menu > .active > a:focus,
+.css-shop-1 .dropdown-menu > .active > a:hover,
+.css-shop-1 #header.main-color-nav .navbar-2,
+.css-shop-1 .latest-post-data,
+.css-shop-1 .blog-single-post .bsp-heading h1,
+.css-shop-1 .testimonial-single .slick-dots li button:before,
+.css-shop-1 .slick-dots li button:before,
+.css-shop-1 .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-shop-1 .timeline-complete .timeline-status.timeline-active:before,
+.css-shop-1 .megamenu.maincolor,
+.css-shop-1 .dropdown.maincolor ul,
+.css-shop-1 .dropdown.maincolor ul.dropdown-menu,
+.css-shop-1 #footer.maincolor,
+.css-shop-1 #copyrights.maincolor,
+.css-shop-1 .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-shop-1 .cd-horizontal-timeline .events a.selected::after,
+.css-shop-1 .cd-horizontal-timeline .filling-line,
+.css-shop-1 .pinpulsebox span,
+.css-shop-1 .main-color-dropdown .megamenu,
+.css-shop-1 .main-color-dropdown .dropdown-menu,
+.css-shop-1 #cd-timeline::before,
+.css-shop-1 ul.icon-list.il-main-bg li [class^="icon-"],
+.css-shop-1 .process-steps ul li.current a .number,
+.css-shop-1 ol.ordered-list.ol-main-bg li:before,
+.css-shop-1 .irs-bar,
+.css-shop-1 .irs-from,
+.css-shop-1 .irs-to,
+.css-shop-1 .irs-single,
+.css-shop-1 .open > .dropdown-toggle.btn-default,
+.css-shop-1 .fc-unthemed .fc-today,
+.css-shop-1 .fc-content,
+.css-shop-1 #particles-js,
+.css-shop-1 .s-icon:hover,
+.css-shop-1 #progressbar li.active:before,
+.css-shop-1 #progressbar li.active:after,
+.css-shop-1 .pagination > .active > a,
+.css-shop-1 .pagination > .active > a:focus,
+.css-shop-1 .pagination > .active > a:hover,
+.css-shop-1 .pagination > .active > span,
+.css-shop-1 .pagination > .active > span:focus,
+.css-shop-1 .pagination > .active > span:hover,
+.css-shop-1 .portfolio-filter .selecter-item.activeFilter,
+.css-shop-1 .page-loader-spinner span,
+.css-shop-1 .loader-6:before,
+.css-shop-1 .loader-2,
+.css-shop-1 .loader-2:before,
+.css-shop-1 .loader-2:after,
+.css-shop-1 .loader-10 > div, 
+.css-shop-1 .loader-11 > div,
+.css-shop-1 .loader-13 > div:first-child, 
+.css-shop-1 .loader-14 > div, 
+.css-shop-1 .loader-16 > div, 
+.css-shop-1 .loader-17 > div, 
+.css-shop-1 .loader-17 > div:before, 
+.css-shop-1 .loader-17 > div:after, 
+.css-shop-1 .loader-18 > div, 
+.css-shop-1 .loader-19 > div, 
+.css-shop-1 .loader-20 > div, 
+.css-shop-1 .loader-22 > div, 
+.css-shop-1 .loader-23 > div, 
+.css-shop-1 .loader-24 > div, 
+.css-shop-1 .loader-25 > div, 
+.css-shop-1 .loader-26 > div, 
+.css-shop-1 .loader-27 > div, 
+.css-shop-1 .loader-28 > div, 
+.css-shop-1 .loader-29 > div, 
+.css-shop-1 .loader-32 > div, 
+.css-shop-1 .loader-33 > div, 
+.css-shop-1 .loader-35 > div:nth-child(3), 
+.css-shop-1 .loader-35 > div:nth-child(4), 
+.css-shop-1 .loader-35 > div:nth-child(5),
+.css-shop-1 .loader-35 > div:nth-child(6), 
+.css-shop-1 .loader-37 > div, 
+.css-shop-1 .loader-38 > div,
+.css-shop-1 .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-shop-1 .radio input[type=radio]:checked ~ .check, 
+.css-shop-1 .vlt-btn-group .dropdown-menu li a:hover, 
+.css-shop-1 .gsi-step-indicator.triangle li.current>*, 
+.css-shop-1 .gsi-style-4 li.current>*, 
+.css-shop-1 .gsi-style-5 li.current>*, 
+.css-shop-1 .gsi-style-6 li.current>* .number, 
+.css-shop-1 .gsi-style-7 li.current:hover>*, 
+.css-shop-1 .gsi-style-8 li.visited>*, 
+.css-shop-1 .gsi-style-8 li.current>*, 
+.css-shop-1 .gsi-style-9 li.visited>*:after, 
+.css-shop-1 .gsi-style-9 li.current>*:after, 
+.css-shop-1 .gsi-style-10 li.visited>*:after, 
+.css-shop-1 .gsi-style-10 li.current>*:after, 
+.css-shop-1 .gsi-style-11 li.current:before, 
+.css-shop-1 .gsi-style-11 li.current:after, 
+.css-shop-1 .gsi-style-11 li.visited:before, 
+.css-shop-1 .gsi-style-11 li.visited:after, 
+.css-shop-1 .gsi-style-11 li.visited>*:after, 
+.css-shop-1 .gsi-style-11 li.current>*:after, 
+.css-shop-1 .flatpickr-day.today:focus, 
+.css-shop-1 .flatpickr-day.today:hover  {
+  background-color: #e3ac56 !important;
+}
+
+.css-shop-1 .header-content .phone-number span,
+.css-shop-1 .intro-block h6,
+.css-shop-1 .icon-block [class^="icon-"],
+.css-shop-1 ul.header-links li a:hover,
+.css-shop-1 .navbar.banner--clone .nav > li > a:hover,
+.css-shop-1 .navbar.banner--clone .btn-search:hover,
+.css-shop-1 .success-lg:hover [class^="icon-"],
+.css-shop-1 #copyrights ul li a:hover,
+.css-shop-1 #copyrights a:hover,
+.css-shop-1 .breadcrumb > .active,
+.css-shop-1 #portfolio-filter li a.activeFilter,
+.css-shop-1 #portfolio-filter li a:hover,
+.css-shop-1 .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-shop-1 a.image_zoom:hover [class^="icon-"],
+.css-shop-1 a.image_link:hover [class^="icon-"],
+.css-shop-1 a.load-more-btn:hover,
+.css-shop-1 a.load-more-btn:hover [class^="icon-"],
+.css-shop-1 .intro-block h1 [class^="icon-"],
+.css-shop-1 .shop-list .shop-product h4 a:hover,
+.css-shop-1 ul#portfolio-layout-filter li a.active,
+.css-shop-1 .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-shop-1 ul.sidebar-shop-cat > li span,
+.css-shop-1 .shop-price,
+.css-shop-1 ul.sidebar-shop-cat > li > a:hover,
+.css-shop-1 a.load-more-btn:hover,
+.css-shop-1 a.load-more-btn:hover [class^="icon-"],
+.css-shop-1 .intro-block h1 [class^="icon-"],
+.css-shop-1 .shop-list .shop-product h4 a:hover,
+.css-shop-1 ul#portfolio-layout-filter li a.active,
+.css-shop-1 .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-shop-1 ul.sidebar-cat > li span,
+.css-shop-1 .shop-price,
+.css-shop-1 ul.sidebar-cat > li > a:hover,
+.css-shop-1 ul.jobs-list li [class^="icon-"],
+.css-shop-1 .team-social a:hover,
+.css-shop-1 .icon-default,
+.css-shop-1 .error-page-icon span [class^="icon-"],
+.css-shop-1 .footer-3-container-text a:hover,
+.css-shop-1 .testimonials-box .testimonial-author,
+.css-shop-1 #page-title.image-page-title-fullwidth h1,
+.css-shop-1 #page-title.image-page-title-left.image-page-noimage h2,
+.css-shop-1 ul.services-2-icons,
+.css-shop-1 ul.shop-layout-filter li a.active,
+.css-shop-1 ul.portfolio-layout-filter li a.active,
+.css-shop-1 ul.porfolio-project-details-list > li .ppd-right,
+.css-shop-1 ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-shop-1 .related-projects-title .slick-custom-next:hover,
+.css-shop-1 .related-projects-title .slick-custom-prev:hover,
+.css-shop-1 .recent-post-content a:hover,
+.css-shop-1 .form-group.login-form-submit a,
+.css-shop-1 .shop-type-1 a.add-to-cart-item:before,
+.css-shop-1 .shop-type-2 a.add-to-cart-item:before,
+.css-shop-1 a.form-forgotpass,
+.css-shop-1 .sidebar-shop-products-list li .ssp-title:hover,
+.css-shop-1 .restaurant-info ul li [class^="icon-"],
+.css-shop-1 .navbar-default.default .btn-cart .header-cart-count,
+.css-shop-1 .cart-shop-products-list li .csp-title:hover,
+.css-shop-1 .blog-list > article .blog-desc h4 a:hover,
+.css-shop-1 .blog-list > article .blog-desc h4 a:focus,
+.css-shop-1 .blog-list-full > article .blog-desc h4 a:hover,
+.css-shop-1 .blog-list-full > article .blog-desc h4 a:focus,
+.css-shop-1 .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-shop-1 .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-shop-1 .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-shop-1 .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-shop-1 .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-shop-1 .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-shop-1 .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-shop-1 .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-shop-1 .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-shop-1 .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-shop-1 .blog-masonry > article .blog-desc h4 a:hover,
+.css-shop-1 .blog-masonry > article .blog-desc h4 a:focus,
+.css-shop-1 .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-shop-1 .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-shop-1 .comment_response .media h6 a,
+.css-shop-1 .comment_response .media_cloud a.reply_link,
+.css-shop-1 .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-shop-1 .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-shop-1 .dropcap.dropcap-style-1,
+.css-shop-1 .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-shop-1 .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-shop-1 .counter-box .count-icon,
+.css-shop-1 .counter-style-1 .counter-box h4,
+.css-shop-1 .icon-type,
+.css-shop-1 .icon-type.it-main-color,
+.css-shop-1 .icon-type.it-main-color-reverse:hover,
+.css-shop-1 .icon-type.it-main-color-reverse:focus,
+.css-shop-1 .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-shop-1 .comment_response .media h6 a,
+.css-shop-1 .comment_response .media_cloud a.reply_link,
+.css-shop-1 .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-shop-1 .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-shop-1 .dropcap.dropcap-style-1,
+.css-shop-1 .btn-default-reverse,
+.css-shop-1 .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-shop-1 .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-shop-1 .counter-box .count-icon,
+.css-shop-1 .counter-style-1 .counter-box h4,
+.css-shop-1 .icon-type,
+.css-shop-1 .icon-type.it-main-color,
+.css-shop-1 .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-shop-1 .icon-type.it-main-color-reverse:focus,
+.css-shop-1 .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-shop-1 .review_response .media h6 a,
+.css-shop-1 .review_response .media_cloud .shop-star-rating li.full-star,
+.css-shop-1 .rating-container .rating-stars,
+.css-shop-1 .form-contact small,
+.css-shop-1 ul.icon-list li a:hover,
+.css-shop-1 ul.icon-list li a:active,
+.css-shop-1 ul.icon-list li a:focus,
+.css-shop-1 .checkout-sum,
+.css-shop-1 .checkout-table td a:hover,
+.css-shop-1 .checkout-box a,
+.css-shop-1 .user-profile-list ul li a:hover,
+.css-shop-1 a.profile-active,
+.css-shop-1 .user-profile-content h2,
+.css-shop-1 .forum-content-header span a,
+.css-shop-1 .recent-work-content a:hover,
+.css-shop-1 .recent-work-image-content a:hover,
+.css-shop-1 .contact-overlay-map .maximize-form:hover,
+.css-shop-1 .hero-slier-nav-content:hover [class^="icon-"],
+.css-shop-1 .selected .hero-slier-nav-content [class^="icon-"],
+.css-shop-1 .team-social a:hover,
+.css-shop-1 .team-name h5 a:hover,
+.css-shop-1 .clients-slick-nav .slick-custom-next:hover,
+.css-shop-1 .clients-slick-nav .slick-custom-prev:hover,
+.css-shop-1 .services-pricing-icon [class^="icon-"],
+.css-shop-1 .brand [class^="icon-"],
+.css-shop-1 .content-divider-colored [class^="icon-"],
+.css-shop-1 .divider-content h1 span,
+.css-shop-1 .divider-content h2 span,
+.css-shop-1 .divider-content h3 span,
+.css-shop-1 .intro-page-content a:hover,
+.css-shop-1 .image-box-content a:hover,
+.css-shop-1 .icon-type.it-main-color [class^="icon-"],
+.css-shop-1 .icon-type-2:hover p,
+.css-shop-1 .icon-type-2:hover span.icon-type-2-icon,
+.css-shop-1 .heading-container .head-colored,
+.css-shop-1 ul.home-6-list li h4 [class^="icon-"],
+.css-shop-1 .icon-box-2-effect-1:hover .icon-block-2,
+.css-shop-1 .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-shop-1 .icon-box-2-effect-4:hover .icon-block-2,
+.css-shop-1 .icon-box-2-effect-4-reverse .icon-block-2,
+.css-shop-1 .icon-box-2-effect-5:hover .icon-block-2,
+.css-shop-1 .simple-icon-lightbg [class^="icon-"],
+.css-shop-1 .newsletter-signup button,
+.css-shop-1 a.add-to-wishlist.select,
+.css-shop-1 a.add-to-wishlist.select [class^="icon-"],
+.css-shop-1 .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-shop-1 .panel-body ul li a:hover,
+.css-shop-1 .colored,
+.css-shop-1 .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-6 .nav-tabs > li > a,
+.css-shop-1 .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-shop-1 .tp_caption_big span,
+.css-shop-1 ul.icon-box-simple li:hover a,
+.css-shop-1 .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-shop-1 .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-shop-1 .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-shop-1 .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-shop-1 .blockquote-author p,
+.css-shop-1 .testimonial-author,
+.css-shop-1 .latest-post-content h1 a:hover,
+.css-shop-1 .post-by a:hover,
+.css-shop-1 .latest-post-content .read-more-link,
+.css-shop-1 .blog-horizontal .bh-content h3 a:hover,
+.css-shop-1 .blog-horizontal .bh-content .bh-details a:hover,
+.css-shop-1 .blog-horizontal .bh-content .bh-details a:hover span,
+.css-shop-1 a.bsp-title:hover,
+.css-shop-1 .sidebar-blog-post-list li .sbp-title:hover,
+.css-shop-1 .navbar-nav > li.active,
+.css-shop-1 .navbar-nav > li.active:hover,
+.css-shop-1 a.idb-social:hover,
+.css-shop-1 a.idb-social:hover span,
+.css-shop-1 a.idb-price,
+.css-shop-1 span.pts-raised,
+.css-shop-1 .bsp-social a:hover,
+.css-shop-1 .bsp-social a [class^="icon-"]:hover,
+.css-shop-1 a.bsp-more:hover,
+.css-shop-1 .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-shop-1 .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-shop-1 .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-shop-1 .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-shop-1 .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-shop-1 .gallery-block .gallery-box .gallery-meta a:hover,
+.css-shop-1 .gallery-block .gallery-box .gallery-meta a:focus,
+.css-shop-1 .cd-timeline-inner-content a:hover,
+.css-shop-1 .testimonial-box .testimonial-author span,
+.css-shop-1 .fic-date a:hover,
+.css-shop-1 .forum-inner-content h1 a:hover,
+.css-shop-1 .user-profile-desc a:hover,
+.css-shop-1 .cd-timeline-navigation a:hover::after,
+.css-shop-1 .login-form .login-input-box [class^="icon-"],
+.css-shop-1 .icon-input-box [class^="icon-"],
+.css-shop-1 ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-shop-1 ul.bar-chart-graph li,
+.css-shop-1 ul.line-graph li,
+.css-shop-1 ul.donut-graph li,
+.css-shop-1 .tp-caption.Creative-SubTitle,
+.css-shop-1 .Creative-SubTitle,
+.css-shop-1 .tp-caption.vlt-hero-rotating,
+.css-shop-1 .pagination > li > a:focus,
+.css-shop-1 .pagination > li > a:hover,
+.css-shop-1 .pagination > li > span:focus,
+.css-shop-1 .pagination > li > span:hover,
+.css-shop-1 .pager li > a,
+.css-shop-1 ul.recent-post-widget .rp-post a:hover,
+.css-shop-1 .tp-tab.selected span.tp-tab-title span,
+.css-shop-1 .tp-tab.selected span.tp-tab-title,
+.css-shop-1 .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-shop-1 .tp-main-color,
+.css-shop-1 .loader-5,
+.css-shop-1 .loader-7,
+.css-shop-1 .loader-9,
+.css-shop-1 .loader-2,
+.css-shop-1 .loader-4,
+.css-shop-1 .gsi-style-9 li.visited>*, 
+.css-shop-1 .gsi-style-9 li.current>*,
+.css-shop-1 .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-shop-1 .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #e3ac56 !important;
+}
+
+.css-shop-1 .tp-caption .btn-default,
+.css-shop-1 .btn-default,
+.css-shop-1 .flex-control-paging li a.flex-active,
+.css-shop-1 .flexslider.clients .flex-control-paging li a.flex-active,
+.css-shop-1 .pagination-box .pager li a,
+.css-shop-1 .contact-info-3,
+.css-shop-1 .tags-cloud-list li a:hover,
+.css-shop-1 .team-social a:hover,
+.css-shop-1 .contact-title-one h3:after,
+.css-shop-1 .home-title-one h3:after,
+.css-shop-1 #login-form .login-input:active,
+.css-shop-1 #login-form .login-input:focus,
+.css-shop-1 .load-more-wrapper a.load-more-btn:hover,
+.css-shop-1 #register-form .register-input:active,
+.css-shop-1 #register-form .register-input:focus,
+.css-shop-1 .dropcap.dropcap-style-1,
+.css-shop-1 .dropcap.dropcap-style-2,
+.css-shop-1 .alert-default,
+.css-shop-1 blockquote,
+.css-shop-1 .tp-caption .btn-default,
+.css-shop-1 .btn-default,
+.css-shop-1 .btn-default-reverse,
+.css-shop-1 .icon-box.icon-square .icon-block,
+.css-shop-1 .icon-box.icon-circle .icon-block,
+.css-shop-1 .icon-type.it-main-color,
+.css-shop-1 .icon-type.it-main-color:hover,
+.css-shop-1 .icon-type.it-main-color:focus,
+.css-shop-1 .icon-type.it-main-color-reverse,
+.css-shop-1 .icon-type.it-main-color-reverse:hover,
+.css-shop-1 .icon-type.it-main-color-reverse:focus,
+.css-shop-1 .add-to-cart-form .count-input .count-plus:hover,
+.css-shop-1 .add-to-cart-form .count-input .count-minus:hover,
+.css-shop-1 #reviewmodal .modal-header,
+.css-shop-1 .job-left-title h3,
+.css-shop-1 .pricing-table-container.special-price-table,
+.css-shop-1 .clients-slick-nav .slick-custom-next:hover,
+.css-shop-1 .clients-slick-nav .slick-custom-prev:hover,
+.css-shop-1 a.add-to-wishlist.select,
+.css-shop-1 a.add-to-wishlist.select [class^="icon-"],
+.css-shop-1 .tabpanel-style-8 .nav-tabs > li.active,
+.css-shop-1 a.btn-default.btn-animation-icon-box,
+.css-shop-1 .btn-default.btn-animation-icon-box:hover,
+.css-shop-1 .btn-default.btn-animation-icon-box:focus,
+.css-shop-1 .btn-default.btn-animation-icon-box:active,
+.css-shop-1 .tp-caption a.btn-default.btn-animation-icon-box,
+.css-shop-1 .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-shop-1 .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-shop-1 .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-shop-1 .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-shop-1 .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-shop-1 .clients-slick-nav .slick-clients-prev:hover,
+.css-shop-1 .clients-slick-nav .slick-clients-next:hover,
+.css-shop-1 .bsp-image,
+.css-shop-1 .blog-list > article.default-post .blog-desc,
+.css-shop-1 .testimonial-single li.slick-active button::before,
+.css-shop-1 .slick-dots li.slick-active button:before,
+.css-shop-1 .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-shop-1 .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-shop-1 .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-shop-1 .timeline-status.timeline-active:before,
+.css-shop-1 .cd-horizontal-timeline .events a.older-event::after,
+.css-shop-1 .cd-horizontal-timeline .events a.selected::after,
+.css-shop-1 .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-shop-1 .no-touch .cd-timeline-navigation a:hover,
+.css-shop-1 .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-shop-1 .cd-timeline-navigation a:hover,
+.css-shop-1 .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-shop-1 .login-form input:focus,
+.css-shop-1 .pinpulse,
+.css-shop-1 .open > .dropdown-toggle.btn-default,
+.css-shop-1 .pagination > .active > a,
+.css-shop-1 .pagination > .active > a:focus,
+.css-shop-1 .pagination > .active > a:hover,
+.css-shop-1 .pagination > .active > span,
+.css-shop-1 .pagination > .active > span:focus,
+.css-shop-1 .pagination > .active > span:hover,
+.css-shop-1 .table-style-1 thead tr th,
+.css-shop-1 .table-style-1 tbody tr:last-child th,
+.css-shop-1 .table-style-1 tbody tr:last-child td,
+.css-shop-1 .table-withmaincolor thead tr th,
+.css-shop-1 .clients-title-border h3,
+.css-shop-1 .cd-slider-nav li:hover,
+.css-shop-1 .selected,
+.css-shop-1 .job-form input:focus,
+.css-shop-1 .job-form select:focus,
+.css-shop-1 .job-form textarea:focus,
+.css-shop-1 .form-contact input:focus,
+.css-shop-1 .form-contact select:focus,
+.css-shop-1 .form-contact textarea:focus,
+.css-shop-1 .form-contact input:focus,
+.css-shop-1 .icon-type-2:hover p,
+.css-shop-1 .icon-type-2:hover span.icon-type-2-icon,
+.css-shop-1 .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-shop-1 .activeFilter,
+.css-shop-1 .loader-30 > div, 
+.css-shop-1 .loader-31 > div, 
+.css-shop-1 .loader-35 > div:first-of-type, 
+.css-shop-1 .loader-35 > div:nth-child(2),
+.css-shop-1 .loader-12 > div,
+.css-shop-1 .loader-15 > div,
+.css-shop-1 .loader-21 > div,
+.css-shop-1 .radio input[type=radio]:checked ~ .circle, 
+.css-shop-1 .gsi-step-indicator.triangle li.current>*, 
+.css-shop-1 .gsi-style-7.border-right li.current>*, 
+.css-shop-1 .gsi-style-7.border-bottom li.current>*, 
+.css-shop-1 .gsi-style-7.border-left li.current>*, 
+.css-shop-1 .flatpickr-day.today, 
+.css-shop-1 .flatpickr-day.today:focus, 
+.css-shop-1 .flatpickr-day.today:hover {
+    border-color:  #e3ac56;
+}
+.css-shop-1 .gsi-style-4 li.current>* .number:before{
+  border-left-color: #e3ac56;
+}
+.css-shop-1 .gsi-style-7.border-top li.current>*{
+  border-top-color: #e3ac56;
+}
+.css-shop-1 .tabpanel-style-4 .nav-tabs > li.active,
+.css-shop-1 .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-shop-1 .tabpanel-style-5 .nav-tabs > li.active,
+.css-shop-1 .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #e3ac56 transparent;
+}
+
+.css-shop-1 .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #e3ac56;
+}
+
+.css-shop-1 .icon-box-2-effect-4 .icon-block-2,
+.css-shop-1 .icon-box-2-effect-5 .icon-block-2,
+.css-shop-1 .icon-box-2-effect-5:hover .icon-block-2,
+.css-shop-1 .icon-box-2-effect-1 .icon-block-2:after,
+.css-shop-1 .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #e3ac56;
+}
+
+.css-shop-1 .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #e3ac56;
+}
+
+.css-shop-1 .empty-cart:after, .css-shop-1 .loader-34 > div  {
+  border-bottom-color: #e3ac56;
+}
+
+.css-shop-1 .btn-default-reverse:hover,
+.css-shop-1 .btn-default-reverse:focus {
+  background-color: #e3ac56 !important;
+  border-color: #e3ac56 !important;
+}
+
+.css-shop-1 .tp-caption .btn-default.active,
+.css-shop-1 .btn-default.active,
+.css-shop-1 .tp-caption .btn-default.focus,
+.css-shop-1 .btn-default.focus,
+.css-shop-1 .tp-caption .btn-default:active,
+.css-shop-1 .btn-default:active,
+.css-shop-1 .tp-caption .btn-default:focus,
+.css-shop-1 .btn-default:focus,
+.css-shop-1 .tp-caption .btn-default:hover,
+.css-shop-1 .btn-default:hover,
+.css-shop-1 .tp-caption .btn-white:hover,
+.css-shop-1 .btn-white:hover {
+  background-color: #d3a050 !important;
+  border-color: #d3a050 !important;
+}
+
+.css-shop-1 .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #e3ac56;
+}
+
+.css-shop-1 #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #e3ac56;
+}
+
+.css-shop-1 #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 span.latest-post-month,
+.css-shop-1 .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-shop-1 .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #d3a050;
+}
+
+.css-shop-1 #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #d3a050;
+  border-color: #d3a050;
+}
+
+.css-shop-1 #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-shop-1 #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #d3a050;
+}
+
+.css-shop-1 .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-shop-1 .item-text-wrapper,
+.css-shop-1 .standard_hover .portfolio_overlay,
+.css-shop-1 .overlay-animation-1 .overlay_box,
+.css-shop-1 .overlay-animation-2 .overlay_box,
+.css-shop-1 .flip-hover .flip-box .content-box,
+.css-shop-1 .team-8 .team-image .overlay-team-box,
+.css-shop-1 .team-9 .team-image .overlay-team-box,
+.css-shop-1 .portfolio-animation-slide .sliding-content {
+  background-color: rgba(227, 172, 86, 0.9);
+}
+
+.css-shop-1 .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-shop-1 .team-2 .overlay-team-box,
+.css-shop-1 .team-6 .overlay-team-box,
+.css-shop-1 .team-7 .overlay-team-box,
+.css-shop-1 .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-shop-1 .contact-overlay-map .overlay-map-background,
+.css-shop-1 .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-shop-1 .table-style-7.table-withmaincolor tbody tr th,
+.css-shop-1 .table-style-2.table-withmaincolor tbody tr,
+.css-shop-1 .fc-bgevent,
+.css-shop-1 #particles-js.background-1 {
+  background-color: rgba(227, 172, 86, 0.6) !important;
+}
+
+.css-shop-1 .widget-dribbble-box .shots li a:hover:before, .css-shop-1 .dribbble-box .shots li a:hover:before,
+.css-shop-1 .instagram-widget a:hover:before {
+  background-color: rgba(227, 172, 86, 0.85);
+}
+
+.css-shop-1 .search-popup-box,
+.css-shop-1 .scroll-to-top-fixed {
+  background-color: rgba(227, 172, 86, 0.95);
+}
+
+.css-shop-1 .title-medium {
+  font-family: "Montserrat", serif;
+  font-size: 5em;
+  line-height: 1.5;
+  color: #fff;
+  text-transform: capitalize;
+  font-weight: 700;
+}
+
+.css-shop-1 .title-medium .tp-splitted.tp-linesplit {
+  text-transform: uppercase !important;
+}
+
+.css-shop-1 .background-2 .testimonial-single .slick-dots li button::before,
+.css-shop-1 .background-2 .slick-dots li button::before,
+.css-shop-1 .background-1 .testimonial-single .slick-dots li button::before,
+.css-shop-1 .background-1 .slick-dots li button::before,
+.css-shop-1 .background-3 .testimonial-single .slick-dots li button::before,
+.css-shop-1 .background-3 .slick-dots li button::before,
+.css-shop-1 .gray-background .testimonial-single .slick-dots li button::before,
+.css-shop-1 .gray-background-3 .slick-dots li button::before {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+.css-shop-1 .loader-3 {
+  border-top-color: rgba(227, 172, 86, 0.2);
+  border-right-color: rgba(227, 172, 86, 0.2);
+  border-bottom-color: rgba(227, 172, 86, 0.2);
+  border-left-color: #e3ac56;
+}
+
+.css-shop-1 .blockquote-style-2 blockquote::before,
+.css-shop-1 .blockquote-style-2 blockquote::after {
+  background-color: transparent !important;
+}
+
+.css-shop-1 #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-white .navbar-2 .search-navbar .btn-cart:hover {
+  color: rgba(255, 255, 255, 0.85) !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.css-shop-1 .blockquote-style-2 blockquote {
+  border-color: #dedede;
+}
+
+.css-shop-1 .icon-box-2-effect-4:hover .icon-block-2 span,
+.css-shop-1 .icon-box-2-effect-1:hover .icon-block-2 span {
+  color: #ffffff;
+}
+
+.css-shop-1 .icon-box.icon-fill:hover .icon-block,
+.css-shop-1 .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-shop-1 .cart-shop-products h3, .css-shop-1 .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-shop-1 .cart-shop-products-list li .csp-price, .css-shop-1 .sidebar-shop-products-list li .ssp-price,
+.css-shop-1 .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-shop-1 .shop-list .shop-product .shop-star-rating li.full-star,
+.css-shop-1 ul.shop-star-rating li.full-star {
+  color: #fe824c;
+}
+
+.css-shop-1 .shop-list .shop-product .shop-ribbon, .css-shop-1 .ui-slider-horizontal .ui-slider-range,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-shop-1 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #fe824c;
+}
+.css-shop-1 .loader-13 > div:last-child, 
+.css-shop-1 .loader-15 > div:last-child {
+  border-color: #e3ac56 transparent;
+}
+.css-shop-1 .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #e3ac56 30%, #e3ac56 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #e3ac56 30%, #e3ac56 100%);
+}

@@ -1,0 +1,853 @@
+/* Consult */
+body.css-insurance,
+.css-insurance p,
+.css-insurance h1,
+.css-insurance h2,
+.css-insurance h3,
+.css-insurance h4,
+.css-insurance h5,
+.css-insurance h6,
+.css-insurance .featured-content h1.small,
+.css-insurance .form-group > label,
+.css-insurance .checkbox > label,
+.css-insurance .alert > p,
+.css-insurance .block-content-wrapper h2,
+.css-insurance .intro-text h1, .intro-text h2,
+.css-insurance .intro-text h3, .intro-text h4,
+.css-insurance .intro-text h5, .intro-text h6,
+.css-insurance .restaurant-info-img-content h4,
+.css-insurance .contact-title h3 {
+  font-family: "Raleway", sans-serif;
+}
+
+.css-insurance h1, .css-insurance h2, .css-insurance h3, .css-insurance h4, .css-insurance h5, .css-insurance h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+.css-insurance .color-1 {
+  color: #03a9f5;
+}
+
+.css-insurance .background-1,
+.css-insurance .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-insurance .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-insurance .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #03a9f5 !important;
+}
+
+.css-insurance .color-2 {
+  color: #fe5722;
+}
+
+.css-insurance .background-2,
+.css-insurance .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-insurance .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-insurance .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #fe5722;
+}
+
+.css-insurance .color-3 {
+  color: #8b9db0;
+}
+
+.css-insurance .background-3,
+.css-insurance .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-insurance .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-insurance .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3,
+.css-insurance .blog-desc-details:after {
+  background-color: #8b9db0;
+}
+
+.css-insurance .call-to-action {
+  background-color: transparent !important;
+}
+
+.css-insurance .tp-caption .btn-default,
+.css-insurance .btn-default,
+.css-insurance .flex-control-paging li a.flex-active,
+.css-insurance .navbar-toggle,
+.css-insurance #mobile-navbar,
+.css-insurance .offscreen-container,
+.css-insurance .maincolor-background,
+.css-insurance ul.widget-ul li a > span,
+.css-insurance ul.widget-social li a:hover,
+.css-insurance #people .item .info,
+.css-insurance .main-color,
+.css-insurance .flexslider.clients .flex-control-paging li a.flex-active,
+.css-insurance #portfolio-filter li a:after,
+.css-insurance .navbar.banner--clone .nav li.active > a,
+.css-insurance .pagination-box .pager li a,
+.css-insurance .pricing-table-column.special-price-table .pricing-table-head,
+.css-insurance .pricing-table-column.special-price-table .pricing-table-content,
+.css-insurance .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-insurance .tags-cloud-list li a:hover,
+.css-insurance .progress-bar-box .progress-bar,
+.css-insurance .background-1,
+.css-insurance .selecter .selecter-item:hover,
+.css-insurance .selecter .selecter-item.selected:hover,
+.css-insurance #footer.colored,
+.css-insurance section.about-counter,
+.css-insurance .error-page-title:after,
+.css-insurance .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-insurance .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-insurance .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-insurance .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-insurance .tabpanel-style-4 .tab-content h3:after,
+.css-insurance .about-classic-column-themecolor,
+.css-insurance .selecter .selecter-item:hover,
+.css-insurance .selecter .selecter-item.selected:hover,
+.css-insurance .item-text-wrapper_overlay,
+.css-insurance .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-insurance .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-insurance .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-insurance .shop-type-2 a.add-to-cart-item,
+.css-insurance .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-insurance .navbar-2 .btn-cart .header-cart-count,
+.css-insurance .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-insurance .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-insurance .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-insurance .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-insurance .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-insurance .dropcap.dropcap-style-2,
+.css-insurance .alert-default,
+.css-insurance blockquote:before,
+.css-insurance blockquote:after,
+.css-insurance .tp-caption .btn-default,
+.css-insurance .btn-default,
+.css-insurance .content-title h5:before,
+.css-insurance .content-title h5:after,
+.css-insurance .icon-box.icon-fill .icon-block,
+.css-insurance .icon-box.icon-square:hover .icon-block,
+.css-insurance .icon-box.icon-circle:hover .icon-block,
+.css-insurance .icon-box.icon-square:hover .icon-block span,
+.css-insurance .icon-box.icon-circle:hover .icon-block span,
+.css-insurance .icon-type.it-main-color:hover,
+.css-insurance .icon-type.it-main-color:focus,
+.css-insurance .icon-type.it-main-color-reverse,
+.css-insurance .icon-type.it-main-color:hover span,
+.css-insurance .icon-type.it-main-color-reverse:hover span,
+.css-insurance .add-to-cart-form .count-input .count-plus:hover,
+.css-insurance .add-to-cart-form .count-input .count-minus:hover,
+.css-insurance .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-insurance .pricing-table-container.special-price-table,
+.css-insurance .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-insurance .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-insurance ul.forum-list li.forum-header,
+.css-insurance .textbox-withmaincolor,
+.css-insurance .background-1,
+.css-insurance .team-member-job,
+.css-insurance .team-section .team-desc-box:before,
+.css-insurance .team-section .team-desc-box:after,
+.css-insurance .shop-categories:hover .shop-title-categories,
+.css-insurance .content-divider-colored-bg [class^="icon-"],
+.css-insurance .overlay-animation-6 .content-box,
+.css-insurance .block-content-wrapper h1,
+.css-insurance .benefits-box h1,
+.css-insurance .selecter .selecter-item:hover,
+.css-insurance .selecter .selecter-item.selected:hover,
+.css-insurance .ui-slider .ui-slider-range,
+.css-insurance #header.header-main-color,
+.css-insurance .navbar-2.banner--clone.main-color-navbar,
+.css-insurance .tabpanel-style-center .nav-tabs > li.active > a,
+.css-insurance .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-insurance .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-insurance .label.label-primary,
+.css-insurance .label.label-primary,
+.css-insurance .star-rating .caption .label,
+.css-insurance .tparrows.preview5:hover,
+.css-insurance .table-style-4.table-withmaincolor thead tr th,
+.css-insurance .table-style-5.table-withmaincolor thead tr th,
+.css-insurance .table-style-6.table-withmaincolor thead tr th,
+.css-insurance .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-insurance .table-style-7.table-withmaincolor thead tr th,
+.css-insurance .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-insurance .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-insurance .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-insurance .table-style-2.table-withmaincolor thead tr th,
+.css-insurance .table-style-3.table-withmaincolor thead tr th,
+.css-insurance .table-style-3.table-withmaincolor tbody tr th,
+.css-insurance .parallax-withmaincolor,
+.css-insurance .contact-overlay-map .minimize-form:hover,
+.css-insurance .team-3:hover .team-social,
+.css-insurance .team-5:hover .team-social,
+.css-insurance .special-table-2,
+.css-insurance .special-table-3,
+.css-insurance span.pricing-3-discount,
+.css-insurance #vertical-timeline-container:before,
+.css-insurance .subscribe-fancy-themebg,
+.css-insurance .empty-cart,
+.css-insurance .team-4:hover .team-social,
+.css-insurance .content-divider-colored,
+.css-insurance .content-divider-colored-bg,
+.css-insurance .withmainbackground,
+.css-insurance .services-2-heading,
+.css-insurance .icon-box-2-effect-4 .icon-block-2,
+.css-insurance .services-2-heading,
+.css-insurance .promotion-box-theme-colored,
+.css-insurance .promotion-box-theme-colored .promotion-box-title h4,
+.css-insurance .icon-block-2,
+.css-insurance .icon-box-2-effect-2:hover .icon-block-2,
+.css-insurance .icon-box-2-effect-3 .icon-block-2:after,
+.css-insurance .icon-box-2-effect-4 .icon-block-2:after,
+.css-insurance .icon-box-2-effect-6 .icon-block-2,
+.css-insurance .icon-box-2-effect-6:hover .icon-block-2,
+.css-insurance .simple-icon-icon,
+.css-insurance a.call-to-action-link:hover,
+.css-insurance .add-to-cart-form .count-input .count-plus,
+.css-insurance .add-to-cart-form .count-input .count-minus,
+.css-insurance .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-insurance .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-insurance .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-insurance .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-insurance .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-insurance .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-insurance .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-insurance .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-insurance .special-price-box,
+.css-insurance .dropdown-menu > .active > a,
+.css-insurance .dropdown-menu > .active > a:focus,
+.css-insurance .dropdown-menu > .active > a:hover,
+.css-insurance #header.main-color-nav .navbar-2,
+.css-insurance .latest-post-data,
+.css-insurance .blog-single-post .bsp-heading h1,
+.css-insurance .testimonial-single .slick-dots li button:before,
+.css-insurance .slick-dots li button:before,
+.css-insurance .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-insurance .timeline-complete .timeline-status.timeline-active:before,
+.css-insurance .megamenu.maincolor,
+.css-insurance .dropdown.maincolor ul,
+.css-insurance .dropdown.maincolor ul.dropdown-menu,
+.css-insurance #footer.maincolor,
+.css-insurance #copyrights.maincolor,
+.css-insurance .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-insurance .cd-horizontal-timeline .events a.selected::after,
+.css-insurance .cd-horizontal-timeline .filling-line,
+.css-insurance .pinpulsebox span,
+.css-insurance .main-color-dropdown .megamenu,
+.css-insurance .main-color-dropdown .dropdown-menu,
+.css-insurance #cd-timeline::before,
+.css-insurance ul.icon-list.il-main-bg li [class^="icon-"],
+.css-insurance .process-steps ul li.current a .number,
+.css-insurance ol.ordered-list.ol-main-bg li:before,
+.css-insurance .irs-bar,
+.css-insurance .irs-from,
+.css-insurance .irs-to,
+.css-insurance .irs-single,
+.css-insurance .open > .dropdown-toggle.btn-default,
+.css-insurance .fc-unthemed .fc-today,
+.css-insurance .fc-content,
+.css-insurance #particles-js,
+.css-insurance .s-icon:hover,
+.css-insurance #progressbar li.active:before,
+.css-insurance #progressbar li.active:after,
+.css-insurance .pagination > .active > a,
+.css-insurance .pagination > .active > a:focus,
+.css-insurance .pagination > .active > a:hover,
+.css-insurance .pagination > .active > span,
+.css-insurance .pagination > .active > span:focus,
+.css-insurance .pagination > .active > span:hover,
+.css-insurance .portfolio-filter .selecter-item.activeFilter,
+.css-insurance .page-loader-spinner span,
+.css-insurance .loader-6:before,
+.css-insurance .loader-2,
+.css-insurance .loader-2:before,
+.css-insurance .loader-2:after,
+.css-insurance .loader-10 > div, 
+.css-insurance .loader-11 > div,
+.css-insurance .loader-13 > div:first-child, 
+.css-insurance .loader-14 > div, 
+.css-insurance .loader-16 > div, 
+.css-insurance .loader-17 > div, 
+.css-insurance .loader-17 > div:before, 
+.css-insurance .loader-17 > div:after, 
+.css-insurance .loader-18 > div, 
+.css-insurance .loader-19 > div, 
+.css-insurance .loader-20 > div, 
+.css-insurance .loader-22 > div, 
+.css-insurance .loader-23 > div, 
+.css-insurance .loader-24 > div, 
+.css-insurance .loader-25 > div, 
+.css-insurance .loader-26 > div, 
+.css-insurance .loader-27 > div, 
+.css-insurance .loader-28 > div, 
+.css-insurance .loader-29 > div, 
+.css-insurance .loader-32 > div, 
+.css-insurance .loader-33 > div, 
+.css-insurance .loader-35 > div:nth-child(3), 
+.css-insurance .loader-35 > div:nth-child(4), 
+.css-insurance .loader-35 > div:nth-child(5),
+.css-insurance .loader-35 > div:nth-child(6), 
+.css-insurance .loader-37 > div, 
+.css-insurance .loader-38 > div,
+.css-insurance .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-insurance .radio input[type=radio]:checked ~ .check, 
+.css-insurance .vlt-btn-group .dropdown-menu li a:hover, 
+.css-insurance .gsi-step-indicator.triangle li.current>*, 
+.css-insurance .gsi-style-4 li.current>*, 
+.css-insurance .gsi-style-5 li.current>*, 
+.css-insurance .gsi-style-6 li.current>* .number, 
+.css-insurance .gsi-style-7 li.current:hover>*, 
+.css-insurance .gsi-style-8 li.visited>*, 
+.css-insurance .gsi-style-8 li.current>*, 
+.css-insurance .gsi-style-9 li.visited>*:after, 
+.css-insurance .gsi-style-9 li.current>*:after, 
+.css-insurance .gsi-style-10 li.visited>*:after, 
+.css-insurance .gsi-style-10 li.current>*:after, 
+.css-insurance .gsi-style-11 li.current:before, 
+.css-insurance .gsi-style-11 li.current:after, 
+.css-insurance .gsi-style-11 li.visited:before, 
+.css-insurance .gsi-style-11 li.visited:after, 
+.css-insurance .gsi-style-11 li.visited>*:after, 
+.css-insurance .gsi-style-11 li.current>*:after, 
+.css-insurance .flatpickr-day.today:focus, 
+.css-insurance .flatpickr-day.today:hover {
+  background-color: #03a9f5 !important;
+}
+
+.css-insurance .header-content .phone-number span,
+.css-insurance .intro-block h6,
+.css-insurance .icon-block [class^="icon-"],
+.css-insurance ul.header-links li a:hover,
+.css-insurance .navbar.banner--clone .nav > li > a:hover,
+.css-insurance .navbar.banner--clone .btn-search:hover,
+.css-insurance .success-lg:hover [class^="icon-"],
+.css-insurance #copyrights ul li a:hover,
+.css-insurance #copyrights a:hover,
+.css-insurance .breadcrumb > .active,
+.css-insurance #portfolio-filter li a.activeFilter,
+.css-insurance #portfolio-filter li a:hover,
+.css-insurance .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-insurance a.image_zoom:hover [class^="icon-"],
+.css-insurance a.image_link:hover [class^="icon-"],
+.css-insurance a.load-more-btn:hover,
+.css-insurance a.load-more-btn:hover [class^="icon-"],
+.css-insurance .intro-block h1 [class^="icon-"],
+.css-insurance .shop-list .shop-product h4 a:hover,
+.css-insurance ul#portfolio-layout-filter li a.active,
+.css-insurance .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-insurance ul.sidebar-shop-cat > li span,
+.css-insurance .shop-price,
+.css-insurance ul.sidebar-shop-cat > li > a:hover,
+.css-insurance a.load-more-btn:hover,
+.css-insurance a.load-more-btn:hover [class^="icon-"],
+.css-insurance .intro-block h1 [class^="icon-"],
+.css-insurance .shop-list .shop-product h4 a:hover,
+.css-insurance ul#portfolio-layout-filter li a.active,
+.css-insurance .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-insurance ul.sidebar-cat > li span,
+.css-insurance .shop-price,
+.css-insurance ul.sidebar-cat > li > a:hover,
+.css-insurance ul.jobs-list li [class^="icon-"],
+.css-insurance .team-social a:hover,
+.css-insurance .icon-default,
+.css-insurance .error-page-icon span [class^="icon-"],
+.css-insurance .footer-3-container-text a:hover,
+.css-insurance .testimonials-box .testimonial-author,
+.css-insurance #page-title.image-page-title-fullwidth h1,
+.css-insurance #page-title.image-page-title-left.image-page-noimage h2,
+.css-insurance ul.services-2-icons,
+.css-insurance ul.shop-layout-filter li a.active,
+.css-insurance ul.portfolio-layout-filter li a.active,
+.css-insurance ul.porfolio-project-details-list > li .ppd-right,
+.css-insurance ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-insurance .related-projects-title .slick-custom-next:hover,
+.css-insurance .related-projects-title .slick-custom-prev:hover,
+.css-insurance .recent-post-content a:hover,
+.css-insurance .form-group.login-form-submit a,
+.css-insurance .shop-type-1 a.add-to-cart-item:before,
+.css-insurance .shop-type-2 a.add-to-cart-item:before,
+.css-insurance a.form-forgotpass,
+.css-insurance .sidebar-shop-products-list li .ssp-title:hover,
+.css-insurance .restaurant-info ul li [class^="icon-"],
+.css-insurance .navbar-default.default .btn-cart .header-cart-count,
+.css-insurance .cart-shop-products-list li .csp-title:hover,
+.css-insurance .blog-list > article .blog-desc h4 a:hover,
+.css-insurance .blog-list > article .blog-desc h4 a:focus,
+.css-insurance .blog-list-full > article .blog-desc h4 a:hover,
+.css-insurance .blog-list-full > article .blog-desc h4 a:focus,
+.css-insurance .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-insurance .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-insurance .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-insurance .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-insurance .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-insurance .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-insurance .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-insurance .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-insurance .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-insurance .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-insurance .blog-masonry > article .blog-desc h4 a:hover,
+.css-insurance .blog-masonry > article .blog-desc h4 a:focus,
+.css-insurance .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-insurance .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-insurance .comment_response .media h6 a,
+.css-insurance .comment_response .media_cloud a.reply_link,
+.css-insurance .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-insurance .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-insurance .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-insurance .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-insurance .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-insurance .dropcap.dropcap-style-1,
+.css-insurance .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-insurance .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-insurance .counter-box .count-icon,
+.css-insurance .counter-style-1 .counter-box h4,
+.css-insurance .icon-type,
+.css-insurance .icon-type.it-main-color,
+.css-insurance .icon-type.it-main-color-reverse:hover,
+.css-insurance .icon-type.it-main-color-reverse:focus,
+.css-insurance .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-insurance .comment_response .media h6 a,
+.css-insurance .comment_response .media_cloud a.reply_link,
+.css-insurance .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-insurance .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-insurance .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-insurance .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-insurance .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-insurance .dropcap.dropcap-style-1,
+.css-insurance .btn-default-reverse,
+.css-insurance .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-insurance .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-insurance .counter-box .count-icon,
+.css-insurance .counter-style-1 .counter-box h4,
+.css-insurance .icon-type,
+.css-insurance .icon-type.it-main-color,
+.css-insurance .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-insurance .icon-type.it-main-color-reverse:focus,
+.css-insurance .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-insurance .review_response .media h6 a,
+.css-insurance .review_response .media_cloud .shop-star-rating li.full-star,
+.css-insurance .rating-container .rating-stars,
+.css-insurance .form-contact small,
+.css-insurance ul.icon-list li a:hover,
+.css-insurance ul.icon-list li a:active,
+.css-insurance ul.icon-list li a:focus,
+.css-insurance .checkout-sum,
+.css-insurance .checkout-table td a:hover,
+.css-insurance .checkout-box a,
+.css-insurance .user-profile-list ul li a:hover,
+.css-insurance a.profile-active,
+.css-insurance .user-profile-content h2,
+.css-insurance .forum-content-header span a,
+.css-insurance .recent-work-content a:hover,
+.css-insurance .recent-work-image-content a:hover,
+.css-insurance .contact-overlay-map .maximize-form:hover,
+.css-insurance .hero-slier-nav-content:hover [class^="icon-"],
+.css-insurance .selected .hero-slier-nav-content [class^="icon-"],
+.css-insurance .team-social a:hover,
+.css-insurance .team-name h5 a:hover,
+.css-insurance .clients-slick-nav .slick-custom-next:hover,
+.css-insurance .clients-slick-nav .slick-custom-prev:hover,
+.css-insurance .services-pricing-icon [class^="icon-"],
+.css-insurance .brand [class^="icon-"],
+.css-insurance .content-divider-colored [class^="icon-"],
+.css-insurance .divider-content h1 span,
+.css-insurance .divider-content h2 span,
+.css-insurance .divider-content h3 span,
+.css-insurance .intro-page-content a:hover,
+.css-insurance .image-box-content a:hover,
+.css-insurance .icon-type.it-main-color [class^="icon-"],
+.css-insurance .icon-type-2:hover p,
+.css-insurance .icon-type-2:hover span.icon-type-2-icon,
+.css-insurance .heading-container .head-colored,
+.css-insurance ul.home-6-list li h4 [class^="icon-"],
+.css-insurance .icon-box-2-effect-1:hover .icon-block-2,
+.css-insurance .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-insurance .icon-box-2-effect-4:hover .icon-block-2,
+.css-insurance .icon-box-2-effect-4-reverse .icon-block-2,
+.css-insurance .icon-box-2-effect-5:hover .icon-block-2,
+.css-insurance .simple-icon-lightbg [class^="icon-"],
+.css-insurance .newsletter-signup button,
+.css-insurance a.add-to-wishlist.select,
+.css-insurance a.add-to-wishlist.select [class^="icon-"],
+.css-insurance .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-insurance .panel-body ul li a:hover,
+.css-insurance .colored,
+.css-insurance .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-insurance .tabpanel-style-6 .nav-tabs > li > a,
+.css-insurance .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-insurance .tp_caption_big span,
+.css-insurance ul.icon-box-simple li:hover a,
+.css-insurance .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-insurance .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-insurance .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-insurance .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-insurance .blockquote-author p,
+.css-insurance .testimonial-author,
+.css-insurance .latest-post-content h1 a:hover,
+.css-insurance .post-by a:hover,
+.css-insurance .latest-post-content .read-more-link,
+.css-insurance .blog-horizontal .bh-content h3 a:hover,
+.css-insurance .blog-horizontal .bh-content .bh-details a:hover,
+.css-insurance .blog-horizontal .bh-content .bh-details a:hover span,
+.css-insurance a.bsp-title:hover,
+.css-insurance .sidebar-blog-post-list li .sbp-title:hover,
+.css-insurance .navbar-nav > li.active,
+.css-insurance .navbar-nav > li.active:hover,
+.css-insurance a.idb-social:hover,
+.css-insurance a.idb-social:hover span,
+.css-insurance a.idb-price,
+.css-insurance span.pts-raised,
+.css-insurance .bsp-social a:hover,
+.css-insurance .bsp-social a [class^="icon-"]:hover,
+.css-insurance a.bsp-more:hover,
+.css-insurance .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-insurance .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-insurance .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-insurance .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-insurance .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-insurance .gallery-block .gallery-box .gallery-meta a:hover,
+.css-insurance .gallery-block .gallery-box .gallery-meta a:focus,
+.css-insurance .cd-timeline-inner-content a:hover,
+.css-insurance .testimonial-box .testimonial-author span,
+.css-insurance .fic-date a:hover,
+.css-insurance .forum-inner-content h1 a:hover,
+.css-insurance .user-profile-desc a:hover,
+.css-insurance .cd-timeline-navigation a:hover::after,
+.css-insurance .login-form .login-input-box [class^="icon-"],
+.css-insurance .icon-input-box [class^="icon-"],
+.css-insurance ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-insurance ul.bar-chart-graph li,
+.css-insurance ul.line-graph li,
+.css-insurance ul.donut-graph li,
+.css-insurance .tp-caption.Creative-SubTitle,
+.css-insurance .Creative-SubTitle,
+.css-insurance .tp-caption.vlt-hero-rotating,
+.css-insurance .pagination > li > a:focus,
+.css-insurance .pagination > li > a:hover,
+.css-insurance .pagination > li > span:focus,
+.css-insurance .pagination > li > span:hover,
+.css-insurance .pager li > a,
+.css-insurance ul.recent-post-widget .rp-post a:hover,
+.css-insurance .tp-tab.selected span.tp-tab-title span,
+.css-insurance .tp-tab.selected span.tp-tab-title,
+.css-insurance .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-insurance .tp-main-color,
+.css-insurance .loader-5,
+.css-insurance .loader-7,
+.css-insurance .loader-9,
+.css-insurance .loader-2,
+.css-insurance .loader-4,
+.css-insurance .gsi-style-9 li.visited>*, 
+.css-insurance .gsi-style-9 li.current>*,
+.css-insurance .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-insurance .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #03a9f5 !important;
+}
+
+.css-insurance .tp-caption .btn-default,
+.css-insurance .btn-default,
+.css-insurance .flex-control-paging li a.flex-active,
+.css-insurance .flexslider.clients .flex-control-paging li a.flex-active,
+.css-insurance .pagination-box .pager li a,
+.css-insurance .contact-info-3,
+.css-insurance .tags-cloud-list li a:hover,
+.css-insurance .team-social a:hover,
+.css-insurance .contact-title-one h3:after,
+.css-insurance .home-title-one h3:after,
+.css-insurance #login-form .login-input:active,
+.css-insurance #login-form .login-input:focus,
+.css-insurance .load-more-wrapper a.load-more-btn:hover,
+.css-insurance #register-form .register-input:active,
+.css-insurance #register-form .register-input:focus,
+.css-insurance .dropcap.dropcap-style-1,
+.css-insurance .dropcap.dropcap-style-2,
+.css-insurance .alert-default,
+.css-insurance blockquote,
+.css-insurance .tp-caption .btn-default,
+.css-insurance .btn-default,
+.css-insurance .btn-default-reverse,
+.css-insurance .icon-box.icon-square .icon-block,
+.css-insurance .icon-box.icon-circle .icon-block,
+.css-insurance .icon-type.it-main-color,
+.css-insurance .icon-type.it-main-color:hover,
+.css-insurance .icon-type.it-main-color:focus,
+.css-insurance .icon-type.it-main-color-reverse,
+.css-insurance .icon-type.it-main-color-reverse:hover,
+.css-insurance .icon-type.it-main-color-reverse:focus,
+.css-insurance .add-to-cart-form .count-input .count-plus:hover,
+.css-insurance .add-to-cart-form .count-input .count-minus:hover,
+.css-insurance #reviewmodal .modal-header,
+.css-insurance .job-left-title h3,
+.css-insurance .pricing-table-container.special-price-table,
+.css-insurance .clients-slick-nav .slick-custom-next:hover,
+.css-insurance .clients-slick-nav .slick-custom-prev:hover,
+.css-insurance a.add-to-wishlist.select,
+.css-insurance a.add-to-wishlist.select [class^="icon-"],
+.css-insurance .tabpanel-style-8 .nav-tabs > li.active,
+.css-insurance a.btn-default.btn-animation-icon-box,
+.css-insurance .btn-default.btn-animation-icon-box:hover,
+.css-insurance .btn-default.btn-animation-icon-box:focus,
+.css-insurance .btn-default.btn-animation-icon-box:active,
+.css-insurance .tp-caption a.btn-default.btn-animation-icon-box,
+.css-insurance .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-insurance .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-insurance .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-insurance .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-insurance .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-insurance .clients-slick-nav .slick-clients-prev:hover,
+.css-insurance .clients-slick-nav .slick-clients-next:hover,
+.css-insurance .bsp-image,
+.css-insurance .blog-list > article.default-post .blog-desc,
+.css-insurance .testimonial-single li.slick-active button::before,
+.css-insurance .slick-dots li.slick-active button:before,
+.css-insurance .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-insurance .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-insurance .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-insurance .timeline-status.timeline-active:before,
+.css-insurance .cd-horizontal-timeline .events a.older-event::after,
+.css-insurance .cd-horizontal-timeline .events a.selected::after,
+.css-insurance .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-insurance .no-touch .cd-timeline-navigation a:hover,
+.css-insurance .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-insurance .cd-timeline-navigation a:hover,
+.css-insurance .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-insurance .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-insurance .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-insurance .login-form input:focus,
+.css-insurance .pinpulse,
+.css-insurance .open > .dropdown-toggle.btn-default,
+.css-insurance .pagination > .active > a,
+.css-insurance .pagination > .active > a:focus,
+.css-insurance .pagination > .active > a:hover,
+.css-insurance .pagination > .active > span,
+.css-insurance .pagination > .active > span:focus,
+.css-insurance .pagination > .active > span:hover,
+.css-insurance .table-style-1 thead tr th,
+.css-insurance .table-style-1 tbody tr:last-child th,
+.css-insurance .table-style-1 tbody tr:last-child td,
+.css-insurance .table-withmaincolor thead tr th,
+.css-insurance .clients-title-border h3,
+.css-insurance .cd-slider-nav li:hover,
+.css-insurance .selected,
+.css-insurance .job-form input:focus,
+.css-insurance .job-form select:focus,
+.css-insurance .job-form textarea:focus,
+.css-insurance .form-contact input:focus,
+.css-insurance .form-contact select:focus,
+.css-insurance .form-contact textarea:focus,
+.css-insurance .form-contact input:focus,
+.css-insurance .icon-type-2:hover p,
+.css-insurance .icon-type-2:hover span.icon-type-2-icon,
+.css-insurance .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-insurance .activeFilter,
+.css-insurance .loader-30 > div, 
+.css-insurance .loader-31 > div, 
+.css-insurance .loader-35 > div:first-of-type, 
+.css-insurance .loader-35 > div:nth-child(2),
+.css-insurance .loader-12 > div,
+.css-insurance .loader-15 > div,
+.css-insurance .loader-21 > div,
+.css-insurance .radio input[type=radio]:checked ~ .circle, 
+.css-insurance .gsi-step-indicator.triangle li.current>*, 
+.css-insurance .gsi-style-7.border-right li.current>*, 
+.css-insurance .gsi-style-7.border-bottom li.current>*, 
+.css-insurance .gsi-style-7.border-left li.current>*, 
+.css-insurance .flatpickr-day.today, 
+.css-insurance .flatpickr-day.today:focus, 
+.css-insurance .flatpickr-day.today:hover {
+    border-color:  #03a9f5;
+}
+
+.css-insurance .tabpanel-style-4 .nav-tabs > li.active,
+.css-insurance .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-insurance .tabpanel-style-5 .nav-tabs > li.active,
+.css-insurance .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #03a9f5 transparent;
+}
+
+.css-insurance .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #03a9f5;
+}
+
+.css-insurance .icon-box-2-effect-4 .icon-block-2,
+.css-insurance .icon-box-2-effect-5 .icon-block-2,
+.css-insurance .icon-box-2-effect-5:hover .icon-block-2,
+.css-insurance .icon-box-2-effect-1 .icon-block-2:after,
+.css-insurance .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #03a9f5;
+}
+
+.css-insurance .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #03a9f5;
+}
+
+.css-insurance .empty-cart:after, .css-insurance .loader-34 > div  {
+  border-bottom-color: #03a9f5;
+}
+
+.css-insurance .btn-default-reverse:hover,
+.css-insurance .btn-default-reverse:focus {
+  background-color: #03a9f5 !important;
+  border-color: #03a9f5 !important;
+}
+
+.css-insurance .tp-caption .btn-default.active,
+.css-insurance .btn-default.active,
+.css-insurance .tp-caption .btn-default.focus,
+.css-insurance .btn-default.focus,
+.css-insurance .tp-caption .btn-default:active,
+.css-insurance .btn-default:active,
+.css-insurance .tp-caption .btn-default:focus,
+.css-insurance .btn-default:focus,
+.css-insurance .tp-caption .btn-default:hover,
+.css-insurance .btn-default:hover,
+.css-insurance .tp-caption .btn-white:hover,
+.css-insurance .btn-white:hover {
+  background-color: #039adf !important;
+  border-color: #039adf !important;
+}
+
+.css-insurance .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #03a9f5;
+}
+
+.css-insurance #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-insurance #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-insurance #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-insurance #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-insurance #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-insurance #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-insurance #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-insurance #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #03a9f5;
+}
+
+.css-insurance #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-insurance #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-insurance span.latest-post-month,
+.css-insurance .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-insurance .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #039adf;
+}
+
+.css-insurance #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-insurance #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-insurance #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-insurance #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-insurance #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-insurance #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-insurance #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-insurance #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-insurance #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-insurance #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-insurance #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-insurance #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-insurance #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-insurance #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-insurance #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-insurance #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-insurance #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-insurance #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #039adf;
+  border-color: #039adf;
+}
+
+.css-insurance #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-insurance #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #039adf;
+}
+
+.css-insurance .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-insurance .item-text-wrapper,
+.css-insurance .standard_hover .portfolio_overlay,
+.css-insurance .overlay-animation-1 .overlay_box,
+.css-insurance .overlay-animation-2 .overlay_box,
+.css-insurance .flip-hover .flip-box .content-box,
+.css-insurance .team-8 .team-image .overlay-team-box,
+.css-insurance .team-9 .team-image .overlay-team-box,
+.css-insurance .portfolio-animation-slide .sliding-content {
+  background-color: rgba(3, 169, 245, 0.9);
+}
+
+.css-insurance .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-insurance .team-2 .overlay-team-box,
+.css-insurance .team-6 .overlay-team-box,
+.css-insurance .team-7 .overlay-team-box,
+.css-insurance .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-insurance .contact-overlay-map .overlay-map-background,
+.css-insurance .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-insurance .table-style-7.table-withmaincolor tbody tr th,
+.css-insurance .table-style-2.table-withmaincolor tbody tr,
+.css-insurance .fc-bgevent,
+.css-insurance #particles-js.background-1 {
+  background-color: rgba(3, 169, 245, 0.6) !important;
+}
+
+.css-insurance .widget-dribbble-box .shots li a:hover:before, .css-insurance .dribbble-box .shots li a:hover:before,
+.css-insurance .instagram-widget a:hover:before {
+  background-color: rgba(3, 169, 245, 0.85);
+}
+
+.css-insurance .search-popup-box,
+.css-insurance .scroll-to-top-fixed {
+  background-color: rgba(3, 169, 245, 0.95);
+}
+
+.css-insurance .gray-background .testimonial-single li.slick-active button:before,
+.css-insurance .gray-background li.slick-active button:before {
+  background-color: transparent !important;
+  border-color: #777 !important;
+}
+
+.css-insurance .transparent-background .testimonial-single li.slick-active button:before,
+.css-insurance .transparent-background li.slick-active button:before {
+  background-color: transparent !important;
+  border-color: #ffffff !important;
+}
+
+.css-insurance .background-1 .testimonial-single li.slick-active button:before,
+.css-insurance .background-1 li.slick-active button:before,
+.css-insurance .background-2 .testimonial-single li.slick-active button:before,
+.css-insurance .background-2 li.slick-active button:before,
+.css-insurance .background-3 .testimonial-single li.slick-active button:before,
+.css-insurance .background-3 li.slick-active button:before,
+.css-insurance .white-dots .slick-dots li.slick-active button:before {
+  background-color: transparent !important;
+  border-color: #ffffff !important;
+}
+
+.css-insurance .background-2 .testimonial-single .slick-dots li button::before,
+.css-insurance .background-2 .slick-dots li button::before {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+.css-insurance .gsi-style-4 li.current>* .number:before{
+  border-left-color: #03a9f5;
+}
+.css-insurance .gsi-style-7.border-top li.current>*{
+  border-top-color: #03a9f5;
+}
+.css-insurance .loader-3 {
+  border-top-color: rgba(3, 169, 245, 0.2);
+  border-right-color: rgba(3, 169, 245, 0.2);
+  border-bottom-color: rgba(3, 169, 245, 0.2);
+  border-left-color: #03a9f5;
+}
+
+.css-insurance .icon-box.icon-fill:hover .icon-block,
+.css-insurance .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-insurance .cart-shop-products h3, .css-insurance .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-insurance .cart-shop-products-list li .csp-price, .css-insurance .sidebar-shop-products-list li .ssp-price,
+.css-insurance .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-insurance .shop-list .shop-product .shop-star-rating li.full-star,
+.css-insurance ul.shop-star-rating li.full-star {
+  color: #8b9db0;
+}
+
+.css-insurance .shop-list .shop-product .shop-ribbon, .css-insurance .ui-slider-horizontal .ui-slider-range,
+.css-insurance .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-insurance .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #8b9db0;
+}
+.css-insurance .loader-13 > div:last-child, 
+.css-insurance .loader-15 > div:last-child {
+  border-color: #03a9f5 transparent;
+}
+.css-insurance .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #03a9f5 30%, #03a9f5 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #03a9f5 30%, #03a9f5 100%);
+}

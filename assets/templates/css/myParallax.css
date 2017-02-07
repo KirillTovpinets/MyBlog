@@ -1,0 +1,10 @@
+.parallax-img{
+    height:100vh;
+    position:relative;
+    overflow:hidden;
+}
+
+.parallax-img img{
+    position:absolute;
+    width: 100%;
+}

@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3f7362bacdfce4255dcd851113f7db55',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '52eab64e3717cb730be069c35ec9a735',
+  'native_key' => 'modxtalks.gravatar',
+  'object' => '{"key":"modxtalks.gravatar","value":true,"xtype":"combo-boolean","namespace":"modxtalks","area":"settings","editedon":null}',
+);

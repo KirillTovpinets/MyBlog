@@ -1,0 +1,843 @@
+/* Magazine */
+body.css-magazine,
+.css-magazine p,
+.css-magazine h1,
+.css-magazine h2,
+.css-magazine h3,
+.css-magazine h4,
+.css-magazine h5,
+.css-magazine h6,
+.css-magazine .featured-content h1.small,
+.css-magazine .form-group > label,
+.css-magazine .checkbox > label,
+.css-magazine .alert > p,
+.css-magazine .block-content-wrapper h2,
+.css-magazine .intro-text h1, .intro-text h2,
+.css-magazine .intro-text h3, .intro-text h4,
+.css-magazine .intro-text h5, .intro-text h6,
+.css-magazine .restaurant-info-img-content h4,
+.css-magazine .contact-title h3 {
+  font-family: "Droid Sans", sans-serif;
+}
+
+.css-magazine h1, .css-magazine h2, .css-magazine h3, .css-magazine h4, .css-magazine h5, .css-magazine h6,
+.blog-list > article .blog-post-2 .bp2-desc h4 {
+  font-family: "Droid Sans", sans-serif;
+}
+
+.css-magazine .color-1 {
+  color: #4fbcdb !important;
+}
+
+.css-magazine .background-1,
+.css-magazine .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-magazine .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-magazine .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #4fbcdb !important;
+}
+
+.css-magazine .color-2 {
+  color: #82ca9c !important;
+}
+
+.css-magazine .background-2,
+.css-magazine .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-magazine .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-magazine .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #82ca9c !important;
+}
+
+.css-magazine .color-3 {
+  color: #f47f4a !important;
+}
+
+.css-magazine .background-3,
+.css-magazine .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-magazine .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-magazine .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3 {
+  background-color: #f47f4a !important;
+}
+
+.css-magazine .background-1.bcategories-label:hover {
+  background-color: #42b4d4 !important;
+}
+
+.css-magazine .background-2.bcategories-label:hover {
+  background-color: #72c28f !important;
+}
+
+.css-magazine .background-3.bcategories-label:hover {
+  background-color: #ed743b !important;
+}
+
+.css-magazine .call-to-action {
+  background-color: transparent !important;
+}
+
+.css-magazine .tp-caption .btn-default,
+.css-magazine .btn-default,
+.css-magazine .flex-control-paging li a.flex-active,
+.css-magazine .navbar-toggle,
+.css-magazine #mobile-navbar,
+.css-magazine .offscreen-container,
+.css-magazine .maincolor-background,
+.css-magazine ul.widget-ul li a > span,
+.css-magazine ul.widget-social li a:hover,
+.css-magazine #people .item .info,
+.css-magazine .main-color,
+.css-magazine .flexslider.clients .flex-control-paging li a.flex-active,
+.css-magazine #portfolio-filter li a:after,
+.css-magazine .navbar.banner--clone .nav li.active > a,
+.css-magazine .pagination-box .pager li a,
+.css-magazine .pricing-table-column.special-price-table .pricing-table-head,
+.css-magazine .pricing-table-column.special-price-table .pricing-table-content,
+.css-magazine .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-magazine .tags-cloud-list li a:hover,
+.css-magazine .progress-bar-box .progress-bar,
+.css-magazine .background-1,
+.css-magazine .selecter .selecter-item:hover,
+.css-magazine .selecter .selecter-item.selected:hover,
+.css-magazine #footer.colored,
+.css-magazine section.about-counter,
+.css-magazine .error-page-title:after,
+.css-magazine .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-magazine .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-magazine .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-magazine .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-magazine .tabpanel-style-4 .tab-content h3:after,
+.css-magazine .about-classic-column-themecolor,
+.css-magazine .selecter .selecter-item:hover,
+.css-magazine .selecter .selecter-item.selected:hover,
+.css-magazine .item-text-wrapper_overlay,
+.css-magazine .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-magazine .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-magazine .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-magazine .shop-type-2 a.add-to-cart-item,
+.css-magazine .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-magazine .navbar-2 .btn-cart .header-cart-count,
+.css-magazine .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-magazine .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-magazine .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-magazine .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-magazine .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-magazine .dropcap.dropcap-style-2,
+.css-magazine .alert-default,
+.css-magazine blockquote:before,
+.css-magazine blockquote:after,
+.css-magazine .tp-caption .btn-default,
+.css-magazine .btn-default,
+.css-magazine .content-title h5:before,
+.css-magazine .content-title h5:after,
+.css-magazine .icon-box.icon-fill .icon-block,
+.css-magazine .icon-box.icon-square:hover .icon-block,
+.css-magazine .icon-box.icon-circle:hover .icon-block,
+.css-magazine .icon-box.icon-square:hover .icon-block span,
+.css-magazine .icon-box.icon-circle:hover .icon-block span,
+.css-magazine .icon-type.it-main-color:hover,
+.css-magazine .icon-type.it-main-color:focus,
+.css-magazine .icon-type.it-main-color-reverse,
+.css-magazine .icon-type.it-main-color:hover span,
+.css-magazine .icon-type.it-main-color-reverse:hover span,
+.css-magazine .add-to-cart-form .count-input .count-plus:hover,
+.css-magazine .add-to-cart-form .count-input .count-minus:hover,
+.css-magazine .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-magazine .pricing-table-container.special-price-table,
+.css-magazine .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-magazine .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-magazine ul.forum-list li.forum-header,
+.css-magazine .textbox-withmaincolor,
+.css-magazine .background-1,
+.css-magazine .team-member-job,
+.css-magazine .team-section .team-desc-box:before,
+.css-magazine .team-section .team-desc-box:after,
+.css-magazine .shop-categories:hover .shop-title-categories,
+.css-magazine .content-divider-colored-bg [class^="icon-"],
+.css-magazine .overlay-animation-6 .content-box,
+.css-magazine .block-content-wrapper h1,
+.css-magazine .benefits-box h1,
+.css-magazine .selecter .selecter-item:hover,
+.css-magazine .selecter .selecter-item.selected:hover,
+.css-magazine .ui-slider .ui-slider-range,
+.css-magazine #header.header-main-color,
+.css-magazine .navbar-2.banner--clone.main-color-navbar,
+.css-magazine .tabpanel-style-center .nav-tabs > li.active > a,
+.css-magazine .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-magazine .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-magazine .label.label-primary,
+.css-magazine .label.label-primary,
+.css-magazine .star-rating .caption .label,
+.css-magazine .tparrows.preview5:hover,
+.css-magazine .table-style-4.table-withmaincolor thead tr th,
+.css-magazine .table-style-5.table-withmaincolor thead tr th,
+.css-magazine .table-style-6.table-withmaincolor thead tr th,
+.css-magazine .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-magazine .table-style-7.table-withmaincolor thead tr th,
+.css-magazine .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-magazine .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-magazine .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-magazine .table-style-2.table-withmaincolor thead tr th,
+.css-magazine .table-style-3.table-withmaincolor thead tr th,
+.css-magazine .table-style-3.table-withmaincolor tbody tr th,
+.css-magazine .parallax-withmaincolor,
+.css-magazine .contact-overlay-map .minimize-form:hover,
+.css-magazine .team-3:hover .team-social,
+.css-magazine .team-5:hover .team-social,
+.css-magazine .special-table-2,
+.css-magazine .special-table-3,
+.css-magazine span.pricing-3-discount,
+.css-magazine #vertical-timeline-container:before,
+.css-magazine .subscribe-fancy-themebg,
+.css-magazine .empty-cart,
+.css-magazine .team-4:hover .team-social,
+.css-magazine .content-divider-colored,
+.css-magazine .content-divider-colored-bg,
+.css-magazine .withmainbackground,
+.css-magazine .services-2-heading,
+.css-magazine .icon-box-2-effect-4 .icon-block-2,
+.css-magazine .services-2-heading,
+.css-magazine .promotion-box-theme-colored,
+.css-magazine .promotion-box-theme-colored .promotion-box-title h4,
+.css-magazine .icon-block-2,
+.css-magazine .icon-box-2-effect-2:hover .icon-block-2,
+.css-magazine .icon-box-2-effect-3 .icon-block-2:after,
+.css-magazine .icon-box-2-effect-4 .icon-block-2:after,
+.css-magazine .icon-box-2-effect-6 .icon-block-2,
+.css-magazine .icon-box-2-effect-6:hover .icon-block-2,
+.css-magazine .simple-icon-icon,
+.css-magazine a.call-to-action-link:hover,
+.css-magazine .add-to-cart-form .count-input .count-plus,
+.css-magazine .add-to-cart-form .count-input .count-minus,
+.css-magazine .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-magazine .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-magazine .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-magazine .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-magazine .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-magazine .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-magazine .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-magazine .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-magazine .special-price-box,
+.css-magazine .dropdown-menu > .active > a,
+.css-magazine .dropdown-menu > .active > a:focus,
+.css-magazine .dropdown-menu > .active > a:hover,
+.css-magazine #header.main-color-nav .navbar-2,
+.css-magazine .latest-post-data,
+.css-magazine .blog-single-post .bsp-heading h1,
+.css-magazine .testimonial-single .slick-dots li button:before,
+.css-magazine .slick-dots li button:before,
+.css-magazine .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-magazine .timeline-complete .timeline-status.timeline-active:before,
+.css-magazine .megamenu.maincolor,
+.css-magazine .dropdown.maincolor ul,
+.css-magazine .dropdown.maincolor ul.dropdown-menu,
+.css-magazine #footer.maincolor,
+.css-magazine #copyrights.maincolor,
+.css-magazine .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-magazine .cd-horizontal-timeline .events a.selected::after,
+.css-magazine .cd-horizontal-timeline .filling-line,
+.css-magazine .pinpulsebox span,
+.css-magazine .main-color-dropdown .megamenu,
+.css-magazine .main-color-dropdown .dropdown-menu,
+.css-magazine #cd-timeline::before,
+.css-magazine ul.icon-list.il-main-bg li [class^="icon-"],
+.css-magazine .process-steps ul li.current a .number,
+.css-magazine ol.ordered-list.ol-main-bg li:before,
+.css-magazine .irs-bar,
+.css-magazine .irs-from,
+.css-magazine .irs-to,
+.css-magazine .irs-single,
+.css-magazine .open > .dropdown-toggle.btn-default,
+.css-magazine .fc-unthemed .fc-today,
+.css-magazine .fc-content,
+.css-magazine #particles-js,
+.css-magazine .s-icon:hover,
+.css-magazine #progressbar li.active:before,
+.css-magazine #progressbar li.active:after,
+.css-magazine .pagination > .active > a,
+.css-magazine .pagination > .active > a:focus,
+.css-magazine .pagination > .active > a:hover,
+.css-magazine .pagination > .active > span,
+.css-magazine .pagination > .active > span:focus,
+.css-magazine .pagination > .active > span:hover,
+.css-magazine .portfolio-filter .selecter-item.activeFilter,
+.css-magazine .page-loader-spinner span,
+.css-magazine .loader-6:before,
+.css-magazine .loader-2,
+.css-magazine .loader-2:before,
+.css-magazine .loader-2:after,
+.css-magazine .loader-10 > div, 
+.css-magazine .loader-11 > div,
+.css-magazine .loader-13 > div:first-child, 
+.css-magazine .loader-14 > div, 
+.css-magazine .loader-16 > div, 
+.css-magazine .loader-17 > div, 
+.css-magazine .loader-17 > div:before, 
+.css-magazine .loader-17 > div:after, 
+.css-magazine .loader-18 > div, 
+.css-magazine .loader-19 > div, 
+.css-magazine .loader-20 > div, 
+.css-magazine .loader-22 > div, 
+.css-magazine .loader-23 > div, 
+.css-magazine .loader-24 > div, 
+.css-magazine .loader-25 > div, 
+.css-magazine .loader-26 > div, 
+.css-magazine .loader-27 > div, 
+.css-magazine .loader-28 > div, 
+.css-magazine .loader-29 > div, 
+.css-magazine .loader-32 > div, 
+.css-magazine .loader-33 > div, 
+.css-magazine .loader-35 > div:nth-child(3), 
+.css-magazine .loader-35 > div:nth-child(4), 
+.css-magazine .loader-35 > div:nth-child(5),
+.css-magazine .loader-35 > div:nth-child(6), 
+.css-magazine .loader-37 > div, 
+.css-magazine .loader-38 > div,
+.css-magazine .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-magazine .radio input[type=radio]:checked ~ .check, 
+.css-magazine .vlt-btn-group .dropdown-menu li a:hover, 
+.css-magazine .gsi-step-indicator.triangle li.current>*, 
+.css-magazine .gsi-style-4 li.current>*, 
+.css-magazine .gsi-style-5 li.current>*, 
+.css-magazine .gsi-style-6 li.current>* .number, 
+.css-magazine .gsi-style-7 li.current:hover>*, 
+.css-magazine .gsi-style-8 li.visited>*, 
+.css-magazine .gsi-style-8 li.current>*, 
+.css-magazine .gsi-style-9 li.visited>*:after, 
+.css-magazine .gsi-style-9 li.current>*:after, 
+.css-magazine .gsi-style-10 li.visited>*:after, 
+.css-magazine .gsi-style-10 li.current>*:after, 
+.css-magazine .gsi-style-11 li.current:before, 
+.css-magazine .gsi-style-11 li.current:after, 
+.css-magazine .gsi-style-11 li.visited:before, 
+.css-magazine .gsi-style-11 li.visited:after, 
+.css-magazine .gsi-style-11 li.visited>*:after, 
+.css-magazine .gsi-style-11 li.current>*:after, 
+.css-magazine .flatpickr-day.today:focus, 
+.css-magazine .flatpickr-day.today:hover {
+  background-color: #4fbcdb !important;
+}
+
+.css-magazine .header-content .phone-number span,
+.css-magazine .intro-block h6,
+.css-magazine .icon-block [class^="icon-"],
+.css-magazine ul.header-links li a:hover,
+.css-magazine .navbar.banner--clone .nav > li > a:hover,
+.css-magazine .navbar.banner--clone .btn-search:hover,
+.css-magazine .success-lg:hover [class^="icon-"],
+.css-magazine #copyrights ul li a:hover,
+.css-magazine #copyrights a:hover,
+.css-magazine .breadcrumb > .active,
+.css-magazine #portfolio-filter li a.activeFilter,
+.css-magazine #portfolio-filter li a:hover,
+.css-magazine .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-magazine a.image_zoom:hover [class^="icon-"],
+.css-magazine a.image_link:hover [class^="icon-"],
+.css-magazine a.load-more-btn:hover,
+.css-magazine a.load-more-btn:hover [class^="icon-"],
+.css-magazine .intro-block h1 [class^="icon-"],
+.css-magazine .shop-list .shop-product h4 a:hover,
+.css-magazine ul#portfolio-layout-filter li a.active,
+.css-magazine .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-magazine ul.sidebar-shop-cat > li span,
+.css-magazine .shop-price,
+.css-magazine ul.sidebar-shop-cat > li > a:hover,
+.css-magazine a.load-more-btn:hover,
+.css-magazine a.load-more-btn:hover [class^="icon-"],
+.css-magazine .intro-block h1 [class^="icon-"],
+.css-magazine .shop-list .shop-product h4 a:hover,
+.css-magazine ul#portfolio-layout-filter li a.active,
+.css-magazine .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-magazine ul.sidebar-cat > li span,
+.css-magazine .shop-price,
+.css-magazine ul.sidebar-cat > li > a:hover,
+.css-magazine ul.jobs-list li [class^="icon-"],
+.css-magazine .team-social a:hover,
+.css-magazine .icon-default,
+.css-magazine .error-page-icon span [class^="icon-"],
+.css-magazine .footer-3-container-text a:hover,
+.css-magazine .testimonials-box .testimonial-author,
+.css-magazine #page-title.image-page-title-fullwidth h1,
+.css-magazine #page-title.image-page-title-left.image-page-noimage h2,
+.css-magazine ul.services-2-icons,
+.css-magazine ul.shop-layout-filter li a.active,
+.css-magazine ul.portfolio-layout-filter li a.active,
+.css-magazine ul.porfolio-project-details-list > li .ppd-right,
+.css-magazine ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-magazine .related-projects-title .slick-custom-next:hover,
+.css-magazine .related-projects-title .slick-custom-prev:hover,
+.css-magazine .recent-post-content a:hover,
+.css-magazine .form-group.login-form-submit a,
+.css-magazine .shop-type-1 a.add-to-cart-item:before,
+.css-magazine .shop-type-2 a.add-to-cart-item:before,
+.css-magazine a.form-forgotpass,
+.css-magazine .sidebar-shop-products-list li .ssp-title:hover,
+.css-magazine .restaurant-info ul li [class^="icon-"],
+.css-magazine .navbar-default.default .btn-cart .header-cart-count,
+.css-magazine .cart-shop-products-list li .csp-title:hover,
+.css-magazine .blog-list > article .blog-desc h4 a:hover,
+.css-magazine .blog-list > article .blog-desc h4 a:focus,
+.css-magazine .blog-list-full > article .blog-desc h4 a:hover,
+.css-magazine .blog-list-full > article .blog-desc h4 a:focus,
+.css-magazine .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-magazine .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-magazine .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-magazine .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-magazine .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-magazine .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-magazine .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-magazine .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-magazine .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-magazine .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-magazine .blog-masonry > article .blog-desc h4 a:hover,
+.css-magazine .blog-masonry > article .blog-desc h4 a:focus,
+.css-magazine .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-magazine .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-magazine .comment_response .media h6 a,
+.css-magazine .comment_response .media_cloud a.reply_link,
+.css-magazine .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-magazine .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-magazine .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-magazine .dropcap.dropcap-style-1,
+.css-magazine .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-magazine .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-magazine .counter-box .count-icon,
+.css-magazine .counter-style-1 .counter-box h4,
+.css-magazine .icon-type,
+.css-magazine .icon-type.it-main-color,
+.css-magazine .icon-type.it-main-color-reverse:hover,
+.css-magazine .icon-type.it-main-color-reverse:focus,
+.css-magazine .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-magazine .comment_response .media h6 a,
+.css-magazine .comment_response .media_cloud a.reply_link,
+.css-magazine .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-magazine .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-magazine .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-magazine .dropcap.dropcap-style-1,
+.css-magazine .btn-default-reverse,
+.css-magazine .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-magazine .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-magazine .counter-box .count-icon,
+.css-magazine .counter-style-1 .counter-box h4,
+.css-magazine .icon-type,
+.css-magazine .icon-type.it-main-color,
+.css-magazine .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-magazine .icon-type.it-main-color-reverse:focus,
+.css-magazine .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-magazine .review_response .media h6 a,
+.css-magazine .review_response .media_cloud .shop-star-rating li.full-star,
+.css-magazine .rating-container .rating-stars,
+.css-magazine .form-contact small,
+.css-magazine ul.icon-list li a:hover,
+.css-magazine ul.icon-list li a:active,
+.css-magazine ul.icon-list li a:focus,
+.css-magazine .checkout-sum,
+.css-magazine .checkout-table td a:hover,
+.css-magazine .checkout-box a,
+.css-magazine .user-profile-list ul li a:hover,
+.css-magazine a.profile-active,
+.css-magazine .user-profile-content h2,
+.css-magazine .forum-content-header span a,
+.css-magazine .recent-work-content a:hover,
+.css-magazine .recent-work-image-content a:hover,
+.css-magazine .contact-overlay-map .maximize-form:hover,
+.css-magazine .hero-slier-nav-content:hover [class^="icon-"],
+.css-magazine .selected .hero-slier-nav-content [class^="icon-"],
+.css-magazine .team-social a:hover,
+.css-magazine .team-name h5 a:hover,
+.css-magazine .clients-slick-nav .slick-custom-next:hover,
+.css-magazine .clients-slick-nav .slick-custom-prev:hover,
+.css-magazine .services-pricing-icon [class^="icon-"],
+.css-magazine .brand [class^="icon-"],
+.css-magazine .content-divider-colored [class^="icon-"],
+.css-magazine .divider-content h1 span,
+.css-magazine .divider-content h2 span,
+.css-magazine .divider-content h3 span,
+.css-magazine .intro-page-content a:hover,
+.css-magazine .image-box-content a:hover,
+.css-magazine .icon-type.it-main-color [class^="icon-"],
+.css-magazine .icon-type-2:hover p,
+.css-magazine .icon-type-2:hover span.icon-type-2-icon,
+.css-magazine .heading-container .head-colored,
+.css-magazine ul.home-6-list li h4 [class^="icon-"],
+.css-magazine .icon-box-2-effect-1:hover .icon-block-2,
+.css-magazine .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-magazine .icon-box-2-effect-4:hover .icon-block-2,
+.css-magazine .icon-box-2-effect-4-reverse .icon-block-2,
+.css-magazine .icon-box-2-effect-5:hover .icon-block-2,
+.css-magazine .simple-icon-lightbg [class^="icon-"],
+.css-magazine .newsletter-signup button,
+.css-magazine a.add-to-wishlist.select,
+.css-magazine a.add-to-wishlist.select [class^="icon-"],
+.css-magazine .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-magazine .panel-body ul li a:hover,
+.css-magazine .colored,
+.css-magazine .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-magazine .tabpanel-style-6 .nav-tabs > li > a,
+.css-magazine .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-magazine .tp_caption_big span,
+.css-magazine ul.icon-box-simple li:hover a,
+.css-magazine .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-magazine .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-magazine .posts-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-magazine .posts-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-magazine .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-magazine .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-magazine .blockquote-author p,
+.css-magazine .testimonial-author,
+.css-magazine .latest-post-content h1 a:hover,
+.css-magazine .post-by a:hover,
+.css-magazine .latest-post-content .read-more-link,
+.css-magazine .blog-horizontal .bh-content h3 a:hover,
+.css-magazine .blog-horizontal .bh-content .bh-details a:hover,
+.css-magazine .blog-horizontal .bh-content .bh-details a:hover span,
+.css-magazine a.bsp-title:hover,
+.css-magazine .sidebar-blog-post-list li .sbp-title:hover,
+.css-magazine .navbar-nav > li.active,
+.css-magazine .navbar-nav > li.active:hover,
+.css-magazine a.idb-social:hover,
+.css-magazine a.idb-social:hover span,
+.css-magazine a.idb-price,
+.css-magazine span.pts-raised,
+.css-magazine .bsp-social a:hover,
+.css-magazine .bsp-social a [class^="icon-"]:hover,
+.css-magazine a.bsp-more:hover,
+.css-magazine .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-magazine .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-magazine .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-magazine .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-magazine .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-magazine .gallery-block .gallery-box .gallery-meta a:hover,
+.css-magazine .gallery-block .gallery-box .gallery-meta a:focus,
+.css-magazine .cd-timeline-inner-content a:hover,
+.css-magazine .testimonial-box .testimonial-author span,
+.css-magazine .fic-date a:hover,
+.css-magazine .forum-inner-content h1 a:hover,
+.css-magazine .user-profile-desc a:hover,
+.css-magazine .cd-timeline-navigation a:hover::after,
+.css-magazine .login-form .login-input-box [class^="icon-"],
+.css-magazine .icon-input-box [class^="icon-"],
+.css-magazine ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-magazine ul.bar-chart-graph li,
+.css-magazine ul.line-graph li,
+.css-magazine ul.donut-graph li,
+.css-magazine .tp-caption.Creative-SubTitle,
+.css-magazine .Creative-SubTitle,
+.css-magazine .tp-caption.vlt-hero-rotating,
+.css-magazine .pagination > li > a:focus,
+.css-magazine .pagination > li > a:hover,
+.css-magazine .pagination > li > span:focus,
+.css-magazine .pagination > li > span:hover,
+.css-magazine .pager li > a,
+.css-magazine ul.recent-post-widget .rp-post a:hover,
+.css-magazine .tp-tab.selected span.tp-tab-title span,
+.css-magazine .tp-tab.selected span.tp-tab-title,
+.css-magazine .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-magazine .tp-main-color,
+.css-magazine .loader-5,
+.css-magazine .loader-7,
+.css-magazine .loader-9,
+.css-magazine .loader-2,
+.css-magazine .loader-4,
+.css-magazine .vertical-video-list .vvl-cotent h3 a:hover,
+.css-magazine .magazine-post-content h1 a:hover,
+.css-magazine .gsi-style-9 li.visited>*, 
+.css-magazine .gsi-style-9 li.current>*,
+.css-magazine .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-magazine .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #4fbcdb !important;
+}
+
+.css-magazine .tp-caption .btn-default,
+.css-magazine .btn-default,
+.css-magazine .flex-control-paging li a.flex-active,
+.css-magazine .flexslider.clients .flex-control-paging li a.flex-active,
+.css-magazine .pagination-box .pager li a,
+.css-magazine .contact-info-3,
+.css-magazine .tags-cloud-list li a:hover,
+.css-magazine .team-social a:hover,
+.css-magazine .contact-title-one h3:after,
+.css-magazine .home-title-one h3:after,
+.css-magazine #login-form .login-input:active,
+.css-magazine #login-form .login-input:focus,
+.css-magazine .load-more-wrapper a.load-more-btn:hover,
+.css-magazine #register-form .register-input:active,
+.css-magazine #register-form .register-input:focus,
+.css-magazine .dropcap.dropcap-style-1,
+.css-magazine .dropcap.dropcap-style-2,
+.css-magazine .alert-default,
+.css-magazine blockquote,
+.css-magazine .tp-caption .btn-default,
+.css-magazine .btn-default,
+.css-magazine .btn-default-reverse,
+.css-magazine .icon-box.icon-square .icon-block,
+.css-magazine .icon-box.icon-circle .icon-block,
+.css-magazine .icon-type.it-main-color,
+.css-magazine .icon-type.it-main-color:hover,
+.css-magazine .icon-type.it-main-color:focus,
+.css-magazine .icon-type.it-main-color-reverse,
+.css-magazine .icon-type.it-main-color-reverse:hover,
+.css-magazine .icon-type.it-main-color-reverse:focus,
+.css-magazine .add-to-cart-form .count-input .count-plus:hover,
+.css-magazine .add-to-cart-form .count-input .count-minus:hover,
+.css-magazine #reviewmodal .modal-header,
+.css-magazine .job-left-title h3,
+.css-magazine .pricing-table-container.special-price-table,
+.css-magazine .clients-slick-nav .slick-custom-next:hover,
+.css-magazine .clients-slick-nav .slick-custom-prev:hover,
+.css-magazine a.add-to-wishlist.select,
+.css-magazine a.add-to-wishlist.select [class^="icon-"],
+.css-magazine .tabpanel-style-8 .nav-tabs > li.active,
+.css-magazine a.btn-default.btn-animation-icon-box,
+.css-magazine .btn-default.btn-animation-icon-box:hover,
+.css-magazine .btn-default.btn-animation-icon-box:focus,
+.css-magazine .btn-default.btn-animation-icon-box:active,
+.css-magazine .tp-caption a.btn-default.btn-animation-icon-box,
+.css-magazine .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-magazine .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-magazine .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-magazine .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-magazine .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-magazine .clients-slick-nav .slick-clients-prev:hover,
+.css-magazine .clients-slick-nav .slick-clients-next:hover,
+.css-magazine .bsp-image,
+.css-magazine .blog-list > article.default-post .blog-desc,
+.css-magazine .testimonial-single li.slick-active button::before,
+.css-magazine .slick-dots li.slick-active button:before,
+.css-magazine .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-magazine .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-magazine .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-magazine .timeline-status.timeline-active:before,
+.css-magazine .cd-horizontal-timeline .events a.older-event::after,
+.css-magazine .cd-horizontal-timeline .events a.selected::after,
+.css-magazine .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-magazine .no-touch .cd-timeline-navigation a:hover,
+.css-magazine .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-magazine .cd-timeline-navigation a:hover,
+.css-magazine .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-magazine .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-magazine .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-magazine .login-form input:focus,
+.css-magazine .pinpulse,
+.css-magazine .open > .dropdown-toggle.btn-default,
+.css-magazine .pagination > .active > a,
+.css-magazine .pagination > .active > a:focus,
+.css-magazine .pagination > .active > a:hover,
+.css-magazine .pagination > .active > span,
+.css-magazine .pagination > .active > span:focus,
+.css-magazine .pagination > .active > span:hover,
+.css-magazine .table-style-1 thead tr th,
+.css-magazine .table-style-1 tbody tr:last-child th,
+.css-magazine .table-style-1 tbody tr:last-child td,
+.css-magazine .table-withmaincolor thead tr th,
+.css-magazine .clients-title-border h3,
+.css-magazine .cd-slider-nav li:hover,
+.css-magazine .selected,
+.css-magazine .job-form input:focus,
+.css-magazine .job-form select:focus,
+.css-magazine .job-form textarea:focus,
+.css-magazine .form-contact input:focus,
+.css-magazine .form-contact select:focus,
+.css-magazine .form-contact textarea:focus,
+.css-magazine .form-contact input:focus,
+.css-magazine .icon-type-2:hover p,
+.css-magazine .icon-type-2:hover span.icon-type-2-icon,
+.css-magazine .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-magazine .activeFilter,
+.css-magazine .loader-30 > div, 
+.css-magazine .loader-31 > div, 
+.css-magazine .loader-35 > div:first-of-type, 
+.css-magazine .loader-35 > div:nth-child(2),
+.css-magazine .loader-12 > div,
+.css-magazine .loader-15 > div,
+.css-magazine .loader-21 > div,
+.css-magazine .radio input[type=radio]:checked ~ .circle, 
+.css-magazine .gsi-step-indicator.triangle li.current>*, 
+.css-magazine .gsi-style-7.border-right li.current>*, 
+.css-magazine .gsi-style-7.border-bottom li.current>*, 
+.css-magazine .gsi-style-7.border-left li.current>*, 
+.css-magazine .flatpickr-day.today, 
+.css-magazine .flatpickr-day.today:focus, 
+.css-magazine .flatpickr-day.today:hover {
+    border-color:  #4fbcdb;
+}
+
+.css-magazine .tabpanel-style-4 .nav-tabs > li.active,
+.css-magazine .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-magazine .tabpanel-style-5 .nav-tabs > li.active,
+.css-magazine .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #4fbcdb transparent;
+}
+
+.css-magazine .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #4fbcdb;
+}
+
+.css-magazine .icon-box-2-effect-4 .icon-block-2,
+.css-magazine .icon-box-2-effect-5 .icon-block-2,
+.css-magazine .icon-box-2-effect-5:hover .icon-block-2,
+.css-magazine .icon-box-2-effect-1 .icon-block-2:after,
+.css-magazine .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #4fbcdb;
+}
+
+.css-magazine .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #4fbcdb;
+}
+
+.css-magazine .empty-cart:after, .css-magazine .loader-34 > div  {
+  border-bottom-color: #4fbcdb;
+}
+
+.css-magazine .btn-default-reverse:hover,
+.css-magazine .btn-default-reverse:focus {
+  background-color: #4fbcdb !important;
+  border-color: #4fbcdb !important;
+}
+.css-magazine .gsi-style-4 li.current>* .number:before{
+  border-left-color: #4fbcdb;
+}
+.css-magazine .gsi-style-7.border-top li.current>*{
+  border-top-color: #4fbcdb;
+}
+.css-magazine .tp-caption .btn-default.active,
+.css-magazine .btn-default.active,
+.css-magazine .tp-caption .btn-default.focus,
+.css-magazine .btn-default.focus,
+.css-magazine .tp-caption .btn-default:active,
+.css-magazine .btn-default:active,
+.css-magazine .tp-caption .btn-default:focus,
+.css-magazine .btn-default:focus,
+.css-magazine .tp-caption .btn-default:hover,
+.css-magazine .btn-default:hover,
+.css-magazine .tp-caption .btn-white:hover,
+.css-magazine .btn-white:hover {
+  background-color: #42b4d4 !important;
+  border-color: #42b4d4 !important;
+}
+
+.css-magazine .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #4fbcdb;
+}
+
+.css-magazine #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-magazine #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-magazine #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-magazine #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-magazine #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-magazine #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-magazine #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-magazine #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #4fbcdb;
+}
+
+.css-magazine #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-magazine #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-magazine span.latest-post-month,
+.css-magazine .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-magazine .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #42b4d4;
+}
+
+.css-magazine #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-magazine #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-magazine #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-magazine #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-magazine #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-magazine #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-magazine #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-magazine #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-magazine #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-magazine #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-magazine #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-magazine #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-magazine #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-magazine #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-magazine #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-magazine #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-magazine #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-magazine #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #42b4d4;
+  border-color: #42b4d4;
+}
+
+.css-magazine #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-magazine #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #42b4d4;
+}
+
+.css-magazine .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-magazine .item-text-wrapper,
+.css-magazine .standard_hover .portfolio_overlay,
+.css-magazine .overlay-animation-1 .overlay_box,
+.css-magazine .overlay-animation-2 .overlay_box,
+.css-magazine .flip-hover .flip-box .content-box,
+.css-magazine .team-8 .team-image .overlay-team-box,
+.css-magazine .team-9 .team-image .overlay-team-box,
+.css-magazine .portfolio-animation-slide .sliding-content {
+  background-color: rgba(79, 188, 219, 0.9);
+}
+
+.css-magazine .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-magazine .team-2 .overlay-team-box,
+.css-magazine .team-6 .overlay-team-box,
+.css-magazine .team-7 .overlay-team-box,
+.css-magazine .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-magazine .contact-overlay-map .overlay-map-background,
+.css-magazine .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-magazine .table-style-7.table-withmaincolor tbody tr th,
+.css-magazine .table-style-2.table-withmaincolor tbody tr,
+.css-magazine .fc-bgevent,
+.css-magazine #particles-js.background-1 {
+  background-color: rgba(79, 188, 219, 0.6) !important;
+}
+
+.css-magazine .widget-dribbble-box .shots li a:hover:before, .css-magazine .dribbble-box .shots li a:hover:before,
+.css-magazine .instagram-widget a:hover:before,
+.vertical-video-list .vvl-thumb:before {
+  background-color: rgba(79, 188, 219, 0.85);
+}
+
+.css-magazine .search-popup-box,
+.css-magazine .scroll-to-top-fixed {
+  background-color: rgba(79, 188, 219, 0.95);
+}
+
+.css-magazine .loader-3 {
+  border-top-color: rgba(79, 188, 219, 0.2);
+  border-right-color: rgba(79, 188, 219, 0.2);
+  border-bottom-color: rgba(79, 188, 219, 0.2);
+  border-left-color: #4fbcdb;
+}
+
+.css-magazine #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-magazine #header.header-white .navbar-2 .search-navbar .btn-cart:hover {
+  color: rgba(255, 255, 255, 0.85) !important;
+  border-color: transparent !important;
+}
+
+.css-magazine .icon-box.icon-fill:hover .icon-block,
+.css-magazine .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-magazine .cart-shop-products h3, .css-magazine .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-magazine .cart-shop-products-list li .csp-price, .css-magazine .sidebar-shop-products-list li .ssp-price,
+.css-magazine .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-magazine .shop-list .shop-product .shop-star-rating li.full-star,
+.css-magazine ul.shop-star-rating li.full-star {
+  color: #f47f4a;
+}
+
+.css-magazine .shop-list .shop-product .shop-ribbon, .css-magazine .ui-slider-horizontal .ui-slider-range,
+.css-magazine .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-magazine .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #f47f4a;
+}
+.css-magazine .loader-13 > div:last-child, 
+.css-magazine .loader-15 > div:last-child {
+  border-color: #4fbcdb transparent;
+}
+.css-magazine .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #4fbcdb 30%, #4fbcdb 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #4fbcdb 30%, #4fbcdb 100%);
+}

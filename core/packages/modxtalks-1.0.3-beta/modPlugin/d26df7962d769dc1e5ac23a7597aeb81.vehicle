@@ -1,0 +1,168 @@
+<?php return array (
+  'unique_key' => 'name',
+  'preserve_keys' => false,
+  'update_object' => true,
+  'related_objects' => 
+  array (
+    'PluginEvents' => 
+    array (
+      '15b9fb90a1d33a18652ee3cf02f557ff' => 
+      array (
+        'preserve_keys' => true,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'pluginid',
+          1 => 'event',
+        ),
+        'class' => 'modPluginEvent',
+        'object' => '{"pluginid":0,"event":"OnSiteRefresh","priority":0,"propertyset":0}',
+        'guid' => '609d75d1b908ed947791ae7aa58042f1',
+        'native_key' => 
+        array (
+          0 => 0,
+          1 => 'OnSiteRefresh',
+        ),
+        'signature' => 'f161e1b79e5d623cc53d007bf8b23de5',
+      ),
+      'de152793088ba0c00ce597d96a4a3eb8' => 
+      array (
+        'preserve_keys' => true,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'pluginid',
+          1 => 'event',
+        ),
+        'class' => 'modPluginEvent',
+        'object' => '{"pluginid":0,"event":"OnUserFormSave","priority":0,"propertyset":0}',
+        'guid' => '961381b3510a94e8a6cfbfc4666a2c7e',
+        'native_key' => 
+        array (
+          0 => 0,
+          1 => 'OnUserFormSave',
+        ),
+        'signature' => '6958e92f5d56d1e4f8a21040bf99b1e3',
+      ),
+      '1d4faff0751d304dc32adb2ca35b4c56' => 
+      array (
+        'preserve_keys' => true,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'pluginid',
+          1 => 'event',
+        ),
+        'class' => 'modPluginEvent',
+        'object' => '{"pluginid":0,"event":"OnPageNotFound","priority":0,"propertyset":0}',
+        'guid' => '6d5e85ecbac6e220735a8b7dc1ea251a',
+        'native_key' => 
+        array (
+          0 => 0,
+          1 => 'OnPageNotFound',
+        ),
+        'signature' => '1a73ec2c8a11f077cbaf39073372f847',
+      ),
+      'b5cbae4eff0c3ede00eabd5f1e73b755' => 
+      array (
+        'preserve_keys' => true,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'pluginid',
+          1 => 'event',
+        ),
+        'class' => 'modPluginEvent',
+        'object' => '{"pluginid":0,"event":"OnManagerPageInit","priority":0,"propertyset":0}',
+        'guid' => 'bf00d8b3d8a175853ecb0c52a5ae0301',
+        'native_key' => 
+        array (
+          0 => 0,
+          1 => 'OnManagerPageInit',
+        ),
+        'signature' => 'bfd0f65c0f602fc8b171ce5e8fc8f870',
+      ),
+      'a7b49bc01c71520e9d2a6863f0a89a64' => 
+      array (
+        'preserve_keys' => true,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'pluginid',
+          1 => 'event',
+        ),
+        'class' => 'modPluginEvent',
+        'object' => '{"pluginid":0,"event":"OnDocFormPrerender","priority":0,"propertyset":0}',
+        'guid' => 'e76783778f78fe2090f66e223f1846d8',
+        'native_key' => 
+        array (
+          0 => 0,
+          1 => 'OnDocFormPrerender',
+        ),
+        'signature' => '6a272ddf7df85a1a7e73dd0caeaa3881',
+      ),
+      'adfdbf807fce76f94cd1bf4f51103d72' => 
+      array (
+        'preserve_keys' => true,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'pluginid',
+          1 => 'event',
+        ),
+        'class' => 'modPluginEvent',
+        'object' => '{"pluginid":0,"event":"OnWebPagePrerender","priority":0,"propertyset":0}',
+        'guid' => 'a0080f8e94e90dee5e52ceee7b07b343',
+        'native_key' => 
+        array (
+          0 => 0,
+          1 => 'OnWebPagePrerender',
+        ),
+        'signature' => 'ef07b5fcde5c936e589938c916f4caed',
+      ),
+      '637b28c2b56a259f6e3a7265364e9872' => 
+      array (
+        'preserve_keys' => true,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'pluginid',
+          1 => 'event',
+        ),
+        'class' => 'modPluginEvent',
+        'object' => '{"pluginid":0,"event":"OnModxTalksCommentAfterAdd","priority":0,"propertyset":0}',
+        'guid' => '7f8e26403362dca0ef167e7e43448a9b',
+        'native_key' => 
+        array (
+          0 => 0,
+          1 => 'OnModxTalksCommentAfterAdd',
+        ),
+        'signature' => '1e78a118935527a05621eb1d8dcfa85f',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'PluginEvents' => 
+    array (
+      'preserve_keys' => true,
+      'update_object' => false,
+      'unique_key' => 
+      array (
+        0 => 'pluginid',
+        1 => 'event',
+      ),
+    ),
+  ),
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7d6d67e9b8bcee678a5be251c89d4666',
+  'package' => 'modx',
+  'class' => 'modPlugin',
+  'signature' => 'd26df7962d769dc1e5ac23a7597aeb81',
+  'native_key' => 1,
+  'object' => '{"id":1,"source":0,"property_preprocess":0,"name":"MODXTalksPlugin","description":"Handles FURLs for MODXTalks.","editor_type":0,"category":0,"cache_type":0,"plugincode":"\\/**\\n * @var modX $modx\\n * @var array $scriptProperties\\n *\\/\\nswitch ($modx->event->name) {\\n    case \'OnSiteRefresh\':\\n        $assetsUrl = $modx->getOption(\'modxtalks.assets_url\',array(),$modx->getOption(\'assets_url\').\'components\\/modxtalks\\/\');\\n        $ejsTemplatesPath = $_SERVER[\'DOCUMENT_ROOT\'].$assetsUrl.\'ejs\\/\';\\n\\n        if ($modx->cacheManager->deleteTree($ejsTemplatesPath, array(\\n            \'deleteTop\' => false,\\n            \'skipDirs\' => true,\\n            \'extensions\' => array(\'.ejs\'),\\n        ))) {\\n            $modx->log(modX::LOG_LEVEL_INFO,\'modxTalks clear ejs templates files . \'.$modx->lexicon(\'refresh_success\'));\\n        }\\n\\n        if ($modx->cacheManager->refresh(array(\'\\/modxtalks\'=> array()))) {\\n            $modx->log(modX::LOG_LEVEL_INFO,\'modxTalks clear cache. \'.$modx->lexicon(\'refresh_success\'));\\n        }\\n        break;\\n    case \'OnUserFormSave\':\\n        $user =& $modx->event->params[\'user\'];\\n        if (is_object($user)) {\\n            $modx->cacheManager->delete($user->id, array(xPDO::OPT_CACHE_KEY => \'modxtalks\\/users\'));\\n        }\\n        break;\\n    case \'OnManagerPageInit\':\\n        $mtAccets = $modx->getOption(\'modxtalks.assets_url\',null,$modx->getOption(\'assets_url\').\'components\\/modxtalks\\/\');\\n        $modx->regClientStartupScript($mtAccets.\'js\\/mgr\\/comments\\/mrg.js\');\\n        $modx->regClientCSS($mtAccets.\'css\\/mgr\\/mt.css\');\\n        break;\\n    case \'OnDocFormPrerender\':\\n        $cssFile = $modx->getOption(\'modxtalks.assets_url\',null,$modx->getOption(\'assets_url\').\'components\\/modxtalks\\/\').\'css\\/mgr\\/comments.css\';\\n        $modx->regClientCSS($cssFile);\\n        break;\\n    case \'OnPageNotFound\':\\n        \\/\\/ Check whether active friendly_urls, if not, then the interrupt\\n        if ($modx->getOption(\'friendly_urls\') != 1) break;\\n\\n        $corePath = $modx->getOption(\'modxtalks.core_path\',null,$modx->getOption(\'core_path\').\'components\\/modxtalks\\/\');\\n        require_once $corePath.\'model\\/modxtalks\\/modxtalksrouter.class.php\';\\n        $routermt = new modxTalksRouter($modx);\\n        $routermt->route();\\n        break;\\n    case \'OnWebPagePrerender\':\\n        if(isset($modx->mt_mtCount)&&$modx->mt_mtCount === true){\\n            $corePath = $modx->getOption(\'modxtalks.core_path\',null,$modx->getOption(\'core_path\').\'components\\/modxtalks\\/\');\\n            require_once $corePath.\'model\\/modxtalks\\/modxtalkscount.class.php\';\\n            $counts = new modxTalksCount($modx);\\n            $counts->mtcount();\\n        }\\n        break;\\n    case \'OnModxTalksCommentAfterAdd\':\\n        $comment =& $modx->event->params[\'modxtalks.post\'];\\n\\n        if (!$latest = $modx->getObject(\'modxTalksLatestPost\',array(\'cid\' => $comment->conversationId))) {\\n            $latest = $modx->newObject(\'modxTalksLatestPost\');\\n            $latest->set(\'cid\',$comment->conversationId);\\n        }\\n\\n        $conversation = $comment->getConversation();\\n        $total = $conversation->getProperty(\'total\');\\n        if (!$title = $comment->getResourceTitle($conversation)) $title = \'\\u041d\\u0435 \\u0443\\u043a\\u0430\\u0437\\u0430\\u043d\';\\n\\n        $latest->fromArray(array(\\n            \'pid\'     => $comment->id,\\n            \'idx\'     => $comment->idx,\\n            \'name\'    => $comment->name,\\n            \'email\'   => $comment->email,\\n            \'content\' => $comment->processed_content,\\n            \'time\'    => $comment->time,\\n            \'link\'    => $comment->link,\\n            \'userId\'  => $comment->userId,\\n            \'title\'   => $title,\\n            \'total\'   => $total,\\n        ));\\n        $latest->save();\\n        break;\\n}","locked":0,"properties":null,"disabled":0,"moduleguid":"","static":0,"static_file":"","content":"\\/**\\n * @var modX $modx\\n * @var array $scriptProperties\\n *\\/\\nswitch ($modx->event->name) {\\n    case \'OnSiteRefresh\':\\n        $assetsUrl = $modx->getOption(\'modxtalks.assets_url\',array(),$modx->getOption(\'assets_url\').\'components\\/modxtalks\\/\');\\n        $ejsTemplatesPath = $_SERVER[\'DOCUMENT_ROOT\'].$assetsUrl.\'ejs\\/\';\\n\\n        if ($modx->cacheManager->deleteTree($ejsTemplatesPath, array(\\n            \'deleteTop\' => false,\\n            \'skipDirs\' => true,\\n            \'extensions\' => array(\'.ejs\'),\\n        ))) {\\n            $modx->log(modX::LOG_LEVEL_INFO,\'modxTalks clear ejs templates files . \'.$modx->lexicon(\'refresh_success\'));\\n        }\\n\\n        if ($modx->cacheManager->refresh(array(\'\\/modxtalks\'=> array()))) {\\n            $modx->log(modX::LOG_LEVEL_INFO,\'modxTalks clear cache. \'.$modx->lexicon(\'refresh_success\'));\\n        }\\n        break;\\n    case \'OnUserFormSave\':\\n        $user =& $modx->event->params[\'user\'];\\n        if (is_object($user)) {\\n            $modx->cacheManager->delete($user->id, array(xPDO::OPT_CACHE_KEY => \'modxtalks\\/users\'));\\n        }\\n        break;\\n    case \'OnManagerPageInit\':\\n        $mtAccets = $modx->getOption(\'modxtalks.assets_url\',null,$modx->getOption(\'assets_url\').\'components\\/modxtalks\\/\');\\n        $modx->regClientStartupScript($mtAccets.\'js\\/mgr\\/comments\\/mrg.js\');\\n        $modx->regClientCSS($mtAccets.\'css\\/mgr\\/mt.css\');\\n        break;\\n    case \'OnDocFormPrerender\':\\n        $cssFile = $modx->getOption(\'modxtalks.assets_url\',null,$modx->getOption(\'assets_url\').\'components\\/modxtalks\\/\').\'css\\/mgr\\/comments.css\';\\n        $modx->regClientCSS($cssFile);\\n        break;\\n    case \'OnPageNotFound\':\\n        \\/\\/ Check whether active friendly_urls, if not, then the interrupt\\n        if ($modx->getOption(\'friendly_urls\') != 1) break;\\n\\n        $corePath = $modx->getOption(\'modxtalks.core_path\',null,$modx->getOption(\'core_path\').\'components\\/modxtalks\\/\');\\n        require_once $corePath.\'model\\/modxtalks\\/modxtalksrouter.class.php\';\\n        $routermt = new modxTalksRouter($modx);\\n        $routermt->route();\\n        break;\\n    case \'OnWebPagePrerender\':\\n        if(isset($modx->mt_mtCount)&&$modx->mt_mtCount === true){\\n            $corePath = $modx->getOption(\'modxtalks.core_path\',null,$modx->getOption(\'core_path\').\'components\\/modxtalks\\/\');\\n            require_once $corePath.\'model\\/modxtalks\\/modxtalkscount.class.php\';\\n            $counts = new modxTalksCount($modx);\\n            $counts->mtcount();\\n        }\\n        break;\\n    case \'OnModxTalksCommentAfterAdd\':\\n        $comment =& $modx->event->params[\'modxtalks.post\'];\\n\\n        if (!$latest = $modx->getObject(\'modxTalksLatestPost\',array(\'cid\' => $comment->conversationId))) {\\n            $latest = $modx->newObject(\'modxTalksLatestPost\');\\n            $latest->set(\'cid\',$comment->conversationId);\\n        }\\n\\n        $conversation = $comment->getConversation();\\n        $total = $conversation->getProperty(\'total\');\\n        if (!$title = $comment->getResourceTitle($conversation)) $title = \'\\u041d\\u0435 \\u0443\\u043a\\u0430\\u0437\\u0430\\u043d\';\\n\\n        $latest->fromArray(array(\\n            \'pid\'     => $comment->id,\\n            \'idx\'     => $comment->idx,\\n            \'name\'    => $comment->name,\\n            \'email\'   => $comment->email,\\n            \'content\' => $comment->processed_content,\\n            \'time\'    => $comment->time,\\n            \'link\'    => $comment->link,\\n            \'userId\'  => $comment->userId,\\n            \'title\'   => $title,\\n            \'total\'   => $total,\\n        ));\\n        $latest->save();\\n        break;\\n}"}',
+);

@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '75adda41dc9c84110db71ee7858ac51c',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '35c803f6a6b686d24225a33448c32d86',
+  'native_key' => 'modxtalks.scrubberOffsetTop',
+  'object' => '{"key":"modxtalks.scrubberOffsetTop","value":0,"xtype":"textfield","namespace":"modxtalks","area":"settings","editedon":null}',
+);

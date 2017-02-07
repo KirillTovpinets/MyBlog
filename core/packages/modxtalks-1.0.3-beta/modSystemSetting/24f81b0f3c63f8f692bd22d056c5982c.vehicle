@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '952dc73d069f84f0f9bc705638929bb2',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '24f81b0f3c63f8f692bd22d056c5982c',
+  'native_key' => 'modxtalks.moderator',
+  'object' => '{"key":"modxtalks.moderator","value":"Administrator","xtype":"textfield","namespace":"modxtalks","area":"settings","editedon":null}',
+);

@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8dfb9a1a01a5f3b5eed4a98563d3a628',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'a671bb294f64fcca7a96aa65cb85ea0b',
+  'native_key' => 'modxtalks.highlighttheme',
+  'object' => '{"key":"modxtalks.highlighttheme","value":"GitHub","xtype":"textfield","namespace":"modxtalks","area":"highlight","editedon":null}',
+);

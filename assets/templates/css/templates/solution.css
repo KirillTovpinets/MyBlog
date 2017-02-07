@@ -1,0 +1,920 @@
+/* Solution */
+body.css-solution,
+.css-solution p,
+.css-solution h1,
+.css-solution h2,
+.css-solution h3,
+.css-solution h4,
+.css-solution h5,
+.css-solution h6,
+.css-solution .featured-content h1.small,
+.css-solution .form-group > label,
+.css-solution .checkbox > label,
+.css-solution .alert > p,
+.css-solution .block-content-wrapper h2,
+.css-solution .intro-text h1, .intro-text h2,
+.css-solution .intro-text h3, .intro-text h4,
+.css-solution .intro-text h5, .intro-text h6,
+.css-solution .restaurant-info-img-content h4,
+.css-solution .contact-title h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.css-solution h1, .css-solution h2, .css-solution h3, .css-solution h4, .css-solution h5, .css-solution h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.css-solution .color-1 {
+  color: #1388ff;
+}
+
+.css-solution .background-1,
+.css-solution .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-solution .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-solution .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #1388ff !important;
+}
+
+.css-solution .color-2 {
+  color: #e5534c;
+}
+
+.css-solution .background-2,
+.css-solution .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-solution .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-solution .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #e5534c;
+}
+
+.css-solution .color-3 {
+  color: #f15a23;
+}
+
+.css-solution .background-3,
+.css-solution .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-solution .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-solution .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3 {
+  background-color: #f15a23;
+}
+
+.css-solution .call-to-action {
+  background-color: transparent !important;
+}
+
+.css-solution .tp-caption .btn-default,
+.css-solution .btn-default,
+.css-solution .flex-control-paging li a.flex-active,
+.css-solution .navbar-toggle,
+.css-solution #mobile-navbar,
+.css-solution .offscreen-container,
+.css-solution .maincolor-background,
+.css-solution ul.widget-ul li a > span,
+.css-solution ul.widget-social li a:hover,
+.css-solution #people .item .info,
+.css-solution .main-color,
+.css-solution .flexslider.clients .flex-control-paging li a.flex-active,
+.css-solution #portfolio-filter li a:after,
+.css-solution .navbar.banner--clone .nav li.active > a,
+.css-solution .pagination-box .pager li a,
+.css-solution .pricing-table-column.special-price-table .pricing-table-head,
+.css-solution .pricing-table-column.special-price-table .pricing-table-content,
+.css-solution .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-solution .tags-cloud-list li a:hover,
+.css-solution .progress-bar-box .progress-bar,
+.css-solution .background-1,
+.css-solution .selecter .selecter-item:hover,
+.css-solution .selecter .selecter-item.selected:hover,
+.css-solution #footer.colored,
+.css-solution section.about-counter,
+.css-solution .error-page-title:after,
+.css-solution .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-solution .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-solution .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-solution .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-solution .tabpanel-style-4 .tab-content h3:after,
+.css-solution .about-classic-column-themecolor,
+.css-solution .selecter .selecter-item:hover,
+.css-solution .selecter .selecter-item.selected:hover,
+.css-solution .item-text-wrapper_overlay,
+.css-solution .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-solution .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-solution .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-solution .shop-type-2 a.add-to-cart-item,
+.css-solution .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-solution .navbar-2 .btn-cart .header-cart-count,
+.css-solution .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-solution .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-solution .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-solution .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-solution .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-solution .dropcap.dropcap-style-2,
+.css-solution .alert-default,
+.css-solution blockquote:before,
+.css-solution blockquote:after,
+.css-solution .tp-caption .btn-default,
+.css-solution .btn-default,
+.css-solution .content-title h5:before,
+.css-solution .content-title h5:after,
+.css-solution .icon-box.icon-fill .icon-block,
+.css-solution .icon-box.icon-square:hover .icon-block,
+.css-solution .icon-box.icon-circle:hover .icon-block,
+.css-solution .icon-box.icon-square:hover .icon-block span,
+.css-solution .icon-box.icon-circle:hover .icon-block span,
+.css-solution .icon-type.it-main-color:hover,
+.css-solution .icon-type.it-main-color:focus,
+.css-solution .icon-type.it-main-color-reverse,
+.css-solution .icon-type.it-main-color:hover span,
+.css-solution .icon-type.it-main-color-reverse:hover span,
+.css-solution .add-to-cart-form .count-input .count-plus:hover,
+.css-solution .add-to-cart-form .count-input .count-minus:hover,
+.css-solution .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-solution .pricing-table-container.special-price-table,
+.css-solution .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-solution .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-solution ul.forum-list li.forum-header,
+.css-solution .textbox-withmaincolor,
+.css-solution .background-1,
+.css-solution .team-member-job,
+.css-solution .team-section .team-desc-box:before,
+.css-solution .team-section .team-desc-box:after,
+.css-solution .shop-categories:hover .shop-title-categories,
+.css-solution .content-divider-colored-bg [class^="icon-"],
+.css-solution .overlay-animation-6 .content-box,
+.css-solution .block-content-wrapper h1,
+.css-solution .benefits-box h1,
+.css-solution .selecter .selecter-item:hover,
+.css-solution .selecter .selecter-item.selected:hover,
+.css-solution .ui-slider .ui-slider-range,
+.css-solution #header.header-main-color,
+.css-solution .navbar-2.banner--clone.main-color-navbar,
+.css-solution .tabpanel-style-center .nav-tabs > li.active > a,
+.css-solution .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-solution .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-solution .label.label-primary,
+.css-solution .label.label-primary,
+.css-solution .star-rating .caption .label,
+.css-solution .tparrows.preview5:hover,
+.css-solution .table-style-4.table-withmaincolor thead tr th,
+.css-solution .table-style-5.table-withmaincolor thead tr th,
+.css-solution .table-style-6.table-withmaincolor thead tr th,
+.css-solution .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-solution .table-style-7.table-withmaincolor thead tr th,
+.css-solution .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-solution .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-solution .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-solution .table-style-2.table-withmaincolor thead tr th,
+.css-solution .table-style-3.table-withmaincolor thead tr th,
+.css-solution .table-style-3.table-withmaincolor tbody tr th,
+.css-solution .parallax-withmaincolor,
+.css-solution .contact-overlay-map .minimize-form:hover,
+.css-solution .team-3:hover .team-social,
+.css-solution .team-5:hover .team-social,
+.css-solution .special-table-2,
+.css-solution .special-table-3,
+.css-solution span.pricing-3-discount,
+.css-solution #vertical-timeline-container:before,
+.css-solution .subscribe-fancy-themebg,
+.css-solution .empty-cart,
+.css-solution .team-4:hover .team-social,
+.css-solution .content-divider-colored,
+.css-solution .content-divider-colored-bg,
+.css-solution .withmainbackground,
+.css-solution .services-2-heading,
+.css-solution .icon-box-2-effect-4 .icon-block-2,
+.css-solution .services-2-heading,
+.css-solution .promotion-box-theme-colored,
+.css-solution .promotion-box-theme-colored .promotion-box-title h4,
+.css-solution .icon-block-2,
+.css-solution .icon-box-2-effect-2:hover .icon-block-2,
+.css-solution .icon-box-2-effect-3 .icon-block-2:after,
+.css-solution .icon-box-2-effect-4 .icon-block-2:after,
+.css-solution .icon-box-2-effect-6 .icon-block-2,
+.css-solution .icon-box-2-effect-6:hover .icon-block-2,
+.css-solution .simple-icon-icon,
+.css-solution a.call-to-action-link:hover,
+.css-solution .add-to-cart-form .count-input .count-plus,
+.css-solution .add-to-cart-form .count-input .count-minus,
+.css-solution .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-solution .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-solution .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-solution .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-solution .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-solution .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-solution .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-solution .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-solution .special-price-box,
+.css-solution .dropdown-menu > .active > a,
+.css-solution .dropdown-menu > .active > a:focus,
+.css-solution .dropdown-menu > .active > a:hover,
+.css-solution #header.main-color-nav .navbar-2,
+.css-solution .latest-post-data,
+.css-solution .blog-single-post .bsp-heading h1,
+.css-solution .testimonial-single .slick-dots li button:before,
+.css-solution .slick-dots li button:before,
+.css-solution .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-solution .timeline-complete .timeline-status.timeline-active:before,
+.css-solution .megamenu.maincolor,
+.css-solution .dropdown.maincolor ul,
+.css-solution .dropdown.maincolor ul.dropdown-menu,
+.css-solution #footer.maincolor,
+.css-solution #copyrights.maincolor,
+.css-solution .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-solution .cd-horizontal-timeline .events a.selected::after,
+.css-solution .cd-horizontal-timeline .filling-line,
+.css-solution .pinpulsebox span,
+.css-solution .main-color-dropdown .megamenu,
+.css-solution .main-color-dropdown .dropdown-menu,
+.css-solution #cd-timeline::before,
+.css-solution ul.icon-list.il-main-bg li [class^="icon-"],
+.css-solution .process-steps ul li.current a .number,
+.css-solution ol.ordered-list.ol-main-bg li:before,
+.css-solution .irs-bar,
+.css-solution .irs-from,
+.css-solution .irs-to,
+.css-solution .irs-single,
+.css-solution .open > .dropdown-toggle.btn-default,
+.css-solution .fc-unthemed .fc-today,
+.css-solution .fc-content,
+.css-solution #particles-js,
+.css-solution .s-icon:hover,
+.css-solution #progressbar li.active:before,
+.css-solution #progressbar li.active:after,
+.css-solution .pagination > .active > a,
+.css-solution .pagination > .active > a:focus,
+.css-solution .pagination > .active > a:hover,
+.css-solution .pagination > .active > span,
+.css-solution .pagination > .active > span:focus,
+.css-solution .pagination > .active > span:hover,
+.css-solution .portfolio-filter .selecter-item.activeFilter,
+.css-solution .page-loader-spinner span,
+.css-solution .loader-6:before,
+.css-solution .loader-2,
+.css-solution .loader-2:before,
+.css-solution .loader-2:after,
+.css-solution .loader-10 > div, 
+.css-solution .loader-11 > div,
+.css-solution .loader-13 > div:first-child, 
+.css-solution .loader-14 > div, 
+.css-solution .loader-16 > div, 
+.css-solution .loader-17 > div, 
+.css-solution .loader-17 > div:before, 
+.css-solution .loader-17 > div:after, 
+.css-solution .loader-18 > div, 
+.css-solution .loader-19 > div, 
+.css-solution .loader-20 > div, 
+.css-solution .loader-22 > div, 
+.css-solution .loader-23 > div, 
+.css-solution .loader-24 > div, 
+.css-solution .loader-25 > div, 
+.css-solution .loader-26 > div, 
+.css-solution .loader-27 > div, 
+.css-solution .loader-28 > div, 
+.css-solution .loader-29 > div, 
+.css-solution .loader-32 > div, 
+.css-solution .loader-33 > div, 
+.css-solution .loader-35 > div:nth-child(3), 
+.css-solution .loader-35 > div:nth-child(4), 
+.css-solution .loader-35 > div:nth-child(5),
+.css-solution .loader-35 > div:nth-child(6), 
+.css-solution .loader-37 > div, 
+.css-solution .loader-38 > div,
+.css-solution .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-solution .radio input[type=radio]:checked ~ .check, 
+.css-solution .vlt-btn-group .dropdown-menu li a:hover, 
+.css-solution .gsi-step-indicator.triangle li.current>*, 
+.css-solution .gsi-style-4 li.current>*, 
+.css-solution .gsi-style-5 li.current>*, 
+.css-solution .gsi-style-6 li.current>* .number, 
+.css-solution .gsi-style-7 li.current:hover>*, 
+.css-solution .gsi-style-8 li.visited>*, 
+.css-solution .gsi-style-8 li.current>*, 
+.css-solution .gsi-style-9 li.visited>*:after, 
+.css-solution .gsi-style-9 li.current>*:after, 
+.css-solution .gsi-style-10 li.visited>*:after, 
+.css-solution .gsi-style-10 li.current>*:after, 
+.css-solution .gsi-style-11 li.current:before, 
+.css-solution .gsi-style-11 li.current:after, 
+.css-solution .gsi-style-11 li.visited:before, 
+.css-solution .gsi-style-11 li.visited:after, 
+.css-solution .gsi-style-11 li.visited>*:after, 
+.css-solution .gsi-style-11 li.current>*:after, 
+.css-solution .flatpickr-day.today:focus, 
+.css-solution .flatpickr-day.today:hover  {
+  background-color: #1388ff !important;
+}
+
+.css-solution .header-content .phone-number span,
+.css-solution .intro-block h6,
+.css-solution .icon-block [class^="icon-"],
+.css-solution ul.header-links li a:hover,
+.css-solution .navbar.banner--clone .nav > li > a:hover,
+.css-solution .navbar.banner--clone .btn-search:hover,
+.css-solution .success-lg:hover [class^="icon-"],
+.css-solution #copyrights ul li a:hover,
+.css-solution #copyrights a:hover,
+.css-solution .breadcrumb > .active,
+.css-solution #portfolio-filter li a.activeFilter,
+.css-solution #portfolio-filter li a:hover,
+.css-solution .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-solution a.image_zoom:hover [class^="icon-"],
+.css-solution a.image_link:hover [class^="icon-"],
+.css-solution a.load-more-btn:hover,
+.css-solution a.load-more-btn:hover [class^="icon-"],
+.css-solution .intro-block h1 [class^="icon-"],
+.css-solution .shop-list .shop-product h4 a:hover,
+.css-solution ul#portfolio-layout-filter li a.active,
+.css-solution .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-solution ul.sidebar-shop-cat > li span,
+.css-solution .shop-price,
+.css-solution ul.sidebar-shop-cat > li > a:hover,
+.css-solution a.load-more-btn:hover,
+.css-solution a.load-more-btn:hover [class^="icon-"],
+.css-solution .intro-block h1 [class^="icon-"],
+.css-solution .shop-list .shop-product h4 a:hover,
+.css-solution ul#portfolio-layout-filter li a.active,
+.css-solution .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-solution ul.sidebar-cat > li span,
+.css-solution .shop-price,
+.css-solution ul.sidebar-cat > li > a:hover,
+.css-solution ul.jobs-list li [class^="icon-"],
+.css-solution .team-social a:hover,
+.css-solution .icon-default,
+.css-solution .error-page-icon span [class^="icon-"],
+.css-solution .footer-3-container-text a:hover,
+.css-solution .testimonials-box .testimonial-author,
+.css-solution #page-title.image-page-title-fullwidth h1,
+.css-solution #page-title.image-page-title-left.image-page-noimage h2,
+.css-solution ul.services-2-icons,
+.css-solution ul.shop-layout-filter li a.active,
+.css-solution ul.portfolio-layout-filter li a.active,
+.css-solution ul.porfolio-project-details-list > li .ppd-right,
+.css-solution ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-solution .related-projects-title .slick-custom-next:hover,
+.css-solution .related-projects-title .slick-custom-prev:hover,
+.css-solution .recent-post-content a:hover,
+.css-solution .form-group.login-form-submit a,
+.css-solution .shop-type-1 a.add-to-cart-item:before,
+.css-solution .shop-type-2 a.add-to-cart-item:before,
+.css-solution a.form-forgotpass,
+.css-solution .sidebar-shop-products-list li .ssp-title:hover,
+.css-solution .restaurant-info ul li [class^="icon-"],
+.css-solution .navbar-default.default .btn-cart .header-cart-count,
+.css-solution .cart-shop-products-list li .csp-title:hover,
+.css-solution .blog-list > article .blog-desc h4 a:hover,
+.css-solution .blog-list > article .blog-desc h4 a:focus,
+.css-solution .blog-list-full > article .blog-desc h4 a:hover,
+.css-solution .blog-list-full > article .blog-desc h4 a:focus,
+.css-solution .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-solution .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-solution .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-solution .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-solution .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-solution .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-solution .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-solution .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-solution .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-solution .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-solution .blog-masonry > article .blog-desc h4 a:hover,
+.css-solution .blog-masonry > article .blog-desc h4 a:focus,
+.css-solution .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-solution .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-solution .comment_response .media h6 a,
+.css-solution .comment_response .media_cloud a.reply_link,
+.css-solution .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-solution .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-solution .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-solution .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-solution .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-solution .dropcap.dropcap-style-1,
+.css-solution .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-solution .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-solution .counter-box .count-icon,
+.css-solution .counter-style-1 .counter-box h4,
+.css-solution .icon-type,
+.css-solution .icon-type.it-main-color,
+.css-solution .icon-type.it-main-color-reverse:hover,
+.css-solution .icon-type.it-main-color-reverse:focus,
+.css-solution .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-solution .comment_response .media h6 a,
+.css-solution .comment_response .media_cloud a.reply_link,
+.css-solution .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-solution .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-solution .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-solution .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-solution .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-solution .dropcap.dropcap-style-1,
+.css-solution .btn-default-reverse,
+.css-solution .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-solution .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-solution .counter-box .count-icon,
+.css-solution .counter-style-1 .counter-box h4,
+.css-solution .icon-type,
+.css-solution .icon-type.it-main-color,
+.css-solution .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-solution .icon-type.it-main-color-reverse:focus,
+.css-solution .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-solution .review_response .media h6 a,
+.css-solution .review_response .media_cloud .shop-star-rating li.full-star,
+.css-solution .rating-container .rating-stars,
+.css-solution .form-contact small,
+.css-solution ul.icon-list li a:hover,
+.css-solution ul.icon-list li a:active,
+.css-solution ul.icon-list li a:focus,
+.css-solution .checkout-sum,
+.css-solution .checkout-table td a:hover,
+.css-solution .checkout-box a,
+.css-solution .user-profile-list ul li a:hover,
+.css-solution a.profile-active,
+.css-solution .user-profile-content h2,
+.css-solution .forum-content-header span a,
+.css-solution .recent-work-content a:hover,
+.css-solution .recent-work-image-content a:hover,
+.css-solution .contact-overlay-map .maximize-form:hover,
+.css-solution .hero-slier-nav-content:hover [class^="icon-"],
+.css-solution .selected .hero-slier-nav-content [class^="icon-"],
+.css-solution .team-social a:hover,
+.css-solution .team-name h5 a:hover,
+.css-solution .clients-slick-nav .slick-custom-next:hover,
+.css-solution .clients-slick-nav .slick-custom-prev:hover,
+.css-solution .services-pricing-icon [class^="icon-"],
+.css-solution .brand [class^="icon-"],
+.css-solution .content-divider-colored [class^="icon-"],
+.css-solution .divider-content h1 span,
+.css-solution .divider-content h2 span,
+.css-solution .divider-content h3 span,
+.css-solution .intro-page-content a:hover,
+.css-solution .image-box-content a:hover,
+.css-solution .icon-type.it-main-color [class^="icon-"],
+.css-solution .icon-type-2:hover p,
+.css-solution .icon-type-2:hover span.icon-type-2-icon,
+.css-solution .heading-container .head-colored,
+.css-solution ul.home-6-list li h4 [class^="icon-"],
+.css-solution .icon-box-2-effect-1:hover .icon-block-2,
+.css-solution .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-solution .icon-box-2-effect-4:hover .icon-block-2,
+.css-solution .icon-box-2-effect-4-reverse .icon-block-2,
+.css-solution .icon-box-2-effect-5:hover .icon-block-2,
+.css-solution .simple-icon-lightbg [class^="icon-"],
+.css-solution .newsletter-signup button,
+.css-solution a.add-to-wishlist.select,
+.css-solution a.add-to-wishlist.select [class^="icon-"],
+.css-solution .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-solution .panel-body ul li a:hover,
+.css-solution .colored,
+.css-solution .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-solution .tabpanel-style-6 .nav-tabs > li > a,
+.css-solution .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-solution .tp_caption_big span,
+.css-solution ul.icon-box-simple li:hover a,
+.css-solution .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-solution .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-solution .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-solution .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-solution .blockquote-author p,
+.css-solution .testimonial-author,
+.css-solution .latest-post-content h1 a:hover,
+.css-solution .post-by a:hover,
+.css-solution .latest-post-content .read-more-link,
+.css-solution .blog-horizontal .bh-content h3 a:hover,
+.css-solution .blog-horizontal .bh-content .bh-details a:hover,
+.css-solution .blog-horizontal .bh-content .bh-details a:hover span,
+.css-solution a.bsp-title:hover,
+.css-solution .sidebar-blog-post-list li .sbp-title:hover,
+.css-solution .navbar-nav > li.active,
+.css-solution .navbar-nav > li.active:hover,
+.css-solution a.idb-social:hover,
+.css-solution a.idb-social:hover span,
+.css-solution a.idb-price,
+.css-solution span.pts-raised,
+.css-solution .bsp-social a:hover,
+.css-solution .bsp-social a [class^="icon-"]:hover,
+.css-solution a.bsp-more:hover,
+.css-solution .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-solution .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-solution .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-solution .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-solution .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-solution .gallery-block .gallery-box .gallery-meta a:hover,
+.css-solution .gallery-block .gallery-box .gallery-meta a:focus,
+.css-solution .cd-timeline-inner-content a:hover,
+.css-solution .testimonial-box .testimonial-author span,
+.css-solution .fic-date a:hover,
+.css-solution .forum-inner-content h1 a:hover,
+.css-solution .user-profile-desc a:hover,
+.css-solution .cd-timeline-navigation a:hover::after,
+.css-solution .login-form .login-input-box [class^="icon-"],
+.css-solution .icon-input-box [class^="icon-"],
+.css-solution ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-solution ul.bar-chart-graph li,
+.css-solution ul.line-graph li,
+.css-solution ul.donut-graph li,
+.css-solution .tp-caption.Creative-SubTitle,
+.css-solution .Creative-SubTitle,
+.css-solution .tp-caption.vlt-hero-rotating,
+.css-solution .pagination > li > a:focus,
+.css-solution .pagination > li > a:hover,
+.css-solution .pagination > li > span:focus,
+.css-solution .pagination > li > span:hover,
+.css-solution .pager li > a,
+.css-solution ul.recent-post-widget .rp-post a:hover,
+.css-solution .tp-tab.selected span.tp-tab-title span,
+.css-solution .tp-tab.selected span.tp-tab-title,
+.css-solution .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-solution .tp-main-color,
+.css-solution .loader-5,
+.css-solution .loader-7,
+.css-solution .loader-9,
+.css-solution .loader-2,
+.css-solution .loader-4,
+.css-solution .gsi-style-9 li.visited>*, 
+.css-solution .gsi-style-9 li.current>*,
+.css-solution .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-solution .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #1388ff !important;
+}
+
+.css-solution .tp-caption .btn-default,
+.css-solution .btn-default,
+.css-solution .flex-control-paging li a.flex-active,
+.css-solution .flexslider.clients .flex-control-paging li a.flex-active,
+.css-solution .pagination-box .pager li a,
+.css-solution .contact-info-3,
+.css-solution .tags-cloud-list li a:hover,
+.css-solution .team-social a:hover,
+.css-solution .contact-title-one h3:after,
+.css-solution .home-title-one h3:after,
+.css-solution #login-form .login-input:active,
+.css-solution #login-form .login-input:focus,
+.css-solution .load-more-wrapper a.load-more-btn:hover,
+.css-solution #register-form .register-input:active,
+.css-solution #register-form .register-input:focus,
+.css-solution .dropcap.dropcap-style-1,
+.css-solution .dropcap.dropcap-style-2,
+.css-solution .alert-default,
+.css-solution blockquote,
+.css-solution .tp-caption .btn-default,
+.css-solution .btn-default,
+.css-solution .btn-default-reverse,
+.css-solution .icon-box.icon-square .icon-block,
+.css-solution .icon-box.icon-circle .icon-block,
+.css-solution .icon-type.it-main-color,
+.css-solution .icon-type.it-main-color:hover,
+.css-solution .icon-type.it-main-color:focus,
+.css-solution .icon-type.it-main-color-reverse,
+.css-solution .icon-type.it-main-color-reverse:hover,
+.css-solution .icon-type.it-main-color-reverse:focus,
+.css-solution .add-to-cart-form .count-input .count-plus:hover,
+.css-solution .add-to-cart-form .count-input .count-minus:hover,
+.css-solution #reviewmodal .modal-header,
+.css-solution .job-left-title h3,
+.css-solution .pricing-table-container.special-price-table,
+.css-solution .clients-slick-nav .slick-custom-next:hover,
+.css-solution .clients-slick-nav .slick-custom-prev:hover,
+.css-solution a.add-to-wishlist.select,
+.css-solution a.add-to-wishlist.select [class^="icon-"],
+.css-solution .tabpanel-style-8 .nav-tabs > li.active,
+.css-solution a.btn-default.btn-animation-icon-box,
+.css-solution .btn-default.btn-animation-icon-box:hover,
+.css-solution .btn-default.btn-animation-icon-box:focus,
+.css-solution .btn-default.btn-animation-icon-box:active,
+.css-solution .tp-caption a.btn-default.btn-animation-icon-box,
+.css-solution .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-solution .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-solution .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-solution .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-solution .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-solution .clients-slick-nav .slick-clients-prev:hover,
+.css-solution .clients-slick-nav .slick-clients-next:hover,
+.css-solution .bsp-image,
+.css-solution .blog-list > article.default-post .blog-desc,
+.css-solution .testimonial-single li.slick-active button::before,
+.css-solution .slick-dots li.slick-active button:before,
+.css-solution .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-solution .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-solution .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-solution .timeline-status.timeline-active:before,
+.css-solution .cd-horizontal-timeline .events a.older-event::after,
+.css-solution .cd-horizontal-timeline .events a.selected::after,
+.css-solution .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-solution .no-touch .cd-timeline-navigation a:hover,
+.css-solution .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-solution .cd-timeline-navigation a:hover,
+.css-solution .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-solution .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-solution .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-solution .login-form input:focus,
+.css-solution .pinpulse,
+.css-solution .open > .dropdown-toggle.btn-default,
+.css-solution .pagination > .active > a,
+.css-solution .pagination > .active > a:focus,
+.css-solution .pagination > .active > a:hover,
+.css-solution .pagination > .active > span,
+.css-solution .pagination > .active > span:focus,
+.css-solution .pagination > .active > span:hover,
+.css-solution .table-style-1 thead tr th,
+.css-solution .table-style-1 tbody tr:last-child th,
+.css-solution .table-style-1 tbody tr:last-child td,
+.css-solution .table-withmaincolor thead tr th,
+.css-solution .clients-title-border h3,
+.css-solution .cd-slider-nav li:hover,
+.css-solution .selected,
+.css-solution .job-form input:focus,
+.css-solution .job-form select:focus,
+.css-solution .job-form textarea:focus,
+.css-solution .form-contact input:focus,
+.css-solution .form-contact select:focus,
+.css-solution .form-contact textarea:focus,
+.css-solution .form-contact input:focus,
+.css-solution .icon-type-2:hover p,
+.css-solution .icon-type-2:hover span.icon-type-2-icon,
+.css-solution .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-solution .activeFilter,
+.css-solution .loader-30 > div, 
+.css-solution .loader-31 > div, 
+.css-solution .loader-35 > div:first-of-type, 
+.css-solution .loader-35 > div:nth-child(2),
+.css-solution .loader-12 > div,
+.css-solution .loader-15 > div,
+.css-solution .loader-21 > div,
+.css-solution .radio input[type=radio]:checked ~ .circle, 
+.css-solution .gsi-step-indicator.triangle li.current>*, 
+.css-solution .gsi-style-7.border-right li.current>*, 
+.css-solution .gsi-style-7.border-bottom li.current>*, 
+.css-solution .gsi-style-7.border-left li.current>*, 
+.css-solution .flatpickr-day.today, 
+.css-solution .flatpickr-day.today:focus, 
+.css-solution .flatpickr-day.today:hover {
+    border-color:  #1388ff;
+}
+.css-solution .gsi-style-4 li.current>* .number:before{
+  border-left-color: #1388ff;
+}
+.css-solution .gsi-style-7.border-top li.current>*{
+  border-top-color: #1388ff;
+}
+.css-solution .tabpanel-style-4 .nav-tabs > li.active,
+.css-solution .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-solution .tabpanel-style-5 .nav-tabs > li.active,
+.css-solution .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #1388ff transparent;
+}
+
+.css-solution .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #1388ff;
+}
+
+.css-solution .icon-box-2-effect-4 .icon-block-2,
+.css-solution .icon-box-2-effect-5 .icon-block-2,
+.css-solution .icon-box-2-effect-5:hover .icon-block-2,
+.css-solution .icon-box-2-effect-1 .icon-block-2:after,
+.css-solution .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #1388ff;
+}
+
+.css-solution .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #1388ff;
+}
+
+.css-solution .empty-cart:after, .css-solution .loader-34 > div  {
+  border-bottom-color: #1388ff;
+}
+
+.css-solution .btn-default-reverse:hover,
+.css-solution .btn-default-reverse:focus {
+  background-color: #1388ff !important;
+  border-color: #1388ff !important;
+}
+
+.css-solution .tp-caption .btn-default.active,
+.css-solution .btn-default.active,
+.css-solution .tp-caption .btn-default.focus,
+.css-solution .btn-default.focus,
+.css-solution .tp-caption .btn-default:active,
+.css-solution .btn-default:active,
+.css-solution .tp-caption .btn-default:focus,
+.css-solution .btn-default:focus,
+.css-solution .tp-caption .btn-default:hover,
+.css-solution .btn-default:hover,
+.css-solution .tp-caption .btn-white:hover,
+.css-solution .btn-white:hover {
+  background-color: #117ae4 !important;
+  border-color: #117ae4 !important;
+}
+
+.css-solution .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #1388ff;
+}
+
+.css-solution #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-solution #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-solution #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-solution #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-solution #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-solution #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-solution #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-solution #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #1388ff;
+}
+
+.css-solution #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-solution #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-solution span.latest-post-month,
+.css-solution .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-solution .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #117ae4;
+}
+
+.css-solution #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-solution #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-solution #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-solution #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-solution #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-solution #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-solution #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-solution #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-solution #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-solution #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-solution #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-solution #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-solution #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-solution #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-solution #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-solution #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-solution #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-solution #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #117ae4;
+  border-color: #117ae4;
+}
+
+.css-solution #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-solution #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #117ae4;
+}
+
+.css-solution .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-solution .item-text-wrapper,
+.css-solution .standard_hover .portfolio_overlay,
+.css-solution .overlay-animation-1 .overlay_box,
+.css-solution .overlay-animation-2 .overlay_box,
+.css-solution .flip-hover .flip-box .content-box,
+.css-solution .team-8 .team-image .overlay-team-box,
+.css-solution .team-9 .team-image .overlay-team-box,
+.css-solution .portfolio-animation-slide .sliding-content {
+  background-color: rgba(19, 136, 255, 0.9);
+}
+
+.css-solution .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-solution .team-2 .overlay-team-box,
+.css-solution .team-6 .overlay-team-box,
+.css-solution .team-7 .overlay-team-box,
+.css-solution .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-solution .contact-overlay-map .overlay-map-background,
+.css-solution .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-solution .table-style-7.table-withmaincolor tbody tr th,
+.css-solution .table-style-2.table-withmaincolor tbody tr,
+.css-solution .fc-bgevent,
+.css-solution #particles-js.background-1 {
+  background-color: rgba(19, 136, 255, 0.6) !important;
+}
+
+.css-solution .widget-dribbble-box .shots li a:hover:before, .css-solution .dribbble-box .shots li a:hover:before,
+.css-solution .instagram-widget a:hover:before {
+  background-color: rgba(19, 136, 255, 0.85);
+}
+
+.css-solution .search-popup-box,
+.css-solution .scroll-to-top-fixed {
+  background-color: rgba(19, 136, 255, 0.95);
+}
+
+.css-solution #page-title .form-contact input {
+  background-color: transparent;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.65);
+  color: #ffffff;
+}
+
+.css-solution #page-title .form-contact .btn {
+  margin-bottom: 0px;
+  top: 8px;
+}
+
+.css-solution .contact-title-small h4 {
+  font-size: 16px !important;
+  text-transform: uppercase;
+  font-weight: 600 !important;
+}
+
+.css-solution .contact-info-small h5 {
+  text-align: center;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.css-solution .contact-info-small h5 a {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.css-solution .link-rounded-icon {
+  margin: 80px 0px 55px 0px;
+}
+
+.css-solution .form-contact input::-webkit-input-placeholder,
+.css-solution .form-contact textarea::-webkit-input-placeholder,
+.css-solution .form-contact select::-webkit-input-placeholder {
+  color: #ffffff;
+}
+
+.css-solution .contact-info-small {
+  float: left;
+  width: 100%;
+  position: relative;
+  margin-top: -25px;
+}
+
+.css-solution .terms-small {
+  font-size: 110%;
+}
+
+.css-solution .terms-small a {
+  font-weight: 600;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+
+.css-solution .call-to-action .testimonials-slider {
+  z-index: 333;
+}
+
+.css-solution .svg-animation path {
+  stroke: #1388ff !important;
+  fill: none !important;
+}
+
+.css-solution .loader-3 {
+  border-top-color: rgba(19, 136, 255, 0.2);
+  border-right-color: rgba(19, 136, 255, 0.2);
+  border-bottom-color: rgba(19, 136, 255, 0.2);
+  border-left-color: #1388ff;
+}
+
+.css-solution #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-solution #header.header-white .navbar-2 .search-navbar .btn-cart:hover {
+  color: rgba(255, 255, 255, 0.85) !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.css-solution .icon-box-2-effect-4:hover .icon-block-2 span,
+.css-solution .icon-box-2-effect-1:hover .icon-block-2 span {
+  color: #ffffff;
+}
+
+.css-solution .transparent-background .testimonial-single .slick-dots .slick-active button:before {
+  background-color: transparent !important;
+}
+
+.css-solution .transparent-background .testimonial-single .slick-dots button:before {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.css-solution .icon-box.icon-fill:hover .icon-block,
+.css-solution .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-solution .cart-shop-products h3, .css-solution .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-solution .cart-shop-products-list li .csp-price, .css-solution .sidebar-shop-products-list li .ssp-price,
+.css-solution .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-solution .shop-list .shop-product .shop-star-rating li.full-star,
+.css-solution ul.shop-star-rating li.full-star {
+  color: #f15a23;
+}
+
+.css-solution .shop-list .shop-product .shop-ribbon, .css-solution .ui-slider-horizontal .ui-slider-range,
+.css-solution .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-solution .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #f15a23;
+}
+
+.css-solution .form-contact-2.form-tab button {
+  top: 8px;
+}
+
+.css-solution .gray-background .testimonial-single .slick-dots li.slick-active button:before, .css-solution .gray-background .slick-dots li.slick-active button:before {
+  background-color: transparent !important;
+  border-color: #777 !important;
+}
+
+.css-solution .gray-background .testimonial-single .slick-dots li button:before, .css-solution .gray-background .slick-dots li button:before {
+  background-color: #777 !important;
+}
+.css-solution .loader-13 > div:last-child, 
+.css-solution .loader-15 > div:last-child {
+  border-color: #1388ff transparent;
+}
+.css-solution .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #1388ff 30%, #1388ff 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #1388ff 30%, #1388ff 100%);
+}

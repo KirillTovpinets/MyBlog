@@ -1,0 +1,874 @@
+/* Spa Center */
+body.css-spa-center,
+.css-spa-center p,
+.css-spa-center h1,
+.css-spa-center h2,
+.css-spa-center h3,
+.css-spa-center h4,
+.css-spa-center h5,
+.css-spa-center h6,
+.css-spa-center .featured-content h1.small,
+.css-spa-center .form-group > label,
+.css-spa-center .checkbox > label,
+.css-spa-center .alert > p,
+.css-spa-center .block-content-wrapper h2,
+.css-spa-center .intro-text h1, .intro-text h2,
+.css-spa-center .intro-text h3, .intro-text h4,
+.css-spa-center .intro-text h5, .intro-text h6,
+.css-spa-center .restaurant-info-img-content h4,
+.css-spa-center .contact-title h3 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
+
+.css-spa-center h1, .css-spa-center h2, .css-spa-center h3, .css-spa-center h4, .css-spa-center h5, .css-spa-center h6 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
+
+.css-spa-center .color-1 {
+  color: #d7c164;
+}
+
+.css-spa-center .background-1,
+.css-spa-center .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-spa-center .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-spa-center .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1, a.brand-modern span.line-1 {
+  background-color: #d7c164 !important;
+}
+
+.css-spa-center .color-2 {
+  color: #7ac9b7;
+}
+
+.css-spa-center .background-2,
+.css-spa-center .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-spa-center .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-spa-center .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2, a.brand-modern span.line-2 {
+  background-color: #7ac9b7;
+}
+
+.css-spa-center .color-3 {
+  color: #cb7365;
+}
+
+.css-spa-center .background-3,
+.css-spa-center .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-spa-center .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-spa-center .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3, a.brand-modern span.line-3 {
+  background-color: #cb7365;
+}
+
+.css-spa-center .call-to-action {
+  background-color: transparent !important;
+}
+
+.css-spa-center .tp-caption .btn-default,
+.css-spa-center .btn-default,
+.css-spa-center .flex-control-paging li a.flex-active,
+.css-spa-center .navbar-toggle,
+.css-spa-center #mobile-navbar,
+.css-spa-center .offscreen-container,
+.css-spa-center .maincolor-background,
+.css-spa-center ul.widget-ul li a > span,
+.css-spa-center ul.widget-social li a:hover,
+.css-spa-center #people .item .info,
+.css-spa-center .main-color,
+.css-spa-center .flexslider.clients .flex-control-paging li a.flex-active,
+.css-spa-center #portfolio-filter li a:after,
+.css-spa-center .navbar.banner--clone .nav li.active > a,
+.css-spa-center .pagination-box .pager li a,
+.css-spa-center .pricing-table-column.special-price-table .pricing-table-head,
+.css-spa-center .pricing-table-column.special-price-table .pricing-table-content,
+.css-spa-center .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-spa-center .tags-cloud-list li a:hover,
+.css-spa-center .progress-bar-box .progress-bar,
+.css-spa-center .background-1,
+.css-spa-center .selecter .selecter-item:hover,
+.css-spa-center .selecter .selecter-item.selected:hover,
+.css-spa-center #footer.colored,
+.css-spa-center section.about-counter,
+.css-spa-center .error-page-title:after,
+.css-spa-center .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-spa-center .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-spa-center .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-spa-center .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-spa-center .tabpanel-style-4 .tab-content h3:after,
+.css-spa-center .about-classic-column-themecolor,
+.css-spa-center .selecter .selecter-item:hover,
+.css-spa-center .selecter .selecter-item.selected:hover,
+.css-spa-center .item-text-wrapper_overlay,
+.css-spa-center .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-spa-center .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-spa-center .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-spa-center .shop-type-2 a.add-to-cart-item,
+.css-spa-center .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-spa-center .navbar-2 .btn-cart .header-cart-count,
+.css-spa-center .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-spa-center .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-spa-center .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-spa-center .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-spa-center .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-spa-center .dropcap.dropcap-style-2,
+.css-spa-center .alert-default,
+.css-spa-center blockquote:before,
+.css-spa-center blockquote:after,
+.css-spa-center .tp-caption .btn-default,
+.css-spa-center .btn-default,
+.css-spa-center .content-title h5:before,
+.css-spa-center .content-title h5:after,
+.css-spa-center .icon-box.icon-fill .icon-block,
+.css-spa-center .icon-box.icon-square:hover .icon-block,
+.css-spa-center .icon-box.icon-circle:hover .icon-block,
+.css-spa-center .icon-box.icon-square:hover .icon-block span,
+.css-spa-center .icon-box.icon-circle:hover .icon-block span,
+.css-spa-center .icon-type.it-main-color:hover,
+.css-spa-center .icon-type.it-main-color:focus,
+.css-spa-center .icon-type.it-main-color-reverse,
+.css-spa-center .icon-type.it-main-color:hover span,
+.css-spa-center .icon-type.it-main-color-reverse:hover span,
+.css-spa-center .add-to-cart-form .count-input .count-plus:hover,
+.css-spa-center .add-to-cart-form .count-input .count-minus:hover,
+.css-spa-center .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-spa-center .pricing-table-container.special-price-table,
+.css-spa-center .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-spa-center .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-spa-center ul.forum-list li.forum-header,
+.css-spa-center .textbox-withmaincolor,
+.css-spa-center .background-1,
+.css-spa-center .team-member-job,
+.css-spa-center .team-section .team-desc-box:before,
+.css-spa-center .team-section .team-desc-box:after,
+.css-spa-center .shop-categories:hover .shop-title-categories,
+.css-spa-center .content-divider-colored-bg [class^="icon-"],
+.css-spa-center .overlay-animation-6 .content-box,
+.css-spa-center .block-content-wrapper h1,
+.css-spa-center .benefits-box h1,
+.css-spa-center .selecter .selecter-item:hover,
+.css-spa-center .selecter .selecter-item.selected:hover,
+.css-spa-center .ui-slider .ui-slider-range,
+.css-spa-center #header.header-main-color,
+.css-spa-center .navbar-2.banner--clone.main-color-navbar,
+.css-spa-center .tabpanel-style-center .nav-tabs > li.active > a,
+.css-spa-center .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-spa-center .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-spa-center .label.label-primary,
+.css-spa-center .label.label-primary,
+.css-spa-center .star-rating .caption .label,
+.css-spa-center .tparrows.preview5:hover,
+.css-spa-center .table-style-4.table-withmaincolor thead tr th,
+.css-spa-center .table-style-5.table-withmaincolor thead tr th,
+.css-spa-center .table-style-6.table-withmaincolor thead tr th,
+.css-spa-center .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-spa-center .table-style-7.table-withmaincolor thead tr th,
+.css-spa-center .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-spa-center .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-spa-center .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-spa-center .table-style-2.table-withmaincolor thead tr th,
+.css-spa-center .table-style-3.table-withmaincolor thead tr th,
+.css-spa-center .table-style-3.table-withmaincolor tbody tr th,
+.css-spa-center .parallax-withmaincolor,
+.css-spa-center .contact-overlay-map .minimize-form:hover,
+.css-spa-center .team-3:hover .team-social,
+.css-spa-center .team-5:hover .team-social,
+.css-spa-center .special-table-2,
+.css-spa-center .special-table-3,
+.css-spa-center span.pricing-3-discount,
+.css-spa-center #vertical-timeline-container:before,
+.css-spa-center .subscribe-fancy-themebg,
+.css-spa-center .empty-cart,
+.css-spa-center .team-4:hover .team-social,
+.css-spa-center .content-divider-colored,
+.css-spa-center .content-divider-colored-bg,
+.css-spa-center .withmainbackground,
+.css-spa-center .services-2-heading,
+.css-spa-center .icon-box-2-effect-4 .icon-block-2,
+.css-spa-center .services-2-heading,
+.css-spa-center .promotion-box-theme-colored,
+.css-spa-center .promotion-box-theme-colored .promotion-box-title h4,
+.css-spa-center .icon-block-2,
+.css-spa-center .icon-box-2-effect-2:hover .icon-block-2,
+.css-spa-center .icon-box-2-effect-3 .icon-block-2:after,
+.css-spa-center .icon-box-2-effect-4 .icon-block-2:after,
+.css-spa-center .icon-box-2-effect-6 .icon-block-2,
+.css-spa-center .icon-box-2-effect-6:hover .icon-block-2,
+.css-spa-center .simple-icon-icon,
+.css-spa-center a.call-to-action-link:hover,
+.css-spa-center .add-to-cart-form .count-input .count-plus,
+.css-spa-center .add-to-cart-form .count-input .count-minus,
+.css-spa-center .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-spa-center .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-spa-center .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-spa-center .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-spa-center .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-spa-center .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-spa-center .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-spa-center .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-spa-center .special-price-box,
+.css-spa-center .dropdown-menu > .active > a,
+.css-spa-center .dropdown-menu > .active > a:focus,
+.css-spa-center .dropdown-menu > .active > a:hover,
+.css-spa-center #header.main-color-nav .navbar-2,
+.css-spa-center .latest-post-data,
+.css-spa-center .blog-single-post .bsp-heading h1,
+.css-spa-center .testimonial-single .slick-dots li button:before,
+.css-spa-center .slick-dots li button:before,
+.css-spa-center .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-spa-center .timeline-complete .timeline-status.timeline-active:before,
+.css-spa-center .megamenu.maincolor,
+.css-spa-center .dropdown.maincolor ul,
+.css-spa-center .dropdown.maincolor ul.dropdown-menu,
+.css-spa-center #footer.maincolor,
+.css-spa-center #copyrights.maincolor,
+.css-spa-center .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-spa-center .cd-horizontal-timeline .events a.selected::after,
+.css-spa-center .cd-horizontal-timeline .filling-line,
+.css-spa-center .pinpulsebox span,
+.css-spa-center .main-color-dropdown .megamenu,
+.css-spa-center .main-color-dropdown .dropdown-menu,
+.css-spa-center #cd-timeline::before,
+.css-spa-center ul.icon-list.il-main-bg li [class^="icon-"],
+.css-spa-center .process-steps ul li.current a .number,
+.css-spa-center ol.ordered-list.ol-main-bg li:before,
+.css-spa-center .irs-bar,
+.css-spa-center .irs-from,
+.css-spa-center .irs-to,
+.css-spa-center .irs-single,
+.css-spa-center .open > .dropdown-toggle.btn-default,
+.css-spa-center .fc-unthemed .fc-today,
+.css-spa-center .fc-content,
+.css-spa-center #particles-js,
+.css-spa-center .s-icon:hover,
+.css-spa-center #progressbar li.active:before,
+.css-spa-center #progressbar li.active:after,
+.css-spa-center .pagination > .active > a,
+.css-spa-center .pagination > .active > a:focus,
+.css-spa-center .pagination > .active > a:hover,
+.css-spa-center .pagination > .active > span,
+.css-spa-center .pagination > .active > span:focus,
+.css-spa-center .pagination > .active > span:hover,
+.css-spa-center .portfolio-filter .selecter-item.activeFilter,
+.css-spa-center .page-loader-spinner span,
+.css-spa-center .loader-6:before,
+.css-spa-center .loader-2,
+.css-spa-center .loader-2:before,
+.css-spa-center .loader-2:after,
+.css-spa-center .loader-10 > div, 
+.css-spa-center .loader-11 > div,
+.css-spa-center .loader-13 > div:first-child, 
+.css-spa-center .loader-14 > div, 
+.css-spa-center .loader-16 > div, 
+.css-spa-center .loader-17 > div, 
+.css-spa-center .loader-17 > div:before, 
+.css-spa-center .loader-17 > div:after, 
+.css-spa-center .loader-18 > div, 
+.css-spa-center .loader-19 > div, 
+.css-spa-center .loader-20 > div, 
+.css-spa-center .loader-22 > div, 
+.css-spa-center .loader-23 > div, 
+.css-spa-center .loader-24 > div, 
+.css-spa-center .loader-25 > div, 
+.css-spa-center .loader-26 > div, 
+.css-spa-center .loader-27 > div, 
+.css-spa-center .loader-28 > div, 
+.css-spa-center .loader-29 > div, 
+.css-spa-center .loader-32 > div, 
+.css-spa-center .loader-33 > div, 
+.css-spa-center .loader-35 > div:nth-child(3), 
+.css-spa-center .loader-35 > div:nth-child(4), 
+.css-spa-center .loader-35 > div:nth-child(5),
+.css-spa-center .loader-35 > div:nth-child(6), 
+.css-spa-center .loader-37 > div, 
+.css-spa-center .loader-38 > div,
+.css-spa-center .checkbox input[type=checkbox]:checked + .checkbox-material .check, 
+.css-spa-center .radio input[type=radio]:checked ~ .check, 
+.css-spa-center .vlt-btn-group .dropdown-menu li a:hover, 
+.css-spa-center .gsi-step-indicator.triangle li.current>*, 
+.css-spa-center .gsi-style-4 li.current>*, 
+.css-spa-center .gsi-style-5 li.current>*, 
+.css-spa-center .gsi-style-6 li.current>* .number, 
+.css-spa-center .gsi-style-7 li.current:hover>*, 
+.css-spa-center .gsi-style-8 li.visited>*, 
+.css-spa-center .gsi-style-8 li.current>*, 
+.css-spa-center .gsi-style-9 li.visited>*:after, 
+.css-spa-center .gsi-style-9 li.current>*:after, 
+.css-spa-center .gsi-style-10 li.visited>*:after, 
+.css-spa-center .gsi-style-10 li.current>*:after, 
+.css-spa-center .gsi-style-11 li.current:before, 
+.css-spa-center .gsi-style-11 li.current:after, 
+.css-spa-center .gsi-style-11 li.visited:before, 
+.css-spa-center .gsi-style-11 li.visited:after, 
+.css-spa-center .gsi-style-11 li.visited>*:after, 
+.css-spa-center .gsi-style-11 li.current>*:after, 
+.css-spa-center .flatpickr-day.today:focus, 
+.css-spa-center .flatpickr-day.today:hover  {
+  background-color: #d7c164 !important;
+}
+
+.css-spa-center .header-content .phone-number span,
+.css-spa-center .intro-block h6,
+.css-spa-center .icon-block [class^="icon-"],
+.css-spa-center ul.header-links li a:hover,
+.css-spa-center .navbar.banner--clone .nav > li > a:hover,
+.css-spa-center .navbar.banner--clone .btn-search:hover,
+.css-spa-center .success-lg:hover [class^="icon-"],
+.css-spa-center #copyrights ul li a:hover,
+.css-spa-center #copyrights a:hover,
+.css-spa-center .breadcrumb > .active,
+.css-spa-center #portfolio-filter li a.activeFilter,
+.css-spa-center #portfolio-filter li a:hover,
+.css-spa-center .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-spa-center a.image_zoom:hover [class^="icon-"],
+.css-spa-center a.image_link:hover [class^="icon-"],
+.css-spa-center a.load-more-btn:hover,
+.css-spa-center a.load-more-btn:hover [class^="icon-"],
+.css-spa-center .intro-block h1 [class^="icon-"],
+.css-spa-center .shop-list .shop-product h4 a:hover,
+.css-spa-center ul#portfolio-layout-filter li a.active,
+.css-spa-center .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-spa-center ul.sidebar-shop-cat > li span,
+.css-spa-center .shop-price,
+.css-spa-center ul.sidebar-shop-cat > li > a:hover,
+.css-spa-center a.load-more-btn:hover,
+.css-spa-center a.load-more-btn:hover [class^="icon-"],
+.css-spa-center .intro-block h1 [class^="icon-"],
+.css-spa-center .shop-list .shop-product h4 a:hover,
+.css-spa-center ul#portfolio-layout-filter li a.active,
+.css-spa-center .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-spa-center ul.sidebar-cat > li span,
+.css-spa-center .shop-price,
+.css-spa-center ul.sidebar-cat > li > a:hover,
+.css-spa-center ul.jobs-list li [class^="icon-"],
+.css-spa-center .team-social a:hover,
+.css-spa-center .icon-default,
+.css-spa-center .error-page-icon span [class^="icon-"],
+.css-spa-center .footer-3-container-text a:hover,
+.css-spa-center .testimonials-box .testimonial-author,
+.css-spa-center #page-title.image-page-title-fullwidth h1,
+.css-spa-center #page-title.image-page-title-left.image-page-noimage h2,
+.css-spa-center ul.services-2-icons,
+.css-spa-center ul.shop-layout-filter li a.active,
+.css-spa-center ul.portfolio-layout-filter li a.active,
+.css-spa-center ul.porfolio-project-details-list > li .ppd-right,
+.css-spa-center ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-spa-center .related-projects-title .slick-custom-next:hover,
+.css-spa-center .related-projects-title .slick-custom-prev:hover,
+.css-spa-center .recent-post-content a:hover,
+.css-spa-center .form-group.login-form-submit a,
+.css-spa-center .shop-type-1 a.add-to-cart-item:before,
+.css-spa-center .shop-type-2 a.add-to-cart-item:before,
+.css-spa-center a.form-forgotpass,
+.css-spa-center .sidebar-shop-products-list li .ssp-title:hover,
+.css-spa-center .restaurant-info ul li [class^="icon-"],
+.css-spa-center .navbar-default.default .btn-cart .header-cart-count,
+.css-spa-center .cart-shop-products-list li .csp-title:hover,
+.css-spa-center .blog-list > article .blog-desc h4 a:hover,
+.css-spa-center .blog-list > article .blog-desc h4 a:focus,
+.css-spa-center .blog-list-full > article .blog-desc h4 a:hover,
+.css-spa-center .blog-list-full > article .blog-desc h4 a:focus,
+.css-spa-center .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-spa-center .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-spa-center .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-spa-center .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-spa-center .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-spa-center .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-spa-center .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-spa-center .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-spa-center .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-spa-center .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-spa-center .blog-masonry > article .blog-desc h4 a:hover,
+.css-spa-center .blog-masonry > article .blog-desc h4 a:focus,
+.css-spa-center .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-spa-center .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-spa-center .comment_response .media h6 a,
+.css-spa-center .comment_response .media_cloud a.reply_link,
+.css-spa-center .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-spa-center .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-spa-center .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-spa-center .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-spa-center .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-spa-center .dropcap.dropcap-style-1,
+.css-spa-center .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-spa-center .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-spa-center .counter-box .count-icon,
+.css-spa-center .counter-style-1 .counter-box h4,
+.css-spa-center .icon-type,
+.css-spa-center .icon-type.it-main-color,
+.css-spa-center .icon-type.it-main-color-reverse:hover,
+.css-spa-center .icon-type.it-main-color-reverse:focus,
+.css-spa-center .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-spa-center .comment_response .media h6 a,
+.css-spa-center .comment_response .media_cloud a.reply_link,
+.css-spa-center .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-spa-center .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-spa-center .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-spa-center .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-spa-center .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-spa-center .dropcap.dropcap-style-1,
+.css-spa-center .btn-default-reverse,
+.css-spa-center .icon-box.icon-square.icon-fill:hover .icon-block [class^="icon-"],
+.css-spa-center .icon-box.icon-circle.icon-fill:hover .icon-block [class^="icon-"],
+.css-spa-center .counter-box .count-icon,
+.css-spa-center .counter-style-1 .counter-box h4,
+.css-spa-center .icon-type,
+.css-spa-center .icon-type.it-main-color,
+.css-spa-center .icon-type.it-main-color-reverse:hover [class^="icon-"],
+.css-spa-center .icon-type.it-main-color-reverse:focus,
+.css-spa-center .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-spa-center .review_response .media h6 a,
+.css-spa-center .review_response .media_cloud .shop-star-rating li.full-star,
+.css-spa-center .rating-container .rating-stars,
+.css-spa-center .form-contact small,
+.css-spa-center ul.icon-list li a:hover,
+.css-spa-center ul.icon-list li a:active,
+.css-spa-center ul.icon-list li a:focus,
+.css-spa-center .checkout-sum,
+.css-spa-center .checkout-table td a:hover,
+.css-spa-center .checkout-box a,
+.css-spa-center .user-profile-list ul li a:hover,
+.css-spa-center a.profile-active,
+.css-spa-center .user-profile-content h2,
+.css-spa-center .forum-content-header span a,
+.css-spa-center .recent-work-content a:hover,
+.css-spa-center .recent-work-image-content a:hover,
+.css-spa-center .contact-overlay-map .maximize-form:hover,
+.css-spa-center .hero-slier-nav-content:hover [class^="icon-"],
+.css-spa-center .selected .hero-slier-nav-content [class^="icon-"],
+.css-spa-center .team-social a:hover,
+.css-spa-center .team-name h5 a:hover,
+.css-spa-center .clients-slick-nav .slick-custom-next:hover,
+.css-spa-center .clients-slick-nav .slick-custom-prev:hover,
+.css-spa-center .services-pricing-icon [class^="icon-"],
+.css-spa-center .brand [class^="icon-"],
+.css-spa-center .content-divider-colored [class^="icon-"],
+.css-spa-center .divider-content h1 span,
+.css-spa-center .divider-content h2 span,
+.css-spa-center .divider-content h3 span,
+.css-spa-center .intro-page-content a:hover,
+.css-spa-center .image-box-content a:hover,
+.css-spa-center .icon-type.it-main-color [class^="icon-"],
+.css-spa-center .icon-type-2:hover p,
+.css-spa-center .icon-type-2:hover span.icon-type-2-icon,
+.css-spa-center .heading-container .head-colored,
+.css-spa-center ul.home-6-list li h4 [class^="icon-"],
+.css-spa-center .icon-box-2-effect-1:hover .icon-block-2,
+.css-spa-center .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-spa-center .icon-box-2-effect-4:hover .icon-block-2,
+.css-spa-center .icon-box-2-effect-4-reverse .icon-block-2,
+.css-spa-center .icon-box-2-effect-5:hover .icon-block-2,
+.css-spa-center .simple-icon-lightbg [class^="icon-"],
+.css-spa-center .newsletter-signup button,
+.css-spa-center a.add-to-wishlist.select,
+.css-spa-center a.add-to-wishlist.select [class^="icon-"],
+.css-spa-center .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-spa-center .panel-body ul li a:hover,
+.css-spa-center .colored,
+.css-spa-center .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-spa-center .tabpanel-style-6 .nav-tabs > li > a,
+.css-spa-center .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-spa-center .tp_caption_big span,
+.css-spa-center ul.icon-box-simple li:hover a,
+.css-spa-center .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-spa-center .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-spa-center .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-spa-center .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-spa-center .blockquote-author p,
+.css-spa-center .testimonial-author,
+.css-spa-center .latest-post-content h1 a:hover,
+.css-spa-center .post-by a:hover,
+.css-spa-center .latest-post-content .read-more-link,
+.css-spa-center .blog-horizontal .bh-content h3 a:hover,
+.css-spa-center .blog-horizontal .bh-content .bh-details a:hover,
+.css-spa-center .blog-horizontal .bh-content .bh-details a:hover span,
+.css-spa-center a.bsp-title:hover,
+.css-spa-center .sidebar-blog-post-list li .sbp-title:hover,
+.css-spa-center .navbar-nav > li.active,
+.css-spa-center .navbar-nav > li.active:hover,
+.css-spa-center a.idb-social:hover,
+.css-spa-center a.idb-social:hover span,
+.css-spa-center a.idb-price,
+.css-spa-center span.pts-raised,
+.css-spa-center .bsp-social a:hover,
+.css-spa-center .bsp-social a [class^="icon-"]:hover,
+.css-spa-center a.bsp-more:hover,
+.css-spa-center .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-spa-center .blog-list > article .blog-post-2 .bp2-desc h4 a:hover,
+.css-spa-center .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-spa-center .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-spa-center .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-spa-center .gallery-block .gallery-box .gallery-meta a:hover,
+.css-spa-center .gallery-block .gallery-box .gallery-meta a:focus,
+.css-spa-center .cd-timeline-inner-content a:hover,
+.css-spa-center .testimonial-box .testimonial-author span,
+.css-spa-center .fic-date a:hover,
+.css-spa-center .forum-inner-content h1 a:hover,
+.css-spa-center .user-profile-desc a:hover,
+.css-spa-center .cd-timeline-navigation a:hover::after,
+.css-spa-center .login-form .login-input-box [class^="icon-"],
+.css-spa-center .icon-input-box [class^="icon-"],
+.css-spa-center ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-spa-center ul.bar-chart-graph li,
+.css-spa-center ul.line-graph li,
+.css-spa-center ul.donut-graph li,
+.css-spa-center .tp-caption.Creative-SubTitle,
+.css-spa-center .Creative-SubTitle,
+.css-spa-center .tp-caption.vlt-hero-rotating,
+.css-spa-center .pagination > li > a:focus,
+.css-spa-center .pagination > li > a:hover,
+.css-spa-center .pagination > li > span:focus,
+.css-spa-center .pagination > li > span:hover,
+.css-spa-center .pager li > a,
+.css-spa-center ul.recent-post-widget .rp-post a:hover,
+.css-spa-center .tp-tab.selected span.tp-tab-title span,
+.css-spa-center .tp-tab.selected span.tp-tab-title,
+.css-spa-center .zeus .tp-tab.selected:hover .tp-tab-title,
+.css-spa-center .tp-main-color,
+.css-spa-center .loader-5,
+.css-spa-center .loader-7,
+.css-spa-center .loader-9,
+.css-spa-center .loader-2,
+.css-spa-center .loader-4,
+.css-spa-center .gsi-style-9 li.visited>*, 
+.css-spa-center .gsi-style-9 li.current>*,
+.css-spa-center .item-text-wrapper_normal .portfolio-item-title a:hover, 
+.css-spa-center .item-text-wrapper_normal .portfolio-item-category a:hover {
+  color: #d7c164 !important;
+}
+
+.css-spa-center .tp-caption .btn-default,
+.css-spa-center .btn-default,
+.css-spa-center .flex-control-paging li a.flex-active,
+.css-spa-center .flexslider.clients .flex-control-paging li a.flex-active,
+.css-spa-center .pagination-box .pager li a,
+.css-spa-center .contact-info-3,
+.css-spa-center .tags-cloud-list li a:hover,
+.css-spa-center .team-social a:hover,
+.css-spa-center .contact-title-one h3:after,
+.css-spa-center .home-title-one h3:after,
+.css-spa-center #login-form .login-input:active,
+.css-spa-center #login-form .login-input:focus,
+.css-spa-center .load-more-wrapper a.load-more-btn:hover,
+.css-spa-center #register-form .register-input:active,
+.css-spa-center #register-form .register-input:focus,
+.css-spa-center .dropcap.dropcap-style-1,
+.css-spa-center .dropcap.dropcap-style-2,
+.css-spa-center .alert-default,
+.css-spa-center blockquote,
+.css-spa-center .tp-caption .btn-default,
+.css-spa-center .btn-default,
+.css-spa-center .btn-default-reverse,
+.css-spa-center .icon-box.icon-square .icon-block,
+.css-spa-center .icon-box.icon-circle .icon-block,
+.css-spa-center .icon-type.it-main-color,
+.css-spa-center .icon-type.it-main-color:hover,
+.css-spa-center .icon-type.it-main-color:focus,
+.css-spa-center .icon-type.it-main-color-reverse,
+.css-spa-center .icon-type.it-main-color-reverse:hover,
+.css-spa-center .icon-type.it-main-color-reverse:focus,
+.css-spa-center .add-to-cart-form .count-input .count-plus:hover,
+.css-spa-center .add-to-cart-form .count-input .count-minus:hover,
+.css-spa-center #reviewmodal .modal-header,
+.css-spa-center .job-left-title h3,
+.css-spa-center .pricing-table-container.special-price-table,
+.css-spa-center .clients-slick-nav .slick-custom-next:hover,
+.css-spa-center .clients-slick-nav .slick-custom-prev:hover,
+.css-spa-center a.add-to-wishlist.select,
+.css-spa-center a.add-to-wishlist.select [class^="icon-"],
+.css-spa-center .tabpanel-style-8 .nav-tabs > li.active,
+.css-spa-center a.btn-default.btn-animation-icon-box,
+.css-spa-center .btn-default.btn-animation-icon-box:hover,
+.css-spa-center .btn-default.btn-animation-icon-box:focus,
+.css-spa-center .btn-default.btn-animation-icon-box:active,
+.css-spa-center .tp-caption a.btn-default.btn-animation-icon-box,
+.css-spa-center .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-spa-center .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-spa-center .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-spa-center .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-spa-center .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-spa-center .clients-slick-nav .slick-clients-prev:hover,
+.css-spa-center .clients-slick-nav .slick-clients-next:hover,
+.css-spa-center .bsp-image,
+.css-spa-center .blog-list > article.default-post .blog-desc,
+.css-spa-center .testimonial-single li.slick-active button::before,
+.css-spa-center .slick-dots li.slick-active button:before,
+.css-spa-center .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-spa-center .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-spa-center .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-spa-center .timeline-status.timeline-active:before,
+.css-spa-center .cd-horizontal-timeline .events a.older-event::after,
+.css-spa-center .cd-horizontal-timeline .events a.selected::after,
+.css-spa-center .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-spa-center .no-touch .cd-timeline-navigation a:hover,
+.css-spa-center .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-spa-center .cd-timeline-navigation a:hover,
+.css-spa-center .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-spa-center .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-spa-center .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-spa-center .login-form input:focus,
+.css-spa-center .pinpulse,
+.css-spa-center .open > .dropdown-toggle.btn-default,
+.css-spa-center .pagination > .active > a,
+.css-spa-center .pagination > .active > a:focus,
+.css-spa-center .pagination > .active > a:hover,
+.css-spa-center .pagination > .active > span,
+.css-spa-center .pagination > .active > span:focus,
+.css-spa-center .pagination > .active > span:hover,
+.css-spa-center .table-style-1 thead tr th,
+.css-spa-center .table-style-1 tbody tr:last-child th,
+.css-spa-center .table-style-1 tbody tr:last-child td,
+.css-spa-center .table-withmaincolor thead tr th,
+.css-spa-center .clients-title-border h3,
+.css-spa-center .cd-slider-nav li:hover,
+.css-spa-center .selected,
+.css-spa-center .job-form input:focus,
+.css-spa-center .job-form select:focus,
+.css-spa-center .job-form textarea:focus,
+.css-spa-center .form-contact input:focus,
+.css-spa-center .form-contact select:focus,
+.css-spa-center .form-contact textarea:focus,
+.css-spa-center .form-contact input:focus,
+.css-spa-center .icon-type-2:hover p,
+.css-spa-center .icon-type-2:hover span.icon-type-2-icon,
+.css-spa-center .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-spa-center .activeFilter,
+.css-spa-center .loader-30 > div, 
+.css-spa-center .loader-31 > div, 
+.css-spa-center .loader-35 > div:first-of-type, 
+.css-spa-center .loader-35 > div:nth-child(2),
+.css-spa-center .loader-12 > div,
+.css-spa-center .loader-15 > div,
+.css-spa-center .loader-21 > div,
+.css-spa-center .radio input[type=radio]:checked ~ .circle, 
+.css-spa-center .gsi-step-indicator.triangle li.current>*, 
+.css-spa-center .gsi-style-7.border-right li.current>*, 
+.css-spa-center .gsi-style-7.border-bottom li.current>*, 
+.css-spa-center .gsi-style-7.border-left li.current>*, 
+.css-spa-center .flatpickr-day.today, 
+.css-spa-center .flatpickr-day.today:focus, 
+.css-spa-center .flatpickr-day.today:hover {
+    border-color:  #d7c164;
+}
+.css-spa-center .gsi-style-4 li.current>* .number:before{
+  border-left-color: #d7c164;
+}
+.css-spa-center .gsi-style-7.border-top li.current>*{
+  border-top-color: #d7c164;
+}
+.css-spa-center .tabpanel-style-4 .nav-tabs > li.active,
+.css-spa-center .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-spa-center .tabpanel-style-5 .nav-tabs > li.active,
+.css-spa-center .tabpanel-style-5 .nav-tabs > li.active > span {
+  border-color: #d7c164 transparent;
+}
+
+.css-spa-center .icon-box-2-effect-3 .icon-block-2 {
+  box-shadow: 0 0 0 3px #d7c164;
+}
+
+.css-spa-center .icon-box-2-effect-4 .icon-block-2,
+.css-spa-center .icon-box-2-effect-5 .icon-block-2,
+.css-spa-center .icon-box-2-effect-5:hover .icon-block-2,
+.css-spa-center .icon-box-2-effect-1 .icon-block-2:after,
+.css-spa-center .icon-box-2-effect-2 .icon-block-2:after {
+  box-shadow: 0 0 0 4px #d7c164;
+}
+
+.css-spa-center .icon-box-2-effect-6 .icon-block-2:after {
+  box-shadow: 0 0 0 2px #d7c164;
+}
+
+.css-spa-center .empty-cart:after, .css-spa-center .loader-34 > div  {
+  border-bottom-color: #d7c164;
+}
+
+.css-spa-center .btn-default-reverse:hover,
+.css-spa-center .btn-default-reverse:focus {
+  background-color: #d7c164 !important;
+  border-color: #d7c164 !important;
+}
+
+.css-spa-center .tp-caption .btn-default.active,
+.css-spa-center .btn-default.active,
+.css-spa-center .tp-caption .btn-default.focus,
+.css-spa-center .btn-default.focus,
+.css-spa-center .tp-caption .btn-default:active,
+.css-spa-center .btn-default:active,
+.css-spa-center .tp-caption .btn-default:focus,
+.css-spa-center .btn-default:focus,
+.css-spa-center .tp-caption .btn-default:hover,
+.css-spa-center .btn-default:hover,
+.css-spa-center .tp-caption .btn-white:hover,
+.css-spa-center .btn-white:hover {
+  background-color: #b09c48 !important;
+  border-color: #b09c48 !important;
+}
+
+.css-spa-center .metis .tp-tab.selected .tp-tab-divider {
+  border-right-color: #d7c164;
+}
+
+.css-spa-center #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-spa-center #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-spa-center #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-spa-center #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-spa-center #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-spa-center #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-spa-center #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-spa-center #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+  background-color: #d7c164;
+}
+
+.css-spa-center #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-spa-center #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-spa-center span.latest-post-month,
+.css-spa-center .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-spa-center .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu {
+  background-color: #b09c48;
+}
+
+.css-spa-center #header.header-white .navbar-2 .search-navbar .btn-search:hover,
+.css-spa-center #header.header-white .navbar-2 .search-navbar .btn-cart:hover,
+.css-spa-center #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-spa-center #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-spa-center #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-spa-center #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-spa-center #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-spa-center #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-spa-center #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-spa-center #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-spa-center #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-spa-center #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-spa-center #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-spa-center #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-spa-center #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-spa-center #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-spa-center #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-spa-center #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover {
+  background: #b09c48;
+  border-color: #b09c48;
+}
+
+.css-spa-center #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-spa-center #header.main-color-nav .navbar-2 .navbar-nav > .active > a {
+  background-color: #b09c48;
+}
+
+.css-spa-center .background-1 .counter-style-1 .counter-box h4 {
+  color: #ffffff !important;
+}
+
+.css-spa-center .item-text-wrapper,
+.css-spa-center .standard_hover .portfolio_overlay,
+.css-spa-center .overlay-animation-1 .overlay_box,
+.css-spa-center .overlay-animation-2 .overlay_box,
+.css-spa-center .flip-hover .flip-box .content-box,
+.css-spa-center .team-8 .team-image .overlay-team-box,
+.css-spa-center .team-9 .team-image .overlay-team-box,
+.css-spa-center .portfolio-animation-slide .sliding-content {
+  background-color: rgba(215, 193, 100, 0.9);
+}
+
+.css-spa-center .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-spa-center .team-2 .overlay-team-box,
+.css-spa-center .team-6 .overlay-team-box,
+.css-spa-center .team-7 .overlay-team-box,
+.css-spa-center .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-spa-center .contact-overlay-map .overlay-map-background,
+.css-spa-center .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-spa-center .table-style-7.table-withmaincolor tbody tr th,
+.css-spa-center .table-style-2.table-withmaincolor tbody tr,
+.css-spa-center .fc-bgevent,
+.css-spa-center #particles-js.background-1 {
+  background-color: rgba(215, 193, 100, 0.6) !important;
+}
+
+.css-spa-center .widget-dribbble-box .shots li a:hover:before, .css-spa-center .dribbble-box .shots li a:hover:before,
+.css-spa-center .instagram-widget a:hover:before {
+  background-color: rgba(215, 193, 100, 0.85);
+}
+.css-spa-center .form-contact-3 .btn-default.disabled, 
+.css-spa-center .form-contact-3 .btn-default.disabled.active, 
+.css-spa-center .form-contact-3 .btn-default.disabled.focus, .css-spa-center .form-contact-3 .btn-default.disabled:active, 
+.css-spa-center .form-contact-3 .btn-default.disabled:focus, .css-spa-center .form-contact-3 .btn-default.disabled:hover, 
+.css-spa-center .form-contact-3 .btn-default[disabled], .css-spa-center .form-contact-3 .btn-default[disabled].active, 
+.css-spa-center .form-contact-3 .btn-default[disabled].focus, .css-spa-center .form-contact-3 .btn-default[disabled]:active, 
+.css-spa-center .form-contact-3 .btn-default[disabled]:focus, .css-spa-center .form-contact-3 .btn-default[disabled]:hover, 
+.css-spa-center .form-contact-3 fieldset[disabled] .btn-default, 
+.css-spa-center .form-contact-3 fieldset[disabled] .btn-default.active, 
+.css-spa-center .form-contact-3 fieldset[disabled] .btn-default.focus, 
+.css-spa-center .form-contact-3 fieldset[disabled] .btn-default:active, 
+.css-spa-center .form-contact-3 fieldset[disabled] .btn-default:focus, 
+.css-spa-center .form-contact-3 fieldset[disabled] .btn-default:hover{
+  border-color: rgba(215, 193, 100, 0.85);
+}
+.css-spa-center .search-popup-box,
+.css-spa-center .scroll-to-top-fixed {
+  background-color: rgba(215, 193, 100, 0.95);
+}
+
+.css-spa-center .loader-3 {
+  border-top-color: rgba(215, 193, 100, 0.2);
+  border-right-color: rgba(215, 193, 100, 0.2);
+  border-bottom-color: rgba(215, 193, 100, 0.2);
+  border-left-color: #d7c164;
+}
+
+.css-spa-center .background-1 .testimonial-single .slick-dots li button:before,
+.css-spa-center .background-1 .slick-dots li button:before,
+.css-spa-center .background-2 .testimonial-single .slick-dots li button:before,
+.css-spa-center .background-2 .slick-dots li button:before,
+.css-spa-center .background-3 .testimonial-single .slick-dots li button:before,
+.css-spa-center .background-3 .slick-dots li button:before,
+.css-spa-center .white-dots .slick-dots li button:before,
+.css-spa-center .transparent-background .testimonial-single .slick-dots li button:before,
+.css-spa-center .transparent-background .slick-dots li button:before {
+  background-color: #ffffff !important;
+}
+
+.css-spa-center .background-1 .testimonial-single li.slick-active button:before,
+.css-spa-center .background-1 li.slick-active button:before,
+.css-spa-center .background-2 .testimonial-single li.slick-active button:before,
+.css-spa-center .background-2 li.slick-active button:before,
+.css-spa-center .background-3 .testimonial-single li.slick-active button:before,
+.css-spa-center .background-3 li.slick-active button:before,
+.css-spa-center .white-dots .slick-dots li.slick-active button:before {
+  background-color: transparent !important;
+  border-color: #ffffff !important;
+}
+
+.css-spa-center .icon-box.icon-fill:hover .icon-block,
+.css-spa-center .icon-box.icon-fill:hover .icon-block [class^="icon-"] {
+  background-color: transparent !important;
+}
+
+.css-spa-center .cart-shop-products h3, .css-spa-center .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-spa-center .cart-shop-products-list li .csp-price, .css-spa-center .sidebar-shop-products-list li .ssp-price,
+.css-spa-center .sidebar-shop-products-list li .shop-star-rating li.full-star, .css-spa-center .shop-list .shop-product .shop-star-rating li.full-star,
+.css-spa-center ul.shop-star-rating li.full-star {
+  color: #cb7365;
+}
+
+.css-spa-center .shop-list .shop-product .shop-ribbon, .css-spa-center .ui-slider-horizontal .ui-slider-range,
+.css-spa-center .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .css-spa-center .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+  background: #cb7365;
+}
+
+.css-spa-center .cs-description {
+    top: 0;
+}
+.css-spa-center h1.cs-desc-title{
+  font-size: 4em;
+  line-height: 1.1!important;
+  margin-bottom: 20px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+}
+
+.css-spa-center .loader-13 > div:last-child, 
+.css-spa-center .loader-15 > div:last-child {
+  border-color: #d7c164 transparent;
+}
+.css-spa-center .loader-36 > div{
+  background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #d7c164 30%, #d7c164 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #d7c164 30%, #d7c164 100%);
+}

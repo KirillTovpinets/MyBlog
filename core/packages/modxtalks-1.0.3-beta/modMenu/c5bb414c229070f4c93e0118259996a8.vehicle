@@ -1,0 +1,50 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'unique_key' => 'text',
+  'related_objects' => 
+  array (
+    'Action' => 
+    array (
+      '0d103b3b7bac6cf4305b4880aa69df72' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 
+        array (
+          0 => 'namespace',
+          1 => 'controller',
+        ),
+        'class' => 'modAction',
+        'object' => '{"id":1,"namespace":"modxtalks","controller":"index","haslayout":1,"lang_topics":"modxtalks:default","assets":"","help_url":"","parent":0}',
+        'guid' => 'c8e0290bde598a006912d9a59bb26d05',
+        'native_key' => 1,
+        'signature' => 'aaedbfbe93d395572e65ba956fccfae9',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Action' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 
+      array (
+        0 => 'namespace',
+        1 => 'controller',
+      ),
+    ),
+  ),
+  'namespace' => 'modxtalks',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4dbaa4ed33592ed21655343258a094d3',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'c5bb414c229070f4c93e0118259996a8',
+  'native_key' => 'modxtalks.blocking_email',
+  'object' => '{"text":"modxtalks.blocking_email","parent":"modxtalks","action":1,"description":"","icon":"images\\/icons\\/plugin.gif","menuindex":0,"params":"#modxTalks:email-blocking","handler":"","permissions":"","namespace":"core"}',
+);
